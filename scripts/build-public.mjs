@@ -58,7 +58,7 @@ const shellPath=path.join(pub,'index.html');
 const sourceShell=await fs.readFile(shellPath,'utf8');
 if(!sourceShell.includes('<base href="/mangasbaltigo/">'))throw new Error('GitHub Pages base marker is missing from index.html');
 await fs.writeFile(shellPath,sourceShell.replace('<base href="/mangasbaltigo/">',`<base href="${publicBasePath}">`),'utf8');
-if (authEnabled) {
+if (/^https:\/\//.test(publicApiOrigin)) {
   const shell=await fs.readFile(shellPath,'utf8');
   const apiOrigin=new URL(publicApiOrigin).origin;
   await fs.writeFile(shellPath,shell.replace("connect-src 'self'",`connect-src 'self' ${apiOrigin}`),'utf8');
