@@ -8,6 +8,9 @@ const routes = [
   '/api/miniapp/v1/catalog',
   '/api/miniapp/v1/reading',
   '/api/miniapp/v1/anime/:id',
+  '/api/mangaball/home',
+  '/api/mangaball/updates',
+  '/api/manga/:id/chapter',
 ];
 
 for (const route of routes) {
@@ -15,7 +18,9 @@ for (const route of routes) {
   assert.equal(matches, 1, `expected exactly one route for ${route}, got ${matches}`);
 }
 
-assert.match(source, /const miniappEnvelope=data=>\(\{ok:true,apiVersion:'1'/);
-assert.match(source, /const getHomePayload=async\(query=\{\}\)=>/);
+assert.match(source, /const miniappEnvelope=data=>\(\{ok:true,apiVersion:'1',source:'mangas-baltigo'/);
+assert.match(source, /const getHomePayload=async\(\)=>cacheRemember\('home:mangaball:v1'/);
+assert.match(source, /mangaBallChapterByInternalId/);
+assert.match(source, /ANIME_DISABLED/);
 
-console.log('Mini App API v1 contract: OK');
+console.log('Mangás Baltigo Mini App API v1 contract: OK');
