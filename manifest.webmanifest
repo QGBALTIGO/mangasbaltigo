@@ -1,23 +1,48 @@
 {
   "id": "./",
-  "name": "AniNexus",
-  "short_name": "AniNexus",
-  "description": "Acompanhe mangás e mangás, organize suas listas e descubra novidades.",
+  "name": "Mangás Baltigo",
+  "short_name": "Mangás Baltigo",
+  "description": "Descubra mangás, manhwas e manhuas, acompanhe capítulos e organize sua biblioteca de leitura.",
   "lang": "pt-BR",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#080608",
-  "theme_color": "#d32653",
-  "categories": ["entertainment", "social"],
+  "background_color": "#07090c",
+  "theme_color": "#22c8f6",
+  "categories": [
+    "entertainment",
+    "books"
+  ],
   "icons": [
-    { "src": "./assets/logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "./assets/logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+    {
+      "src": "./assets/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
   ],
   "shortcuts": [
-    { "name": "Programação", "short_name": "Programação", "url": "./?p=%2Fmangás%2Fprogramacao" },
-    { "name": "Temporadas", "short_name": "Temporadas", "url": "./?p=%2Fmangás%2Ftemporadas" },
-    { "name": "Notícias", "short_name": "Notícias", "url": "./?p=%2Fnoticias" }
+    {
+      "name": "Catálogo",
+      "short_name": "Catálogo",
+      "url": "./?p=%2Fmangas"
+    },
+    {
+      "name": "Atualizações",
+      "short_name": "Atualizações",
+      "url": "./?p=%2Fmangas%2Fatualizacoes"
+    },
+    {
+      "name": "Minha Biblioteca",
+      "short_name": "Biblioteca",
+      "url": "./?p=%2Fminha-biblioteca"
+    }
   ]
 }
