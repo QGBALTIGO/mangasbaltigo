@@ -43,7 +43,7 @@ for(const file of ['404.html','robots.txt','sitemap.xml','manifest.webmanifest',
   if(await exists(path.join(root,file)))await fs.copyFile(path.join(root,file),path.join(pub,file));
 }
 
-const publicSiteOrigin=String(process.env.PUBLIC_SITE_ORIGIN||'https://qgbaltigo.github.io/AniNexus').replace(/\/+$/,'');
+const publicSiteOrigin=String(process.env.PUBLIC_SITE_ORIGIN||'https://qgbaltigo.github.io/mangasbaltigo').replace(/\/+$/,'');
 const publicBasePath=String(process.env.PUBLIC_BASE_PATH||'/').trim();
 if(!/^\/(?:[A-Za-z0-9._~-]+\/)*$/.test(publicBasePath))throw new Error('PUBLIC_BASE_PATH must be an absolute directory path ending in /');
 const publicApiOrigin=String(process.env.PUBLIC_API_ORIGIN||'').replace(/\/+$/,'');
@@ -56,8 +56,8 @@ await fs.writeFile(path.join(pub,'runtime-config.js'),`window.__ANINEXUS_CONFIG_
 await fs.writeFile(path.join(pub,'clerk-localization-ptbr.json'),`${JSON.stringify(ptBR).replace(/</g,'\\u003c')}\n`,'utf8');
 const shellPath=path.join(pub,'index.html');
 const sourceShell=await fs.readFile(shellPath,'utf8');
-if(!sourceShell.includes('<base href="/AniNexus/">'))throw new Error('GitHub Pages base marker is missing from index.html');
-await fs.writeFile(shellPath,sourceShell.replace('<base href="/AniNexus/">',`<base href="${publicBasePath}">`),'utf8');
+if(!sourceShell.includes('<base href="/mangasbaltigo/">'))throw new Error('GitHub Pages base marker is missing from index.html');
+await fs.writeFile(shellPath,sourceShell.replace('<base href="/mangasbaltigo/">',`<base href="${publicBasePath}">`),'utf8');
 if (authEnabled) {
   const shell=await fs.readFile(shellPath,'utf8');
   const apiOrigin=new URL(publicApiOrigin).origin;
