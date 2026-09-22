@@ -3,7 +3,7 @@
  * No secret is ever valid or expected in this object. */
 window.__ANINEXUS_CONFIG__ = Object.freeze({
   environment: 'preview',
-  siteOrigin: 'https://qgbaltigo.github.io/AniNexus',
+  siteOrigin: 'https://qgbaltigo.github.io/mangasbaltigo',
   apiOrigin: '',
   clerkPublishableKey: '',
   authEnabled: false,
