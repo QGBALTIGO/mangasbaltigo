@@ -413,20 +413,11 @@ app.post('/api/webhooks/clerk',{config:{rawBody:true,rateLimit:{max:120,timeWind
   try{return await processClerkWebhook(req)}catch(error){req.log.warn({err:error},'clerk webhook rejected');return reply.code(400).send({error:'INVALID_WEBHOOK'})}
 });
 
-const getHomePayload=async(query={})=>{
-  const fallback=currentSeason(),season=['WINTER','SPRING','SUMMER','FALL'].includes(String(query?.season||''))?String(query.season):fallback.season,year=safeInt(query?.year,1960,2100)||fallback.year;
-  const now=Math.floor(Date.now()/1000),bucket=Math.floor(now/300),end=now+7*86400;
-  return cacheRemember(`home:v5:${season}:${year}:${bucket}`,60,async()=>{
-    const [seasonData,schedule,top,popular,reading,topReading,soon]=await Promise.all([
-      getCatalog({page:1,perPage:22,season,year,sort:'POPULAR'}).catch(()=>({items:[]})),getSchedule(now,end).catch(()=>[]),getCatalog({page:1,perPage:10,sort:'SCORE'}).catch(()=>({items:[]})),getCatalog({page:1,perPage:22,sort:'POPULAR'}).catch(()=>({items:[]})),getReading({page:1,perPage:18,sort:'POPULAR'}).catch(()=>({items:[]})),getReading({page:1,perPage:10,format:'MANGA',sort:'SCORE'}).catch(()=>({items:[]})),getCatalog({page:1,perPage:22,status:'NOT_YET_RELEASED',sort:'POPULAR'}).catch(()=>({items:[]}))
-    ]);
-    return{season:seasonData.items||[],schedule:(schedule||[]).slice(0,8),top:top.items||[],popular:popular.items||[],reading:reading.items||[],topReading:topReading.items||[],soon:soon.items||[]};
-  },{staleTtl:1800});
-};
+const getHomePayload=async()=>cacheRemember('home:mangaball:v1',600,async()=>{const home=await mangaBallHome();return{source:'MANGABALL',season:home.season||[],schedule:(home.updates||[]).slice(0,8).map((media,index)=>({airingAt:Math.floor(Date.now()/1000)-index,episode:media.latestChapter||null,media})),top:home.top||[],popular:home.top||[],reading:home.all||[],topReading:home.top||[],soon:home.recommended||[],updates:home.updates||[]}}, {staleTtl:86400});
 const miniappEnvelope=data=>({ok:true,apiVersion:'1',source:'aninexus',generatedAt:new Date().toISOString(),data});
 const miniappPublicRate={config:{rateLimit:{max:180,timeWindow:'1 minute',groupId:'miniapp-public'}}};
 
-app.get('/api/catalog',{...publicRate,config:{rateLimit:{max:100,timeWindow:'1 minute'}}},async req=>getCatalog(req.query||{}));
+app.get('/api/catalog',{...publicRate,config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async req=>mangaBallCatalog(req.query||{}));
 app.get('/api/home',publicRate,async req=>getHomePayload(req.query||{}));
 app.get('/api/reading',{...publicRate,config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async req=>mangaBallCatalog(req.query||{}));
 app.get('/api/mangaball/home',{...publicRate,config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async()=>mangaBallHome());
@@ -440,11 +431,11 @@ app.patch('/api/me/achievements/preferences',writeRate,async(req,reply)=>{const 
 
 app.get('/api/miniapp/v1/health',miniappPublicRate,async()=>miniappEnvelope({status:'ready',uptime:Math.round(process.uptime())}));
 app.get('/api/miniapp/v1/home',miniappPublicRate,async req=>miniappEnvelope(await getHomePayload(req.query||{})));
-app.get('/api/miniapp/v1/catalog',miniappPublicRate,async req=>miniappEnvelope(await getCatalog(req.query||{})));
-app.get('/api/miniapp/v1/reading',miniappPublicRate,async req=>miniappEnvelope(await getReading(req.query||{})));
-app.get('/api/miniapp/v1/anime/:id',miniappPublicRate,async(req,reply)=>{const id=safeInt(req.params.id);if(!id)return reply.code(400).send({ok:false,apiVersion:'1',error:'INVALID_ID'});return miniappEnvelope(await getAnime(id));});
-app.get('/api/schedule',{config:{rateLimit:{max:100,timeWindow:'1 minute'}}},async(req,reply)=>{const now=Math.floor(Date.now()/1000),start=Number(req.query?.start||now-86400),end=Number(req.query?.end||now+7*86400);if(!Number.isFinite(start)||!Number.isFinite(end)||end<=start||end-start>10*86400)return reply.code(400).send({error:'INVALID_RANGE'});return getSchedule(start,end);});
-app.get('/api/anime/:id',{config:{rateLimit:{max:120,timeWindow:'1 minute'}}},async(req,reply)=>{const id=safeInt(req.params.id);if(!id)return reply.code(400).send({error:'INVALID_ID'});return getAnime(id);});
+app.get('/api/miniapp/v1/catalog',miniappPublicRate,async req=>miniappEnvelope(await mangaBallCatalog(req.query||{})));
+app.get('/api/miniapp/v1/reading',miniappPublicRate,async req=>miniappEnvelope(await mangaBallCatalog(req.query||{})));
+app.get('/api/miniapp/v1/anime/:id',miniappPublicRate,async(_req,reply)=>reply.code(410).send({ok:false,apiVersion:'1',error:'ANIME_DISABLED'}));
+app.get('/api/schedule',{config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async req=>{const data=await mangaBallUpdates({page:1,perPage:30,...(req.query||{})});const now=Math.floor(Date.now()/1000);return(data.items||[]).map((media,index)=>({airingAt:now-index,episode:media.latestChapter||null,media}))});
+app.get('/api/anime/:id',{config:{rateLimit:{max:30,timeWindow:'1 minute'}}},async(_req,reply)=>reply.code(410).send({error:'ANIME_DISABLED'}));
 async function mediaActivitySummary(id,mediaType){
   const table=mediaType==='MANGA'?'user_manga':'user_anime';
   const visible=`u.deleted_at IS NULL AND u.status='active' AND u.privacy='public' AND u.show_library IS DISTINCT FROM false AND u.show_stats IS DISTINCT FROM false`;
