@@ -6,4 +6,4 @@ Disallow: /*p=%2Fmeus-mangas
 Disallow: /*p=%2Fminha-biblioteca
 Disallow: /*p=%2Flogin
 Disallow: /*p=%2Fcriar-conta
-Sitemap: https://qgbaltigo.github.io/AniNexus/sitemap.xml
+Sitemap: https://qgbaltigo.github.io/mangasbaltigo/sitemap.xml
