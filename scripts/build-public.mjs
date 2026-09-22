@@ -43,7 +43,7 @@ for(const file of ['404.html','robots.txt','sitemap.xml','manifest.webmanifest',
   if(await exists(path.join(root,file)))await fs.copyFile(path.join(root,file),path.join(pub,file));
 }
 
-const publicSiteOrigin=String(process.env.PUBLIC_SITE_ORIGIN||'https://qgbaltigo.github.io/AniNexus').replace(/\/+$/,'');
+const publicSiteOrigin=String(process.env.PUBLIC_SITE_ORIGIN||'https://qgbaltigo.github.io/mangasbaltigo').replace(/\/+$/,'');
 const publicBasePath=String(process.env.PUBLIC_BASE_PATH||'/').trim();
 if(!/^\/(?:[A-Za-z0-9._~-]+\/)*$/.test(publicBasePath))throw new Error('PUBLIC_BASE_PATH must be an absolute directory path ending in /');
 const publicApiOrigin=String(process.env.PUBLIC_API_ORIGIN||'').replace(/\/+$/,'');

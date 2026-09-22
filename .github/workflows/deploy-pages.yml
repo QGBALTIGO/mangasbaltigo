@@ -1,4 +1,4 @@
-name: Deploy AniNexus no GitHub Pages
+name: Deploy Mangás Baltigo no GitHub Pages
 
 on:
   push:
@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: aninexus-github-pages
+  group: mangas-baltigo-github-pages
   cancel-in-progress: false
 
 jobs:
@@ -42,8 +42,8 @@ jobs:
       - name: Montar publicação segura
         env:
           NODE_ENV: production
-          PUBLIC_SITE_ORIGIN: https://qgbaltigo.github.io/AniNexus
-          PUBLIC_BASE_PATH: /AniNexus/
+          PUBLIC_SITE_ORIGIN: https://qgbaltigo.github.io/mangasbaltigo
+          PUBLIC_BASE_PATH: /mangasbaltigo/
           PUBLIC_API_ORIGIN: ${{ vars.PUBLIC_API_ORIGIN }}
           PUBLIC_CLERK_PUBLISHABLE_KEY: ${{ vars.PUBLIC_CLERK_PUBLISHABLE_KEY }}
           PUBLIC_AUTH_ENABLED: ${{ vars.PUBLIC_AUTH_ENABLED || 'false' }}

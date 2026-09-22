@@ -1,4 +1,4 @@
-name: AniNexus quality
+name: Mangás Baltigo quality
 
 on:
   push:
@@ -112,6 +112,7 @@ jobs:
           trap 'docker rm -f "$CID" >/dev/null 2>&1 || true' EXIT
           docker cp "$CID:/app/public/index.html" /tmp/aninexus-index.html
           grep -q '2026-09-14-v44.57.1' /tmp/aninexus-index.html
+          grep -q '2026-09-22-v62.0.0' /tmp/aninexus-index.html
           for FILE in \
             preview-v22/detail-stable-v22.js \
             preview-v38/admin-v38.js \
@@ -144,7 +145,9 @@ jobs:
             preview-v44/discovery-v47.js \
             preview-v44/lists-v48.css \
             preview-v44/lists-v48.js \
-            preview-v44/public-profile-v57.css; do
+            preview-v44/public-profile-v57.css \
+            preview-v62/mangas-baltigo-v62.css \
+            preview-v62/mangas-baltigo-v62.js; do
             OUT="/tmp/$(basename "$FILE")"
             docker cp "$CID:/app/public/$FILE" "$OUT"
             test -s "$OUT"
@@ -176,30 +179,28 @@ jobs:
           pnpm exec playwright install --with-deps "${{ matrix.project }}"
       - name: Map GitHub Pages hostname locally
         run: echo "127.0.0.1 qgbaltigo.github.io" | sudo tee -a /etc/hosts
-      - name: Browser E2E — desktop and mobile
+      - name: Browser E2E — Mangás Baltigo desktop and mobile
         env:
-          ANINEXUS_E2E_ORIGIN: http://qgbaltigo.github.io:4173/AniNexus/
+          ANINEXUS_E2E_ORIGIN: http://qgbaltigo.github.io:4173/mangasbaltigo/
           BROWSER_PROJECT: ${{ matrix.project }}
+          PUBLIC_SITE_ORIGIN: http://qgbaltigo.github.io:4173/mangasbaltigo
+          PUBLIC_BASE_PATH: /mangasbaltigo/
+          PUBLIC_AUTH_ENABLED: 'false'
         run: |
+          pnpm run build:public
           rm -rf /tmp/aninexus-e2e-root
-          mkdir -p /tmp/aninexus-e2e-root/AniNexus
-          rsync -a --exclude '.git' --exclude 'node_modules' ./ /tmp/aninexus-e2e-root/AniNexus/
-          sed -i 's/; upgrade-insecure-requests//' /tmp/aninexus-e2e-root/AniNexus/index.html
+          mkdir -p /tmp/aninexus-e2e-root/mangasbaltigo
+          rsync -a public/ /tmp/aninexus-e2e-root/mangasbaltigo/
+          sed -i 's/; upgrade-insecure-requests//' /tmp/aninexus-e2e-root/mangasbaltigo/index.html
           (cd /tmp/aninexus-e2e-root && python3 -m http.server 4173 > /tmp/aninexus-http.log 2>&1) &
           SERVER_PID=$!
           trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
           for i in {1..20}; do
-            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/AniNexus/ >/dev/null; then break; fi
+            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/mangasbaltigo/ >/dev/null; then break; fi
             if [ "$i" = "20" ]; then cat /tmp/aninexus-http.log; exit 1; fi
             sleep 1
           done
-          HEAVY_TEST='Catalog mobile menu exposes a complete Top 100 and a full search bar'
-          pnpm exec playwright test tests/e2e.spec.mjs tests/accessibility.spec.mjs tests/media-actions.spec.mjs tests/community-overview.spec.mjs \
-            --project="$BROWSER_PROJECT" --grep-invert "$HEAVY_TEST" --reporter=line --timeout=60000 --retries=1
-          if [ "$BROWSER_PROJECT" != "webkit" ]; then
-            pnpm exec playwright test tests/e2e.spec.mjs --grep "$HEAVY_TEST" \
-              --project="$BROWSER_PROJECT" --reporter=line --timeout=60000 --retries=1
-          fi
+          pnpm exec playwright test tests/mangas-baltigo.spec.mjs --project="$BROWSER_PROJECT" --reporter=line --timeout=60000 --retries=1
       - name: Show static server log on failure
         if: failure()
         run: cat /tmp/aninexus-http.log || true
@@ -233,23 +234,27 @@ jobs:
           pnpm exec playwright install --with-deps webkit
       - name: Map GitHub Pages hostname locally
         run: echo "127.0.0.1 qgbaltigo.github.io" | sudo tee -a /etc/hosts
-      - name: Top 100 mobile on WebKit
+      - name: Mobile Mangás Baltigo on WebKit
         env:
-          ANINEXUS_E2E_ORIGIN: http://qgbaltigo.github.io:4173/AniNexus/
+          ANINEXUS_E2E_ORIGIN: http://qgbaltigo.github.io:4173/mangasbaltigo/
+          PUBLIC_SITE_ORIGIN: http://qgbaltigo.github.io:4173/mangasbaltigo
+          PUBLIC_BASE_PATH: /mangasbaltigo/
+          PUBLIC_AUTH_ENABLED: 'false'
         run: |
+          pnpm run build:public
           rm -rf /tmp/aninexus-e2e-root
-          mkdir -p /tmp/aninexus-e2e-root/AniNexus
-          rsync -a --exclude '.git' --exclude 'node_modules' ./ /tmp/aninexus-e2e-root/AniNexus/
-          sed -i 's/; upgrade-insecure-requests//' /tmp/aninexus-e2e-root/AniNexus/index.html
+          mkdir -p /tmp/aninexus-e2e-root/mangasbaltigo
+          rsync -a public/ /tmp/aninexus-e2e-root/mangasbaltigo/
+          sed -i 's/; upgrade-insecure-requests//' /tmp/aninexus-e2e-root/mangasbaltigo/index.html
           (cd /tmp/aninexus-e2e-root && python3 -m http.server 4173 > /tmp/aninexus-webkit-http.log 2>&1) &
           SERVER_PID=$!
           trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
           for i in {1..20}; do
-            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/AniNexus/ >/dev/null; then break; fi
+            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/mangasbaltigo/ >/dev/null; then break; fi
             if [ "$i" = "20" ]; then cat /tmp/aninexus-webkit-http.log; exit 1; fi
             sleep 1
           done
-          pnpm exec playwright test tests/e2e.spec.mjs --grep 'Catalog mobile menu exposes a complete Top 100 and a full search bar' --project=webkit --reporter=line --timeout=60000 --retries=1
+          pnpm exec playwright test tests/mangas-baltigo.spec.mjs --grep 'mobile navigation' --project=webkit --reporter=line --timeout=60000 --retries=1
       - name: Show static server log on failure
         if: failure()
         run: cat /tmp/aninexus-webkit-http.log || true

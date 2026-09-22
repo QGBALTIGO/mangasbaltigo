@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Mangás Baltigo">
+  <defs><linearGradient id="g" x1="64" y1="40" x2="448" y2="472" gradientUnits="userSpaceOnUse"><stop stop-color="#ff5068"/><stop offset=".55" stop-color="#df2847"/><stop offset="1" stop-color="#941028"/></linearGradient></defs>
+  <rect width="512" height="512" rx="112" fill="#090a0d"/>
+  <rect x="54" y="54" width="404" height="404" rx="92" fill="url(#g)"/>
+  <path d="M166 131h112c71 0 111 31 111 82 0 35-20 60-55 72 42 10 65 38 65 79 0 59-45 94-124 94H166V131Zm92 126c38 0 57-13 57-39 0-24-18-36-54-36h-25v75h22Zm11 149c40 0 60-15 60-44 0-28-20-42-61-42h-32v86h33Z" fill="#fff"/>
+  <path d="M126 137v238c0 28 17 45 45 45" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round" opacity=".72"/>
+</svg>
