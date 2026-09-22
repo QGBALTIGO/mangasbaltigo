@@ -1,9 +1,6 @@
-name: Configurar domínio AniNexus
+name: Configurar domínio legado AniNexus (manual)
 
 on:
-  workflow_run:
-    workflows: [Deploy AniNexus na VPS]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -15,9 +12,6 @@ concurrency:
 
 jobs:
   configure:
-    if: >-
-      github.event_name == 'workflow_dispatch' ||
-      (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main')
     runs-on: ubuntu-latest
     timeout-minutes: 15
     environment: production
