@@ -414,7 +414,7 @@ app.post('/api/webhooks/clerk',{config:{rawBody:true,rateLimit:{max:120,timeWind
 });
 
 const getHomePayload=async()=>cacheRemember('home:mangaball:v1',600,async()=>{const home=await mangaBallHome();return{source:'MANGABALL',season:home.season||[],schedule:(home.updates||[]).slice(0,8).map((media,index)=>({airingAt:Math.floor(Date.now()/1000)-index,episode:media.latestChapter||null,media})),top:home.top||[],popular:home.top||[],reading:home.all||[],topReading:home.top||[],soon:home.recommended||[],updates:home.updates||[]}}, {staleTtl:86400});
-const miniappEnvelope=data=>({ok:true,apiVersion:'1',source:'aninexus',generatedAt:new Date().toISOString(),data});
+const miniappEnvelope=data=>({ok:true,apiVersion:'1',source:'mangas-baltigo',generatedAt:new Date().toISOString(),data});
 const miniappPublicRate={config:{rateLimit:{max:180,timeWindow:'1 minute',groupId:'miniapp-public'}}};
 
 app.get('/api/catalog',{...publicRate,config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async req=>mangaBallCatalog(req.query||{}));
