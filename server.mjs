@@ -32,6 +32,7 @@ import { registerSocialRoutes } from './lib/social-routes.mjs';
 import { socialBodyPayload } from './lib/social.mjs';
 import { buildAniListImportXml, fetchAniListEntries, usernameModerationReason } from './lib/profile-settings.mjs';
 import { registerListImportRoutes, importListRows as importAniListRows } from './lib/list-import-routes.mjs';
+import { mangaBallCatalog, mangaBallUpdates, mangaBallDetailByInternalId, mangaBallHome } from './lib/mangaball-provider.mjs';
 
 const __dirname=path.dirname(fileURLToPath(import.meta.url));
 const PROFILE_MEDIA_DIR=path.resolve(process.env.PROFILE_MEDIA_DIR||path.join(__dirname,'profile-media'));
@@ -427,7 +428,9 @@ const miniappPublicRate={config:{rateLimit:{max:180,timeWindow:'1 minute',groupI
 
 app.get('/api/catalog',{...publicRate,config:{rateLimit:{max:100,timeWindow:'1 minute'}}},async req=>getCatalog(req.query||{}));
 app.get('/api/home',publicRate,async req=>getHomePayload(req.query||{}));
-app.get('/api/reading',{...publicRate,config:{rateLimit:{max:100,timeWindow:'1 minute'}}},async req=>getReading(req.query||{}));
+app.get('/api/reading',{...publicRate,config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async req=>mangaBallCatalog(req.query||{}));
+app.get('/api/mangaball/home',{...publicRate,config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async()=>mangaBallHome());
+app.get('/api/mangaball/updates',{...publicRate,config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async req=>mangaBallUpdates(req.query||{}));
 app.get('/api/characters/ranking',publicRate,async()=>getCharacterRanking(10));
 app.get('/api/achievements/catalog',publicRate,async()=>{const items=achievementCatalog();return{total:items.length,items}});
 app.get('/api/achievements/feed',publicRate,async req=>({items:await getAchievementFeed(req.query?.limit)}));
@@ -459,7 +462,7 @@ app.get('/api/anime/:id/rating',publicRate,async(req,reply)=>{const id=safeInt(r
 app.get('/api/manga/:id/rating',publicRate,async(req,reply)=>{const id=safeInt(req.params.id);if(!id)return reply.code(400).send({error:'INVALID_ID'});const {rows}=await q(`SELECT round(avg(score)::numeric,1) score,count(score)::int votes FROM user_manga WHERE media_id=$1 AND score IS NOT NULL`,[id]);return{score:rows[0]?.score==null?null:Number(rows[0].score),votes:Number(rows[0]?.votes||0)};});
 app.get('/api/anime/:id/themes',{config:{rateLimit:{max:120,timeWindow:'1 minute'}}},async(req,reply)=>{const id=safeInt(req.params.id);if(!id)return reply.code(400).send({error:'INVALID_ID'});return getAnimeThemes(id);});
 app.get('/api/media/summaries',{config:{rateLimit:{max:120,timeWindow:'1 minute'}}},async(req,reply)=>{const raw=String(req.query?.ids||'').split(',').slice(0,60),ids=raw.map(value=>safeInt(value)).filter(Boolean),mediaType=String(req.query?.mediaType||'MANGA').toUpperCase()==='MANGA'?'MANGA':'ANIME';if(!ids.length)return reply.code(400).send({error:'INVALID_IDS'});return{items:await getMediaSummaries(ids,mediaType)}});
-app.get('/api/manga/:id',{config:{rateLimit:{max:120,timeWindow:'1 minute'}}},async(req,reply)=>{const id=safeInt(req.params.id);if(!id)return reply.code(400).send({error:'INVALID_ID'});return getManga(id);});
+app.get('/api/manga/:id',{config:{rateLimit:{max:60,timeWindow:'1 minute'}}},async(req,reply)=>{const id=safeInt(req.params.id);if(!id)return reply.code(400).send({error:'INVALID_ID'});try{return await mangaBallDetailByInternalId(id)}catch(error){req.log.warn({err:error,id},'mangaball detail failed');return reply.code(404).send({error:'MANGABALL_TITLE_NOT_FOUND'})}});
 app.get('/api/manga/:id/activity',publicRate,async(req,reply)=>{const id=safeInt(req.params.id);if(!id)return reply.code(400).send({error:'INVALID_ID'});return mediaActivitySummary(id,'MANGA');});
 app.get('/api/synopsis/:type/:id',{config:{rateLimit:{max:90,timeWindow:'1 minute'}}},async(req,reply)=>{
   const id=safeInt(req.params.id),type=String(req.params.type||'').toLowerCase();
