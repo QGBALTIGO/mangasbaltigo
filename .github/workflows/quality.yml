@@ -1,4 +1,4 @@
-name: AniNexus quality
+name: Mangás Baltigo quality
 
 on:
   push:
@@ -134,6 +134,8 @@ jobs:
             preview-v42/manga-v42.js \
             preview-v42/header-v43.css \
             preview-v42/header-v43.js \
+            preview-v42/mangas-baltigo-v62.css \
+            preview-v42/mangas-baltigo-v62.js \
             preview-v44/avatar-v44.js \
             preview-v44/achievements-v44.css \
             preview-v44/achievements-v44.js \
@@ -150,9 +152,10 @@ jobs:
             test -s "$OUT"
           done
 
+
   browser-e2e:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 25
     strategy:
       fail-fast: false
       matrix:
@@ -176,80 +179,30 @@ jobs:
           pnpm exec playwright install --with-deps "${{ matrix.project }}"
       - name: Map GitHub Pages hostname locally
         run: echo "127.0.0.1 qgbaltigo.github.io" | sudo tee -a /etc/hosts
-      - name: Browser E2E — desktop and mobile
+      - name: Mangás Baltigo browser E2E
         env:
-          ANINEXUS_E2E_ORIGIN: http://qgbaltigo.github.io:4173/AniNexus/
-          BROWSER_PROJECT: ${{ matrix.project }}
+          MANGAS_BALTIGO_E2E_ORIGIN: http://qgbaltigo.github.io:4173/mangasbaltigo/
         run: |
-          rm -rf /tmp/aninexus-e2e-root
-          mkdir -p /tmp/aninexus-e2e-root/AniNexus
-          rsync -a --exclude '.git' --exclude 'node_modules' ./ /tmp/aninexus-e2e-root/AniNexus/
-          sed -i 's/; upgrade-insecure-requests//' /tmp/aninexus-e2e-root/AniNexus/index.html
-          (cd /tmp/aninexus-e2e-root && python3 -m http.server 4173 > /tmp/aninexus-http.log 2>&1) &
+          rm -rf /tmp/mangas-baltigo-e2e-root
+          mkdir -p /tmp/mangas-baltigo-e2e-root/mangasbaltigo
+          rsync -a --exclude '.git' --exclude 'node_modules' ./ /tmp/mangas-baltigo-e2e-root/mangasbaltigo/
+          sed -i 's/; upgrade-insecure-requests//' /tmp/mangas-baltigo-e2e-root/mangasbaltigo/index.html
+          (cd /tmp/mangas-baltigo-e2e-root && python3 -m http.server 4173 > /tmp/mangas-baltigo-http.log 2>&1) &
           SERVER_PID=$!
           trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
           for i in {1..20}; do
-            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/AniNexus/ >/dev/null; then break; fi
-            if [ "$i" = "20" ]; then cat /tmp/aninexus-http.log; exit 1; fi
+            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/mangasbaltigo/ >/dev/null; then break; fi
+            if [ "$i" = "20" ]; then cat /tmp/mangas-baltigo-http.log; exit 1; fi
             sleep 1
           done
-          HEAVY_TEST='Catalog mobile menu exposes a complete Top 100 and a full search bar'
-          pnpm exec playwright test tests/e2e.spec.mjs tests/accessibility.spec.mjs tests/media-actions.spec.mjs tests/community-overview.spec.mjs \
-            --project="$BROWSER_PROJECT" --grep-invert "$HEAVY_TEST" --reporter=line --timeout=60000 --retries=1
-          if [ "$BROWSER_PROJECT" != "webkit" ]; then
-            pnpm exec playwright test tests/e2e.spec.mjs --grep "$HEAVY_TEST" \
-              --project="$BROWSER_PROJECT" --reporter=line --timeout=60000 --retries=1
-          fi
+          pnpm exec playwright test tests/mangas-baltigo.spec.mjs --project="${{ matrix.project }}" --reporter=line --timeout=60000 --retries=1
       - name: Show static server log on failure
         if: failure()
-        run: cat /tmp/aninexus-http.log || true
+        run: cat /tmp/mangas-baltigo-http.log || true
       - name: Preserve browser failure evidence
         if: failure()
         uses: actions/upload-artifact@v4
         with:
-          name: browser-failure-${{ matrix.project }}
+          name: mangas-baltigo-browser-failure-${{ matrix.project }}
           path: test-results/
           retention-days: 3
-
-  catalog-webkit:
-    runs-on: ubuntu-latest
-    timeout-minutes: 12
-    steps:
-      - uses: actions/checkout@v6
-      - uses: pnpm/action-setup@v4
-        with:
-          version: 11.19.0
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: pnpm
-      - name: Install project dependencies
-        run: pnpm install --frozen-lockfile --ignore-scripts
-      - name: Install WebKit test runner
-        run: |
-          while IFS= read -r SOURCE_FILE; do
-            sudo mv "$SOURCE_FILE" "/tmp/$(basename "$SOURCE_FILE").disabled"
-          done < <(grep -rl 'dl.google.com/linux/chrome-stable' /etc/apt/sources.list.d || true)
-          pnpm exec playwright install --with-deps webkit
-      - name: Map GitHub Pages hostname locally
-        run: echo "127.0.0.1 qgbaltigo.github.io" | sudo tee -a /etc/hosts
-      - name: Top 100 mobile on WebKit
-        env:
-          ANINEXUS_E2E_ORIGIN: http://qgbaltigo.github.io:4173/AniNexus/
-        run: |
-          rm -rf /tmp/aninexus-e2e-root
-          mkdir -p /tmp/aninexus-e2e-root/AniNexus
-          rsync -a --exclude '.git' --exclude 'node_modules' ./ /tmp/aninexus-e2e-root/AniNexus/
-          sed -i 's/; upgrade-insecure-requests//' /tmp/aninexus-e2e-root/AniNexus/index.html
-          (cd /tmp/aninexus-e2e-root && python3 -m http.server 4173 > /tmp/aninexus-webkit-http.log 2>&1) &
-          SERVER_PID=$!
-          trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
-          for i in {1..20}; do
-            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/AniNexus/ >/dev/null; then break; fi
-            if [ "$i" = "20" ]; then cat /tmp/aninexus-webkit-http.log; exit 1; fi
-            sleep 1
-          done
-          pnpm exec playwright test tests/e2e.spec.mjs --grep 'Catalog mobile menu exposes a complete Top 100 and a full search bar' --project=webkit --reporter=line --timeout=60000 --retries=1
-      - name: Show static server log on failure
-        if: failure()
-        run: cat /tmp/aninexus-webkit-http.log || true
