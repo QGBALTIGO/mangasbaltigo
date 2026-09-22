@@ -2,7 +2,7 @@
   "id": "./",
   "name": "AniNexus",
   "short_name": "AniNexus",
-  "description": "Acompanhe animes e mangás, organize suas listas e descubra novidades.",
+  "description": "Acompanhe mangás e mangás, organize suas listas e descubra novidades.",
   "lang": "pt-BR",
   "start_url": "./",
   "scope": "./",
@@ -16,8 +16,8 @@
     { "src": "./assets/logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
   ],
   "shortcuts": [
-    { "name": "Programação", "short_name": "Programação", "url": "./?p=%2Fanimes%2Fprogramacao" },
-    { "name": "Temporadas", "short_name": "Temporadas", "url": "./?p=%2Fanimes%2Ftemporadas" },
+    { "name": "Programação", "short_name": "Programação", "url": "./?p=%2Fmangás%2Fprogramacao" },
+    { "name": "Temporadas", "short_name": "Temporadas", "url": "./?p=%2Fmangás%2Ftemporadas" },
     { "name": "Notícias", "short_name": "Notícias", "url": "./?p=%2Fnoticias" }
   ]
 }
