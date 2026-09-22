@@ -1,0 +1,212 @@
+'use strict';
+(() => {
+  const root=document.querySelector('#app');
+  if(!root)return;
+  const API='https://graphql.anilist.co';
+  const JIKAN='https://api.jikan.moe/v4';
+  const ANIMETHEMES='https://api.animethemes.moe';
+  const IS_PAGES=location.hostname.endsWith('github.io');
+  const BASE=IS_PAGES?'/AniNexus':'';
+  const CACHE_TTL=20*60*1000;
+  const THEMES_CACHE_TTL=6*60*60*1000;
+  const themeRequests=new Map();
+  let activeId=0,painting=false,observerRaf=0;
+
+  const SVG={
+    back:'<svg viewBox="0 0 24 24"><path d="m15 5-7 7 7 7"/></svg>',
+    plus:'<svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>',
+    heart:'<svg viewBox="0 0 24 24"><path d="M20.5 8.8c0 5-8.5 10-8.5 10s-8.5-5-8.5-10A4.6 4.6 0 0 1 12 6.4a4.6 4.6 0 0 1 8.5 2.4Z"/></svg>',
+    star:'<svg viewBox="0 0 24 24"><path d="m12 3 2.8 5.5 6.1.9-4.4 4.3 1 6.1-5.5-2.9-5.5 2.9 1-6.1-4.4-4.3 6.1-.9L12 3Z"/></svg>',
+    play:'<svg viewBox="0 0 24 24"><path d="m9 6 9 6-9 6V6Z"/></svg>',
+    clock:'<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></svg>',
+    external:'<svg viewBox="0 0 24 24"><path d="M13 5h6v6M19 5l-8 8"/><path d="M11 7H5v12h12v-6"/></svg>',
+    share:'<svg viewBox="0 0 24 24"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.5-4.4M8.2 13.2l7.5 4.4"/></svg>'
+  };
+  const FORMAT={TV:'Série',TV_SHORT:'Série curta',MOVIE:'Filme',OVA:'OVA',ONA:'ONA',SPECIAL:'Especial',MUSIC:'Música'};
+  const STATUS={RELEASING:'Em exibição',FINISHED:'Finalizado',NOT_YET_RELEASED:'Ainda não lançado',HIATUS:'Em hiato',CANCELLED:'Cancelado'};
+  const SOURCE={MANGA:'Mangá',LIGHT_NOVEL:'Light novel',ORIGINAL:'Original',NOVEL:'Novel',GAME:'Jogo',VISUAL_NOVEL:'Visual novel',WEB_NOVEL:'Web novel',OTHER:'Outra mídia'};
+  const SEASON={WINTER:'Inverno',SPRING:'Primavera',SUMMER:'Verão',FALL:'Outono'};
+  const COUNTRY={JP:'Japão',KR:'Coreia do Sul',CN:'China',TW:'Taiwan',US:'Estados Unidos',FR:'França'};
+  const GENRE={Action:'Ação',Adventure:'Aventura',Comedy:'Comédia',Drama:'Drama',Fantasy:'Fantasia',Horror:'Terror',Mystery:'Mistério',Romance:'Romance','Sci-Fi':'Ficção Científica','Slice of Life':'Cotidiano',Sports:'Esportes',Supernatural:'Sobrenatural',Thriller:'Suspense',Psychological:'Psicológico',Music:'Música',Mecha:'Mecha'};
+  const REL={ADAPTATION:'Adaptação',PREQUEL:'Prequela',SEQUEL:'Sequência',PARENT:'Obra principal',SIDE_STORY:'História paralela',SUMMARY:'Resumo',ALTERNATIVE:'Alternativa',SPIN_OFF:'Spin-off',SOURCE:'Fonte',COMPILATION:'Compilação',CONTAINS:'Contém',OTHER:'Relacionado'};
+  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const strip=v=>{const d=document.createElement('div');d.innerHTML=String(v||'');return(d.textContent||'').replace(/\s+/g,' ').trim()};
+  const title=m=>m?.title?.english||m?.title?.userPreferred||m?.title?.romaji||m?.title?.native||'Anime';
+  const image=m=>m?.coverImage?.extraLarge||m?.coverImage?.large||`${BASE}/assets/logo.png`;
+  const banner=m=>m?.bannerImage||image(m);
+  const score=m=>m?.averageScore?String((m.averageScore/10).toFixed(1)).replace('.0',''):'—';
+  const compact=n=>n?new Intl.NumberFormat('pt-BR',{notation:'compact',maximumFractionDigits:1}).format(Number(n)):'—';
+
+  function routePath(){try{const u=new URL(location.href),p=u.searchParams.get('p');if(p)return p.split('?')[0].replace(/\/+$/,'')||'/';let x=u.pathname;if(IS_PAGES)x=x.replace(/^\/AniNexus/,'')||'/';return x.replace(/\/+$/,'')||'/'}catch{return'/'}}
+  function animeId(){const m=routePath().match(/^\/anime\/.+-(\d+)$/);return m?Number(m[1]):0}
+  function activate(id){activeId=id;document.body.classList.add('nx22-detail-active');document.body.classList.remove('nx22-news-active','nx-detail-active','nx-season-active','season-v7-active','season-v8-active');root.dataset.nx22DetailId=String(id);document.querySelectorAll('[data-nav]').forEach(a=>a.classList.toggle('active',a.dataset.nav==='anime'))}
+  function deactivate(){document.body.classList.remove('nx22-detail-active');delete root.dataset.nx22DetailId;activeId=0}
+  function fmtDate(d){if(!d?.year)return'—';const x=new Date(Date.UTC(Number(d.year),Math.max(0,Number(d.month||1)-1),Number(d.day||1),12));return new Intl.DateTimeFormat('pt-BR',{day:d.day?'2-digit':undefined,month:d.month?'long':undefined,year:'numeric',timeZone:'UTC'}).format(x)}
+  function fmtUntil(ts){const ms=Number(ts||0)*1000-Date.now();if(ms<=0)return'Em instantes';const d=Math.floor(ms/864e5),h=Math.floor(ms%864e5/36e5),m=Math.floor(ms%36e5/6e4);return d?`${d}d ${h}h ${m}min`:`${h}h ${m}min`}
+  function slug(s='anime'){return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,80)||'anime'}
+  function pathTo(m){return `/anime/${slug(title(m))}-${m.id}`}
+  function openAnime(m){const p=pathTo(m);if(IS_PAGES)location.href=`${BASE}/?build=40.2.0&p=${encodeURIComponent(p)}`;else if(!window.AniNexusGo?.(p))location.assign(p)}
+
+  async function gql(q,v){const r=await fetch(API,{method:'POST',headers:{'content-type':'application/json','accept':'application/json'},body:JSON.stringify({query:q,variables:v})});if(!r.ok)throw new Error(`Falha ao consultar o catálogo (${r.status})`);const j=await r.json();if(j.errors?.length)throw new Error(j.errors[0]?.message||'Falha ao consultar o anime');return j.data}
+  const CORE=`id idMal title{romaji english native userPreferred} synonyms coverImage{extraLarge large color} bannerImage description genres tags{name rank isMediaSpoiler} averageScore meanScore popularity favourites episodes duration format status season seasonYear countryOfOrigin source startDate{year month day} endDate{year month day} studios(isMain:true){nodes{id name}} nextAiringEpisode{airingAt episode timeUntilAiring} trailer{id site thumbnail} externalLinks{site url type icon color}`;
+  async function fetchCore(id){const q=`query($id:Int){Media(id:$id,type:ANIME){${CORE}}}`;const d=await gql(q,{id});if(!d?.Media)throw new Error('Anime não encontrado');return d.Media}
+  async function fetchExtras(id){const q=`query($id:Int){Media(id:$id,type:ANIME){characters(perPage:14){edges{role node{id name{full native} image{large medium}}}} staff(perPage:12){edges{role node{id name{full native} image{large medium}}}} relations{edges{relationType node{id type format status seasonYear averageScore title{romaji english native userPreferred} coverImage{extraLarge large}}}} recommendations(perPage:8){nodes{rating mediaRecommendation{id type format status seasonYear averageScore title{romaji english native userPreferred} coverImage{extraLarge large}}}}}}`;try{return(await gql(q,{id}))?.Media||{}}catch{return{}}}
+  async function fetchJikan(id){if(!id)return null;try{const r=await fetch(`${JIKAN}/anime/${id}/full`,{headers:{accept:'application/json'}});if(!r.ok)return null;return(await r.json())?.data||null}catch{return null}}
+  function cacheRead(id){try{const x=JSON.parse(sessionStorage.getItem(`nx22s:detail:${id}`)||'null');if(x&&Date.now()-x.t<CACHE_TTL&&x.data?.id)return x.data}catch{}return null}
+  function cacheWrite(id,data){try{sessionStorage.setItem(`nx22s:detail:${id}`,JSON.stringify({t:Date.now(),data}))}catch{}}
+
+  function safeThemeVideo(url){try{const u=new URL(String(url||''));return u.protocol==='https:'&&u.hostname==='v.animethemes.moe'?u.href:''}catch{return''}}
+  function themeResolution(v){const n=String(v?.resolution||'').match(/\d{3,4}/);return n?Number(n[0]):0}
+  function themeCacheRead(id){try{const x=JSON.parse(sessionStorage.getItem(`nx22s:themes:${id}`)||'null');if(x&&Date.now()-x.t<THEMES_CACHE_TTL&&Array.isArray(x.data?.items))return x.data}catch{}return null}
+  function themeCacheWrite(id,data){try{sessionStorage.setItem(`nx22s:themes:${id}`,JSON.stringify({t:Date.now(),data}))}catch{}}
+  function normalizeThemes(anime){
+    const items=(anime?.animethemes||[]).map(theme=>{
+      const entries=(theme?.animethemeentries||[]).filter(entry=>entry?.nsfw!==true&&entry?.spoiler!==true);
+      const candidates=entries.flatMap(entry=>(entry?.videos||[]).map(video=>({entry,video,url:safeThemeVideo(video?.link)}))).filter(x=>x.url);
+      candidates.sort((a,b)=>{
+        const rank=x=>(x.video?.nc===true?1e7:0)+(x.video?.subbed===false?1e6:0)+(x.video?.lyrics===false?1e5:0)+themeResolution(x.video);
+        return rank(b)-rank(a);
+      });
+      const best=candidates[0];
+      if(!best)return null;
+      const kind=String(theme?.type||'').toUpperCase();
+      const sequence=Number(theme?.sequence||0);
+      const artists=(theme?.song?.artists||[]).map(a=>a?.name).filter(Boolean);
+      const mime=/^video\/[a-z0-9.+-]+$/i.test(String(best.video?.mimetype||''))?best.video.mimetype:'video/webm';
+      return {
+        kind,
+        sequence,
+        slug:String(theme?.slug||''),
+        title:String(theme?.song?.title||`${kind==='ED'?'Encerramento':'Abertura'} ${sequence||''}`).trim(),
+        artists:artists.join(', ')||'Artista não informado',
+        group:String(theme?.group?.name||''),
+        episodes:String(best.entry?.episodes||''),
+        url:best.url,
+        mime,
+        resolution:themeResolution(best.video),
+        source:String(best.video?.source||''),
+        creditless:best.video?.nc===true
+      };
+    }).filter(Boolean).sort((a,b)=>{
+      const order=x=>x.kind==='OP'?0:x.kind==='ED'?1:2;
+      return order(a)-order(b)||a.sequence-b.sequence||a.title.localeCompare(b.title,'pt-BR');
+    }).slice(0,24);
+    return {slug:String(anime?.slug||''),items};
+  }
+  async function fetchThemes(id){
+    const cached=themeCacheRead(id);if(cached)return cached;
+    if(themeRequests.has(id))return themeRequests.get(id);
+    const request=(async()=>{
+      if(window.AniNexusAuth?.enabled===true){
+        try{
+          const remote=await window.AniNexusAuth.publicApi(`/api/anime/${id}/themes`,{timeout:12000});
+          const data={slug:String(remote?.slug||''),items:(Array.isArray(remote?.items)?remote.items:[]).map(item=>({...item,url:safeThemeVideo(item?.url)})).filter(item=>item.url).slice(0,24)};
+          themeCacheWrite(id,data);return data;
+        }catch(error){console.warn('[AniNexus temas] ponte da API indisponível; tentando o acervo diretamente.',error)}
+      }
+      const url=new URL(`${ANIMETHEMES}/anime`);
+      url.searchParams.set('filter[has]','resources');
+      url.searchParams.set('filter[site]','Anilist');
+      url.searchParams.set('filter[external_id]',String(id));
+      url.searchParams.set('include','animethemes.animethemeentries.videos,animethemes.song.artists');
+      url.searchParams.set('page[size]','1');
+      const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),12000);
+      try{
+        const r=await fetch(url,{headers:{accept:'application/json'},credentials:'omit',signal:controller.signal});
+        if(!r.ok)throw new Error(r.status===429?'O acervo recebeu muitas consultas. Tente novamente em instantes.':`Não foi possível consultar o acervo (${r.status}).`);
+        const j=await r.json(),data=normalizeThemes(j?.anime?.[0]);themeCacheWrite(id,data);return data;
+      }catch(error){if(error?.name==='AbortError')throw new Error('A consulta demorou mais que o esperado. Verifique a conexão e tente novamente.');throw error}
+      finally{clearTimeout(timer)}
+    })().finally(()=>themeRequests.delete(id));
+    themeRequests.set(id,request);
+    return request;
+  }
+  function friendlyThemesError(error){
+    if(error?.name==='AbortError')return'A consulta demorou mais que o esperado. Tente novamente.';
+    const message=String(error?.message||'').trim();
+    if(/muitas consultas|demorou mais que o esperado|não foi possível consultar/i.test(message))return message;
+    return'Não foi possível carregar este acervo agora. Tente novamente em instantes.';
+  }
+  function themesPage(slugValue){return /^[a-z0-9_-]+$/i.test(slugValue||'')?`https://animethemes.moe/anime/${encodeURIComponent(slugValue)}`:'https://animethemes.moe/'}
+  function themeCard(item,m,index){
+    const type=item.kind==='ED'?'Encerramento':item.kind==='OP'?'Abertura':'Tema';
+    const code=`${item.kind||'TEMA'}${item.sequence?` ${item.sequence}`:''}`;
+    const meta=[item.resolution?`${item.resolution}p`:'',item.creditless?'Sem créditos':'',item.source,item.episodes?`Episódios ${item.episodes}`:''].filter(Boolean);
+    return `<article class="nx22-theme-card"><div class="nx22-theme-media"><video playsinline preload="none" controlslist="nodownload" poster="${esc(image(m))}" data-theme-src="${esc(item.url)}" data-theme-mime="${esc(item.mime)}" aria-label="${esc(`${type}: ${item.title}`)}"></video><button class="nx22-theme-play" type="button" data-nx22-theme-play aria-label="Reproduzir ${esc(item.title)}">${SVG.play}<span>Reproduzir</span></button><span class="nx22-theme-code">${esc(code)}</span><div class="nx22-theme-error" role="status">Este vídeo não pôde ser carregado.</div></div><div class="nx22-theme-copy"><small>${esc(type)}</small><h3>${esc(item.title)}</h3><p>${esc(item.artists)}</p>${item.group?`<em>${esc(item.group)}</em>`:''}<div>${meta.map(x=>`<span>${esc(x)}</span>`).join('')}</div></div></article>`;
+  }
+  function bindThemePlayers(scope){
+    const players=[...scope.querySelectorAll('video')];
+    const release=video=>{if(!video)return;try{video.pause()}catch{}video.removeAttribute('src');video.load();video.controls=false;video.closest('.nx22-theme-card')?.classList.remove('is-loaded')};
+    scope.querySelectorAll('[data-nx22-theme-play]').forEach(button=>button.addEventListener('click',async()=>{
+      const card=button.closest('.nx22-theme-card'),video=card?.querySelector('video');if(!video)return;
+      players.forEach(other=>{if(other!==video&&other.hasAttribute('src'))release(other)});
+      if(!video.hasAttribute('src')){video.preload='metadata';video.src=video.dataset.themeSrc||'';video.controls=true;card.classList.add('is-loaded');video.load()}
+      try{await video.play()}catch{video.controls=true}
+    }));
+    players.forEach(video=>{video.addEventListener('play',()=>players.forEach(other=>{if(other!==video&&other.hasAttribute('src'))release(other)}));video.addEventListener('error',()=>video.closest('.nx22-theme-card')?.classList.add('is-error'))})
+  }
+  async function hydrateThemes(m){
+    const initial=root.querySelector('#nx22Themes');if(!initial||initial.dataset.state==='loading')return;
+    initial.dataset.state='loading';initial.setAttribute('aria-busy','true');
+    try{
+      const data=await fetchThemes(m.id);if(animeId()!==m.id)return;
+      const el=root.querySelector('#nx22Themes');if(!el)return;
+      const source=root.querySelector('#nx22ThemesSource');if(source)source.href=themesPage(data.slug);
+      el.dataset.state='ready';el.removeAttribute('aria-busy');
+      if(!data.items.length){el.innerHTML=`<div class="nx22-themes-empty"><strong>Nenhuma abertura ou encerramento disponível</strong><p>Este título ainda não possui vídeos seguros vinculados ao acervo.</p><a href="${themesPage(data.slug)}" target="_blank" rel="noopener">Consultar no AnimeThemes.moe ${SVG.external}</a></div>`;return}
+      el.innerHTML=`<div class="nx22-theme-grid">${data.items.map((item,index)=>themeCard(item,m,index)).join('')}</div>`;
+      bindThemePlayers(el);
+    }catch(error){
+      if(animeId()!==m.id)return;
+      const el=root.querySelector('#nx22Themes');if(!el)return;
+      el.dataset.state='error';el.removeAttribute('aria-busy');
+      el.innerHTML=`<div class="nx22-themes-empty is-error"><strong>O acervo está indisponível agora</strong><p>${esc(friendlyThemesError(error))}</p><button type="button" data-nx22-themes-retry>Tentar novamente</button><a href="https://animethemes.moe/" target="_blank" rel="noopener">Abrir AnimeThemes.moe ${SVG.external}</a></div>`;
+      el.querySelector('[data-nx22-themes-retry]')?.addEventListener('click',()=>{el.dataset.state='';hydrateThemes(m)});
+    }
+  }
+
+  function generatedSynopsis(m){const gs=(m.genres||[]).slice(0,3).map(g=>GENRE[g]||g).join(', ');return `${title(m)} é ${m.format==='MOVIE'?'um filme':'um anime'}${gs?` de ${gs}`:''}${m.source?`, baseado em ${SOURCE[m.source]||String(m.source).toLowerCase()}`:''}. A sinopse editorial em português está sendo preparada.`}
+  async function translatePT(raw){raw=strip(raw);if(!raw)return'';const key='nx22s:pt:'+btoa(unescape(encodeURIComponent(raw.slice(0,120)))).replace(/=/g,'').slice(0,80);try{const c=localStorage.getItem(key);if(c)return c}catch{};try{const u=`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=pt&dt=t&q=${encodeURIComponent(raw.slice(0,3600))}`;const r=await fetch(u);if(!r.ok)throw 0;const j=await r.json(),x=(j?.[0]||[]).map(v=>v?.[0]||'').join('').trim();if(x){try{localStorage.setItem(key,x)}catch{};return x}}catch{}return''}
+
+  function infoRows(m,j){const studios=(m.studios?.nodes||[]).map(x=>x.name).filter(Boolean).join(', ')||'—';const rows=[['Status',STATUS[m.status]||'—'],['Formato',FORMAT[m.format]||m.format||'—'],['Episódios',m.episodes||j?.episodes||'—'],['Duração',m.duration?`${m.duration} min`:j?.duration||'—'],['Origem',SOURCE[m.source]||m.source||'—'],['País',COUNTRY[m.countryOfOrigin]||m.countryOfOrigin||'—'],['Temporada',m.season?`${SEASON[m.season]||m.season} ${m.seasonYear||''}`:'—'],['Lançamento',fmtDate(m.startDate)],['Término',fmtDate(m.endDate)],['Estúdio',studios],['Classificação',j?.rating||'—']];return rows.map(([k,v])=>`<div><span>${esc(k)}</span><strong>${esc(v)}</strong></div>`).join('')}
+  function people(edges,staff=false){return (edges||[]).map(e=>{const n=e.node||{};return `<article class="nx22-person"><img loading="lazy" src="${esc(n.image?.large||n.image?.medium||BASE+'/assets/logo.png')}" alt=""><strong>${esc(n.name?.full||'')}</strong><span>${esc(staff?(e.role||'Equipe'):(e.role==='MAIN'?'Principal':'Coadjuvante'))}</span></article>`}).join('')}
+  function related(edges){return (edges||[]).filter(e=>e.node).map(e=>{const m=e.node;return `<article class="nx22-related" data-nx22-open="${m.id}"><div class="nx22-related-cover"><img loading="lazy" src="${esc(image(m))}" alt=""></div><div><small>${esc(REL[e.relationType]||'Relacionado')}</small><strong>${esc(title(m))}</strong><span>${esc([FORMAT[m.format]||m.format,m.seasonYear].filter(Boolean).join(' · '))}</span></div></article>`}).join('')}
+  function recs(nodes){return (nodes||[]).filter(x=>x.mediaRecommendation).map(x=>{const m=x.mediaRecommendation;return `<article class="nx22-rec" data-nx22-open="${m.id}"><div><img loading="lazy" src="${esc(image(m))}" alt="">${m.averageScore?`<span>${SVG.star}${score(m)}</span>`:''}</div><strong>${esc(title(m))}</strong><small>${esc([FORMAT[m.format]||m.format,m.seasonYear].filter(Boolean).join(' · '))}</small></article>`}).join('')}
+
+  function shell(m,j,extras){
+    const stream=(m.externalLinks||[]).filter(x=>String(x.type||'').toUpperCase()==='STREAMING'&&x.url);
+    const trailer=m.trailer?.id&&String(m.trailer.site||'').toLowerCase()==='youtube'?m.trailer.id:'';
+    const start=fmtDate(m.startDate),end=fmtDate(m.endDate);
+    activate(m.id);
+    root.innerHTML=`<main class="nx22-detail">
+      <section class="nx22-hero"><div class="nx22-hero-bg"><img src="${esc(banner(m))}" alt=""></div><div class="nx22-hero-shade"></div><div class="nx22-shell nx22-hero-content"><button class="nx22-back" data-nx22-back>${SVG.back}<span>Voltar</span></button><div class="nx22-hero-grid"><div class="nx22-cover"><img src="${esc(image(m))}" alt="${esc(title(m))}"></div><div class="nx22-headcopy"><span class="nx22-eyebrow">${esc(m.title?.romaji||m.title?.native||'')}</span><h1>${esc(title(m))}</h1><div class="nx22-chips"><span>${esc(STATUS[m.status]||'Anime')}</span><span>${esc(FORMAT[m.format]||m.format||'Anime')}</span>${(m.genres||[]).slice(0,4).map(g=>`<span class="genre">${esc(GENRE[g]||g)}</span>`).join('')}</div><div class="nx22-actions"><button class="nx22-list" data-list="${m.id}">${SVG.plus}<span>Adicionar à lista</span></button><button class="nx22-fav" data-fav="${m.id}" aria-label="Favoritar">${SVG.heart}</button><button class="nx22-share" data-nx22-share>${SVG.share}<span>Compartilhar</span></button></div><div class="nx22-stats"><div><strong>${score(m)}</strong><span>nota média</span></div><div><strong>${compact(m.popularity)}</strong><span>popularidade</span></div><div><strong>${compact(m.favourites)}</strong><span>favoritos</span></div></div></div></div></div></section>
+      <nav class="nx22-tabs" aria-label="Seções do anime"><div class="nx22-shell" role="tablist"><button class="active" role="tab" aria-selected="true" aria-controls="nx22StablePanel" data-nx22-tab="geral">Geral</button><button role="tab" aria-selected="false" aria-controls="nx22StablePanel" data-nx22-tab="temas">Aberturas & encerramentos</button><button role="tab" aria-selected="false" aria-controls="nx22StablePanel" data-nx22-tab="personagens">Personagens</button><button role="tab" aria-selected="false" aria-controls="nx22StablePanel" data-nx22-tab="franquia">Franquia</button><button role="tab" aria-selected="false" aria-controls="nx22StablePanel" data-nx22-tab="recomendacoes">Recomendações</button></div></nav>
+      <div class="nx22-shell nx22-content"><div class="nx22-quick"><article><small>LANÇAMENTO</small><strong>${esc(start)}</strong></article><article><small>TÉRMINO</small><strong>${esc(end)}</strong></article><article><small>EPISÓDIOS</small><strong>${esc(m.episodes||j?.episodes||'—')}</strong></article><article><small>STATUS</small><strong>${esc(STATUS[m.status]||'—')}</strong></article></div><div id="nx22StablePanel" role="tabpanel" tabindex="0"></div></div>
+    </main>`;
+
+    const general=()=>`<div class="nx22-layout"><main>${m.nextAiringEpisode?`<section class="nx22-next"><div>${SVG.clock}<span><small>PRÓXIMO EPISÓDIO</small><strong>Episódio ${m.nextAiringEpisode.episode}</strong><em>${fmtUntil(m.nextAiringEpisode.airingAt)}</em></span></div></section>`:''}<section class="nx22-section"><div class="nx22-section-head"><div><small>HISTÓRIA</small><h2>Sinopse</h2></div><span class="nx22-translation-note">em português</span></div><p class="nx22-synopsis" id="nx22Synopsis">${esc(generatedSynopsis(m))}</p></section>${trailer?`<section class="nx22-section"><div class="nx22-section-head"><div><small>VÍDEO</small><h2>Trailer oficial</h2></div></div><div class="nx22-video"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(trailer)}?rel=0&modestbranding=1" title="Trailer de ${esc(title(m))}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></section>`:''}${stream.length?`<section class="nx22-section"><div class="nx22-section-head"><div><small>STREAMING</small><h2>Onde assistir</h2></div></div><div class="nx22-streams">${stream.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${s.icon?`<img src="${esc(s.icon)}" alt="">`:SVG.play}<span>${esc(s.site||'Streaming')}</span>${SVG.external}</a>`).join('')}</div></section>`:''}${extras.characters?.edges?.length?`<section class="nx22-section"><div class="nx22-section-head"><div><small>ELENCO</small><h2>Personagens</h2></div></div><div class="nx22-people">${people(extras.characters.edges)}</div></section>`:''}</main><aside><div><h3>Informações</h3><div class="nx22-info-card">${infoRows(m,j)}</div></div><div><h3>Outros títulos</h3><div class="nx22-info-card"><div><span>Romaji</span><strong>${esc(m.title?.romaji||'—')}</strong></div><div><span>Original</span><strong>${esc(m.title?.native||'—')}</strong></div>${(m.synonyms||[]).slice(0,2).map(s=>`<div><span>Alternativo</span><strong>${esc(s)}</strong></div>`).join('')}</div></div></aside></div>`;
+    const chars=()=>`<section class="nx22-full"><div class="nx22-section-head"><div><small>PERSONAGENS</small><h2>Elenco e equipe</h2></div></div><div class="nx22-people nx22-people-full">${people(extras.characters?.edges||[])}</div>${extras.staff?.edges?.length?`<div class="nx22-section-head nx22-staff-head"><div><small>PRODUÇÃO</small><h2>Equipe</h2></div></div><div class="nx22-people nx22-people-full">${people(extras.staff.edges,true)}</div>`:''}</section>`;
+    const franchise=()=>`<section class="nx22-full"><div class="nx22-section-head"><div><small>UNIVERSO</small><h2>Franquia e relações</h2></div></div><div class="nx22-related-grid">${related(extras.relations?.edges||[])||'<p class="nx22-synopsis">Nenhuma relação disponível.</p>'}</div></section>`;
+    const recommendations=()=>`<section class="nx22-full"><div class="nx22-section-head"><div><small>PARA ASSISTIR DEPOIS</small><h2>Recomendações</h2></div></div><div class="nx22-rec-grid">${recs(extras.recommendations?.nodes||[])||'<p class="nx22-synopsis">Sem recomendações disponíveis agora.</p>'}</div></section>`;
+    const themes=()=>`<section class="nx22-full nx22-themes"><div class="nx22-themes-intro"><div><small>ANIMETHEMES</small><h2>Aberturas e encerramentos</h2><p>Assista aos temas desta obra em um player integrado, sem sair do AniNexus.</p></div><a id="nx22ThemesSource" href="https://animethemes.moe/" target="_blank" rel="noopener">Ver acervo original ${SVG.external}</a></div><div id="nx22Themes" class="nx22-themes-results" data-state=""><div class="nx22-themes-loading" aria-hidden="true"><i></i><i></i><i></i><span>Buscando os temas disponíveis…</span></div></div><p class="nx22-themes-credit">Vídeos e metadados disponibilizados por <a href="https://animethemes.moe/" target="_blank" rel="noopener">AnimeThemes.moe</a>. A reprodução não inicia automaticamente.</p></section>`;
+    const panels={geral:general,temas:themes,personagens:chars,franquia:franchise,recomendacoes:recommendations};
+    function show(k,focus=false){root.querySelectorAll('[data-nx22-tab]').forEach(b=>{const selected=b.dataset.nx22Tab===k;b.classList.toggle('active',selected);b.setAttribute('aria-selected',String(selected));b.tabIndex=selected?0:-1;if(selected&&focus){b.focus({preventScroll:true});b.scrollIntoView({block:'nearest',inline:'center',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}});const p=root.querySelector('#nx22StablePanel');if(p)p.innerHTML=(panels[k]||general)();const nested=p?.querySelector('.nx22-layout>main');if(nested){const primary=document.createElement('div');primary.className='nx22-primary';primary.append(...nested.childNodes);nested.replaceWith(primary)}if(k==='geral')hydrateSynopsis(m);if(k==='temas')hydrateThemes(m)}
+    root.querySelectorAll('[data-nx22-tab]').forEach(b=>b.onclick=()=>show(b.dataset.nx22Tab));
+    root.querySelector('.nx22-tabs [role="tablist"]')?.addEventListener('keydown',event=>{if(!['ArrowLeft','ArrowRight','Home','End'].includes(event.key))return;const tabs=[...root.querySelectorAll('[data-nx22-tab]')],current=Math.max(0,tabs.indexOf(document.activeElement));let next=event.key==='Home'?0:event.key==='End'?tabs.length-1:event.key==='ArrowRight'?(current+1)%tabs.length:(current-1+tabs.length)%tabs.length;event.preventDefault();show(tabs[next].dataset.nx22Tab,true)});
+    root.querySelector('[data-nx22-back]')?.addEventListener('click',()=>history.back());
+    root.querySelector('[data-nx22-share]')?.addEventListener('click',async()=>{try{if(navigator.share)await navigator.share({title:title(m),url:location.href});else{await navigator.clipboard.writeText(location.href)}}catch{}});
+    root.querySelectorAll('[data-nx22-open]').forEach(el=>el.onclick=()=>{const id=Number(el.dataset.nx22Open),node=(extras.relations?.edges||[]).map(x=>x.node).concat((extras.recommendations?.nodes||[]).map(x=>x.mediaRecommendation)).find(x=>x?.id===id);if(node)openAnime(node)});
+    show('geral');
+    window.AniNexusMediaState?.sync?.(m.id);
+    document.title=`${title(m)} | AniNexus`;
+  }
+
+  async function hydrateSynopsis(m){const el=root.querySelector('#nx22Synopsis');if(!el)return;const raw=strip(m.description)||strip(m.jikan?.synopsis||'');const pt=await translatePT(raw);if(el&&animeId()===m.id)el.textContent=pt||generatedSynopsis(m)}
+  function loading(id){activate(id);root.innerHTML=`<main class="nx22-detail nx22-loading"><div class="nx22-loading-banner"></div><div class="nx22-shell nx22-loading-body"><div class="nx22-loading-cover"></div><div><i></i><i></i><i></i><p>Carregando informações do anime…</p></div></div></main>`}
+  function fail(id,e){activate(id);root.innerHTML=`<main class="nx22-detail nx22-fail"><div><img src="${BASE}/assets/logo.png" alt=""><h1>Não foi possível carregar este anime</h1><p>${esc(e?.message||'Falha de conexão.')}</p><button type="button" data-nx22-retry>Tentar novamente</button></div></main>`;root.querySelector('[data-nx22-retry]')?.addEventListener('click',()=>render(id,true))}
+
+  async function render(id,force=false){if(!id||painting)return;if(!force&&activeId===id&&root.firstElementChild?.classList.contains('nx22-detail'))return;painting=true;try{let cached=!force?cacheRead(id):null;if(cached){shell(cached,cached.jikan||null,cached.extras||{});return}loading(id);const core=await fetchCore(id);if(animeId()!==id)return;const [extras,j]=await Promise.all([fetchExtras(id),fetchJikan(core.idMal)]);const m={...core,jikan:j,extras};cacheWrite(id,m);if(animeId()===id)shell(m,j,extras)}catch(e){if(animeId()===id)fail(id,e)}finally{painting=false}}
+  function claim(force=false){const id=animeId();if(!id){if(activeId)deactivate();return}render(id,force)}
+  const mo=new MutationObserver(()=>{if(observerRaf)return;observerRaf=requestAnimationFrame(()=>{observerRaf=0;const id=animeId();if(id&&!root.firstElementChild?.classList.contains('nx22-detail'))render(id,true)})});mo.observe(root,{childList:true});
+  addEventListener('popstate',()=>setTimeout(()=>claim(true),0));document.addEventListener('aninexus:routechange',()=>setTimeout(()=>claim(true),0));claim(true);
+})();

@@ -1,0 +1,154 @@
+'use strict';
+(() => {
+  if(window.__NX38_RUNTIME__)return;window.__NX38_RUNTIME__=true;
+  window.__NX38_BOOT_AT=performance.now();
+  const IS_PAGES=location.hostname.endsWith('github.io');
+  const ANILIST='https://graphql.anilist.co';
+  const nativeFetch=window.fetch.bind(window);
+  const makeNavigationId=()=>globalThis.crypto?.randomUUID?.()||`${Date.now().toString(36)}-${Math.random().toString(36).slice(2,10)}`;
+  const navigationId=()=>window.__NX_NAVIGATION_ID__||(window.__NX_NAVIGATION_ID__=makeNavigationId());
+  const renewNavigationId=()=>window.__NX_NAVIGATION_ID__=makeNavigationId();
+  const clientRelease=()=>String(window.document?.querySelector?.('meta[name="aninexus-build"]')?.content||'').slice(0,80);
+  const correlationHeaders=()=>({'x-aninexus-navigation-id':navigationId(),...(clientRelease()?{'x-aninexus-client-release':clientRelease()}: {})});
+
+  const deadlineError=(category,label)=>Object.assign(new Error(category==='timeout'?`${label} excedeu o tempo limite`:`${label} foi cancelada`),{
+    name:category==='timeout'?'TimeoutError':'AbortError',
+    code:category==='timeout'?'REQUEST_TIMEOUT':'REQUEST_CANCELLED',
+    category
+  });
+  const abortableDelay=(milliseconds,signal)=>new Promise((resolve,reject)=>{
+    if(signal?.aborted)return reject(deadlineError('navigation','Espera'));
+    const timer=setTimeout(done,Math.max(0,Number(milliseconds)||0));
+    function done(){signal?.removeEventListener('abort',cancel);resolve()}
+    function cancel(){clearTimeout(timer);signal?.removeEventListener('abort',cancel);reject(deadlineError('navigation','Espera'))}
+    signal?.addEventListener('abort',cancel,{once:true});
+  });
+  async function withDeadline(task,{timeout=12000,signal,label='Operação'}={}){
+    const controller=new AbortController();
+    let category='',timer=0,removeExternal=()=>{};
+    const cancel=()=>{if(category)return;category='navigation';controller.abort(signal?.reason)};
+    if(signal?.aborted)cancel();
+    else if(signal){signal.addEventListener('abort',cancel,{once:true});removeExternal=()=>signal.removeEventListener('abort',cancel)}
+    if(!category)timer=setTimeout(()=>{if(category)return;category='timeout';controller.abort()},Math.max(1,Number(timeout)||12000));
+    const interrupted=controller.signal.aborted?Promise.reject(deadlineError(category||'navigation',label)):new Promise((_,reject)=>controller.signal.addEventListener('abort',()=>reject(deadlineError(category||'navigation',label)),{once:true}));
+    try{return await Promise.race([Promise.resolve().then(()=>task(controller.signal)),interrupted])}
+    finally{if(timer)clearTimeout(timer);removeExternal()}
+  }
+  async function jsonRequest(input,init={},options={}){
+    return withDeadline(async signal=>{
+      const target=new URL(typeof input==='string'?input:input?.url||String(input),location.href);
+      const headers={...(init.headers||{}),...(target.origin===location.origin?correlationHeaders(): {})};
+      const response=await window.fetch(input,{...init,headers,signal});
+      if(response.status===204)return{response,body:null};
+      let body={};
+      try{body=await response.json()}
+      catch(error){if(response.ok)throw Object.assign(new Error('Resposta JSON inválida'),{name:'DataError',code:'INVALID_RESPONSE',category:'data',cause:error})}
+      return{response,body};
+    },{...options,signal:options.signal||init.signal});
+  }
+  window.AniNexusRuntime=Object.freeze({withDeadline,jsonRequest,abortableDelay,deadlineError,navigationId,renewNavigationId,correlationHeaders});
+  addEventListener('popstate',renewNavigationId);
+
+  // Production uses shared AniNexus read models (edge cache + Redis + stale fallback)
+  // instead of repeating identical AniList GraphQL requests in every browser.
+  if(!IS_PAGES){
+    const toGraph=m=>{
+      if(!m)return m;
+      if(m.coverImage&&typeof m.title==='object')return m;
+      const internal=m.metricsSource==='aninexus',n=internal?Number(m.score):NaN,mean=internal?Number(m.meanScore):NaN,averageScore=Number.isFinite(n)?Math.round(n*10):null,meanScore=Number.isFinite(mean)?Math.round(mean*10):averageScore;
+      return{
+        id:m.id,idMal:m.idMal||null,
+        title:{english:m.title||'',romaji:m.titleRomaji||m.title||'',native:m.titleNative||'',userPreferred:m.title||m.titleRomaji||''},synonyms:m.synonyms||[],
+        coverImage:{extraLarge:m.cover||'',large:m.cover||'',color:m.coverColor||null},bannerImage:m.banner||'',description:m.description||'',genres:m.genres||[],
+        tags:(m.tagDetails||m.tags||[]).map(x=>typeof x==='string'?{name:x,rank:0,isMediaSpoiler:false}:x),averageScore,meanScore,popularity:internal?Number(m.popularity||0):0,favourites:internal?Number(m.favourites||0):0,
+        episodes:m.episodes||null,chapters:m.chapters||null,volumes:m.volumes||null,duration:m.duration||null,format:m.format||'',status:m.status||'',season:m.season||'',seasonYear:m.seasonYear||null,countryOfOrigin:m.country||'',source:m.source||'',startDate:m.startDate||null,endDate:m.endDate||null,
+        ratingCount:Number(m.ratingCount||0),listCount:Number(m.listCount||0),metricsSource:m.metricsSource==='aninexus'?'aninexus':'',contentProvider:m.contentProvider||'',contentProviderUrl:m.contentProviderUrl||'',
+        studios:{nodes:m.studios||[]},nextAiringEpisode:m.nextAiringEpisode||null,trailer:m.trailer||null,
+        relations:{edges:(m.relationTypes||[]).map(relationType=>({relationType}))},
+        externalLinks:(m.streaming||m.externalLinks||[]).map(x=>({site:x.site||'',url:x.url||'',type:x.type||'STREAMING',icon:x.icon||'',color:x.color||''}))
+      };
+    };
+    const person=(x,staff=false)=>({role:x.role||'',node:{id:x.id,name:{full:x.name||'',native:x.native||''},image:{large:x.image||'',medium:x.image||''}},...(staff?{}:{})});
+    const toDeep=m=>{const base=toGraph(m);return{...base,characters:{edges:(m.characters||[]).map(x=>person(x))},staff:{edges:(m.staff||[]).map(x=>person(x,true))},relations:{edges:(m.relations||[]).map(x=>({relationType:x.relationType,node:toGraph(x.media)}))},recommendations:{nodes:(m.recommendations||[]).map(x=>({rating:x.rating,mediaRecommendation:toGraph(x.media)})).filter(x=>x.mediaRecommendation)}}};
+    const jsonResponse=data=>new Response(JSON.stringify({data}),{status:200,headers:{'content-type':'application/json; charset=utf-8','x-aninexus-bridge':'v38'}});
+    const apiJson=async(path,signal)=>{const r=await nativeFetch(path,{signal,credentials:'same-origin',headers:{accept:'application/json',...correlationHeaders()}});if(!r.ok)throw new Error(`AniNexus API ${r.status}`);return r.json()};
+    const seasonNow=()=>{const d=new Date(),m=Number(new Intl.DateTimeFormat('en',{timeZone:'America/Sao_Paulo',month:'numeric'}).format(d)),year=Number(new Intl.DateTimeFormat('en',{timeZone:'America/Sao_Paulo',year:'numeric'}).format(d));return{year,season:m<=3?'WINTER':m<=6?'SPRING':m<=9?'SUMMER':'FALL'}};
+    const bridgeHome=async(body,signal)=>{
+      const vars=body.variables||{},s=seasonNow(),season=vars.season||s.season,year=Number(vars.year||s.year),home=await apiJson(`/api/home?season=${encodeURIComponent(season)}&year=${year}`,signal);
+      if(!(home.season||[]).length)throw new Error('AniNexus API returned an incomplete Home');
+      return jsonResponse({season:{media:(home.season||[]).map(toGraph)},schedule:{airingSchedules:(home.schedule||[]).slice(0,8).map(x=>({airingAt:x.airingAt,episode:x.episode,media:toGraph(x.media)}))},top:{media:(home.top||[]).map(toGraph)},popular:{media:(home.popular||[]).map(toGraph)},soon:{media:(home.soon||[]).map(toGraph)},reading:{media:(home.reading||[]).map(toGraph)},topReading:{media:(home.topReading||[]).map(toGraph)}});
+    };
+    const mapSort=(q,v={})=>['DISCOVER','POPULAR','SCORE','TRENDING','NEW','TITLE','FAVOURITES','MATCH'].includes(String(v.nxSort||'').toUpperCase())?String(v.nxSort).toUpperCase():q.includes('SEARCH_MATCH')?'MATCH':q.includes('TITLE_ROMAJI')?'TITLE':q.includes('START_DATE_DESC')?'NEW':'POPULAR';
+    const bridgePage=async(body,signal,type)=>{
+      const q=String(body.query||''),v=body.variables||{},params=new URLSearchParams({page:String(v.page||1),perPage:String(v.perPage||24),sort:mapSort(q,v)});
+      for(const k of ['search','genre','format','season','year','status'])if(v[k]!=null&&v[k]!=='')params.set(k,String(v[k]));
+      if(q.includes('status:NOT_YET_RELEASED'))params.set('status','NOT_YET_RELEASED');
+      if(q.includes('status:RELEASING'))params.set('status','RELEASING');
+      const endpoint=type==='MANGA'?'/api/reading':'/api/catalog',data=await apiJson(`${endpoint}?${params}`,signal);
+      if(Number(v.page||1)===1&&!(data.items||[]).length)throw new Error('AniNexus API returned an empty catalog');
+      return jsonResponse({Page:{pageInfo:data.pageInfo||{},media:(data.items||[]).map(toGraph)}});
+    };
+    const bridgeDetail=async(body,signal,type)=>{
+      const id=Number(body.variables?.id||0);if(!Number.isSafeInteger(id)||id<=0)return null;
+      const m=await apiJson(type==='MANGA'?`/api/manga/${id}`:`/api/anime/${id}`,signal),deep=toDeep(m),q=String(body.query||'');
+      if(type==='ANIME'&&q.includes('characters('))return jsonResponse({Media:{characters:deep.characters,staff:deep.staff,relations:deep.relations,recommendations:deep.recommendations}});
+      if(type==='MANGA'&&q.includes('relations{'))return jsonResponse({Media:deep});
+      return jsonResponse({Media:deep});
+    };
+    window.fetch=async function(input,init={}){
+      const target=typeof input==='string'?input:input?.url||String(input||''),method=String(init.method||input?.method||'GET').toUpperCase();
+      if(target===ANILIST&&method==='POST'&&typeof init.body==='string'){
+        let body;try{body=JSON.parse(init.body)}catch{return nativeFetch(input,init)}
+        const q=String(body?.query||'');
+        try{
+          if(q.includes('season:Page')&&q.includes('schedule:Page')&&q.includes('reading:Page'))return await bridgeHome(body,init.signal);
+          if(q.includes('Media(id:$id,type:ANIME)')){const r=await bridgeDetail(body,init.signal,'ANIME');if(r)return r}
+          if(q.includes('Media(id:$id,type:MANGA)')){const r=await bridgeDetail(body,init.signal,'MANGA');if(r)return r}
+          if(q.includes('Page(page:$page,perPage:$perPage)')&&q.includes('media(type:ANIME')&&!q.includes('airingSchedules'))return await bridgePage(body,init.signal,'ANIME');
+          if(q.includes('Page(page:$page,perPage:$perPage)')&&q.includes('media(type:MANGA'))return await bridgePage(body,init.signal,'MANGA');
+        }catch(err){console.warn('[AniNexus bridge] fallback to upstream:',err?.message||err)}
+      }
+      return nativeFetch(input,init);
+    };
+  }
+
+  // Retire the obsolete shell cache so an old UI cannot come back after an update.
+  if('serviceWorker' in navigator){navigator.serviceWorker.getRegistrations().then(rs=>Promise.allSettled(rs.map(r=>r.unregister()))).catch(()=>{})}
+  if('caches' in window){caches.keys().then(keys=>Promise.allSettled(keys.filter(k=>/^aninexus-shell-/i.test(k)).map(k=>caches.delete(k)))).catch(()=>{})}
+
+  // Media fallback only. List/favorite state is owned exclusively by media-state-v2.js.
+  const failedMediaHosts=new WeakMap();
+  const clearImageFailure=img=>{
+    img.classList.remove('nx38-img-error');delete img.dataset.nx38Broken;
+    const host=failedMediaHosts.get(img);failedMediaHosts.delete(img);
+    if(host&&![...host.querySelectorAll('.nx38-img-error')].some(other=>failedMediaHosts.get(other)===host))host.classList.remove('nx38-media-fallback');
+  };
+  document.addEventListener('load',e=>{if(e.target instanceof HTMLImageElement)clearImageFailure(e.target)},true);
+  document.addEventListener('error',e=>{
+    const img=e.target;if(!(img instanceof HTMLImageElement))return;
+    const failedSource=img.currentSrc||img.src,requestedSource=img.src;
+    // Let component-specific handlers try another source before showing a placeholder.
+    setTimeout(()=>{
+      if(!img.isConnected||img.src!==requestedSource||img.naturalWidth||img.hidden)return;
+      const avatarFallback=img.dataset.nxAvatarFallback;
+      if(avatarFallback&&img.src!==new URL(avatarFallback,document.baseURI).href){clearImageFailure(img);img.removeAttribute('srcset');img.src=avatarFallback;return}
+      if((img.currentSrc||img.src)!==failedSource)return;
+      img.dataset.nx38Broken='1';img.classList.add('nx38-img-error');
+      const host=img.closest('.nx35-nmedia,.nx37-gallery-item,.nx24-card-poster,.aqx-media,.nx18-cover,.nx35-community-cover,.media,.poster,.nx21-poster,.nx22-cover,.nx22-hero-bg');
+      // A nested avatar/provider logo must never mark its surrounding cover as broken.
+      if(host&&(img.parentElement===host||(img.parentElement?.tagName==='A'&&img.parentElement.parentElement===host))){failedMediaHosts.set(img,host);host.classList.add('nx38-media-fallback')}
+    },0);
+  },true);
+
+  const tune=root=>{
+    if(root instanceof HTMLImageElement){if(!root.hasAttribute('decoding'))root.decoding='async';if(!root.hasAttribute('loading')&&!root.closest('.hero,.nx35-article-hero,.nx24-hero,.aqx-hero,.nx22-hero'))root.loading='lazy'}
+    root.querySelectorAll?.('img').forEach(img=>{if(!img.hasAttribute('decoding'))img.decoding='async';if(!img.hasAttribute('loading')&&!img.closest('.hero,.nx35-article-hero,.nx24-hero,.aqx-hero,.nx22-hero'))img.loading='lazy'});
+    root.querySelectorAll?.('a[target="_blank"]').forEach(a=>{const rel=new Set(String(a.rel||'').split(/\s+/).filter(Boolean));rel.add('noopener');rel.add('noreferrer');a.rel=[...rel].join(' ')})
+  };
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>tune(document),{once:true});else tune(document);
+  new MutationObserver(rs=>{for(const r of rs)for(const n of r.addedNodes)if(n.nodeType===1)tune(n)}).observe(document.documentElement,{subtree:true,childList:true});
+
+  const setOnline=()=>document.documentElement.classList.toggle('nx38-offline',!navigator.onLine);
+  addEventListener('online',setOnline);addEventListener('offline',setOnline);setOnline();
+  if(navigator.connection?.saveData)document.documentElement.classList.add('nx38-save-data');
+})();

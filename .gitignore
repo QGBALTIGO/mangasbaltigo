@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+public/assets/
+public/data/
+public/preview-v*/
+public/.nojekyll
+public/release.json
+aninexus-release-*.tar.gz

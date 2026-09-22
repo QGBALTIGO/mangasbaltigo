@@ -1,0 +1,117 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import crypto from 'node:crypto';
+import pg from 'pg';
+import { getCommunityOverview } from '../lib/community-overview.mjs';
+import { setCharacterFavorite } from '../lib/character-ranking.mjs';
+import { pool } from '../lib/db.mjs';
+import Fastify from 'fastify';
+import { registerListImportRoutes, importListRows } from '../lib/list-import-routes.mjs';
+
+const connectionString=process.env.MEDIA_TEST_DATABASE_URL;
+if(!connectionString)throw new Error('MEDIA_TEST_DATABASE_URL is required');
+const client=new pg.Client({connectionString});
+const schema='media_list_test_'+crypto.randomBytes(8).toString('hex');
+await client.connect();
+try{
+  await client.query('BEGIN');
+  await client.query(`CREATE SCHEMA ${schema}`);
+  await client.query(`SET LOCAL search_path TO ${schema}`);
+  for(const table of ['user_anime','user_manga'])await client.query(`CREATE TABLE ${table} (user_id uuid NOT NULL,media_id bigint NOT NULL,status text,score numeric,reaction text,progress integer,updated_at timestamptz,PRIMARY KEY(user_id,media_id))`);
+  const migration=await fs.readFile(new URL('../sql/022_media_list_reactions.sql',import.meta.url),'utf8');
+  await client.query(migration);await client.query(migration);
+  const source=await fs.readFile(new URL('../server.mjs',import.meta.url),'utf8');
+  const user=crypto.randomUUID();
+  for(const table of ['user_anime','user_manga']){
+    const sql=source.match(new RegExp('`(INSERT INTO '+table+'\\(user_id,media_id,status,score,reaction,progress,reactions,volume_progress,updated_at\\)[^`]+)`'))?.[1];
+    assert.ok(sql,`${table} upsert must be tested from the actual route`);
+    await client.query(sql,[user,301,'CURRENT',8.5,null,3,JSON.stringify(['Amei','Viciante']),2]);
+    let row=(await client.query(`SELECT * FROM ${table}`)).rows[0];
+    assert.deepEqual(row.reactions,['Amei','Viciante']);assert.equal(row.volume_progress,2);assert.equal(Number(row.score),8.5);
+    await client.query(sql,[user,301,'PAUSED',8,null,3,null,2]);
+    row=(await client.query(`SELECT * FROM ${table}`)).rows[0];assert.deepEqual(row.reactions,['Amei','Viciante']);
+    await client.query(sql,[user,301,'COMPLETED',9,null,48,'[]',8]);
+    row=(await client.query(`SELECT * FROM ${table}`)).rows[0];assert.deepEqual(row.reactions,[]);assert.equal(row.progress,48);
+    await client.query(`DELETE FROM ${table} WHERE user_id=$1 AND media_id=$2`,[user,301]);
+    assert.equal((await client.query(`SELECT count(*) FROM ${table}`)).rows[0].count,'0');
+  }
+  await client.query(`CREATE TABLE users(id uuid PRIMARY KEY,username text,display_name text,avatar_url text,created_at timestamptz DEFAULT now(),deleted_at timestamptz,status text DEFAULT 'active',privacy text DEFAULT 'public',show_library boolean DEFAULT true,show_activity boolean DEFAULT true,show_stats boolean DEFAULT true);
+    CREATE TABLE media_cache(media_id bigint,media_type text,payload jsonb,PRIMARY KEY(media_id,media_type));
+    CREATE TABLE user_favorites(user_id uuid,media_id bigint,media_type text,created_at timestamptz DEFAULT now());
+    CREATE TABLE impressions(user_id uuid,hidden boolean DEFAULT false,created_at timestamptz DEFAULT now());
+    CREATE TABLE community_threads(id uuid PRIMARY KEY,user_id uuid,hidden boolean DEFAULT false,created_at timestamptz DEFAULT now());
+    CREATE TABLE community_posts(user_id uuid,thread_id uuid,hidden boolean DEFAULT false,created_at timestamptz DEFAULT now());
+    CREATE TABLE profile_follows(follower_id uuid NOT NULL,followed_id uuid NOT NULL,created_at timestamptz NOT NULL DEFAULT now(),PRIMARY KEY(follower_id,followed_id));`);
+  const publicProfileMigration=await fs.readFile(new URL('../sql/031_public_profile_library.sql',import.meta.url),'utf8');
+  await client.query(publicProfileMigration);await client.query(publicProfileMigration);
+  const query=(sql,args)=>client.query(sql,args);
+  let overview=await getCommunityOverview(query);
+  assert.deepEqual(overview.totals,{works:0,reactions:0,completed:0,impressions:0,ratings:0});
+  const alice=crypto.randomUUID(),bob=crypto.randomUUID(),privateUser=crypto.randomUUID(),hidden=crypto.randomUUID();
+  await client.query(`INSERT INTO users(id,username) VALUES($1,'alice'),($2,'bob'),($3,'private'),($4,'hidden')`,[alice,bob,privateUser,hidden]);
+  for(const file of ['020_character_favorites.sql','023_character_favorite_metadata.sql'])await client.query(await fs.readFile(new URL(`../sql/${file}`,import.meta.url),'utf8'));
+  const originalQuery=pool.query;
+  try{
+    pool.query=(sql,params)=>client.query(sql,params);
+    for(const [id,mediaType] of [[999991,'ANIME'],[999992,'MANGA']]){
+      const metadata={name:'Personagem descoberto no elenco',mediaId:101,mediaType};
+      await setCharacterFavorite(alice,id,true,metadata);await setCharacterFavorite(bob,id,true,metadata);
+      assert.deepEqual(await setCharacterFavorite(alice,id,false),{characterId:id,favorite:false,favoriteCount:1});
+      assert.equal((await setCharacterFavorite(alice,id,false)).favoriteCount,1);
+      assert.equal((await client.query('SELECT user_id FROM character_favorites WHERE character_id=$1',[id])).rows[0].user_id,bob);
+      await setCharacterFavorite(bob,id,false);
+    }
+  }finally{pool.query=originalQuery}
+  await client.query(`UPDATE users SET privacy='private' WHERE id=$1`,[privateUser]);
+  await client.query(`UPDATE users SET show_stats=false,show_activity=false WHERE id=$1`,[hidden]);
+  await client.query(`INSERT INTO media_cache VALUES(101,'ANIME','{"title":"Anime","cover":"https://example.test/anime.jpg","studios":[{"name":"Studio A"}]}'),(101,'MANGA','{"title":"Manga","cover":"https://example.test/manga.jpg"}')`);
+  await client.query(`INSERT INTO user_anime(user_id,media_id,status,score,reactions,updated_at) VALUES($1,101,'COMPLETED',0,'["Amei","Chorei","Chorei"]',now()),($2,101,'DROPPED',4,'[]',now()),($3,101,'COMPLETED',10,'["Privado"]',now()),($4,101,'COMPLETED',10,'["Oculto"]',now())`,[alice,bob,privateUser,hidden]);
+  await client.query(`INSERT INTO user_manga(user_id,media_id,status,score,reaction,updated_at) VALUES($1,101,'COMPLETED',9,'LOVE',now()-interval '15 days')`,[bob]);
+  await client.query(`INSERT INTO user_favorites(user_id,media_id,media_type) VALUES($1,101,'ANIME'),($2,101,'MANGA'),($3,101,'ANIME')`,[alice,bob,privateUser]);
+  await client.query(`INSERT INTO impressions(user_id,hidden) VALUES($1,false),($1,true),($2,false)`,[alice,privateUser]);
+  const publicStatsSql=source.match(/const publicProfileStatsSql=`([\s\S]+?)`;/)?.[1];assert.ok(publicStatsSql,'public profile statistics query must come from the actual server');
+  const bobProfileStats=(await client.query(publicStatsSql,[bob])).rows[0];assert.equal(bobProfileStats.list_total,1);assert.equal(bobProfileStats.manga_total,1);assert.equal(bobProfileStats.total_titles,2);assert.equal(bobProfileStats.manga_completed,1);assert.equal(Number(bobProfileStats.overall_average_score),6.5);assert.ok(Array.isArray(bobProfileStats.statuses));
+  const publicIndexes=(await client.query("SELECT indexname FROM pg_indexes WHERE schemaname=current_schema() AND indexname LIKE '%public_profile%'")).rows.map(row=>row.indexname);assert.ok(publicIndexes.includes('user_anime_public_profile_status_idx'));assert.ok(publicIndexes.includes('user_manga_public_profile_status_idx'));
+  overview=await getCommunityOverview(query);
+  assert.deepEqual(overview.totals,{works:2,reactions:3,completed:2,impressions:1,ratings:3});
+  assert.equal(overview.rankings.filter(r=>r.label==='Amei').length,2,'anime and manga IDs must remain distinct');
+  assert.deepEqual(overview.distribution,[{label:'Amei',count:2},{label:'Chorei',count:1}]);
+  assert.equal(overview.favorites.length,2);assert.ok(overview.favorites.every(r=>r.count===1));
+  assert.equal(overview.dropped[0].dropped,1);assert.equal(overview.dropped[0].completed,1);
+  assert.equal(overview.activeMembers.find(m=>m.username==='bob'&&m.days===7).count,1);
+  assert.equal(overview.activeMembers.find(m=>m.username==='bob'&&m.days===30).count,2);
+  assert.ok(overview.activeMembers.every(m=>!['private','hidden'].includes(m.username)));
+  assert.equal(overview.studios[0].count,2);
+  assert.ok(overview.newMembers.every(m=>m.username!=='private'));
+  const transferMigration=await fs.readFile(new URL('../sql/028_profile_settings_and_list_transfers.sql',import.meta.url),'utf8');
+  await client.query(transferMigration.slice(transferMigration.indexOf('CREATE TABLE IF NOT EXISTS list_transfers')));
+  await client.query(await fs.readFile(new URL('../sql/030_confirmed_list_imports.sql',import.meta.url),'utf8'));
+  const app=Fastify();
+  const imported=[{mediaId:8001,idMal:21,mediaType:'ANIME',title:'Anime importado',status:'CURRENT',score:8,progress:5,volumeProgress:0,updatedAt:1700000000},{mediaId:8001,idMal:21,mediaType:'MANGA',title:'Mangá importado',status:'CURRENT',score:9,progress:20,volumeProgress:3,updatedAt:1700000000}];
+  registerListImportRoutes(app,{
+    requireUser:async req=>({id:req.headers['x-test-user']||alice}),q:(sql,params)=>client.query(sql,params),
+    transaction:async fn=>{await client.query('SAVEPOINT transfer_test');try{const value=await fn(client);await client.query('RELEASE SAVEPOINT transfer_test');return value}catch(error){await client.query('ROLLBACK TO SAVEPOINT transfer_test');throw error}},
+    rateForUser:()=>({}),resolveMal:async(ids,type)=>[{id:8001,idMal:21,mediaType:type,title:'Mapeado'}],importRows:importListRows,
+    persistMedia:async()=>{},summary:row=>({id:row.id,service:row.service,itemCount:row.item_count,skippedCount:row.skipped_count}),refreshAchievements:async()=>{},
+    fetchAniList:async()=>imported,fetchMal:async()=>({account:{username:'Tester',url:'https://myanimelist.net/profile/Tester'},entries:imported})
+  });
+  const preview=async(service,strategy='KEEP')=>(await app.inject({method:'POST',url:'/api/me/list-imports/preview',payload:{service,username:'Tester',types:['ANIME','MANGA'],strategy}})).json();
+  const confirm=(token,user=alice)=>app.inject({method:'POST',url:'/api/me/list-imports/confirm',headers:{'x-test-user':user},payload:{token}});
+  try{
+    const first=await preview('MAL');assert.equal(first.itemCount,2);
+    assert.equal((await client.query('SELECT count(*) FROM user_anime WHERE media_id=8001')).rows[0].count,'0','preview must not change the library');
+    assert.equal((await confirm(first.token,bob)).statusCode,409,'confirmation belongs to one user');
+    let result=await confirm(first.token);assert.equal(result.statusCode,200,result.body);const transfer=result.json().transfer;assert.equal(transfer.service,'MAL');assert.equal(transfer.itemCount,2);
+    result=await confirm(first.token);assert.equal(result.json().transfer.id,transfer.id,'retry must not repeat an import');
+    assert.equal((await client.query('SELECT count(*) FROM list_transfers')).rows[0].count,'1');
+    await client.query('UPDATE user_anime SET progress=77 WHERE user_id=$1 AND media_id=8001',[alice]);
+    result=await confirm((await preview('ANILIST')).token);assert.equal(result.json().transfer.skippedCount,2);
+    assert.equal((await client.query('SELECT progress FROM user_anime WHERE user_id=$1 AND media_id=8001',[alice])).rows[0].progress,77);
+    result=await confirm((await preview('ANILIST','OVERWRITE')).token);assert.equal(result.statusCode,200,result.body);
+    assert.equal((await client.query('SELECT progress FROM user_anime WHERE user_id=$1 AND media_id=8001',[alice])).rows[0].progress,5);
+    assert.equal((await client.query('SELECT volume_progress FROM user_manga WHERE user_id=$1 AND media_id=8001',[alice])).rows[0].volume_progress,3);
+    const expired=await preview('MAL');await client.query("UPDATE list_import_previews SET expires_at=now()-interval '1 minute' WHERE transfer_id IS NULL");assert.equal((await confirm(expired.token)).statusCode,409);
+    assert.equal((await app.inject({method:'POST',url:'/api/me/list-imports/confirm',payload:{token:first.token,username:'someone-else'}})).statusCode,422);
+  }finally{await app.close()}
+  console.log('Media lists, community and confirmed AniList/MAL imports: typed mappings, preview isolation, ownership, expiry, idempotency and conflict strategies verified.');
+}finally{await client.query('ROLLBACK');await client.end()}

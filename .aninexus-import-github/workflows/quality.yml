@@ -1,0 +1,255 @@
+name: AniNexus quality
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: quality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_PASSWORD: ci-media-list
+          POSTGRES_DB: aninexus_test
+        ports: ['5432:5432']
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s --health-timeout 5s --health-retries 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.19.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - name: Install project dependencies
+        run: pnpm install --frozen-lockfile --ignore-scripts
+      - name: Syntax, news, core and smoke contracts
+        run: pnpm run check
+      - name: Media list migration and database persistence
+        env:
+          MEDIA_TEST_DATABASE_URL: postgres://postgres:ci-media-list@127.0.0.1:5432/aninexus_test
+        run: node tests/media-list-database.mjs
+      - name: Validate production frontend assembly
+        run: |
+          pnpm run build:public
+          pnpm run validate:deploy
+      - name: High-severity dependency audit
+        run: pnpm audit --prod --audit-level high --ignore-registry-errors
+      - name: Detect committed secrets
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  production-container:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - name: Validate Docker Compose model
+        env:
+          POSTGRES_PASSWORD: ci-only-password-not-for-production-1234567890
+          REDIS_PASSWORD: ci-only-redis-password-not-for-production-1234567890
+          IP_HASH_SALT: ci-only-ip-salt-not-for-production-1234567890
+          PUBLIC_ORIGIN: https://example.invalid
+        run: docker compose config --quiet
+      - name: Validate safe load-test entrypoints
+        shell: bash
+        run: |
+          node --check scripts/load/local-smoke.mjs
+          node --check scripts/load/staging-ramp.k6.js
+          node scripts/load/local-smoke.mjs --dry-run
+          if LOAD_TARGET=https://aninexus.com.br node scripts/load/local-smoke.mjs --dry-run; then
+            echo 'The load runner accepted production unexpectedly.' >&2
+            exit 1
+          fi
+      - name: Validate Nginx configuration
+        run: |
+          cp nginx.conf /tmp/aninexus-nginx.conf
+          sed -i 's/server app:3000;/server 127.0.0.1:3000;/' /tmp/aninexus-nginx.conf
+          docker run --rm \
+            -v /tmp/aninexus-nginx.conf:/etc/nginx/conf.d/default.conf:ro \
+            nginx:1.27-alpine nginx -t
+          docker run --rm \
+            -v "$PWD/ops/nginx/aninexus-bootstrap.conf:/etc/nginx/conf.d/default.conf:ro" \
+            nginx:1.27-alpine nginx -t
+          mkdir -p /tmp/aninexus-cert/live/187.77.255.164
+          openssl req -x509 -newkey rsa:2048 -nodes -days 1 -subj '/CN=187.77.255.164' \
+            -keyout /tmp/aninexus-cert/live/187.77.255.164/privkey.pem \
+            -out /tmp/aninexus-cert/live/187.77.255.164/fullchain.pem >/dev/null 2>&1
+          mkdir -p /tmp/aninexus-cert/live/aninexus.com.br
+          openssl req -x509 -newkey rsa:2048 -nodes -days 1 -subj '/CN=aninexus.com.br' \
+            -keyout /tmp/aninexus-cert/live/aninexus.com.br/privkey.pem \
+            -out /tmp/aninexus-cert/live/aninexus.com.br/fullchain.pem >/dev/null 2>&1
+          docker run --rm \
+            -v "$PWD/ops/nginx/aninexus.conf:/etc/nginx/conf.d/default.conf:ro" \
+            -v /tmp/aninexus-cert:/etc/letsencrypt:ro \
+            nginx:1.27-alpine nginx -t
+          for script in ops/install-ip-tls.sh ops/install-domain-tls.sh ops/deploy-vps.sh ops/deploy-api-vps.sh; do
+            [ ! -f "$script" ] || bash -n "$script"
+          done
+      - name: Build real production image
+        run: docker build --pull -t aninexus-ci:${{ github.sha }} .
+      - name: Verify V44 shell, radio, navigation, profiles, administration, media and Community inside production image
+        run: |
+          CID=$(docker create aninexus-ci:${{ github.sha }})
+          trap 'docker rm -f "$CID" >/dev/null 2>&1 || true' EXIT
+          docker cp "$CID:/app/public/index.html" /tmp/aninexus-index.html
+          grep -q '2026-09-14-v44.57.1' /tmp/aninexus-index.html
+          for FILE in \
+            preview-v22/detail-stable-v22.js \
+            preview-v38/admin-v38.js \
+            preview-v38/admin-v38.css \
+            preview-v38/profile-v38.js \
+            preview-v38/profile-v38.css \
+            preview-v38/library-v38.js \
+            preview-v39/media-actions-v39.js \
+            preview-v39/media-actions-v39.css \
+            preview-v39/media-sync-v39.js \
+            preview-v40/activity-v40.js \
+            preview-v40/community-v40.js \
+            preview-v40/community-v40.css \
+            preview-v40/home-community-v40.js \
+            preview-v41/product-v41.css \
+            preview-v42/product-v42.css \
+            preview-v42/product-v42.js \
+            preview-v42/social-v50.css \
+            preview-v42/social-v50.js \
+            preview-v42/manga-v42.js \
+            preview-v42/header-v43.css \
+            preview-v42/header-v43.js \
+            preview-v44/avatar-v44.js \
+            preview-v44/achievements-v44.css \
+            preview-v44/achievements-v44.js \
+            preview-v44/experience-v44.css \
+            preview-v44/radio-v44.js \
+            preview-v44/rails-v44.js \
+            preview-v44/discovery-v47.css \
+            preview-v44/discovery-v47.js \
+            preview-v44/lists-v48.css \
+            preview-v44/lists-v48.js \
+            preview-v44/public-profile-v57.css; do
+            OUT="/tmp/$(basename "$FILE")"
+            docker cp "$CID:/app/public/$FILE" "$OUT"
+            test -s "$OUT"
+          done
+
+  browser-e2e:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    strategy:
+      fail-fast: false
+      matrix:
+        project: [chromium, firefox, webkit]
+    steps:
+      - uses: actions/checkout@v6
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.19.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - name: Install project dependencies
+        run: pnpm install --frozen-lockfile --ignore-scripts
+      - name: Install browser test runner
+        run: |
+          while IFS= read -r SOURCE_FILE; do
+            sudo mv "$SOURCE_FILE" "/tmp/$(basename "$SOURCE_FILE").disabled"
+          done < <(grep -rl 'dl.google.com/linux/chrome-stable' /etc/apt/sources.list.d || true)
+          pnpm exec playwright install --with-deps "${{ matrix.project }}"
+      - name: Map GitHub Pages hostname locally
+        run: echo "127.0.0.1 qgbaltigo.github.io" | sudo tee -a /etc/hosts
+      - name: Browser E2E — desktop and mobile
+        env:
+          ANINEXUS_E2E_ORIGIN: http://qgbaltigo.github.io:4173/AniNexus/
+          BROWSER_PROJECT: ${{ matrix.project }}
+        run: |
+          rm -rf /tmp/aninexus-e2e-root
+          mkdir -p /tmp/aninexus-e2e-root/AniNexus
+          rsync -a --exclude '.git' --exclude 'node_modules' ./ /tmp/aninexus-e2e-root/AniNexus/
+          sed -i 's/; upgrade-insecure-requests//' /tmp/aninexus-e2e-root/AniNexus/index.html
+          (cd /tmp/aninexus-e2e-root && python3 -m http.server 4173 > /tmp/aninexus-http.log 2>&1) &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
+          for i in {1..20}; do
+            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/AniNexus/ >/dev/null; then break; fi
+            if [ "$i" = "20" ]; then cat /tmp/aninexus-http.log; exit 1; fi
+            sleep 1
+          done
+          HEAVY_TEST='Catalog mobile menu exposes a complete Top 100 and a full search bar'
+          pnpm exec playwright test tests/e2e.spec.mjs tests/accessibility.spec.mjs tests/media-actions.spec.mjs tests/community-overview.spec.mjs \
+            --project="$BROWSER_PROJECT" --grep-invert "$HEAVY_TEST" --reporter=line --timeout=60000 --retries=1
+          if [ "$BROWSER_PROJECT" != "webkit" ]; then
+            pnpm exec playwright test tests/e2e.spec.mjs --grep "$HEAVY_TEST" \
+              --project="$BROWSER_PROJECT" --reporter=line --timeout=60000 --retries=1
+          fi
+      - name: Show static server log on failure
+        if: failure()
+        run: cat /tmp/aninexus-http.log || true
+      - name: Preserve browser failure evidence
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: browser-failure-${{ matrix.project }}
+          path: test-results/
+          retention-days: 3
+
+  catalog-webkit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v6
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.19.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - name: Install project dependencies
+        run: pnpm install --frozen-lockfile --ignore-scripts
+      - name: Install WebKit test runner
+        run: |
+          while IFS= read -r SOURCE_FILE; do
+            sudo mv "$SOURCE_FILE" "/tmp/$(basename "$SOURCE_FILE").disabled"
+          done < <(grep -rl 'dl.google.com/linux/chrome-stable' /etc/apt/sources.list.d || true)
+          pnpm exec playwright install --with-deps webkit
+      - name: Map GitHub Pages hostname locally
+        run: echo "127.0.0.1 qgbaltigo.github.io" | sudo tee -a /etc/hosts
+      - name: Top 100 mobile on WebKit
+        env:
+          ANINEXUS_E2E_ORIGIN: http://qgbaltigo.github.io:4173/AniNexus/
+        run: |
+          rm -rf /tmp/aninexus-e2e-root
+          mkdir -p /tmp/aninexus-e2e-root/AniNexus
+          rsync -a --exclude '.git' --exclude 'node_modules' ./ /tmp/aninexus-e2e-root/AniNexus/
+          sed -i 's/; upgrade-insecure-requests//' /tmp/aninexus-e2e-root/AniNexus/index.html
+          (cd /tmp/aninexus-e2e-root && python3 -m http.server 4173 > /tmp/aninexus-webkit-http.log 2>&1) &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
+          for i in {1..20}; do
+            if curl --noproxy '*' -fsS http://qgbaltigo.github.io:4173/AniNexus/ >/dev/null; then break; fi
+            if [ "$i" = "20" ]; then cat /tmp/aninexus-webkit-http.log; exit 1; fi
+            sleep 1
+          done
+          pnpm exec playwright test tests/e2e.spec.mjs --grep 'Catalog mobile menu exposes a complete Top 100 and a full search bar' --project=webkit --reporter=line --timeout=60000 --retries=1
+      - name: Show static server log on failure
+        if: failure()
+        run: cat /tmp/aninexus-webkit-http.log || true

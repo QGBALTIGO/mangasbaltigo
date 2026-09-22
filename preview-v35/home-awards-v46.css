@@ -1,0 +1,512 @@
+/* Home-only Crunchyroll Anime Awards presentation. */
+.nx35-home #nx35Awards.nx46-home-awards{
+  width:100%;
+  min-width:0;
+  display:grid;
+  gap:18px;
+}
+
+.nx46-home-awards>*,
+.nx46-home-awards [data-home-award-cards],
+.nx46-home-awards .nx35-edge,
+.nx46-home-awards .nx35-rail{
+  min-width:0;
+  max-width:100%;
+}
+
+.nx46-home-award-stage{
+  position:relative;
+  min-width:0;
+  min-height:390px;
+  display:grid;
+  overflow:hidden;
+  border-radius:8px;
+  background:#0d0a0c;
+}
+
+.nx46-home-award-feature{
+  position:relative;
+  grid-area:1/1;
+  min-width:0;
+  min-height:390px;
+  display:grid;
+  grid-template-columns:minmax(320px,.84fr) minmax(0,1.36fr);
+  overflow:hidden;
+  border:1px solid rgba(232,190,91,.24);
+  border-radius:8px;
+  background:#0d0a0c;
+  isolation:isolate;
+  opacity:1;
+  transform:translateX(0) scale(1);
+  transition:
+    opacity .62s cubic-bezier(.22,.61,.36,1),
+    transform .62s cubic-bezier(.22,.61,.36,1);
+  will-change:opacity,transform;
+}
+
+.nx46-home-award-feature.is-entering{
+  z-index:2;
+  opacity:0;
+  transform:translateX(18px) scale(.997);
+  pointer-events:none;
+}
+
+.nx46-home-award-feature.is-current{
+  z-index:2;
+}
+
+.nx46-home-award-feature[data-open-anime]{
+  cursor:pointer;
+}
+
+.nx46-home-award-feature[data-open-anime]:focus-visible{
+  outline:2px solid #e7bd5e;
+  outline-offset:-4px;
+}
+
+.nx46-home-award-feature.is-leaving{
+  z-index:1;
+  opacity:0;
+  transform:translateX(-12px) scale(.997);
+  pointer-events:none;
+}
+
+.nx46-home-award-feature-art{
+  position:relative;
+  grid-column:2;
+  grid-row:1;
+  min-width:0;
+  min-height:390px;
+  overflow:hidden;
+  background:#17120e;
+}
+
+.nx46-home-award-feature-art>img,
+.nx46-home-award-feature-shade{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+}
+
+.nx46-home-award-feature-art>img{
+  display:block;
+  object-fit:cover;
+  object-position:center;
+  filter:saturate(1.04) contrast(1.025);
+  transform:scale(1.012);
+  transition:transform 7.4s cubic-bezier(.2,.65,.3,1);
+}
+
+.nx46-home-award-feature.is-current .nx46-home-award-feature-art>img{
+  transform:scale(1.038);
+}
+
+.nx46-home-award-feature-shade{
+  z-index:1;
+  background:
+    linear-gradient(90deg,#0d0a0c 0%,rgba(13,10,12,.86) 10%,rgba(13,10,12,.28) 31%,transparent 51%),
+    linear-gradient(0deg,rgba(13,10,12,.72) 0%,rgba(13,10,12,.12) 30%,transparent 55%);
+  pointer-events:none;
+}
+
+.nx46-home-award-feature-copy{
+  position:relative;
+  z-index:3;
+  grid-column:1;
+  grid-row:1;
+  min-width:0;
+  min-height:390px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  padding:32px 20px 28px 32px;
+  background:linear-gradient(90deg,#0d0a0c 0%,#0d0a0c 80%,rgba(13,10,12,.82) 100%);
+  opacity:1;
+  transform:translateY(0);
+  transition:
+    opacity .28s ease .22s,
+    transform .46s cubic-bezier(.22,.61,.36,1) .16s;
+}
+
+.nx46-home-award-feature.is-entering .nx46-home-award-feature-copy{
+  opacity:0;
+  transform:translateY(8px);
+}
+
+.nx46-home-award-feature.is-leaving .nx46-home-award-feature-copy{
+  opacity:0;
+  transform:translateY(-5px);
+  transition-duration:.18s,.28s;
+  transition-delay:0s;
+}
+
+.nx46-home-award-mark{
+  width:max-content;
+  min-height:30px;
+  display:inline-flex;
+  align-items:center;
+  gap:7px;
+  margin-bottom:16px;
+  padding:0 11px;
+  border-radius:15px;
+  background:#fff8dc;
+  color:#5b430d;
+  box-shadow:0 7px 24px rgba(0,0,0,.18);
+}
+
+.nx46-home-award-mark svg{
+  width:15px;
+  height:15px;
+  stroke-width:2;
+}
+
+.nx46-home-award-mark b{
+  font-size:10px;
+  font-weight:900;
+  text-transform:uppercase;
+}
+
+.nx46-home-award-category{
+  margin:0 0 7px;
+  color:#e7bd5e;
+  font-size:11px;
+  font-weight:900;
+  text-transform:uppercase;
+}
+
+.nx46-home-award-feature h3{
+  max-width:520px;
+  margin:0;
+  color:#fff;
+  font:800 32px/1.06 'Manrope',sans-serif;
+  overflow-wrap:anywhere;
+}
+
+.nx46-home-award-work{
+  margin:10px 0 0;
+  color:#eee5e8;
+  font-size:15px;
+  line-height:1.35;
+  font-weight:800;
+}
+
+.nx46-home-award-credit{
+  margin:6px 0 0;
+  color:#aaa0a4;
+  font-size:12px;
+  line-height:1.35;
+  font-weight:700;
+}
+
+.nx46-home-award-placeholder{
+  position:absolute;
+  inset:0;
+  display:grid;
+  place-content:center;
+  justify-items:center;
+  gap:9px;
+  background:#17120e;
+  color:#c8a551;
+}
+
+.nx46-home-award-placeholder svg{
+  width:32px;
+  height:32px;
+}
+
+.nx46-home-award-placeholder b{
+  text-align:center;
+  font:800 10px/1.2 'Manrope',sans-serif;
+}
+
+.nx46-home-awards-list-head{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:16px;
+  padding:4px 2px 0;
+}
+
+.nx46-home-awards-list-head div{
+  display:grid;
+  gap:3px;
+}
+
+.nx46-home-awards-list-head small{
+  color:#a8863d;
+  font-size:8px;
+  font-weight:900;
+}
+
+.nx46-home-awards-list-head strong{
+  color:#eee7e9;
+  font-size:15px;
+  font-weight:800;
+}
+
+.nx46-home-awards-list-head>span{
+  color:#81767b;
+  font-size:10px;
+  font-weight:700;
+}
+
+.nx35-home .nx35-awards-rail.nx46-home-awards-rail{
+  grid-auto-columns:286px;
+  gap:10px;
+  padding-top:2px;
+}
+
+.nx46-home-award-card{
+  width:100%;
+  height:126px;
+  display:grid;
+  grid-template-columns:84px minmax(0,1fr);
+  gap:13px;
+  overflow:hidden;
+  padding:0 13px 0 0;
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:8px;
+  background:#121012;
+  color:#eee7e9;
+  cursor:pointer;
+  text-align:left;
+  transition:background-color .16s ease,border-color .16s ease,transform .16s ease;
+}
+
+.nx46-home-award-card:hover{
+  transform:translateY(-2px);
+  border-color:rgba(232,190,91,.32);
+  background:#181411;
+}
+
+.nx46-home-award-card.is-active{
+  border-color:#c7a14c;
+  background:#1a150f;
+  box-shadow:inset 0 -2px #c7a14c;
+}
+
+.nx46-home-award-card-art{
+  position:relative;
+  min-width:0;
+  height:124px;
+  overflow:hidden;
+  background:#17120e;
+}
+
+.nx46-home-award-card-art>img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+
+.nx46-home-award-card-art:after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(90deg,transparent 67%,rgba(18,16,18,.8));
+  pointer-events:none;
+}
+
+.nx46-home-award-card-copy{
+  min-width:0;
+  align-self:center;
+  display:grid;
+  gap:6px;
+}
+
+.nx46-home-award-card-copy small{
+  color:#d9b557;
+  font-size:8px;
+  line-height:1.25;
+  font-weight:900;
+  text-transform:uppercase;
+}
+
+.nx46-home-award-card-copy strong{
+  color:#f5eff1;
+  font-size:13px;
+  line-height:1.25;
+  font-weight:800;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:3;
+  overflow:hidden;
+  overflow-wrap:anywhere;
+}
+
+.nx46-home-award-card-copy>span{
+  color:#8f8589;
+  font-size:9px;
+  line-height:1.3;
+  font-weight:700;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+  overflow:hidden;
+}
+
+.nx46-home-award-card .nx46-home-award-placeholder{
+  gap:5px;
+}
+
+.nx46-home-award-card .nx46-home-award-placeholder svg{
+  width:23px;
+  height:23px;
+}
+
+.nx46-home-award-card .nx46-home-award-placeholder b{
+  font-size:7px;
+}
+
+html[data-theme="light"] .nx46-home-awards-list-head strong{
+  color:#34272d;
+}
+
+html[data-theme="light"] .nx46-home-award-card{
+  border-color:rgba(55,33,43,.12);
+  background:#fff;
+  color:#34272d;
+  box-shadow:0 6px 18px rgba(55,33,43,.06);
+}
+
+html[data-theme="light"] .nx46-home-award-card:hover,
+html[data-theme="light"] .nx46-home-award-card.is-active{
+  border-color:#b48b32;
+  background:#fffaf0;
+}
+
+html[data-theme="light"] .nx46-home-award-card-copy strong{
+  color:#34272d;
+}
+
+html[data-theme="light"] .nx46-home-award-card-copy>span{
+  color:#74696e;
+}
+
+@media(max-width:860px){
+  .nx35-home #nx35Awards.nx46-home-awards{
+    gap:15px;
+  }
+
+  .nx46-home-award-stage{
+    min-height:0;
+  }
+
+  .nx46-home-award-feature{
+    min-height:0;
+    display:grid;
+    grid-template-columns:minmax(0,1fr);
+    grid-template-rows:auto auto;
+  }
+
+  .nx46-home-award-feature-art{
+    position:relative;
+    grid-column:1;
+    grid-row:1;
+    width:100%;
+    height:auto;
+    min-height:0;
+    aspect-ratio:16/9;
+  }
+
+  .nx46-home-award-feature-art>img{
+    object-position:center;
+  }
+
+  .nx46-home-award-feature-shade{
+    background:
+      linear-gradient(0deg,#0d0a0c 0%,rgba(13,10,12,.72) 22%,rgba(13,10,12,.16) 57%,transparent 78%),
+      linear-gradient(90deg,rgba(13,10,12,.12),transparent 28%,transparent 72%,rgba(13,10,12,.12));
+  }
+
+  .nx46-home-award-feature-copy{
+    grid-column:1;
+    grid-row:2;
+    width:100%;
+    min-height:0;
+    justify-content:flex-start;
+    margin-top:-48px;
+    padding:32px 24px 24px;
+    background:linear-gradient(180deg,transparent 0,#0d0a0c 48px,#0d0a0c 100%);
+  }
+
+  .nx46-home-award-mark{
+    position:relative;
+    z-index:2;
+    margin:0 0 13px;
+  }
+
+  .nx46-home-award-feature h3{
+    max-width:100%;
+    font-size:28px;
+    line-height:1.08;
+  }
+
+  .nx46-home-award-work{
+    font-size:13px;
+  }
+
+  .nx35-home .nx35-awards-rail.nx46-home-awards-rail{
+    grid-auto-columns:260px;
+  }
+}
+
+@media(max-width:430px){
+  .nx46-home-awards-list-head{
+    align-items:flex-start;
+    flex-direction:column;
+    gap:5px;
+  }
+
+  .nx46-home-award-feature-copy{
+    padding-inline:17px;
+    padding-bottom:20px;
+  }
+
+  .nx46-home-award-feature h3{
+    font-size:24px;
+  }
+
+  .nx35-home .nx35-awards-rail.nx46-home-awards-rail{
+    grid-auto-columns:245px;
+  }
+
+  .nx46-home-award-card{
+    grid-template-columns:78px minmax(0,1fr);
+    gap:11px;
+  }
+}
+
+@media(max-width:360px){
+  .nx46-home-award-feature-copy{
+    margin-top:-48px;
+    padding-inline:15px;
+  }
+
+  .nx46-home-award-feature h3{
+    font-size:22px;
+  }
+
+  .nx46-home-award-work{
+    font-size:12px;
+  }
+
+}
+
+@media(prefers-reduced-motion:reduce){
+  .nx46-home-award-card,
+  .nx46-home-award-feature{
+    transition:none;
+  }
+
+  .nx46-home-award-feature-art>img{
+    transform:none!important;
+    transition:none;
+  }
+
+  .nx46-home-award-feature-copy{
+    transition:none;
+  }
+}
