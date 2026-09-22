@@ -1,5 +1,5 @@
 'use strict';
-const CACHE = 'aninexus-shell-v44-18-0';
+const CACHE = 'mangas-baltigo-shell-v62-1';
 const HOME = new URL('./', self.registration.scope).href;
 
 self.addEventListener('install', event => {
@@ -14,7 +14,7 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys()
-      .then(keys => Promise.all(keys.filter(key => key.startsWith('aninexus-') && key !== CACHE).map(key => caches.delete(key))))
+      .then(keys => Promise.all(keys.filter(key => (key.startsWith('aninexus-') || key.startsWith('mangas-baltigo-')) && key !== CACHE).map(key => caches.delete(key))))
       .then(() => self.clients.claim())
   );
 });
