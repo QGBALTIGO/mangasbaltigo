@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-24T10:12:54.940Z",
+  "generatedAt": "2026-09-24T15:14:39.898Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
-  "total": 3,
+  "total": 4,
   "items": [
+    {
+      "id": "IDxFrIfaUbE",
+      "videoId": "IDxFrIfaUbE",
+      "title": "Cyberpunk: Edgerunners 2 ganha prévia de fuga da Arasaka",
+      "articleTitle": "Cyberpunk: Edgerunners 2 ganha prévia de fuga da Arasaka",
+      "kind": "TRAILER",
+      "publishedAt": "2026-09-24T15:12:45.000Z",
+      "source": "AnimeNew",
+      "articlePath": "/noticias/cyberpunk-edgerunners-2-ganha-previa-de-fuga-da-arasaka-animenew-485e1d86",
+      "thumbnail": "https://i.ytimg.com/vi/IDxFrIfaUbE/maxresdefault.jpg",
+      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/09/Cyberpunk-Edgerunners-2-ganha-previa-de-fuga-da-Arasaka.webp"
+    },
     {
       "id": "sAJ_nczJnJM",
       "videoId": "sAJ_nczJnJM",

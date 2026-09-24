@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:12:54.940Z",
+  "generatedAt": "2026-09-24T15:14:39.898Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -60,14 +60,231 @@
     "newStories": 21,
     "fullArticles": 21,
     "previewArticles": 0,
-    "avgWords": 429,
+    "avgWords": 430,
     "withHeroImage": 21,
     "withOrderedMedia": 19,
     "skippedTranslation": 0,
     "skippedQuality": 24,
-    "durationMs": 4531
+    "durationMs": 3657
   },
   "items": [
+    {
+      "id": "animenew-485e1d86",
+      "slug": "cyberpunk-edgerunners-2-ganha-previa-de-fuga-da-arasaka-animenew-485e1d86",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Cyberpunk: Edgerunners 2 ganha prévia de fuga da Arasaka",
+      "originalTitle": "Cyberpunk: Edgerunners 2 ganha prévia de fuga da Arasaka",
+      "summary": "A Netflix divulgou uma nova prévia de Cyberpunk: Edgerunners 2, destacando uma sequência de fuga de um prédio da Arasaka. O anime estreia no dia 20 de outubro de 2026, assim o vídeo apresenta um novo trecho da história, que terá 10 episódios e será independente da primeira temporada.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Animes",
+        "Notícias",
+        "Cyberpunk",
+        "Cyberpunk Edgerunners"
+      ],
+      "url": "https://animenew.com.br/cyberpunk-edgerunners-2-previa-fuga-arasaka",
+      "sourceUrl": "https://animenew.com.br/cyberpunk-edgerunners-2-previa-fuga-arasaka",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/09/Cyberpunk-Edgerunners-2-ganha-previa-de-fuga-da-Arasaka.webp",
+      "mediaQuery": "Cyberpunk: Edgerunners 2 ganha prévia de fuga da Arasaka",
+      "mediaType": "anime",
+      "mediaGallery": [],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/IDxFrIfaUbE"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A Netflix divulgou uma nova prévia de Cyberpunk: Edgerunners 2, destacando uma sequência de fuga de um prédio da Arasaka. O anime estreia no dia 20 de outubro de 2026, assim o vídeo apresenta um novo trecho da história, que terá 10 episódios e será independente da primeira temporada.",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "Netflix",
+              "href": "https://animenew.com.br/tag/netflix/"
+            },
+            {
+              "text": " divulgou uma nova prévia de "
+            },
+            {
+              "text": "Cyberpunk: Edgerunners 2",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", destacando uma sequência de fuga de um prédio da Arasaka. O "
+            },
+            {
+              "text": "anime",
+              "href": "https://animenew.com.br/animes"
+            },
+            {
+              "text": " estreia no dia 20 de outubro de 2026, assim o vídeo apresenta um novo trecho da história, que terá 10 episódios e será independente da primeira temporada."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "JoJo: Steel Ball Run revela música de abertura",
+              "runs": [
+                {
+                  "text": "JoJo: Steel Ball Run revela música de abertura",
+                  "href": "https://animenew.com.br/jojo-steel-ball-run-abertura-kroi-spin"
+                }
+              ]
+            },
+            {
+              "text": "Daemons of the Shadow Realm terá 2ª temporada",
+              "runs": [
+                {
+                  "text": "Daemons of the Shadow Realm terá 2ª temporada",
+                  "href": "https://animenew.com.br/daemons-of-the-shadow-realm-2-temporada"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A trama se passa novamente no universo de Cyberpunk 2077 e acompanha uma história de redenção e vingança.",
+          "runs": [
+            {
+              "text": "A trama se passa novamente no universo de Cyberpunk 2077 e acompanha uma história de redenção e vingança."
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=IDxFrIfaUbE",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/IDxFrIfaUbE"
+        },
+        {
+          "type": "heading",
+          "text": "Novo elenco e produção",
+          "runs": [
+            {
+              "text": "Novo elenco e produção"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Portanto o elenco japonês conta com Momoka Terasawa como Roman Carax, Akari Kito como Talia Yang, Koki Uchiyama como D e Kentaro Tone como Weak Kingsley.",
+          "runs": [
+            {
+              "text": "Portanto o elenco japonês conta com Momoka Terasawa como Roman Carax, Akari Kito como Talia Yang, Koki Uchiyama como D e Kentaro Tone como Weak Kingsley."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Kai Ikarashi, que trabalhou na primeira temporada como animador, diretor de animação e artista de storyboard, assume a direção em sua estreia no cargo. Bartosz Sztybor retorna como roteirista e produtor, enquanto Ichigo Kanno atua como designer principal de personagens.",
+          "runs": [
+            {
+              "text": "Kai Ikarashi, que trabalhou na primeira temporada como animador, diretor de animação e artista de storyboard, assume a direção em sua estreia no cargo. Bartosz Sztybor retorna como roteirista e produtor, enquanto Ichigo Kanno atua como designer principal de personagens."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A abertura será “10:15 Saturday Night”, do The Cure, enquanto “Watson”, de Petite Meller, ficará responsável pelo encerramento. RICO NASTY também participa com a música “YOU CAN’T RUN FROM ME”.",
+          "runs": [
+            {
+              "text": "A abertura será “10:15 Saturday Night”, do The Cure, enquanto “Watson”, de Petite Meller, ficará responsável pelo encerramento. RICO NASTY também participa com a música “YOU CAN’T RUN FROM ME”."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Cyberpunk: Edgerunners 2 será lançado exclusivamente pela Netflix em 20 de outubro. Ademais a primeira temporada, produzida pelo Studio Trigger, estreou na plataforma em setembro de 2022.",
+          "runs": [
+            {
+              "text": "Cyberpunk: Edgerunners 2",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " será lançado exclusivamente pela Netflix em 20 de outubro. Ademais a primeira temporada, produzida pelo "
+            },
+            {
+              "text": "Studio Trigger",
+              "href": "https://animenew.com.br/studio/803/trigger"
+            },
+            {
+              "text": ", estreou na plataforma em setembro de 2022."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Cyberpunk: Edgerunners 2 ganha prévia de fuga da Arasaka.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Cyberpunk: Edgerunners 2 ganha prévia de fuga da Arasaka",
+              "href": "https://animenew.com.br/cyberpunk-edgerunners-2-previa-fuga-arasaka/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-09-24T15:12:45.000Z",
+      "updatedAt": "2026-09-24T15:12:45.000Z",
+      "expiresAt": "2026-10-01T15:12:45.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/cyberpunk-edgerunners-2-previa-fuga-arasaka",
+          "publishedAt": "2026-09-24T15:12:45.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 231,
+      "qualityScore": 0.968,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 10,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 0,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-6d10f68e",
       "slug": "street-fighter-6-ganha-colaboracao-com-star-detective-precure-jbox-6d10f68e",
@@ -6090,254 +6307,6 @@
         "blocks": 15,
         "sourceCount": 1,
         "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 0,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-c3863c61",
-      "slug": "gachiakuta-breakout-ganha-trailer-de-gameplay-animenew-c3863c61",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Gachiakuta: BREAKOUT ganha trailer de gameplay",
-      "originalTitle": "Gachiakuta: BREAKOUT ganha trailer de gameplay",
-      "summary": "A Com2uS Group revelou o título oficial GACHIAKUTA: BREAKOUT, novo RPG de ação baseado no mangá Gachiakuta, durante a transmissão Xbox Tokyo Game Show 2026.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Games",
-        "Notícias",
-        "Com2uS Group",
-        "Gachiakuta",
-        "GACHIAKUTA: BREAKOUT"
-      ],
-      "url": "https://animenew.com.br/gachiakuta-breakout-trailer-gameplay",
-      "sourceUrl": "https://animenew.com.br/gachiakuta-breakout-trailer-gameplay",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/09/Gachiakuta-BREAKOUT-ganha-trailer-de-gameplay.webp",
-      "mediaQuery": "Gachiakuta: BREAKOUT ganha trailer de gameplay",
-      "mediaType": "anime",
-      "mediaGallery": [],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/UYu__vsFa7k"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A Com2uS Group revelou o título oficial GACHIAKUTA: BREAKOUT, novo RPG de ação baseado no mangá Gachiakuta, durante a transmissão Xbox Tokyo Game Show 2026.",
-          "runs": [
-            {
-              "text": "A "
-            },
-            {
-              "text": "Com2uS Group",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " revelou o título oficial "
-            },
-            {
-              "text": "GACHIAKUTA: BREAKOUT",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", novo RPG de ação baseado no "
-            },
-            {
-              "text": "mangá",
-              "href": "https://animenew.com.br/mangas"
-            },
-            {
-              "text": " Gachiakuta, durante a transmissão Xbox Tokyo Game Show 2026."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Naruto Shippuden inicia financiamento para jogo de tabuleiro",
-              "runs": [
-                {
-                  "text": "Naruto Shippuden inicia financiamento para jogo de tabuleiro",
-                  "href": "https://animenew.com.br/naruto-shippuden-battle-campanha-financiamento"
-                }
-              ]
-            },
-            {
-              "text": "Jujutsu Kaisen Rumble: Survivaton é adiado para 2027",
-              "runs": [
-                {
-                  "text": "Jujutsu Kaisen Rumble: Survivaton é adiado para 2027",
-                  "href": "https://animenew.com.br/jujutsu-kaisen-rumble-survivaton-adiado-2027"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O jogo chegará em 2027 para PlayStation 5, Xbox Series X|S e PC via Steam. Antes chamado provisoriamente de Gachiakuta: The Game, o título busca recriar a atmosfera do anime e permitirá aos jogadores explorar seu universo.",
-          "runs": [
-            {
-              "text": "O jogo chegará em 2027 para PlayStation 5, Xbox Series X|S e PC via Steam. Antes chamado provisoriamente de "
-            },
-            {
-              "text": "Gachiakuta: The Game",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", o título busca recriar a atmosfera do "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " e permitirá aos jogadores explorar seu universo."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=UYu__vsFa7k",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/UYu__vsFa7k"
-        },
-        {
-          "type": "paragraph",
-          "text": "O trailer também apresentou cenas de gameplay do RPG de ação com elementos de sobrevivência. A proposta coloca os jogadores dentro do cenário da obra, embora novos detalhes sobre personagens e sistemas ainda não tenham sido divulgados.",
-          "runs": [
-            {
-              "text": "O trailer também apresentou cenas de gameplay do RPG de ação com elementos de sobrevivência. A proposta coloca os jogadores dentro do cenário da obra, embora novos detalhes sobre personagens e sistemas ainda não tenham sido divulgados."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "História de Gachiakuta",
-          "runs": [
-            {
-              "text": "História de Gachiakuta"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A trama acompanha Rudo, um jovem que vive nas favelas de uma cidade flutuante. Após ser acusado injustamente de assassinato, ele recebe como punição o exílio e é lançado ao abismo junto com o lixo descartado pela população.",
-          "runs": [
-            {
-              "text": "A trama acompanha Rudo, um jovem que vive nas favelas de uma cidade flutuante. Após ser acusado injustamente de assassinato, ele recebe como punição o exílio e é lançado ao abismo junto com o lixo descartado pela população.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Portanto o mangá de Kei Urana começou em 2022 na Weekly Shōnen Magazine e atualmente conta com 19 volumes publicados. Por fim Hideyoshi Ando participa do projeto como responsável pelos designs de graffiti.",
-          "runs": [
-            {
-              "text": "Portanto o mangá de "
-            },
-            {
-              "text": "Kei Urana",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " começou em 2022 na "
-            },
-            {
-              "text": "Weekly Shōnen Magazine",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e atualmente conta com 19 volumes publicados. Por fim Hideyoshi Ando participa do projeto como responsável pelos designs de graffiti."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Youtube Canal",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "Youtube Canal",
-              "href": "https://www.youtube.com/watch?v=UYu__vsFa7k"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Gachiakuta: BREAKOUT ganha trailer de gameplay.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Gachiakuta: BREAKOUT ganha trailer de gameplay",
-              "href": "https://animenew.com.br/gachiakuta-breakout-trailer-gameplay/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-09-18T01:45:48.000Z",
-      "updatedAt": "2026-09-18T01:45:48.000Z",
-      "expiresAt": "2026-09-25T01:45:48.000Z",
-      "category": "Trailers",
-      "eventType": "TRAILER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/gachiakuta-breakout-trailer-gameplay",
-          "publishedAt": "2026-09-18T01:45:48.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 1,
-      "wordCount": 210,
-      "qualityScore": 0.906,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 10,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
         "contentMode": "full",
         "mediaCount": 0,
         "embedCount": 1,
