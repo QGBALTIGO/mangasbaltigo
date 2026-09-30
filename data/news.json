@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:58:11.991Z",
+  "generatedAt": "2026-09-30T15:51:50.695Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -19,7 +19,7 @@
       "name": "JBox",
       "ok": true,
       "enabled": true,
-      "count": 40,
+      "count": 41,
       "mode": "wp-rest",
       "errors": []
     },
@@ -54,20 +54,845 @@
     }
   ],
   "stats": {
-    "collected": 50,
-    "grouped": 23,
-    "published": 23,
-    "newStories": 23,
-    "fullArticles": 23,
+    "collected": 51,
+    "grouped": 24,
+    "published": 24,
+    "newStories": 24,
+    "fullArticles": 24,
     "previewArticles": 0,
-    "avgWords": 432,
-    "withHeroImage": 23,
-    "withOrderedMedia": 21,
+    "avgWords": 435,
+    "withHeroImage": 24,
+    "withOrderedMedia": 22,
     "skippedTranslation": 0,
     "skippedQuality": 26,
-    "durationMs": 4533
+    "durationMs": 2928
   },
   "items": [
+    {
+      "id": "jbox-21d9f4d4",
+      "slug": "naruto-tera-nova-minisserie-em-anime-detalhes-serao-revelados-na-new-york-comic-con-jbox-21d9f4d4",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "‘Naruto’ terá nova minissérie em animê; detalhes serão revelados na New York Comic Con",
+      "originalTitle": "‘Naruto’ terá nova minissérie em animê; detalhes serão revelados na New York Comic Con",
+      "summary": "A VIZ Media já havia confirmado um painel de Naruto durante a New York Comic Con de 2026, com o anúncio de um novo projeto.",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Eventos",
+        "Minissérie de Naruto",
+        "Naruto",
+        "New York Comic-Con",
+        "novo projeto de Naruto",
+        "viz media"
+      ],
+      "url": "https://www.jbox.com.br/2026/09/30/naruto-tera-nova-minisserie-em-anime-detalhes-serao-revelados-na-new-york-comic-con",
+      "sourceUrl": "https://www.jbox.com.br/2026/09/30/naruto-tera-nova-minisserie-em-anime-detalhes-serao-revelados-na-new-york-comic-con",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2025/09/narutoshippuden-destacada.jpg",
+      "mediaQuery": "‘Naruto’ terá nova minissérie em animê; detalhes serão revelados na New York Comic Con",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/Novo-anime-de-naruto.png",
+          "alt": "Redes sociais de Naruto",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/G2B8oLsZNeU"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A VIZ Media já havia confirmado um painel de Naruto durante a New York Comic Con de 2026, com o anúncio de um novo projeto.",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "VIZ Media",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " já havia "
+            },
+            {
+              "text": "confirmado um painel de ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/20/naruto-tera-novo-projeto-anunciado-na-new-york-comic-con-2026/"
+            },
+            {
+              "text": "Naruto",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/20/naruto-tera-novo-projeto-anunciado-na-new-york-comic-con-2026/"
+            },
+            {
+              "text": " durante a New York Comic Con de 2026",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/20/naruto-tera-novo-projeto-anunciado-na-new-york-comic-con-2026/"
+            },
+            {
+              "text": ", com o anúncio de um novo projeto."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Agora, segundo as redes sociais oficiais da franquia, o evento vai divulgar detalhes de uma nova série limitada em animê.",
+          "runs": [
+            {
+              "text": "Agora, segundo as redes sociais oficiais da franquia, o evento vai divulgar detalhes de uma nova série limitada em animê."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/Novo-anime-de-naruto.png",
+          "alt": "Redes sociais de Naruto"
+        },
+        {
+          "type": "paragraph",
+          "text": "Com a aproximação do evento, mais detalhes foram divulgados | X/Reprodução",
+          "runs": [
+            {
+              "text": "Com a aproximação do evento, mais detalhes foram divulgados | X/Reprodução"
+            }
+          ]
+        },
+        {
+          "type": "blockquote",
+          "text": "“Notícias empolgantes de Naruto estão chegando à New York Comic Con 2026. Detalhes sobre a nova minissérie em animê para a TV serão revelados durante a apresentação especial da franquia. Não consegue ir até o evento? Confira a transmissão mundial no YouTube. Não perca.”",
+          "runs": [
+            {
+              "text": "“Notícias empolgantes de Naruto estão chegando à New York Comic Con 2026. Detalhes sobre a nova minissérie em animê para a TV serão revelados durante a apresentação especial da franquia. Não consegue ir até o evento? Confira a transmissão mundial no YouTube. Não perca.”",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Vale lembrar que, em agosto de 2023, uma minissérie de quatro episódios da franquia foi adiada por tempo indeterminado, para “melhorar a qualidade do material”. No momento, não é possível saber se o novo projeto tem alguma ligação com isso, mas tudo deve ficar claro após a apresentação no evento.",
+          "runs": [
+            {
+              "text": "Vale lembrar que, em agosto de 2023, "
+            },
+            {
+              "text": "uma minissérie de quatro episódios da franquia foi adiada por tempo indeterminado",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2023/08/29/naruto-minisserie-especial-e-adiada-indefinidamente/"
+            },
+            {
+              "text": ", para “melhorar a qualidade do material”. No momento, não é possível saber se o novo projeto tem alguma ligação com isso, mas tudo deve ficar claro após a apresentação no evento."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O painel está marcado para acontecer das 17h às 18h do dia 10 de outubro, em horário local, o que corresponde ao período das 18h às 19h no horário de Brasília. Estarão presentes Junko Takeuchi, voz original de Naruto Uzumaki, e Noriaki Sugiyama, voz original de Sasuke Uchiha, e a página da live no YouTube já está disponível:",
+          "runs": [
+            {
+              "text": "O painel está marcado para acontecer das 17h às 18h do dia 10 de outubro, em horário local, "
+            },
+            {
+              "text": "o",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "que corresponde ao período das 18h às 19h no horário de Brasília",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Estarão presentes "
+            },
+            {
+              "text": "Junko Takeuchi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", voz original de Naruto Uzumaki, e"
+            },
+            {
+              "text": " Noriaki Sugiyama",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", voz original de Sasuke Uchiha, e a página da live no "
+            },
+            {
+              "text": "YouTube",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " já está disponível:"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=G2B8oLsZNeU",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/G2B8oLsZNeU"
+        },
+        {
+          "type": "paragraph",
+          "text": "A VIZ Media segue investindo no universo de Naruto, que a empresa definiu como “o animê mais reconhecível do mundo” em entrevista recente ao JBox. E a franquia deve se expandir ainda mais nos próximos anos, com a confirmação da produção do filme live-action norte-americano.",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "VIZ Media",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " segue investindo no universo de "
+            },
+            {
+              "text": "Naruto",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", que a empresa definiu como"
+            },
+            {
+              "text": " “o animê mais reconhecível do mundo”",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "em entrevista recente ao ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/14/viz-media-fala-sobre-o-mercado-brasileiro-de-consumo-de-animes-e-promete-novidades-para-naruto-entrevista/"
+            },
+            {
+              "text": "JBox",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/14/viz-media-fala-sobre-o-mercado-brasileiro-de-consumo-de-animes-e-promete-novidades-para-naruto-entrevista/"
+            },
+            {
+              "text": ". E a franquia deve se expandir ainda mais nos próximos anos, com a confirmação da produção do "
+            },
+            {
+              "text": "filme live-action norte-americano",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/07/14/filme-live-action-de-naruto-inicia-busca-global-por-trio-de-protagonistas/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A história de Naruto foi escrita e ilustrada por Masashi Kishimoto em 72 volumes, lançados entre 1999 e 2014. A trama segue o protagonista Naruto Uzumaki, que sonha em se tornar um grande ninja e assumir a posição de Hokage, o líder de sua vila. Ao longo da narrativa, outros personagens e tramas são apresentadas, aprofundando o passado dos ninjas e revelando os destinos de Naruto, Sasuke e Sakura.",
+          "runs": [
+            {
+              "text": "A história de"
+            },
+            {
+              "text": " Naruto",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " foi escrita e ilustrada por "
+            },
+            {
+              "text": "Masashi Kishimoto",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " em 72 volumes, lançados entre 1999 e 2014. A trama segue o protagonista Naruto Uzumaki, que sonha em se tornar um grande ninja e assumir a posição de Hokage, o líder de sua vila. Ao longo da narrativa, outros personagens e tramas são apresentadas, aprofundando o passado dos ninjas e revelando os destinos de Naruto, Sasuke e Sakura."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Enquanto o primeiro animê, lançado entre 2002 e 2007, conta a começo da jornada dos personagens, Naruto Shippuden mostra a juventude e desenvolvimento dos poderes da nova geração de ninjas, com lançamento entre 2007 e 2017. Atualmente, Kishimoto assina a publicação de Boruto ao lado de Ukyou Kodachi, contando a história do filho de Naruto.",
+          "runs": [
+            {
+              "text": "Enquanto o primeiro animê, lançado entre 2002 e 2007, conta a começo da jornada dos personagens, "
+            },
+            {
+              "text": "Naruto Shippuden",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " mostra a juventude e desenvolvimento dos poderes da nova geração de ninjas, com lançamento entre 2007 e 2017. Atualmente, Kishimoto assina a publicação de "
+            },
+            {
+              "text": "Boruto",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " ao lado de "
+            },
+            {
+              "text": "Ukyou Kodachi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", contando a história do filho de Naruto."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Para quem deseja retornar à Vila da Folha antes da chegada do live-action, os episódios de Naruto estão disponíveis em plataformas como Crunchyroll, Netflix, HBO Max, Disney+, Pluto TV e Mercado Play. Já o mangá é publicado no Brasil pela Panini.",
+          "runs": [
+            {
+              "text": "Para quem deseja retornar à Vila da Folha antes da chegada do live-action, os episódios de "
+            },
+            {
+              "text": "Naruto",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " estão disponíveis em plataformas como "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Netflix",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "HBO Max, Disney+, Pluto TV",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Mercado Play",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Já o mangá é publicado no Brasil pela"
+            },
+            {
+              "text": " Panini",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fontes: Anime News Network, X de Naruto, Complex",
+          "runs": [
+            {
+              "text": "Fontes:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Anime News Network",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.animenewsnetwork.com/news/2026-09-28/naruto-gets-new-limited-tv-anime-series/.242289"
+            },
+            {
+              "text": ", ",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": "X de Naruto",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://x.com/NARUTO_info_en/status/2104770641530679490"
+            },
+            {
+              "text": ", ",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": "Complex",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.complex.com/pop-culture/a/treyalston/naruto-new-anime-series-nycc-2026"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-09-30T15:49:49.000Z",
+      "updatedAt": "2026-09-30T15:50:19.000Z",
+      "expiresAt": "2026-10-07T15:49:49.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/09/30/naruto-tera-nova-minisserie-em-anime-detalhes-serao-revelados-na-new-york-comic-con",
+          "publishedAt": "2026-09-30T15:49:49.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 3,
+      "wordCount": 443,
+      "qualityScore": 0.998,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 15,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "animenew-254648b4",
+      "slug": "lego-revela-set-de-dragon-ball-com-shenlong-e-goku-animenew-254648b4",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "LEGO revela set de Dragon Ball com Shenlong e Goku",
+      "originalTitle": "LEGO revela set de Dragon Ball com Shenlong e Goku",
+      "summary": "A LEGO revelou um novo set de Dragon Ball inspirado em Shenlong, que inclui as sete Esferas do Dragão, Goku e uma versão do protagonista criança. O conjunto faz parte da linha LEGO Icons e reúne 1.764 peças. A montagem reproduz Shenlong em uma posição imponente, enquanto Goku aparece sobre a nuvem Kintoun.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Animes",
+        "Notícias",
+        "Dragon Ball",
+        "LEGO"
+      ],
+      "url": "https://animenew.com.br/lego-dragon-ball-shenlong-goku",
+      "sourceUrl": "https://animenew.com.br/lego-dragon-ball-shenlong-goku",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/09/LEGO-revela-set-de-Dragon-Ball-com-Shenlong-e-Goku.webp",
+      "mediaQuery": "LEGO revela set de Dragon Ball com Shenlong e Goku",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/09/Lancamento-do-lego-Shenlong-em-Dragon-Ball.webp",
+          "alt": "Lançamento do lego Shenlong em Dragon Ball",
+          "caption": "©BIRD STUDIO/SHUEISHA, TOEI ANIMATION ©2026 The Lego Group"
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/09/LEGO-Shenlong.webp",
+          "alt": "",
+          "caption": "©BIRD STUDIO/SHUEISHA, TOEI ANIMATION ©2026 The Lego Group"
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A LEGO revelou um novo set de Dragon Ball inspirado em Shenlong, que inclui as sete Esferas do Dragão, Goku e uma versão do protagonista criança. O conjunto faz parte da linha LEGO Icons e reúne 1.764 peças. A montagem reproduz Shenlong em uma posição imponente, enquanto Goku aparece sobre a nuvem Kintoun.",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "LEGO",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " revelou um novo set de "
+            },
+            {
+              "text": "Dragon Ball",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " inspirado em "
+            },
+            {
+              "text": "Shenlong",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", que inclui as sete Esferas do Dragão, Goku e uma versão do protagonista criança. O conjunto faz parte da linha LEGO Icons e reúne "
+            },
+            {
+              "text": "1.764 peças",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". A montagem reproduz Shenlong em uma posição imponente, enquanto Goku aparece sobre a nuvem Kintoun."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Naruto ganhará nova série de anime em formato limitado",
+              "runs": [
+                {
+                  "text": "Naruto ganhará nova série de anime em formato limitado",
+                  "href": "https://animenew.com.br/naruto-nova-serie-anime-limitada"
+                }
+              ]
+            },
+            {
+              "text": "Even the Student Council ganha novo trailer nos EUA",
+              "runs": [
+                {
+                  "text": "Even the Student Council ganha novo trailer nos EUA",
+                  "href": "https://animenew.com.br/even-the-student-council-has-its-holes-anime"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O boneco de Goku criança pode ser reposicionado no modelo, permitindo criar diferentes cenas e representar a relação entre o personagem e Shenlong. A própria LEGO Japan usou a clássica frase do dragão: “Faça seu desejo. Concederei apenas um”.",
+          "runs": [
+            {
+              "text": "O boneco de "
+            },
+            {
+              "text": "Goku",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " criança pode ser reposicionado no modelo, permitindo criar diferentes cenas e representar a relação entre o personagem e "
+            },
+            {
+              "text": "Shenlong",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". A própria LEGO Japan usou a clássica frase do dragão: “"
+            },
+            {
+              "text": "Faça seu desejo. Concederei apenas um",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "”."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Lançamento do lego Shenlong em Dragon Ball",
+          "runs": [
+            {
+              "text": "Lançamento do lego Shenlong em Dragon Ball"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/09/Lancamento-do-lego-Shenlong-em-Dragon-Ball.webp",
+          "alt": "Lançamento do lego Shenlong em Dragon Ball",
+          "caption": "©BIRD STUDIO/SHUEISHA, TOEI ANIMATION ©2026 The Lego Group"
+        },
+        {
+          "type": "paragraph",
+          "text": "O LEGO Icons Dragon Ball Shenlong & Goku será lançado em 4 de novembro por US$ 179,99 (Cerca de R$ 927,22 na cotação atual). Membros do LEGO Insider terão acesso antecipado a partir de 1º de novembro.",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "LEGO Icons Dragon Ball Shenlong & Goku",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " será lançado em 4 de novembro por US$ 179,99 (Cerca de R$ 927,22 na cotação atual). Membros do LEGO Insider terão acesso antecipado a partir de 1º de novembro."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/09/LEGO-Shenlong.webp",
+          "caption": "©BIRD STUDIO/SHUEISHA, TOEI ANIMATION ©2026 The Lego Group"
+        },
+        {
+          "type": "paragraph",
+          "text": "A LEGO já investiu em outras franquias de anime e cultura pop japonesa, incluindo One Piece. Em 2026, a empresa também anunciou um especial animado de LEGO One Piece em parceria com a Netflix.",
+          "runs": [
+            {
+              "text": "A LEGO já investiu em outras franquias de anime e cultura pop japonesa, incluindo "
+            },
+            {
+              "text": "One Piece",
+              "href": "https://animenew.com.br/anime/21/one-piece"
+            },
+            {
+              "text": ". Em 2026, a empresa também anunciou um especial animado de LEGO One Piece em parceria com a "
+            },
+            {
+              "text": "Netflix",
+              "href": "https://animenew.com.br/tag/netflix/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Por fim o mangá Dragon Ball, de Akira Toriyama, estreou entre 1984 e 1995 e continua recebendo novas produções. Ademais Dragon Ball Super: Beerus estreia em 11 de outubro no Japão.",
+          "runs": [
+            {
+              "text": "Por fim o mangá "
+            },
+            {
+              "text": "Dragon Ball",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", de Akira Toriyama, estreou entre 1984 e 1995 e continua recebendo novas produções. Ademais "
+            },
+            {
+              "text": "Dragon Ball Super: Beerus",
+              "href": "https://animenew.com.br/temporadas?q=Dragon+Ball"
+            },
+            {
+              "text": " estreia em 11 de outubro no Japão."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Site oficial",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Site oficial",
+              "href": "https://www.lego.com/en-us/product/dragon-ball-shenron-goku-11390"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em LEGO revela set de Dragon Ball com Shenlong e Goku.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "LEGO revela set de Dragon Ball com Shenlong e Goku",
+              "href": "https://animenew.com.br/lego-dragon-ball-shenlong-goku/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-09-30T13:54:49.000Z",
+      "updatedAt": "2026-09-30T13:54:49.000Z",
+      "expiresAt": "2026-10-07T13:54:49.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/lego-dragon-ball-shenlong-goku",
+          "publishedAt": "2026-09-30T13:54:49.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 260,
+      "qualityScore": 0.973,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 11,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 2,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "animenew-781a7214",
       "slug": "even-the-student-council-ganha-novo-trailer-nos-eua-animenew-781a7214",
@@ -5264,274 +6089,6 @@
         "contentMode": "full",
         "mediaCount": 0,
         "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-e687b2a6",
-      "slug": "where-is-the-elf-teacher-s-toilet-ganha-anime-animenew-e687b2a6",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Where is the Elf Teacher’s Toilet? ganha anime",
-      "originalTitle": "Where is the Elf Teacher’s Toilet? ganha anime",
-      "summary": "O mangá Where is the Elf Teacher’s Toilet? (Elf-Sensei no Toire wa Doko Desu ka?), de Chizuna Nakajima, terá uma adaptação para anime de TV. A Kadokawa anunciou a novidade nesta sexta-feira (25). Para marcar o anúncio, Nakajima publicou uma ilustração especial. Até o momento, a produção não teve estúdio, elenco ou previsão de estreia divulgados.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Notícias",
-        "Elf-Sensei no Toire wa Doko Desu ka?",
-        "Kadokawa",
-        "Where is the Elf Teacher's Toilet?"
-      ],
-      "url": "https://animenew.com.br/where-is-the-elf-teachers-toilet-anime",
-      "sourceUrl": "https://animenew.com.br/where-is-the-elf-teachers-toilet-anime",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/09/Where-is-the-Elf-Teachers-Toilet-ganha-anime.webp",
-      "mediaQuery": "Where is the Elf Teacher’s Toilet? ganha anime",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/09/Where-is-the-Elf-Teachers-Toilet.webp",
-          "alt": "Where is the Elf Teacher's Toilet? Anime",
-          "caption": "©中嶋ちずな／KADOKAWA／ウェイブ"
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "O mangá Where is the Elf Teacher’s Toilet? (Elf-Sensei no Toire wa Doko Desu ka?), de Chizuna Nakajima, terá uma adaptação para anime de TV. A Kadokawa anunciou a novidade nesta sexta-feira (25). Para marcar o anúncio, Nakajima publicou uma ilustração especial. Até o momento, a produção não teve estúdio, elenco ou previsão de estreia divulgados.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "mangá",
-              "href": "https://animenew.com.br/mangas"
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Where is the Elf Teacher’s Toilet?",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Elf-Sensei no Toire wa Doko Desu ka?",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "), de Chizuna Nakajima, terá uma adaptação para "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " de TV. A "
-            },
-            {
-              "text": "Kadokawa",
-              "href": "https://animenew.com.br/tag/kadokawa/"
-            },
-            {
-              "text": " anunciou a novidade nesta sexta-feira (25). Para marcar o anúncio, "
-            },
-            {
-              "text": "Nakajima",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " publicou uma ilustração especial. Até o momento, a produção não teve estúdio, elenco ou previsão de estreia divulgados."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "The Fake Alchemist revela elenco e equipe em novo vídeo",
-              "runs": [
-                {
-                  "text": "The Fake Alchemist revela elenco e equipe em novo vídeo",
-                  "href": "https://animenew.com.br/the-fake-alchemist-anime-elenco-equipe"
-                }
-              ]
-            },
-            {
-              "text": "Sekiro: No Defeat será lançado como série de 8 episódios",
-              "runs": [
-                {
-                  "text": "Sekiro: No Defeat será lançado como série de 8 episódios",
-                  "href": "https://animenew.com.br/sekiro-no-defeat-serie-8-episodios"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/09/Where-is-the-Elf-Teachers-Toilet.webp",
-          "alt": "Where is the Elf Teacher's Toilet? Anime",
-          "caption": "©中嶋ちずな／KADOKAWA／ウェイブ"
-        },
-        {
-          "type": "heading",
-          "text": "História Elf Teacher’s Toilet?",
-          "runs": [
-            {
-              "text": "História Elf Teacher’s Toilet?"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A comédia acompanha Eruru, uma aprendiz de professora elfa que veio de outro mundo. Ao chegar ao novo ambiente, ela descobre um problema bastante peculiar: só consegue fazer suas necessidades em uma floresta exuberante.",
-          "runs": [
-            {
-              "text": "A comédia acompanha Eruru, uma aprendiz de professora elfa que veio de outro mundo. Ao chegar ao novo ambiente, ela descobre um problema bastante peculiar: só consegue fazer suas necessidades em uma floresta exuberante.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O mangá começou a ser publicado na revista Comic Cune, da Kadokawa, em janeiro de 2024. A série entrará novamente em publicação neste sábado. A editora lançou o primeiro volume compilado em julho de 2024 e o segundo em fevereiro de 2025.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "mangá",
-              "href": "https://animenew.com.br/mangas"
-            },
-            {
-              "text": " começou a ser publicado na revista "
-            },
-            {
-              "text": "Comic Cune",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", da Kadokawa, em janeiro de 2024. A série entrará novamente em publicação neste sábado. A editora lançou o primeiro volume compilado em julho de 2024 e o segundo em fevereiro de 2025."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Nakajima também é conhecida por Angel’s Drop, mangá de comédia que terminou em 2013 e ganhou um especial de anime produzido pelo estúdio AIC Frontier em 2013.",
-          "runs": [
-            {
-              "text": "Nakajima também é conhecida por "
-            },
-            {
-              "text": "Angel’s Drop",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", mangá de comédia que terminou em 2013 e ganhou um especial de anime produzido pelo "
-            },
-            {
-              "text": "estúdio AIC Frontier",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://animenew.com.br/studio/805/aic-frontier"
-            },
-            {
-              "text": " em 2013."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Comic Natalie",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "Comic Natalie",
-              "marks": [
-                "em"
-              ],
-              "href": "https://natalie.mu/comic/news/690935"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Where is the Elf Teacher’s Toilet? ganha anime.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Where is the Elf Teacher’s Toilet? ganha anime",
-              "href": "https://animenew.com.br/where-is-the-elf-teachers-toilet-anime/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-09-25T14:08:05.000Z",
-      "updatedAt": "2026-09-25T14:08:05.000Z",
-      "expiresAt": "2026-10-02T14:08:05.000Z",
-      "category": "Animes",
-      "eventType": "SEASON",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/where-is-the-elf-teachers-toilet-anime",
-          "publishedAt": "2026-09-25T14:08:05.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 1,
-      "wordCount": 207,
-      "qualityScore": 0.904,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 9,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 0,
         "sourcePagesRead": 0
       }
     },
