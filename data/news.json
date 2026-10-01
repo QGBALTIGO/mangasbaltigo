@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:00:24.288Z",
+  "generatedAt": "2026-10-01T23:05:36.438Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -19,7 +19,7 @@
       "name": "JBox",
       "ok": true,
       "enabled": true,
-      "count": 41,
+      "count": 40,
       "mode": "wp-rest",
       "errors": []
     },
@@ -54,20 +54,354 @@
     }
   ],
   "stats": {
-    "collected": 51,
-    "grouped": 21,
-    "published": 21,
-    "newStories": 21,
-    "fullArticles": 21,
+    "collected": 50,
+    "grouped": 22,
+    "published": 22,
+    "newStories": 22,
+    "fullArticles": 22,
     "previewArticles": 0,
-    "avgWords": 413,
-    "withHeroImage": 21,
-    "withOrderedMedia": 20,
+    "avgWords": 410,
+    "withHeroImage": 22,
+    "withOrderedMedia": 21,
     "skippedTranslation": 0,
-    "skippedQuality": 30,
-    "durationMs": 5698
+    "skippedQuality": 28,
+    "durationMs": 2756
   },
   "items": [
+    {
+      "id": "jbox-2c505854",
+      "slug": "capa-variante-de-amazing-spider-man-1000-faz-homenagem-a-luffy-de-one-piece-jbox-2c505854",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Capa variante de ‘Amazing Spider-Man 1000’ faz homenagem a Luffy, de ‘One Piece’",
+      "originalTitle": "Capa variante de ‘Amazing Spider-Man 1000’ faz homenagem a Luffy, de ‘One Piece’",
+      "summary": "A revista em quadrinhos Amazing Spider-Man, da Marvel Comics, chegou à sua edição 1.000, lançada lá nos Estados Unidos no dia 30 de outubro. Em comemoração, foi reunida uma seleção de artistas que passaram pela trajetória da série ao longo dos anos. Entre as diversas capas variantes produzidas para a edição anunciadas, uma delas chamou a atenção dos fãs de animês e mangás por fazer uma referência ao Monkey D. Luffy, protagonista de One Piece.",
+      "author": "Igor Lunei",
+      "tags": [
+        "Anime",
+        "HQs",
+        "Mangá",
+        "Amazing Spider-Man 1000",
+        "Capa do Homem-Aranha com o Luffy",
+        "homenagem a one piece",
+        "One Piece",
+        "one piece e homem-aranha",
+        "paródia de one piece"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/01/capa-variante-de-amazing-spider-man-1000-faz-homenagem-a-luffy-de-one-piece",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/01/capa-variante-de-amazing-spider-man-1000-faz-homenagem-a-luffy-de-one-piece",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/amazing-spider-man-1000th-issue-mico-suayan-variant-cover-with-luffy.jpg",
+      "mediaQuery": "Capa variante de ‘Amazing Spider-Man 1000’ faz homenagem a Luffy, de ‘One Piece’",
+      "mediaType": "manga",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/amazing-spider-man-1000th-issue-mico-suayan-variant-cover.jpg",
+          "alt": "Imagem da Capa variante da edição 1000 da revista Amazing Spider-Man com o Homem-Aranha fazendo a pose do Luffy, de One Piece",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A revista em quadrinhos Amazing Spider-Man, da Marvel Comics, chegou à sua edição 1.000, lançada lá nos Estados Unidos no dia 30 de outubro. Em comemoração, foi reunida uma seleção de artistas que passaram pela trajetória da série ao longo dos anos. Entre as diversas capas variantes produzidas para a edição anunciadas, uma delas chamou a atenção dos fãs de animês e mangás por fazer uma referência ao Monkey D. Luffy, protagonista de One Piece.",
+          "runs": [
+            {
+              "text": "A revista em quadrinhos "
+            },
+            {
+              "text": "Amazing Spider-Man",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", da "
+            },
+            {
+              "text": "Marvel Comics",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", chegou à sua edição 1.000, lançada lá nos Estados Unidos no dia"
+            },
+            {
+              "text": " 30 de outubro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Em comemoração, foi reunida uma seleção de artistas que passaram pela trajetória da série ao longo dos anos. Entre as diversas capas variantes produzidas para a edição anunciadas, uma delas chamou a atenção dos fãs de animês e mangás por fazer uma referência ao Monkey D. Luffy, protagonista de "
+            },
+            {
+              "text": "One Piece",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Criada por Mico Suayan como uma edição exclusiva da New York Comic Con, que ocorrerá entre os dias 8 e 11 de outubro, a capa variante de Amazing Spider-Man #1000 mostra o Homem-Aranha sem máscara, agachado e com as duas mãos apoiadas nas pernas. A pose recria de maneira bastante próxima a postura característica de Luffy ao ativar o Gear 2, de One Piece:",
+          "runs": [
+            {
+              "text": "Criada por "
+            },
+            {
+              "text": "Mico Suayan",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " como uma edição exclusiva da "
+            },
+            {
+              "text": "New York Comic Con",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": ", que ocorrerá entre os dias 8 e 11 de outubro, a capa variante de "
+            },
+            {
+              "text": "Amazing Spider-Man",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " #1000 mostra o Homem-Aranha sem máscara, agachado e com as duas mãos apoiadas nas pernas. A pose recria de maneira bastante próxima a postura característica de Luffy ao ativar o "
+            },
+            {
+              "text": "Gear 2",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", de "
+            },
+            {
+              "text": "One Piece",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/amazing-spider-man-1000th-issue-mico-suayan-variant-cover.jpg",
+          "alt": "Imagem da Capa variante da edição 1000 da revista Amazing Spider-Man com o Homem-Aranha fazendo a pose do Luffy, de One Piece"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagem: Marvel Comics/Reprodução",
+          "runs": [
+            {
+              "text": "Imagem: Marvel Comics/Reprodução"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Para celebrar o marco, a Marvel preparou uma grande quantidade de capas alternativas para Amazing Spider-Man #1000. Entre os artistas envolvidos estão John Romita Jr., Pepe Larraz, Alex Ross, Mark Bagley, J. Scott Campbell e Steve Ditko, além de uma variante colaborativa de Peach Momoko e Frank Miller.",
+          "runs": [
+            {
+              "text": "Para celebrar o marco, a Marvel preparou uma grande quantidade de capas alternativas para "
+            },
+            {
+              "text": "Amazing Spider-Man",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " #1000. Entre os artistas envolvidos estão John Romita Jr., Pepe Larraz, Alex Ross, Mark Bagley, J. Scott Campbell e Steve Ditko, além de uma variante colaborativa de Peach Momoko e Frank Miller."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A edição também conta com uma capa dupla que homenageia a série animada de Spider-Man de 1967, uma variante da Marvel Studios relacionada a Spider-Man: Brand New Day e uma capa conectada em quatro partes produzida por Todd Nauck.",
+          "runs": [
+            {
+              "text": "A edição também conta com uma capa dupla que homenageia a série animada de "
+            },
+            {
+              "text": "Spider-Man",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " de 1967, uma variante da Marvel Studios relacionada a "
+            },
+            {
+              "text": "Spider-Man: Brand New Day",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " e uma capa conectada em quatro partes produzida por Todd Nauck."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A história principal é escrita por Joe Kelly e desenhada por Pepe Larraz. Nela, o Homem-Aranha enfrenta Ravage, apresentado como seu novo vilão mais assustador em décadas, enquanto descobre que Tia May foi levada às pressas para o hospital. A edição especial também reúne histórias comemorativas de outros autores, incluindo Noah Hawley, Frank Miller, Dan Slott e Brian Michael Bendis.",
+          "runs": [
+            {
+              "text": "A história principal é escrita por Joe Kelly e desenhada por Pepe Larraz. Nela, o Homem-Aranha enfrenta Ravage, apresentado como seu novo vilão mais assustador em décadas, enquanto descobre que Tia May foi levada às pressas para o hospital. A edição especial também reúne histórias comemorativas de outros autores, incluindo Noah Hawley, Frank Miller, Dan Slott e Brian Michael Bendis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "No Brasil, os gibis do Homem-Aranha saem pela editora Panini, mas a edição mencionada nesta notícia corresponde ao lançamento norte-americano.",
+          "runs": [
+            {
+              "text": "No Brasil, os gibis do "
+            },
+            {
+              "text": "Homem-Aranha",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " saem pela editora "
+            },
+            {
+              "text": "Panini",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", mas a edição mencionada nesta notícia corresponde ao lançamento norte-americano."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Toy People News",
+          "runs": [
+            {
+              "text": "Fonte:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Toy People News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://www.toy-people.com/en/?p=114914"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-01T21:54:50.000Z",
+      "updatedAt": "2026-10-01T21:55:25.000Z",
+      "expiresAt": "2026-10-08T21:54:50.000Z",
+      "category": "Mangás & novels",
+      "eventType": "MANGA",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/01/capa-variante-de-amazing-spider-man-1000-faz-homenagem-a-luffy-de-one-piece",
+          "publishedAt": "2026-10-01T21:54:50.000Z",
+          "author": "Igor Lunei"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 330,
+      "qualityScore": 0.98,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 11,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-dda6b1fc",
       "slug": "netflix-confirma-transmissao-de-dragon-ball-super-beerus-no-brasil-jbox-dda6b1fc",
@@ -5379,7 +5713,7 @@
       "sourceCount": 1,
       "readingMinutes": 6,
       "wordCount": 1240,
-      "qualityScore": 1,
+      "qualityScore": 0.97,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -5716,7 +6050,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 341,
-      "qualityScore": 0.984,
+      "qualityScore": 0.924,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
