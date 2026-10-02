@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T15:05:07.024Z",
+  "generatedAt": "2026-10-02T19:55:19.664Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,1084 @@
   ],
   "stats": {
     "collected": 50,
-    "grouped": 20,
-    "published": 20,
-    "newStories": 20,
-    "fullArticles": 20,
+    "grouped": 19,
+    "published": 19,
+    "newStories": 19,
+    "fullArticles": 19,
     "previewArticles": 0,
-    "avgWords": 398,
-    "withHeroImage": 20,
-    "withOrderedMedia": 19,
+    "avgWords": 399,
+    "withHeroImage": 19,
+    "withOrderedMedia": 18,
     "skippedTranslation": 0,
     "skippedQuality": 30,
-    "durationMs": 4587
+    "durationMs": 3197
   },
   "items": [
+    {
+      "id": "jbox-db0e0ed4",
+      "slug": "livro-making-of-de-akira-e-publicado-pela-darkside-jbox-db0e0ed4",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Livro making of de ‘Akira’ é publicado pela DarkSide",
+      "originalTitle": "Livro making of de ‘Akira’ é publicado pela DarkSide",
+      "summary": "A editora DarkSide publicou essa semana o livro Akira: Making of da Explosão Criativa. A obra pode ser adquirida no site da editora por R$ 99,90 e vem acompanhada de uma cartela de adesivos. Também está aberta a venda pela Amazon.",
+      "author": "Jean Clemente",
+      "tags": [
+        "Anime",
+        "Cinema",
+        "Livros & Revistas",
+        "akira",
+        "DarkSide",
+        "DarkSide Books",
+        "filme akira",
+        "livro de akira",
+        "livro sobre akira",
+        "making of",
+        "making of de akira"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/02/livro-making-of-de-akira-e-publicado-pela-darkside",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/02/livro-making-of-de-akira-e-publicado-pela-darkside",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/livro-akira-darkside-destacada.jpg",
+      "mediaQuery": "Livro making of de ‘Akira’ é publicado pela DarkSide",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/akira-livro-darkside.jpg",
+          "alt": "imagem: capa do livro Akira: Making of da Explosão Criativa",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/akira-livro-darkside-carteladeadesivos.webp",
+          "alt": "imagem: cartela de adesivos do livro de Akira da darkside",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A editora DarkSide publicou essa semana o livro Akira: Making of da Explosão Criativa. A obra pode ser adquirida no site da editora por R$ 99,90 e vem acompanhada de uma cartela de adesivos. Também está aberta a venda pela Amazon.",
+          "runs": [
+            {
+              "text": "A editora "
+            },
+            {
+              "text": "DarkSide",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " publicou essa semana o livro "
+            },
+            {
+              "text": "Akira: Making of da Explosão Criativa",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ". A obra pode ser adquirida no "
+            },
+            {
+              "text": "site da editora",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.darksidebooks.com.br/akira-making-of-da-explosao-criativa/p"
+            },
+            {
+              "text": " por R$ 99,90 e vem acompanhada de uma cartela de adesivos. Também está aberta a "
+            },
+            {
+              "text": "venda pela Amazon",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://link.amazon/B0dUmOXNB"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O livro tem autoria de Colin Odell e Michelle Le Blanc, com apoio do British Film Institute (BFI). Ambos são críticos de cinema com publicações em diferentes gêneros, incluindo o cinema asiático. A dupla anteriormente assinou um livro sobre o Studio Ghibli, além de Tim Burton e David Lynch. Segundo a editora, a publicação é o primeiro passo de uma nova parceria com o BFI, o que indica que podemos ter os demais livros no Brasil.",
+          "runs": [
+            {
+              "text": "O livro tem autoria de "
+            },
+            {
+              "text": "Colin Odell",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Michelle Le Blanc",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com apoio do British Film Institute (BFI). Ambos são críticos de cinema com publicações em diferentes gêneros, incluindo o cinema asiático. A dupla anteriormente assinou um livro sobre o "
+            },
+            {
+              "text": "Studio Ghibli",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", além de "
+            },
+            {
+              "text": "Tim Burton",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "David Lynch",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Segundo a editora, a publicação é o primeiro passo de uma nova parceria com o BFI, o que indica que podemos ter os demais livros no Brasil."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Com 240 páginas e capa dura, a obra propõe esmiuçar o clássico de Katsuhiro Otomo, trazendo uma análise de como Akira se tornou esse marco que influencia a cultura pop até os dias de hoje.",
+          "runs": [
+            {
+              "text": "Com "
+            },
+            {
+              "text": "240 páginas",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e capa dura, a obra propõe esmiuçar o clássico de Katsuhiro Otomo, trazendo uma análise de como "
+            },
+            {
+              "text": "Akira",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " se tornou esse marco que influencia a cultura pop até os dias de hoje."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/akira-livro-darkside.jpg",
+          "alt": "imagem: capa do livro Akira: Making of da Explosão Criativa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagem: Divulgação/DarkSide",
+          "runs": [
+            {
+              "text": "Imagem: Divulgação/DarkSide"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/akira-livro-darkside-carteladeadesivos.webp",
+          "alt": "imagem: cartela de adesivos do livro de Akira da darkside"
+        },
+        {
+          "type": "paragraph",
+          "text": "Demonstração da cartela de adesivos. | Imagem: Divulgação/DarkSide",
+          "runs": [
+            {
+              "text": "Demonstração da cartela de adesivos. | Imagem: Divulgação/DarkSide"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Na trama de Akira, trinta anos após uma explosão devastadora desencadear a Terceira Guerra Mundial, Neo-Tóquio tenta reconstruir seu futuro em meio ao caos, à violência e ao autoritarismo. Nesse cenário, o líder de uma gangue de motociclistas, Kaneda, vê a vida de seu amigo Tetsuo mudar drasticamente depois que ele desperta misteriosos poderes psíquicos durante um encontro com uma criança envolvida em experimentos secretos do governo. À medida que Tetsuo perde o controle de suas novas habilidades, a cidade se aproxima de uma catástrofe capaz de repetir os erros do passado.",
+          "runs": [
+            {
+              "text": "Na trama de "
+            },
+            {
+              "text": "Akira",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", trinta anos após uma explosão devastadora desencadear a Terceira Guerra Mundial, Neo-Tóquio tenta reconstruir seu futuro em meio ao caos, à violência e ao autoritarismo. Nesse cenário, o líder de uma gangue de motociclistas, Kaneda, vê a vida de seu amigo Tetsuo mudar drasticamente depois que ele desperta misteriosos poderes psíquicos durante um encontro com uma criança envolvida em experimentos secretos do governo. À medida que Tetsuo perde o controle de suas novas habilidades, a cidade se aproxima de uma catástrofe capaz de repetir os erros do passado."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Misturando ficção científica, ação e crítica social, Akira tornou-se em 1988 um dos filmes mais influentes da animação japonesa ao retratar uma sociedade marcada pela desigualdade, pela repressão e pelos perigos do avanço tecnológico sem responsabilidade. Confira nossa resenha aqui no site.",
+          "runs": [
+            {
+              "text": "Misturando ficção científica, ação e crítica social, "
+            },
+            {
+              "text": "Akira",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " tornou-se em 1988 um dos filmes mais influentes da animação japonesa ao retratar uma sociedade marcada pela desigualdade, pela repressão e pelos perigos do avanço tecnológico sem responsabilidade. "
+            },
+            {
+              "text": "Confira nossa resenha aqui no site",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2021/01/11/critica-akira-1988-os-muitos-paralelos-de-um-futuro-pessimista/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Blog BBM e DarkSide",
+          "runs": [
+            {
+              "text": "Fonte:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Blog BBM",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://blogbbm.com/2026/08/26/darkside-books-publicara-livro-sobre-o-filme-de-akira/"
+            },
+            {
+              "text": " e ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "DarkSide",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://www.darksidebooks.com.br/akira-making-of-da-explosao-criativa/p"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-02T19:26:12.000Z",
+      "updatedAt": "2026-10-02T19:27:41.000Z",
+      "expiresAt": "2026-10-09T19:26:12.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/02/livro-making-of-de-akira-e-publicado-pela-darkside",
+          "publishedAt": "2026-10-02T19:26:12.000Z",
+          "author": "Jean Clemente"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 318,
+      "qualityScore": 0.98,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 12,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 2,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "jbox-84e86744",
+      "slug": "critica-one-piece-o-filme-jbox-84e86744",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Crítica | One Piece – O Filme",
+      "originalTitle": "Crítica | One Piece – O Filme",
+      "summary": "Ver animês no cinema não é necessariamente uma novidade. Entre o final dos anos 1990 e começo dos anos 2000, por exemplo, os fãs brasileiros já acompanhavam franquias como Os Cavaleiros do Zodíaco, Dragon Ball e Pokémon e em salas pelo país. O que acontece atualmente é, na verdade, um resgate de lançamentos, aproveitando a alta mundial do interesse em produções feitas no Japão.",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Cinema",
+        "Resenha",
+        "filme de one piece no brasil",
+        "Filme de One Piece nos cinemas",
+        "filme do one piece é bom?",
+        "One Piece",
+        "One Piece: O Filme",
+        "Paris Filmes",
+        "Primeiro filme de One Piece",
+        "Toei Animation"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/02/critica-one-piece-o-filme",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/02/critica-one-piece-o-filme",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/jbox-critica-destacada-onepieceofilme.jpg",
+      "mediaQuery": "Crítica | One Piece – O Filme",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/One-Piece-o-filme-01.jpg",
+          "alt": "Imagem de One Piece - o Filme",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/One-Piece-o-filme.webp",
+          "alt": "Imagem de One Piece - o Filme",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/ZdiDlKshthw"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Ver animês no cinema não é necessariamente uma novidade. Entre o final dos anos 1990 e começo dos anos 2000, por exemplo, os fãs brasileiros já acompanhavam franquias como Os Cavaleiros do Zodíaco, Dragon Ball e Pokémon e em salas pelo país. O que acontece atualmente é, na verdade, um resgate de lançamentos, aproveitando a alta mundial do interesse em produções feitas no Japão. E é seguindo essa tendência que a Paris Filmes lança este ano três filmes clássicos de One Piece nas telonas, começando por One Piece: O Filme.",
+          "runs": [
+            {
+              "text": "Ver animês no cinema não é necessariamente uma novidade. Entre o final dos anos 1990 e começo dos anos 2000, por exemplo, os fãs brasileiros já acompanhavam franquias como "
+            },
+            {
+              "text": "Os Cavaleiros do Zodíaco",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Dragon Ball",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Pokémon",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " e em salas pelo país. O que acontece atualmente é, na verdade, um resgate de lançamentos, aproveitando a alta mundial do interesse em produções feitas no Japão. E é seguindo essa tendência que a "
+            },
+            {
+              "text": "Paris Filmes",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " lança este ano três filmes clássicos de "
+            },
+            {
+              "text": "One Piece",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " nas telonas, começando por "
+            },
+            {
+              "text": "One Piece: O Filme",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Lançada originalmente em 2000 e dirigida por Junji Shimizu (também de Yu-Gi-Oh! O Filme), a produção era inédita no Brasil até então e pode ser considerada um média-metragem pelos padrões nacionais, já que conta com aproximadamente 50 minutos de projeção. E, para quem estiver disposto a ir ao cinema, a experiência é um misto de nostalgia de diversas coisas e também uma jornada divertida, especialmente na versão dublada.",
+          "runs": [
+            {
+              "text": "Lançada originalmente em 2000 e dirigida por "
+            },
+            {
+              "text": "Junji Shimizu",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (também de "
+            },
+            {
+              "text": "Yu-Gi-Oh! O Filme",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "), a produção era inédita no Brasil até então e pode ser considerada um média-metragem pelos padrões nacionais, já que conta com aproximadamente 50 minutos de projeção. E, para quem estiver disposto a ir ao cinema, a experiência é um misto de nostalgia de diversas coisas e também uma jornada divertida, especialmente na versão dublada."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A trama em si não tem nenhum grande diferencial. Aqui, Luffy e os demais companheiros de começo de jornada — leia-se apenas Zoro, Usopp e Nami — estão passando alguns perrengues financeiros e descobrem que um pirata chamado Woonan pode ter deixado uma grande riqueza escondida. Então, eles chegam junto ao Going Merry em uma ilha e, na maior energia de Sessão da Tarde, “enfrentam altas confusões”.",
+          "runs": [
+            {
+              "text": "A trama em si não tem nenhum grande diferencial. Aqui, "
+            },
+            {
+              "text": "Luffy",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e os demais companheiros de começo de jornada — leia-se apenas "
+            },
+            {
+              "text": "Zoro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Usopp",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Nami",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " — estão passando alguns perrengues financeiros e descobrem que um pirata chamado Woonan pode ter deixado uma grande riqueza escondida. Então, eles chegam junto ao Going Merry em uma ilha e, na maior energia de "
+            },
+            {
+              "text": "Sessão da Tarde",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "“enfrentam altas confusões”",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/One-Piece-o-filme-01.jpg",
+          "alt": "Imagem de One Piece - o Filme"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chore se você chorou pela nostalgia de rever um barco | Paris Filmes/Reprodução",
+          "runs": [
+            {
+              "text": "Chore se você chorou pela nostalgia de rever um barco | Paris Filmes/Reprodução"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O atrativo de One Piece: O Filme é muito menos narrativo e muito mais pelo clima que ele carrega consigo. Para começar, antes da projeção principal, a experiência conta com o curta-metragem O Carnaval de Dança do Jango (este já situado em outro momento da história e com a participação de Sanji), sobre uma ilha meio maluca e pessoas dançarinas. Em um primeiro momento, isso pode soar estranho, já que o curta começa acelerado para contar uma mini-história em poucos minutos, mas a verdade é que essa projeção conjunta de animês era mais comum no passado. E já que estamos falando de um filme de 2000, nada mais justo que ele traga consigo esse elemento — embora, é importante ressaltar, este curta em si não acompanhou a estreia original desta produção, e sim do segundo filme da franquia. No Japão, o 1º filme foi exibido junto ao 2º filme de Digimon (que serviu de montagem para nosso Digimon: O Filme).",
+          "runs": [
+            {
+              "text": "O atrativo de "
+            },
+            {
+              "text": "One Piece: O Filme",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " é muito menos narrativo e muito mais pelo clima que ele carrega consigo. Para começar, antes da projeção principal, a experiência conta com o curta-metragem "
+            },
+            {
+              "text": "O Carnaval de Dança do Jango",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": " (este já situado em outro momento da história e com a participação de "
+            },
+            {
+              "text": "Sanji",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "), sobre uma ilha meio maluca e pessoas dançarinas. Em um primeiro momento, isso pode soar estranho, já que o curta começa acelerado para contar uma mini-história em poucos minutos, mas a verdade é que essa projeção conjunta de animês era mais comum no passado. E já que estamos falando de um filme de 2000, nada mais justo que ele traga consigo esse elemento — embora, é importante ressaltar, este curta em si não acompanhou a estreia original desta produção, e sim do segundo filme da franquia. No Japão, o 1º filme foi exibido junto ao 2º filme de"
+            },
+            {
+              "text": " Digimon",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " (que serviu de montagem para nosso "
+            },
+            {
+              "text": "Digimon: O Filme",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ")."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Talvez seja uma pitada de saudosismo de quem vos escreve, mas é curioso como esses detalhes não deixam o filme necessariamente datado de forma chata. Quem vai assistir sabe que está vendo uma produção antiga, então a sensação é quase de estar contemplando algo raro, conservado como num museu, e que agora os fãs brasileiros podem assistir.",
+          "runs": [
+            {
+              "text": "Talvez seja uma pitada de saudosismo de quem vos escreve, mas é curioso como esses detalhes "
+            },
+            {
+              "text": "não deixam o filme necessariamente datado de forma chata",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Quem vai assistir sabe que está vendo uma produção antiga, então a sensação é quase de estar contemplando algo raro, conservado como num museu, e que agora os fãs brasileiros podem assistir."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "E esse misto de nostalgia vai além do formato e também aparece na história. Ver o One Piece dos anos 2000 é acompanhar uma fase totalmente diferente do animê, em que as aventuras de Luffy e companhia tinham certo peso, mas com certeza menor do que nos dias atuais. Assim, é muito divertido ver Zoro sendo meio bobo e rindo aqui e ali, Usopp fazendo (ainda mais) caras e bocas, e Nami constantemente brigando com todos e emprestando dinheiro a juros. Sem contar todas as palhaçadas feitas por Luffy — embora ele seja o personagem que menos mudou nas últimas duas décadas e meia.",
+          "runs": [
+            {
+              "text": "E esse misto de nostalgia vai além do formato e também aparece na história. Ver o "
+            },
+            {
+              "text": "One Piece",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " dos anos 2000 é acompanhar uma fase totalmente diferente do animê, em que as aventuras de Luffy e companhia tinham certo peso, mas com certeza menor do que nos dias atuais. Assim, é muito divertido ver Zoro sendo meio bobo e rindo aqui e ali, Usopp fazendo (ainda mais) caras e bocas, e Nami constantemente brigando com todos e emprestando dinheiro a juros. Sem contar todas as palhaçadas feitas por Luffy — embora ele seja o personagem que menos mudou nas últimas duas décadas e meia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Testemunhar os Chapéus de Palha nesta configuração é nostálgico também de formas diferentes. Para quem é fã de longa data e passou uma boa parte da vida assistindo One Piece, o sentimento de coração quentinho é de ver na tela grande o resgate de um período mais simples e leve — e que vai direto nos sentimentos quando a primeira abertura e o primeiro encerramento são exibidos. Já para os fãs mais novos, é uma viagem no tempo dentro da narrativa, mostrando como a obra de Eiichiro Oda se tornou tão longeva justamente por ter aprendido a se adaptar e trazer coisas novas a seu público — ainda que, neste caso, a coisa nova seja uma obra antiga.",
+          "runs": [
+            {
+              "text": "Testemunhar os Chapéus de Palha nesta configuração é nostálgico também de formas diferentes. Para quem é fã de longa data e passou uma boa parte da vida assistindo "
+            },
+            {
+              "text": "One Piece",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", o sentimento de coração quentinho é de ver na tela grande o resgate de um período mais simples e leve — e que vai direto nos sentimentos quando a primeira abertura e o primeiro encerramento são exibidos. Já para os fãs mais novos, é uma viagem no tempo dentro da narrativa, mostrando como a obra de "
+            },
+            {
+              "text": "Eiichiro Oda",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " se tornou tão longeva justamente por ter aprendido a se adaptar e trazer coisas novas a seu público — ainda que, neste caso, a coisa nova seja uma obra antiga."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/One-Piece-o-filme.webp",
+          "alt": "Imagem de One Piece - o Filme"
+        },
+        {
+          "type": "paragraph",
+          "text": "Filme é um prato cheio (com o perdão do trocadilho) das bobeiras de Luffy e Zoro juntos | Paris Filmes/Reprodução",
+          "runs": [
+            {
+              "text": "Filme é um prato cheio (com o perdão do trocadilho) das bobeiras de Luffy e Zoro juntos | Paris Filmes/Reprodução"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Também é preciso destacar a dublagem brasileira. Seguindo o tom mais cômico da obra, as vozes nacionais estão inspiradíssimas, entregando brigas homéricas entre os Chapéus de Palha (que esquecem de tudo logo em seguida), vilões fortes, mas meio bobocas, e até alguns acenos aqui e ali para os fãs brasileiros, como quando um personagem solta um “o que é que foi, o que é que foi, o que é que há?” do mais absoluto nada. Essa é uma característica presente na dublagem do animê seriado que segue na nova produção — e, embora possa agradar ou desagradar parte dos fãs, não há como negar que o trabalho de localização para falas brasileiras é muito bem feito pelos responsáveis.",
+          "runs": [
+            {
+              "text": "Também é preciso destacar "
+            },
+            {
+              "text": "a dublagem brasileira",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Seguindo o tom mais cômico da obra, as vozes nacionais estão inspiradíssimas, entregando brigas homéricas entre os Chapéus de Palha (que esquecem de tudo logo em seguida), vilões fortes, mas meio bobocas, e até alguns acenos aqui e ali para os fãs brasileiros, como quando um personagem solta um "
+            },
+            {
+              "text": "“o que é que foi, o que é que foi, o que é que há?”",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " do mais absoluto nada. Essa é uma característica presente na dublagem do animê seriado que segue na nova produção — e, embora possa agradar ou desagradar parte dos fãs, não há como negar que o trabalho de localização para falas brasileiras é muito bem feito pelos responsáveis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Por fim, há ainda uma característica marcante na chegada de One Piece: O Filme aos cinemas nacionais: ele é uma ótima porta de entrada, especialmente para as crianças conhecerem a franquia. O necessário é minimamente explicado (como o fato do Luffy ser um “homem-borracha” e querer ser o Rei dos Piratas), e o resto funciona de forma orgânica e rápida o suficiente para prender a atenção dos pequenos. Talvez alguns possam reclamar da qualidade mais baixa e das barras pretas nas laterais do vídeo, mas a primeira piadoca tem o dom de deixar tudo isso de lado e fazer todo mundo na sala de cinema dar uma boa risada.",
+          "runs": [
+            {
+              "text": "Por fim, há ainda uma característica marcante na chegada de "
+            },
+            {
+              "text": "One Piece: O Filme",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " aos cinemas nacionais: ele é uma "
+            },
+            {
+              "text": "ótima porta de entrada",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", especialmente para as crianças conhecerem a franquia. O necessário é minimamente explicado (como o fato do Luffy ser um “homem-borracha” e querer ser o Rei dos Piratas), e o resto funciona de forma orgânica e rápida o suficiente para prender a atenção dos pequenos. Talvez alguns possam reclamar da qualidade mais baixa e das barras pretas nas laterais do vídeo, mas a primeira piadoca tem o dom de deixar tudo isso de lado e fazer todo mundo na sala de cinema dar uma boa risada."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Dessa forma, mesmo que chegue um tanto deslocado em relação à linha do tempo do animê na fase atual, One Piece: O Filme é uma experiência leve na medida em que precisa ser leve, mas também muito divertida e satisfatória ao final da sessão. Agora é aguardar as já marcadas estreias de One Piece: Aventura na Ilha Espiral (2001) e One Piece: O Reino de Chopper na Ilha dos Animais Estranhos (2002) nos próximos meses. Mal posso esperar.",
+          "runs": [
+            {
+              "text": "Dessa forma, mesmo que chegue um tanto deslocado em relação à linha do tempo do animê na fase atual, "
+            },
+            {
+              "text": "One Piece: O Filme",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " é uma experiência leve na medida em que precisa ser leve, mas também muito divertida e satisfatória ao final da sessão. Agora é aguardar "
+            },
+            {
+              "text": "as já marcadas estreias",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/07/28/one-piece-1o-filme-vai-ser-exibido-dublado-nos-cinemas/"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "text": "One Piece: Aventura na Ilha Espiral",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " (2001) e "
+            },
+            {
+              "text": "One Piece: O Reino de Chopper na Ilha dos Animais Estranhos",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " (2002) nos próximos meses. Mal posso esperar."
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=ZdiDlKshthw",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/ZdiDlKshthw"
+        },
+        {
+          "type": "paragraph",
+          "text": "One Piece: O Filme estreou nos cinemas brasileiros em 24 de setembro, com distribuição da Paris Filmes.",
+          "runs": [
+            {
+              "text": "One Piece: O Filme",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " estreou nos cinemas brasileiros em "
+            },
+            {
+              "text": "24 de setembro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com distribuição da "
+            },
+            {
+              "text": "Paris Filmes",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "No Brasil, o animê regular de One Piece pode ser conferido em streamings como Crunchyroll, Netflix, HBO Max e Pluto TV, além do canal Adult Swim. O mangá é publicado pela Panini.",
+          "runs": [
+            {
+              "text": "No Brasil, o animê regular de"
+            },
+            {
+              "text": " One Piece",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " pode ser conferido em streamings como "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ","
+            },
+            {
+              "text": " Netflix",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "HBO Max",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Pluto TV",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", além do canal "
+            },
+            {
+              "text": "Adult Swim",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". O mangá é publicado pela "
+            },
+            {
+              "text": "Panini",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A franquia também segue com diversas novidades confirmadas para os próximos meses e anos. Dois filmes foram anunciados recentemente, com estreias previstas para 2027 e 2029, uma animação temática de LEGO chegou recentemente à Netflix , e o remake do animê, feito pelo WIT Studio, estreia em fevereiro de 2027.",
+          "runs": [
+            {
+              "text": "A franquia também segue com diversas novidades confirmadas para os próximos meses e anos. "
+            },
+            {
+              "text": "Dois filmes foram anunciados recentemente",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/24/one-piece-toei-anuncia-dois-novos-filmes-para-2027-e-2029/"
+            },
+            {
+              "text": ", com estreias previstas para 2027 e 2029, "
+            },
+            {
+              "text": "uma animação temática de LEGO chegou recentemente à Netflix ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/22/lego-one-piece-tem-novo-trailer-divulgado/"
+            },
+            {
+              "text": ", e o "
+            },
+            {
+              "text": "remake do animê, feito pelo WIT Studio, estreia em fevereiro de 2027",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/04/09/novo-anime-de-one-piece-ganha-previa-com-visual-dos-personagens/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site. A crítica foi feita de forma totalmente independente, em uma exibição comum de cinema, sem envolvimento de cabine de imprensa.",
+          "runs": [
+            {
+              "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site. A crítica foi feita de forma totalmente independente, em uma exibição comum de cinema, sem envolvimento de cabine de imprensa.",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-02T15:52:13.000Z",
+      "updatedAt": "2026-10-02T16:02:33.000Z",
+      "expiresAt": "2026-10-09T15:52:13.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/02/critica-one-piece-o-filme",
+          "publishedAt": "2026-10-02T15:52:13.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 6,
+      "wordCount": 1155,
+      "qualityScore": 1,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 21,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 2,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "animenew-427e8342",
       "slug": "black-clover-quando-estreia-o-primeiro-episodio-da-2-temporada-animenew-427e8342",
@@ -361,340 +1426,6 @@
         "contentMode": "full",
         "mediaCount": 1,
         "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-2c505854",
-      "slug": "capa-variante-de-amazing-spider-man-1000-faz-homenagem-a-luffy-de-one-piece-jbox-2c505854",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Capa variante de ‘Amazing Spider-Man 1000’ faz homenagem a Luffy, de ‘One Piece’",
-      "originalTitle": "Capa variante de ‘Amazing Spider-Man 1000’ faz homenagem a Luffy, de ‘One Piece’",
-      "summary": "A revista em quadrinhos Amazing Spider-Man, da Marvel Comics, chegou à sua edição 1.000, lançada lá nos Estados Unidos no dia 30 de outubro. Em comemoração, foi reunida uma seleção de artistas que passaram pela trajetória da série ao longo dos anos. Entre as diversas capas variantes produzidas para a edição anunciadas, uma delas chamou a atenção dos fãs de animês e mangás por fazer uma referência ao Monkey D. Luffy, protagonista de One Piece.",
-      "author": "Igor Lunei",
-      "tags": [
-        "Anime",
-        "HQs",
-        "Mangá",
-        "Amazing Spider-Man 1000",
-        "Capa do Homem-Aranha com o Luffy",
-        "homenagem a one piece",
-        "One Piece",
-        "one piece e homem-aranha",
-        "paródia de one piece"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/01/capa-variante-de-amazing-spider-man-1000-faz-homenagem-a-luffy-de-one-piece",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/01/capa-variante-de-amazing-spider-man-1000-faz-homenagem-a-luffy-de-one-piece",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/amazing-spider-man-1000th-issue-mico-suayan-variant-cover-with-luffy.jpg",
-      "mediaQuery": "Capa variante de ‘Amazing Spider-Man 1000’ faz homenagem a Luffy, de ‘One Piece’",
-      "mediaType": "manga",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/amazing-spider-man-1000th-issue-mico-suayan-variant-cover.jpg",
-          "alt": "Imagem da Capa variante da edição 1000 da revista Amazing Spider-Man com o Homem-Aranha fazendo a pose do Luffy, de One Piece",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A revista em quadrinhos Amazing Spider-Man, da Marvel Comics, chegou à sua edição 1.000, lançada lá nos Estados Unidos no dia 30 de outubro. Em comemoração, foi reunida uma seleção de artistas que passaram pela trajetória da série ao longo dos anos. Entre as diversas capas variantes produzidas para a edição anunciadas, uma delas chamou a atenção dos fãs de animês e mangás por fazer uma referência ao Monkey D. Luffy, protagonista de One Piece.",
-          "runs": [
-            {
-              "text": "A revista em quadrinhos "
-            },
-            {
-              "text": "Amazing Spider-Man",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", da "
-            },
-            {
-              "text": "Marvel Comics",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", chegou à sua edição 1.000, lançada lá nos Estados Unidos no dia"
-            },
-            {
-              "text": " 30 de outubro",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Em comemoração, foi reunida uma seleção de artistas que passaram pela trajetória da série ao longo dos anos. Entre as diversas capas variantes produzidas para a edição anunciadas, uma delas chamou a atenção dos fãs de animês e mangás por fazer uma referência ao Monkey D. Luffy, protagonista de "
-            },
-            {
-              "text": "One Piece",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Criada por Mico Suayan como uma edição exclusiva da New York Comic Con, que ocorrerá entre os dias 8 e 11 de outubro, a capa variante de Amazing Spider-Man #1000 mostra o Homem-Aranha sem máscara, agachado e com as duas mãos apoiadas nas pernas. A pose recria de maneira bastante próxima a postura característica de Luffy ao ativar o Gear 2, de One Piece:",
-          "runs": [
-            {
-              "text": "Criada por "
-            },
-            {
-              "text": "Mico Suayan",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " como uma edição exclusiva da "
-            },
-            {
-              "text": "New York Comic Con",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", que ocorrerá entre os dias 8 e 11 de outubro, a capa variante de "
-            },
-            {
-              "text": "Amazing Spider-Man",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " #1000 mostra o Homem-Aranha sem máscara, agachado e com as duas mãos apoiadas nas pernas. A pose recria de maneira bastante próxima a postura característica de Luffy ao ativar o "
-            },
-            {
-              "text": "Gear 2",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", de "
-            },
-            {
-              "text": "One Piece",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ":"
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/amazing-spider-man-1000th-issue-mico-suayan-variant-cover.jpg",
-          "alt": "Imagem da Capa variante da edição 1000 da revista Amazing Spider-Man com o Homem-Aranha fazendo a pose do Luffy, de One Piece"
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Marvel Comics/Reprodução",
-          "runs": [
-            {
-              "text": "Imagem: Marvel Comics/Reprodução"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Para celebrar o marco, a Marvel preparou uma grande quantidade de capas alternativas para Amazing Spider-Man #1000. Entre os artistas envolvidos estão John Romita Jr., Pepe Larraz, Alex Ross, Mark Bagley, J. Scott Campbell e Steve Ditko, além de uma variante colaborativa de Peach Momoko e Frank Miller.",
-          "runs": [
-            {
-              "text": "Para celebrar o marco, a Marvel preparou uma grande quantidade de capas alternativas para "
-            },
-            {
-              "text": "Amazing Spider-Man",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " #1000. Entre os artistas envolvidos estão John Romita Jr., Pepe Larraz, Alex Ross, Mark Bagley, J. Scott Campbell e Steve Ditko, além de uma variante colaborativa de Peach Momoko e Frank Miller."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A edição também conta com uma capa dupla que homenageia a série animada de Spider-Man de 1967, uma variante da Marvel Studios relacionada a Spider-Man: Brand New Day e uma capa conectada em quatro partes produzida por Todd Nauck.",
-          "runs": [
-            {
-              "text": "A edição também conta com uma capa dupla que homenageia a série animada de "
-            },
-            {
-              "text": "Spider-Man",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " de 1967, uma variante da Marvel Studios relacionada a "
-            },
-            {
-              "text": "Spider-Man: Brand New Day",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e uma capa conectada em quatro partes produzida por Todd Nauck."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A história principal é escrita por Joe Kelly e desenhada por Pepe Larraz. Nela, o Homem-Aranha enfrenta Ravage, apresentado como seu novo vilão mais assustador em décadas, enquanto descobre que Tia May foi levada às pressas para o hospital. A edição especial também reúne histórias comemorativas de outros autores, incluindo Noah Hawley, Frank Miller, Dan Slott e Brian Michael Bendis.",
-          "runs": [
-            {
-              "text": "A história principal é escrita por Joe Kelly e desenhada por Pepe Larraz. Nela, o Homem-Aranha enfrenta Ravage, apresentado como seu novo vilão mais assustador em décadas, enquanto descobre que Tia May foi levada às pressas para o hospital. A edição especial também reúne histórias comemorativas de outros autores, incluindo Noah Hawley, Frank Miller, Dan Slott e Brian Michael Bendis."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "No Brasil, os gibis do Homem-Aranha saem pela editora Panini, mas a edição mencionada nesta notícia corresponde ao lançamento norte-americano.",
-          "runs": [
-            {
-              "text": "No Brasil, os gibis do "
-            },
-            {
-              "text": "Homem-Aranha",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " saem pela editora "
-            },
-            {
-              "text": "Panini",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", mas a edição mencionada nesta notícia corresponde ao lançamento norte-americano."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Toy People News",
-          "runs": [
-            {
-              "text": "Fonte:",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Toy People News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://www.toy-people.com/en/?p=114914"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-01T21:54:50.000Z",
-      "updatedAt": "2026-10-01T21:55:25.000Z",
-      "expiresAt": "2026-10-08T21:54:50.000Z",
-      "category": "Mangás & novels",
-      "eventType": "MANGA",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/01/capa-variante-de-amazing-spider-man-1000-faz-homenagem-a-luffy-de-one-piece",
-          "publishedAt": "2026-10-01T21:54:50.000Z",
-          "author": "Igor Lunei"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 330,
-      "qualityScore": 0.98,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 11,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 0,
         "sourcePagesRead": 0
       }
     },
@@ -6403,1025 +7134,6 @@
         "contentMode": "full",
         "mediaCount": 0,
         "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-73d1ad05",
-      "slug": "critica-buchigire-reijou-1-temporada-jbox-73d1ad05",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Crítica | Buchigire Reijou | 1ª temporada",
-      "originalTitle": "Crítica | Buchigire Reijou | 1ª temporada",
-      "summary": "Com o passar dos anos e a popularização de discussões online acerca de mídia consideradas canceláveis, uma série de animês politicamente incorretos recentes levantaram reações negativas de parte da audiência, pautando as conversas em seus respectivos períodos de lançamento. Alguns exemplos são The Rising of the Shield Hero, Goblin Slayer, Redo of Healer, Mushoku Tensei e Attack on Titan (por conta da saga final, onde o protagonista vira um vilão genocida).",
-      "author": "Igor Lunei",
-      "tags": [
-        "Anime",
-        "Resenha",
-        "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
-        "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires é bom?",
-        "Buchigire",
-        "Buchigire é bom?",
-        "crítica de A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
-        "crítica de Buchigire"
-      ],
-      "url": "https://www.jbox.com.br/2026/09/25/critica-buchigire-reijou-1a-temporada",
-      "sourceUrl": "https://www.jbox.com.br/2026/09/25/critica-buchigire-reijou-1a-temporada",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/jbox-critica-destacada-buchigirereijou.jpg",
-      "mediaQuery": "Crítica | Buchigire Reijou | 1ª temporada",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/buchigire-1.jpg",
-          "alt": "Imagem: protagonista do animê 'Buchigire' sendo imobilizada por um guarda real no meio de um baile.",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/buchigire-2.jpg",
-          "alt": "Imagem: protagonista do animê 'Buchigire' em close-up sorrindo",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/buchigire-3.jpg",
-          "alt": "Imagem: protagonista do animê 'Buchigire' com sangue espirrando",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/sYra4SM3Qms"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Com o passar dos anos e a popularização de discussões online acerca de mídia consideradas canceláveis, uma série de animês politicamente incorretos recentes levantaram reações negativas de parte da audiência, pautando as conversas em seus respectivos períodos de lançamento. Alguns exemplos são The Rising of the Shield Hero, Goblin Slayer, Redo of Healer, Mushoku Tensei e Attack on Titan (por conta da saga final, onde o protagonista vira um vilão genocida).",
-          "runs": [
-            {
-              "text": "Com o passar dos anos e a popularização de discussões online acerca de mídia consideradas canceláveis, uma série de animês politicamente incorretos recentes levantaram reações negativas de parte da audiência, pautando as conversas em seus respectivos períodos de lançamento. Alguns exemplos são "
-            },
-            {
-              "text": "The Rising of the Shield Hero",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Goblin Slayer",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Redo of Healer",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Mushoku Tensei",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Attack on Titan",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.jbox.com.br/2021/04/08/critica-attack-on-titan-shingeki-no-kyojin-temporadas-1-4-parte-1/"
-            },
-            {
-              "text": " (por conta da saga final, onde o protagonista vira um vilão genocida)."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Com exceção de Attack on Titan, que é excelente, acredito que os demais da lista devam sim ser cancelados pela opinião pública, mas pelo quão mal feitos eles são, sem cuidado algum com coisas básicas como roteiro e direção, mas não é esse o ponto aqui.",
-          "runs": [
-            {
-              "text": "Com exceção de "
-            },
-            {
-              "text": "Attack on Titan",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", que é excelente, acredito que os demais da lista devam sim ser cancelados pela opinião pública, mas pelo quão mal feitos eles são, sem cuidado algum com coisas básicas como roteiro e direção, mas não é esse o ponto aqui."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O ponto é a perigosíssima direção moralista em que a percepção e discussão sobre mídias num geral (não só animês e mangás, mas filmes, séries, livros e por aí vai) tem tomado, como se por autores optarem por dar desenvolvimentos e desfechos polêmicos, degenerados mesmo, as suas obras fossem um atestado de que eles apoiam isso na vida real. Sendo que parte da graça da ficção é poder ir para qualquer lugar, por mais esquisito que ele seja, já que o intuito é desenvolver algo através dela.",
-          "runs": [
-            {
-              "text": "O ponto é a perigosíssima direção moralista em que a percepção e discussão sobre mídias num geral (não só animês e mangás, mas filmes, séries, livros e por aí vai) tem tomado, como se por autores optarem por dar desenvolvimentos e desfechos polêmicos, degenerados mesmo, as suas obras fossem um atestado de que eles apoiam isso na vida real. Sendo que parte da graça da ficção é poder ir para qualquer lugar, por mais esquisito que ele seja, já que o intuito é desenvolver algo através dela."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Então, é bem engraçado assistir hoje a um animê como A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires, ou simplesmente Buchigire Reijou, pois ele é a antítese de todas as reclamações infantis sobre a arte precisar ser moralmente correta que insistem em existir. Ele é tão polêmico, tão controverso e tão agressivo em decepcionar qualquer um que espere alguma moral tirada dele que é simplesmente encantador. E diferentemente do animê do Herói do Escudo e companhia acima, ele é muito bem escrito e dirigido!",
-          "runs": [
-            {
-              "text": "Então, é bem engraçado assistir hoje a um animê como "
-            },
-            {
-              "text": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", ou simplesmente "
-            },
-            {
-              "text": "Buchigire Reijou",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", pois ele é a antítese de todas as reclamações infantis sobre a arte precisar ser moralmente correta que insistem em existir. Ele é tão polêmico, tão controverso e tão agressivo em decepcionar qualquer um que espere alguma moral tirada dele que é simplesmente encantador. E diferentemente do animê do Herói do Escudo e companhia acima, ele é "
-            },
-            {
-              "text": "muito bem escrito e dirigido!",
-              "marks": [
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/buchigire-1.jpg",
-          "alt": "Imagem: protagonista do animê 'Buchigire' sendo imobilizada por um guarda real no meio de um baile."
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Studio Comet/Reprodução",
-          "runs": [
-            {
-              "text": "Imagem: Studio Comet/Reprodução"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Na trama, acompanhamos a vigésima nona história a se passar em um mundo medieval de fantasia gamer só neste ano. A protagonista, Elizabeth Leiston, faz parte de uma casa ducal num grande reino e está prometida em casamento para o príncipe, um panaca que absolutamente ninguém respeita, só faz besteira e frequentemente coloca o próprio país em perigo. Elizabeth é extremamente inteligente, prestativa, política e basicamente cuida de todos os afazeres reais do príncipe. Só que o mané, que se sente inferiorizado, acaba trocando ela por outra garota da corte, e eles armam para que Elizabeth seja considerada traidora da Coroa e presa.",
-          "runs": [
-            {
-              "text": "Na trama, acompanhamos a vigésima nona história a se passar em um mundo medieval de fantasia "
-            },
-            {
-              "text": "gamer",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " só neste ano. A protagonista, "
-            },
-            {
-              "text": "Elizabeth Leiston",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", faz parte de uma casa ducal num grande reino e está prometida em casamento para o príncipe, um panaca que absolutamente ninguém respeita, só faz besteira e frequentemente coloca o próprio país em perigo. Elizabeth é extremamente inteligente, prestativa, política e basicamente cuida de todos os afazeres reais do príncipe. Só que o mané, que se sente inferiorizado, acaba trocando ela por outra garota da corte, e eles armam para que Elizabeth seja considerada traidora da Coroa e presa."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Em paralelo, o casal espalha rumores de que ela é uma pessoa terrível, que estava armando planos maquiavélicos, coisas do tipo, de modo que o povo do reino, que sempre a amou, passa a odiá-la, tratá-la como uma bruxa a ser queimada. E quando Elizabeth se dá conta de que nem o rei, nem seu pai (que é o chanceler do reino) farão nada para ajudá-la, ela decide que já está de saco cheio do príncipe e do reino em si, e partirá num plano de vingança que colocará aquele país abaixo.",
-          "runs": [
-            {
-              "text": "Em paralelo, o casal espalha rumores de que ela é uma pessoa terrível, que estava armando planos maquiavélicos, coisas do tipo, de modo que o povo do reino, que sempre a amou, passa a odiá-la, tratá-la como uma bruxa a ser queimada. E quando Elizabeth se dá conta de que nem o rei, nem seu pai (que é o chanceler do reino) farão nada para ajudá-la, ela decide que já está de saco cheio do príncipe e do reino em si, e partirá num plano de vingança que colocará aquele país abaixo."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Porque a Elizabeth é uma bruxa, é uma vilã, ela realmente não presta! Diferentemente de outros animês do tipo, que tentam disfarçar os atos mais asquerosos de seus protagonistas em discursos frágeis de “naquele mundo, isso é normal” ou “é um anti-herói que foi jogado nessa posição”, Buchigire Reijou arranca o cano de esgoto e inunda tudo em imundice, assumindo que a protagonista é a vilã. Ela é ruim, fria, perversa, sádica, escrota, nefasta, calculista. E a cada episódio vamos mais a fundo no inferno que ela causa.",
-          "runs": [
-            {
-              "text": "Porque a Elizabeth é uma bruxa, é uma vilã, ela realmente não presta! Diferentemente de outros animês do tipo, que tentam disfarçar os atos mais asquerosos de seus protagonistas em discursos frágeis de “naquele mundo, isso é normal” ou “é um anti-herói que foi jogado nessa posição”, "
-            },
-            {
-              "text": "Buchigire Reijou",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " arranca o cano de esgoto e inunda tudo em imundice,"
-            },
-            {
-              "text": " assumindo que a protagonista é a vilã",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Ela é ruim, fria, perversa, sádica, escrota, nefasta, calculista. E a cada episódio vamos mais a fundo no inferno que ela causa."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/buchigire-2.jpg",
-          "alt": "Imagem: protagonista do animê 'Buchigire' em close-up sorrindo"
-        },
-        {
-          "type": "paragraph",
-          "text": "E quando digo que ela é uma bruxa, não é uma figura de linguagem. Ocorre que, nesse mundo, algumas pessoas possuem artefatos poderosíssimos que os colocam em vantagem perante outros. Elizabeth, secretamente, carrega um dos mais poderosos: um conjunto de sete grimórios, cada um representando um pecado capital, que permitem que ela execute feitiços extraordinários. E ela os usa para moldar toda a política internacional daquele local. E também para levar o mal a seus inimigos.",
-          "runs": [
-            {
-              "text": "E quando digo que ela é uma bruxa, não é uma figura de linguagem. Ocorre que, nesse mundo, algumas pessoas possuem artefatos poderosíssimos que os colocam em vantagem perante outros. Elizabeth, secretamente, carrega um dos mais poderosos: "
-            },
-            {
-              "text": "um conjunto de sete grimórios",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", cada um representando um pecado capital, que permitem que ela execute feitiços extraordinários. E ela os usa para moldar toda a política internacional daquele local. E também para levar o mal a seus inimigos."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Há uma passagem tão grotesca que chega a ser poética. Quando ela encontra o cavaleiro braço direito do príncipe, que a prendeu e tratou como indigente, em uma guerra (causada pelo próprio príncipe depois de servir de chacota num treino de espada, longa história), ela o ajuda para que aquele combate acabe e promete levar ele e seu exército de volta para o reino em segurança. Contudo, no meio do caminho, Elizabeth usa um de seus feitiços para invocar uma besta slime primordial demoníaca, que devora a horda de cavaleiros lentamente, reservando a eles uma morte agoniante, apenas para que o cavaleiro que a fez mal observe sem poder fazer nada.",
-          "runs": [
-            {
-              "text": "Há uma passagem tão grotesca que chega a ser poética.",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " Quando ela encontra o cavaleiro braço direito do príncipe, que a prendeu e tratou como indigente, em uma guerra (causada pelo próprio príncipe depois de servir de chacota num treino de espada, longa história), ela o ajuda para que aquele combate acabe e promete levar ele e seu exército de volta para o reino em segurança. Contudo, no meio do caminho, Elizabeth usa um de seus feitiços para invocar uma besta "
-            },
-            {
-              "text": "slime",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " primordial demoníaca, que devora a horda de cavaleiros lentamente, reservando a eles uma morte agoniante, apenas para que o cavaleiro que a fez mal observe sem poder fazer nada."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Quem prendeu e humilhou ela foi o braço direito do príncipe, não aqueles jovens do exército. Mas ela é má! Ela quis descontar neles! Pois ela é uma vilã! E vilões fazem maldades!",
-          "runs": [
-            {
-              "text": "Quem prendeu e humilhou ela foi o braço direito do príncipe, não aqueles jovens do exército. Mas ela é má! Ela quis descontar neles! Pois ela é uma vilã! E vilões fazem maldades!"
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/buchigire-3.jpg",
-          "alt": "Imagem: protagonista do animê 'Buchigire' com sangue espirrando"
-        },
-        {
-          "type": "paragraph",
-          "text": "Rola também outra passagem que ilustra bem o que o animê parece querer passar com essa personagem. Em dado momento, enquanto Elizabeth, sua maid e uma menininha que as acompanha estão montando uma companhia de cosméticos (de novo, longa história) numa nova cidade, as duas adultas chegam casualmente à conclusão de que vão precisar comprar uma escrava para ajudar nos serviços. A menininha, que não tem muito conhecimento de como é o mundo, fica chocada com aquilo, de modo que a Elizabeth diz que não irá pedir para ela achar aquilo correto, mas que era algo que faziam e ponto.",
-          "runs": [
-            {
-              "text": "Rola também outra passagem que ilustra bem o que o animê parece querer passar com essa personagem. Em dado momento, enquanto Elizabeth, sua "
-            },
-            {
-              "text": "maid",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e uma menininha que as acompanha estão montando uma companhia de cosméticos (de novo, longa história) numa nova cidade, as duas adultas chegam casualmente à conclusão de que vão precisar comprar uma escrava para ajudar nos serviços. A menininha, que não tem muito conhecimento de como é o mundo, fica chocada com aquilo, de modo que a Elizabeth diz que não irá pedir para ela achar aquilo correto, mas que era algo que faziam e ponto."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Mesmo com o animê mostrando que há senhores de escravos que tratam os escravizados melhor do que outros, inclusive com um local que dá estudos de diferentes tipos para eles e treinamento de combate, é pontuado ali mesmo que isso é feito visando o lucro, que escravos mais bem tratados e melhor capacitados podem ser vendidos por um preço maior. Não há disfarce. No subtexto e no texto, o animê mostra que escravidão é algo horrível e que todos os envolvidos com isso são pessoas terríveis, incluindo a protagonista.",
-          "runs": [
-            {
-              "text": "Mesmo com o animê mostrando que há senhores de escravos que tratam os escravizados melhor do que outros, inclusive com um local que dá estudos de diferentes tipos para eles e treinamento de combate, é pontuado ali mesmo que isso é feito visando o lucro, que escravos mais bem tratados e melhor capacitados podem ser vendidos por um preço maior. "
-            },
-            {
-              "text": "Não há disfarce.",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " No subtexto e no texto, o animê mostra que escravidão é algo horrível e que todos os envolvidos com isso são pessoas terríveis, incluindo a protagonista."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Nessa, Buchigire Reijou vai nos levando por uma trama de vingança totalmente torta, em que temos total noção de que a protagonista nela, embora tenha seus motivos para executar isso, o faz da maneira mais assumidamente escrota, corrompida, depravada, pervertida e degradada possível. E por isso mesmo é um dos negócios mais hipnotizantes deste ano. Que bom que é ficção e não realidade, embora muitos hoje confundam essa fronteira.",
-          "runs": [
-            {
-              "text": "Nessa, "
-            },
-            {
-              "text": "Buchigire Reijou",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " vai nos levando por uma trama de vingança totalmente torta, em que temos total noção de que a protagonista nela, embora tenha seus motivos para executar isso, o faz da maneira mais assumidamente escrota, corrompida, depravada, pervertida e degradada possível. E por isso mesmo é um dos negócios mais hipnotizantes deste ano. Que bom que é ficção e não realidade, embora muitos hoje confundam essa fronteira."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=sYra4SM3Qms",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/sYra4SM3Qms"
-        },
-        {
-          "type": "paragraph",
-          "text": "Exibido por aqui pela Crunchyroll, o animê de A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires (Buchigire Reijou wa Houfuku o Chikachimashita: Madousho no Chikara de Sokoku o Tatakitsubushimasu) é produzido pelo Studio Comet, com direção de Naoyuki Kuzuya e roteiro de Mitsutaka Hirota. Ele adapta a novel escrita por Metabo Hagure, que tem também adaptações em light novel e mangá publicadas pela Hobby Japan, ainda em andamento, que ainda não foram publicados no Brasil.",
-          "runs": [
-            {
-              "text": "Exibido por aqui pela "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", o animê de "
-            },
-            {
-              "text": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Buchigire Reijou wa Houfuku o Chikachimashita: Madousho no Chikara de Sokoku o Tatakitsubushimasu",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") é produzido pelo "
-            },
-            {
-              "text": "Studio Comet",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com direção de "
-            },
-            {
-              "text": "Naoyuki Kuzuya",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e roteiro de "
-            },
-            {
-              "text": "Mitsutaka Hirota",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Ele adapta a novel escrita por "
-            },
-            {
-              "text": "Metabo Hagure",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", que tem também adaptações em "
-            },
-            {
-              "text": "light novel",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e mangá publicadas pela "
-            },
-            {
-              "text": "Hobby Japan",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", ainda em andamento, que ainda não foram publicados no Brasil."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
-          "runs": [
-            {
-              "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-09-25T18:06:07.000Z",
-      "updatedAt": "2026-09-25T18:06:41.000Z",
-      "expiresAt": "2026-10-02T18:06:07.000Z",
-      "category": "Animes",
-      "eventType": "SEASON",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/09/25/critica-buchigire-reijou-1a-temporada",
-          "publishedAt": "2026-09-25T18:06:07.000Z",
-          "author": "Igor Lunei"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 6,
-      "wordCount": 1178,
-      "qualityScore": 0.97,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 22,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 3,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-16ff2c45",
-      "slug": "diarios-de-uma-apotecaria-3-temporada-ganha-trailer-cheio-de-intrigas-e-com-a-musica-de-encerramento-jbox-16ff2c45",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Diários de uma Apotecária: 3ª temporada ganha trailer cheio de intrigas e com a música de encerramento",
-      "originalTitle": "Diários de uma Apotecária: 3ª temporada ganha trailer cheio de intrigas e com a música de encerramento",
-      "summary": "A 3ª temporada de Diários de uma Apotecária ganhou um novo trailer, que mostra mais intrigas envolvendo Jinshi e também a música de encerramento dos novos episódios.",
-      "author": "Cakes Sousa",
-      "tags": [
-        "Anime",
-        "Música",
-        "3ª temporada",
-        "Diários de uma Apotecária",
-        "Kusuriya no Hitorigoto",
-        "season 3",
-        "Terceira temporada de Diários de uma Apotecária",
-        "The Apothecary Diaries"
-      ],
-      "url": "https://www.jbox.com.br/2026/09/25/diarios-de-uma-apotecaria-3a-temporada-ganha-trailer-cheio-de-intrigas-e-com-a-musica-de-encerramento",
-      "sourceUrl": "https://www.jbox.com.br/2026/09/25/diarios-de-uma-apotecaria-3a-temporada-ganha-trailer-cheio-de-intrigas-e-com-a-musica-de-encerramento",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/diarios-de-uma-apotecaria-terceira-temporada-destacada.jpg",
-      "mediaQuery": "Diários de uma Apotecária: 3ª temporada ganha trailer cheio de intrigas e com a música de encerramento",
-      "mediaType": "anime",
-      "mediaGallery": [],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/YvNvvUeCztE"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A 3ª temporada de Diários de uma Apotecária ganhou um novo trailer, que mostra mais intrigas envolvendo Jinshi e também a música de encerramento dos novos episódios.",
-          "runs": [
-            {
-              "text": "A 3ª temporada de "
-            },
-            {
-              "text": "Diários de uma Apotecária",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": " ganhou um novo trailer, que mostra mais intrigas envolvendo Jinshi e também a música de encerramento dos novos episódios."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A novidade foi publicada no canal oficial da TOHO Animation, revelando também a chegada de novos (e importantes) personagens. O final de cada capítulo será embalado pela canção “AIYOU”, de Eve, e a estreia dos episódios está marcada para o dia 02 de outubro, com transmissão no Brasil pela Crunchyroll.",
-          "runs": [
-            {
-              "text": "A novidade foi publicada no canal oficial da"
-            },
-            {
-              "text": " TOHO Animation",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", revelando também a chegada de novos (e importantes) personagens. O final de cada capítulo será embalado pela canção "
-            },
-            {
-              "text": "“AIYOU”",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", de "
-            },
-            {
-              "text": "Eve",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", e a estreia dos episódios está marcada para o dia "
-            },
-            {
-              "text": "02 de outubro",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com transmissão no Brasil pela "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=YvNvvUeCztE",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/YvNvvUeCztE"
-        },
-        {
-          "type": "paragraph",
-          "text": "A história de Diários de uma Apotecária se passa em uma corte imperial fictícia da China Antiga, e foca em Maomao, uma jovem de 17 anos que foi raptada e forçada a trabalhar como uma serviçal de baixo escalão no palácio imperial. Um dia, ela descobre que dois filhos do imperador estão doentes, e começa a utilizar seus conhecimentos farmacêuticos, e logo chama a atenção de pessoas influentes.",
-          "runs": [
-            {
-              "text": "A história de "
-            },
-            {
-              "text": "Diários de uma Apotecária",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " se passa em uma corte imperial fictícia da China Antiga, e foca em Maomao, uma jovem de 17 anos que foi raptada e forçada a trabalhar como uma serviçal de baixo escalão no palácio imperial. Um dia, ela descobre que dois filhos do imperador estão doentes, e começa a utilizar seus conhecimentos farmacêuticos, e logo chama a atenção de pessoas influentes."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "As light novels originais com autoria de Hyuganatsu são seriadas desde 2011 de forma online e independente pelo site Shosetsuka ni Naro. A trama rendeu um volume compilado pela editora Shufunotomo, com ilustração de Megumi Matsuda, em 2012. Depois disso, em 2014, a Shufunotomo começou a publicá-la como uma série de livros, agora ilustrada por Touko Shino, já rendendo 17 volumes, sendo essa a versão que estreou no Brasil recentemente pela editora Alt.",
-          "runs": [
-            {
-              "text": "As "
-            },
-            {
-              "text": "light novels",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " originais com autoria de "
-            },
-            {
-              "text": "Hyuganatsu",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " são seriadas desde 2011 de forma online e independente pelo site "
-            },
-            {
-              "text": "Shosetsuka ni Naro",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". A trama rendeu um volume compilado pela editora "
-            },
-            {
-              "text": "Shufunotomo",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com ilustração de "
-            },
-            {
-              "text": "Megumi Matsuda",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", em 2012. Depois disso, em 2014, a Shufunotomo começou a publicá-la como uma série de livros, agora ilustrada por "
-            },
-            {
-              "text": "Touko Shino",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", já rendendo 17 volumes, sendo essa "
-            },
-            {
-              "text": "a versão que estreou no Brasil recentemente pela editora",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/07/29/diarios-de-uma-apotecaria-aparece-no-topo-de-lista-de-livros-mais-vendidos-no-brasil/"
-            },
-            {
-              "text": " ",
-              "href": "https://www.jbox.com.br/2026/07/29/diarios-de-uma-apotecaria-aparece-no-topo-de-lista-de-livros-mais-vendidos-no-brasil/"
-            },
-            {
-              "text": "Alt",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/07/29/diarios-de-uma-apotecaria-aparece-no-topo-de-lista-de-livros-mais-vendidos-no-brasil/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Uma versão em mangá, adaptada por Itsuki Nanao (coordenação do enredo) e Nekokurage (arte), é publicada no Brasil pela editora Panini. A obra ainda conta com outra adaptação para mangá, feita por Minoji Kurata, essa inédita por aqui.",
-          "runs": [
-            {
-              "text": "Uma versão em mangá, adaptada por "
-            },
-            {
-              "text": "Itsuki Nanao",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " (coordenação do enredo) e "
-            },
-            {
-              "text": "Nekokurage",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " (arte), é publicada no Brasil pela editora "
-            },
-            {
-              "text": "Panini",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". A obra ainda conta com outra adaptação para mangá, feita por "
-            },
-            {
-              "text": "Minoji Kurata",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", essa inédita por aqui."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Dirigida e roteirizada por Norihiro Naganuma (The Ancient Magus’ Bride), a adaptação para animê é uma produção da TOHO junto ao estúdio OLM (Pokémon). A série já conta com duas temporadas lançadas e, além do terceiro ano, terá um longa-metragem lançado em dezembro.",
-          "runs": [
-            {
-              "text": "Dirigida e roteirizada por"
-            },
-            {
-              "text": " Norihiro Naganuma",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "The Ancient Magus’ Bride",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "), a adaptação para animê é uma produção da "
-            },
-            {
-              "text": "TOHO",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " junto ao estúdio "
-            },
-            {
-              "text": "OLM",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Pokémon",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "). A série já conta com duas temporadas lançadas e, além do terceiro ano, "
-            },
-            {
-              "text": "terá um longa-metragem lançado em dezembro",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/07/03/diarios-de-uma-apotecaria-filme-ganha-trailer-e-data-de-estreia/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A Netflix e a HBO Max contam com a primeira temporada da série, enquanto a Crunchyroll conta com as duas fases, todas com dublagem em português.",
-          "runs": [
-            {
-              "text": "A"
-            },
-            {
-              "text": " Netflix",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e a "
-            },
-            {
-              "text": "HBO Max",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " contam com a primeira temporada da série, enquanto a "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " conta com as duas fases, todas com dublagem em português."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fontes: Anime News Network",
-          "runs": [
-            {
-              "text": "Fontes: ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Anime News Network",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://www.animenewsnetwork.com/news/2026-09-25/the-apothecary-diaries-season-3-anime-2nd-trailer-reveals-eve-ending-theme/.242175"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-09-25T15:30:45.000Z",
-      "updatedAt": "2026-09-25T15:31:31.000Z",
-      "expiresAt": "2026-10-02T15:30:45.000Z",
-      "category": "Trailers",
-      "eventType": "TRAILER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/09/25/diarios-de-uma-apotecaria-3a-temporada-ganha-trailer-cheio-de-intrigas-e-com-a-musica-de-encerramento",
-          "publishedAt": "2026-09-25T15:30:45.000Z",
-          "author": "Cakes Sousa"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 346,
-      "qualityScore": 0.922,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 11,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 0,
-        "embedCount": 1,
         "sourcePagesRead": 0
       }
     }
