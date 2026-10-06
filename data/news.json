@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T01:52:45.464Z",
+  "generatedAt": "2026-10-06T08:53:25.397Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -60,14 +60,255 @@
     "newStories": 25,
     "fullArticles": 25,
     "previewArticles": 0,
-    "avgWords": 422,
+    "avgWords": 420,
     "withHeroImage": 25,
     "withOrderedMedia": 24,
     "skippedTranslation": 0,
     "skippedQuality": 23,
-    "durationMs": 6213
+    "durationMs": 3046
   },
   "items": [
+    {
+      "id": "animenew-59111699",
+      "slug": "criador-de-hunter-x-hunter-limitara-trabalhos-devido-a-saude-animenew-59111699",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Criador de Hunter x Hunter limitará trabalhos devido à saúde",
+      "originalTitle": "Criador de Hunter x Hunter limitará trabalhos devido à saúde",
+      "summary": "O autor de Hunter x Hunter, Yoshihiro Togashi, anunciou que recusará trabalhos com prazo após concluir os compromissos atuais, citando problemas de saúde física e mental. Togashi revelou a decisão nesta segunda-feira, 5 de outubro, por meio de sua conta no X. Segundo o autor, a mudança permitirá que ele concentre seus esforços nos próprios manuscritos.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Mangás",
+        "Notícias",
+        "Hunter x Hunter",
+        "Yoshihiro Togashi"
+      ],
+      "url": "https://animenew.com.br/yoshihiro-togashi-hunter-x-hunter-limita-trabalhos",
+      "sourceUrl": "https://animenew.com.br/yoshihiro-togashi-hunter-x-hunter-limita-trabalhos",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Criador-de-Hunter-x-Hunter-limitara-trabalhos-devido-a-saude.webp",
+      "mediaQuery": "Criador de Hunter x Hunter limitará trabalhos devido à saúde",
+      "mediaType": "manga",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/hunter-x-hunter.webp",
+          "alt": "hunter x hunter",
+          "caption": "© Yoshiro Togashi, Shueisha"
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "O autor de Hunter x Hunter, Yoshihiro Togashi, anunciou que recusará trabalhos com prazo após concluir os compromissos atuais, citando problemas de saúde física e mental. Togashi revelou a decisão nesta segunda-feira, 5 de outubro, por meio de sua conta no X. Segundo o autor, a mudança permitirá que ele concentre seus esforços nos próprios manuscritos.",
+          "runs": [
+            {
+              "text": "O autor de "
+            },
+            {
+              "text": "Hunter x Hunter",
+              "href": "https://animenew.com.br/anime/11061/hunterhunter-2011"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Yoshihiro Togashi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", anunciou que recusará trabalhos com prazo após concluir os compromissos atuais, citando problemas de saúde física e mental. "
+            },
+            {
+              "text": "Togashi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " revelou a decisão nesta segunda-feira, 5 de outubro, por meio de sua conta no X. Segundo o autor, a mudança permitirá que ele concentre seus esforços nos próprios manuscritos."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Chained Soldier entra em pausa devido à saúde do autor",
+              "runs": [
+                {
+                  "text": "Chained Soldier entra em pausa devido à saúde do autor",
+                  "href": "https://animenew.com.br/chained-soldier-manga-hiato"
+                }
+              ]
+            },
+            {
+              "text": "Cells at Work! ganhará spin-off sobre odontologia",
+              "runs": [
+                {
+                  "text": "Cells at Work! ganhará spin-off sobre odontologia",
+                  "href": "https://animenew.com.br/cells-at-work-dental-novo-manga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O mangá de Hunter x Hunter entrou novamente em hiato em 7 de setembro, após retornar à publicação em 29 de junho. A série havia parado no capítulo 420, mas Togashi informou em 15 de setembro que concluiu o manuscrito do capítulo 428.",
+          "runs": [
+            {
+              "text": "O mangá de "
+            },
+            {
+              "text": "Hunter x Hunter",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " entrou novamente em hiato em 7 de setembro, após retornar à publicação em 29 de junho. A série havia parado no capítulo 420, mas Togashi informou em 15 de setembro que concluiu o manuscrito do capítulo 428."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A Shueisha publicou o 39º volume compilado em 3 de julho, o primeiro novo volume em 22 meses. A obra já ultrapassou 100 milhões de cópias em circulação, considerando também as versões digitais.",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "Shueisha",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " publicou o 39º volume compilado em 3 de julho, o primeiro novo volume em 22 meses. A obra já ultrapassou 100 milhões de cópias em circulação, considerando também as versões digitais."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Histórico de pausas de Togashi",
+          "runs": [
+            {
+              "text": "Histórico de pausas de "
+            },
+            {
+              "text": "Togashi",
+              "marks": [
+                "strong"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/hunter-x-hunter.webp",
+          "alt": "hunter x hunter",
+          "caption": "© Yoshiro Togashi, Shueisha"
+        },
+        {
+          "type": "paragraph",
+          "text": "O autor já havia enfrentado problemas de saúde que afetaram a produção da obra. Em janeiro de 2023, a Shueisha anunciou que Hunter x Hunter deixaria de seguir o formato semanal, após consultar Togashi.",
+          "runs": [
+            {
+              "text": "O autor já havia enfrentado problemas de saúde que afetaram a produção da obra. Em janeiro de 2023, a Shueisha anunciou que "
+            },
+            {
+              "text": "Hunter x Hunter",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " deixaria de seguir o formato semanal, após consultar Togashi."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Por fim o mangá de Hunter x Hunter existe desde 1998 na Weekly Shonen Jump, ganhando duas séries de anime, filmes, OVAs e peças de teatro.",
+          "runs": [
+            {
+              "text": "Por fim o mangá de Hunter x Hunter existe desde 1998 na "
+            },
+            {
+              "text": "Weekly Shonen Jump",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", ganhando duas séries de anime, filmes, OVAs e peças de teatro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Criador de Hunter x Hunter limitará trabalhos devido à saúde.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Criador de Hunter x Hunter limitará trabalhos devido à saúde",
+              "href": "https://animenew.com.br/yoshihiro-togashi-hunter-x-hunter-limita-trabalhos/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-06T02:05:18.000Z",
+      "updatedAt": "2026-10-06T02:05:18.000Z",
+      "expiresAt": "2026-10-13T02:05:18.000Z",
+      "category": "Mangás & novels",
+      "eventType": "MANGA",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/yoshihiro-togashi-hunter-x-hunter-limita-trabalhos",
+          "publishedAt": "2026-10-06T02:05:18.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 240,
+      "qualityScore": 0.968,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 9,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "animenew-d3d7b284",
       "slug": "the-record-of-a-fallen-vampire-recebe-adaptacao-para-anime-animenew-d3d7b284",
@@ -8073,302 +8314,6 @@
         "ingestMode": "wp-rest",
         "contentMode": "full",
         "mediaCount": 2,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-427e8342",
-      "slug": "black-clover-quando-estreia-o-primeiro-episodio-da-2-temporada-animenew-427e8342",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Black Clover: Quando estreia o primeiro episódio da 2ª temporada?",
-      "originalTitle": "Black Clover: Quando estreia o primeiro episódio da 2ª temporada?",
-      "summary": "O anime de Black Clover finalmente ganhou data para retornar à televisão japonesa. A nova temporada já tem data definida para estreia no mês de outubro de 2026, após mais de cinco anos desde o fim da primeira fase.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Notícias",
-        "Black Clover"
-      ],
-      "url": "https://animenew.com.br/black-clover-estreia-estreia-temporada-2",
-      "sourceUrl": "https://animenew.com.br/black-clover-estreia-estreia-temporada-2",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Black-Clover-Quando-estreia-o-primeiro-episodio-da-2a-temporada.webp",
-      "mediaQuery": "Black Clover: Quando estreia o primeiro episódio da 2ª temporada?",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/O-que-esperar-da-nova-temporada-black-clover.webp",
-          "alt": "O que esperar da nova temporada black clover",
-          "caption": "© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会"
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/4MYo8FfiXMA"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "O anime de Black Clover finalmente ganhou data para retornar à televisão japonesa. A nova temporada já tem data definida para estreia no mês de outubro de 2026, após mais de cinco anos desde o fim da primeira fase.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " de "
-            },
-            {
-              "text": "Black Clover ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "finalmente ganhou data para retornar à televisão japonesa. A nova temporada já tem data definida para estreia no mês de outubro de 2026, após mais de cinco anos desde o fim da primeira fase."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Re:Zero ganha visual de encerramento da 4ª temporada",
-              "runs": [
-                {
-                  "text": "Re:Zero ganha visual de encerramento da 4ª temporada",
-                  "href": "https://animenew.com.br/rezero-4-temporada-visual-final-rem"
-                }
-              ]
-            },
-            {
-              "text": "Seirei Gensouki: Anunciada 3ª temporada do anime",
-              "runs": [
-                {
-                  "text": "Seirei Gensouki: Anunciada 3ª temporada do anime",
-                  "href": "https://animenew.com.br/seirei-gensouki-anunciada-3a-temporada-do-anime"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A história continuará diretamente o conflito contra o Reino de Spade e a Tríade Negra. Asta e os Cavaleiros Mágicos terão como objetivo resgatar Yami Sukehiro e William Vangeance, capturados pelos inimigos.",
-          "runs": [
-            {
-              "text": "A história continuará diretamente o conflito contra o "
-            },
-            {
-              "text": "Reino de Spade",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e a Tríade Negra. Asta e os "
-            },
-            {
-              "text": "Cavaleiros Mágicos",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " terão como objetivo resgatar "
-            },
-            {
-              "text": "Yami Sukehiro",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "William Vangeance",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", capturados pelos inimigos."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=4MYo8FfiXMA",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/4MYo8FfiXMA"
-        },
-        {
-          "type": "heading",
-          "text": "Black Clover volta quando o anime?",
-          "runs": [
-            {
-              "text": "Black Clover volta quando o anime?"
-            }
-          ],
-          "level": 2
-        },
-        {
-          "type": "paragraph",
-          "text": "O episódio 1 da 2ª temporada de Black Clover será exibido pela TV Tokyo e emissoras afiliadas às 23h do Japão. No Brasil, isso corresponde às 11h da manhã do dia 3 de outubro, considerando o horário de Brasília.",
-          "runs": [
-            {
-              "text": "O episódio 1 da 2ª temporada de Black Clover será exibido pela TV Tokyo e emissoras afiliadas às 23h do Japão. No Brasil, isso corresponde às "
-            },
-            {
-              "text": "11h da manhã do dia 3 de outubro",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", considerando o horário de Brasília."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "O que esperar da estreia de Black Clover?",
-          "runs": [
-            {
-              "text": "O que esperar da estreia de Black Clover?"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "O retorno também deve explorar a relação entre Asta e Liebe, revelada no episódio 170. Yuno, por sua vez, descobriu ser integrante da família real do Reino de Spade, tornando o confronto ainda mais pessoal.",
-          "runs": [
-            {
-              "text": "O retorno também deve explorar a relação entre Asta e Liebe, revelada no episódio 170. Yuno, por sua vez, descobriu ser integrante da família real do Reino de Spade, tornando o confronto ainda mais pessoal."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/O-que-esperar-da-nova-temporada-black-clover.webp",
-          "alt": "O que esperar da nova temporada black clover",
-          "caption": "© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会"
-        },
-        {
-          "type": "paragraph",
-          "text": "Portanto Nacht também terá participação importante, especialmente diante da ausência de Yami. O personagem deverá assumir mais responsabilidades dentro dos Touros Negros.",
-          "runs": [
-            {
-              "text": "Portanto Nacht também terá participação importante, especialmente diante da ausência de Yami. O personagem deverá assumir mais responsabilidades dentro dos "
-            },
-            {
-              "text": "Touros Negros",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Sendo assim a Studio Pierrot retorna na produção, com Ayataka Tanemura novamente na direção. O primeiro episódio recebeu o título “Opening of Hostilities”.",
-          "runs": [
-            {
-              "text": "Sendo assim a "
-            },
-            {
-              "text": "Studio Pierrot",
-              "href": "https://animenew.com.br/studio/1/studio-pierrot"
-            },
-            {
-              "text": " retorna na produção, com Ayataka Tanemura novamente na direção. O primeiro episódio recebeu o título “Opening of Hostilities”."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A temporada estreia no Japão em 3 de outubro. A Crunchyroll transmitirá o anime internacionalmente, incluindo o Brasil, mas o horário exato do simulcast ainda não foi divulgado. Por fim a quantidade total de episódios também permanece sem confirmação oficial.",
-          "runs": [
-            {
-              "text": "A temporada estreia no Japão em 3 de outubro. A "
-            },
-            {
-              "text": "Crunchyroll",
-              "href": "https://animenew.com.br/tag/crunchyroll/"
-            },
-            {
-              "text": " transmitirá o anime internacionalmente, incluindo o Brasil, mas o horário exato do simulcast ainda não foi divulgado. Por fim a quantidade total de episódios também permanece sem confirmação oficial."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Black Clover: Quando estreia o primeiro episódio da 2ª temporada?.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Black Clover: Quando estreia o primeiro episódio da 2ª temporada?",
-              "href": "https://animenew.com.br/black-clover-estreia-estreia-temporada-2/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-02T01:11:38.000Z",
-      "updatedAt": "2026-10-02T01:11:38.000Z",
-      "expiresAt": "2026-10-09T01:11:38.000Z",
-      "category": "Episódios",
-      "eventType": "EPISODE",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/black-clover-estreia-estreia-temporada-2",
-          "publishedAt": "2026-10-02T01:11:38.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 283,
-      "qualityScore": 0.918,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 13,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 1,
         "embedCount": 1,
         "sourcePagesRead": 0
       }
