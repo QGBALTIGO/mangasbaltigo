@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T13:33:49.753Z",
+  "generatedAt": "2026-10-10T17:58:48.156Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,519 @@
   ],
   "stats": {
     "collected": 51,
-    "grouped": 27,
-    "published": 27,
-    "newStories": 27,
-    "fullArticles": 27,
+    "grouped": 28,
+    "published": 28,
+    "newStories": 28,
+    "fullArticles": 28,
     "previewArticles": 0,
-    "avgWords": 443,
-    "withHeroImage": 27,
-    "withOrderedMedia": 22,
+    "avgWords": 463,
+    "withHeroImage": 28,
+    "withOrderedMedia": 23,
     "skippedTranslation": 0,
-    "skippedQuality": 24,
-    "durationMs": 2568
+    "skippedQuality": 23,
+    "durationMs": 3056
   },
   "items": [
+    {
+      "id": "jbox-1364df86",
+      "slug": "critica-you-and-i-are-polar-opposites-2-temporada-jbox-1364df86",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Crítica | You and I Are Polar Opposites | 2ª temporada",
+      "originalTitle": "Crítica | You and I Are Polar Opposites | 2ª temporada",
+      "summary": "Toda temporada de animês tem sua cota de gêneros. É preciso ter um shounen de lutinha, alguma fantasia, algum animê esportivo e, é claro, um romance. Porém, enquanto várias produções contam a história clássica de “menino encontra menina”, com vozes fofinhas e uma trama um tanto água com açúcar, You and I Are Polar Opposites faz uso dos clichês do gênero para criar um caminho mais maduro e crível para seus personagens.",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Resenha",
+        "“Koucha Agasawa”",
+        "“segunda temporada de You and I Are Polar Opposites”",
+        "“Seihantaina Kimi to Boku”",
+        "“You and I Are Polar Opposites”",
+        "Suzuki e Tani",
+        "Taira e Azuma",
+        "Tairazuma"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/10/critica-you-and-i-are-polar-opposites-2a-temporada",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/10/critica-you-and-i-are-polar-opposites-2a-temporada",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/jbox-critica-destacada-YouandIArePolarOpposites2.jpg",
+      "mediaQuery": "Crítica | You and I Are Polar Opposites | 2ª temporada",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/You-and-i-are-polar-opposites-01.webp",
+          "alt": "Imagem de You and I Are Polar Opposites",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/You-and-i-are-polar-opposites-02.webp",
+          "alt": "Imagem de You and I Are Polar Opposites",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/You-and-i-are-polar-opposites-03.webp",
+          "alt": "Imagem de You and I Are Polar Opposites",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/o9eLX4W-gys"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Toda temporada de animês tem sua cota de gêneros. É preciso ter um shounen de lutinha, alguma fantasia, algum animê esportivo e, é claro, um romance. Porém, enquanto várias produções contam a história clássica de “menino encontra menina”, com vozes fofinhas e uma trama um tanto água com açúcar, You and I Are Polar Opposites faz uso dos clichês do gênero para criar um caminho mais maduro e crível para seus personagens.",
+          "runs": [
+            {
+              "text": "Toda temporada de animês tem sua cota de gêneros. É preciso ter um shounen de lutinha, alguma fantasia, algum animê esportivo e, é claro, um romance. Porém, enquanto várias produções contam a história clássica de "
+            },
+            {
+              "text": "“menino encontra menina”",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", com vozes fofinhas e uma trama um tanto água com açúcar, "
+            },
+            {
+              "text": "You and I Are Polar Opposites",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " faz uso dos clichês do gênero para criar um caminho mais maduro e crível para seus personagens."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A trama geral mostra como a extrovertida jovem Miyu Suzuki começa um relacionamento com o tímido Yusuke Tani, e os dois passam a entender como ter um namoro em meio às diferenças de personalidade. Clichê, certo? Mas o grande acerto da trama criada no mangá por Kocha Agasawa (também de Parede de Gelo) é entender que não é preciso reinventar a roda. Existem muitos caminhos interessantes para explorar dentro das convenções que os fãs já conhecem.",
+          "runs": [
+            {
+              "text": "A trama geral mostra como a extrovertida jovem "
+            },
+            {
+              "text": "Miyu Suzuki",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " começa um relacionamento com o tímido "
+            },
+            {
+              "text": "Yusuke Tani",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", e os dois passam a entender como ter um namoro em meio às diferenças de personalidade. Clichê, certo? Mas o grande acerto da trama criada no mangá por "
+            },
+            {
+              "text": "Kocha Agasawa",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (também de "
+            },
+            {
+              "text": "Parede de Gelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") é entender que não é preciso reinventar a roda. Existem muitos caminhos interessantes para explorar dentro das convenções que os fãs já conhecem."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Aliás, ao estabelecer uma base simples, parece até que a autora tem mais liberdade para se aprofundar em outras complexidades e buscar caminhos, senão inexplorados, ao menos mais raros dentro dos romances em mangás e animês.",
+          "runs": [
+            {
+              "text": "Aliás, ao estabelecer uma base simples, parece até que a autora tem mais liberdade para se aprofundar em outras complexidades e buscar caminhos, senão inexplorados, ao menos mais raros dentro dos romances em mangás e animês."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/You-and-i-are-polar-opposites-01.webp",
+          "alt": "Imagem de You and I Are Polar Opposites"
+        },
+        {
+          "type": "paragraph",
+          "text": "Com os problemas iniciais do relacionamento resolvidos, Suzuki e Tani passam por novos questionamentos | Lapin Track/Divulgação",
+          "runs": [
+            {
+              "text": "Com os problemas iniciais do relacionamento resolvidos, Suzuki e Tani passam por novos questionamentos | Lapin Track/Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Tairazuma, Nishyamada e o poder dos coadjuvantes",
+          "runs": [
+            {
+              "text": "Tairazuma, Nishyamada e o poder dos coadjuvantes"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "A segunda temporada de You and I Are Polar Opposites começa com Suzuki e Tani já namorando e tendo novas experiências juntos. Aqui, a relação dos dois já está mais estabelecida, então a produção foca mais em passos futuros, como sair com mais frequência e conhecer as respectivas famílias.",
+          "runs": [
+            {
+              "text": "A segunda temporada de "
+            },
+            {
+              "text": "You and I Are Polar Opposites",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " começa com Suzuki e Tani já namorando e tendo novas experiências juntos. Aqui, a relação dos dois já está mais estabelecida, então a produção foca mais em passos futuros, como sair com mais frequência e conhecer as respectivas famílias."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ao inserir esse tipo de interação, o animê tem a oportunidade de explorar mais as inseguranças que fazem parte do período — como quando Suzuki acha que precisa mudar a cor do cabelo para encontrar a família de Tani. E a melhor parte é que tudo isso é encarado com naturalidade. É normal que Suzuki se sinta dessa forma, então suas atitudes, ainda que exageradas, parecem naturais para uma jovem de sua idade. A beleza da história é mostrar como os dois navegam por esses conflitos e, mesmo sem saber o que fazer, encontram uma solução.",
+          "runs": [
+            {
+              "text": "Ao inserir esse tipo de interação, o animê tem a oportunidade de explorar mais as inseguranças que fazem parte do período — como quando Suzuki acha que precisa mudar a cor do cabelo para encontrar a família de Tani. E a melhor parte é que tudo isso é encarado com naturalidade. É normal que Suzuki se sinta dessa forma, então suas atitudes, ainda que exageradas, parecem naturais para uma jovem de sua idade. A beleza da história é mostrar como os dois navegam por esses conflitos e, mesmo sem saber o que fazer, encontram uma solução."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Curiosamente, no entanto, o casal Suzuki e Tani passa longe de ser o grande destaque da temporada. Após alguns primeiros episódios mais focados nos dois, You and I Are Polar Opposites expande a narrativa para falar também de nomes como Nishi e Yamada e, os queridinhos de todos, Taira e Azuma. As problemáticas são semelhantes: como mostrar para alguém que gosta dela, como se abrir e permitir que uma pessoa conheça suas vulnerabilidades, afinal, amar é se colocar nessa posição.",
+          "runs": [
+            {
+              "text": "Curiosamente, no entanto, o casal Suzuki e Tani passa longe de ser o grande destaque da temporada. Após alguns primeiros episódios mais focados nos dois, "
+            },
+            {
+              "text": "You and I Are Polar Opposites",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " expande a narrativa para falar também de nomes como "
+            },
+            {
+              "text": "Nishi e Yamada",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e, os queridinhos de todos, "
+            },
+            {
+              "text": "Taira e Azuma",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". As problemáticas são semelhantes: como mostrar para alguém que gosta dela, como se abrir e permitir que uma pessoa conheça suas vulnerabilidades, afinal, amar é se colocar nessa posição."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/You-and-i-are-polar-opposites-02.webp",
+          "alt": "Imagem de You and I Are Polar Opposites"
+        },
+        {
+          "type": "paragraph",
+          "text": "Enquanto Yamada se apaixona por Nishi, nós passamos a amar os dois | Lapin Track/Divulgação",
+          "runs": [
+            {
+              "text": "Enquanto Yamada se apaixona por Nishi, nós passamos a amar os dois | Lapin Track/Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Para alguns, deixar os protagonistas de lado para explorar os coadjuvantes pode soar como um erro — e não há como negar que Polar Opposites exagera um pouco, com alguns bons episódios sem muitos detalhes sobre os dois — mas o ganho narrativo é tão profundo, que deixamos passar esse desequilíbrio. Especialmente, também, porque os quatro nomes citados acima são personagens totalmente interessantes de acompanhar. Yamada, por exemplo, tem aquele jeitão de aluno “vereador” da classe, que conversa com todos e sai fazendo amizades por onde passa. E seu desafio é justamente lidar com Nishi, uma das personagens mais envergonhadas do mundo dos animês.",
+          "runs": [
+            {
+              "text": "Para alguns, deixar os protagonistas de lado para explorar os coadjuvantes pode soar como um erro — e não há como negar que "
+            },
+            {
+              "text": "Polar Opposites",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " exagera um pouco",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com alguns bons episódios sem muitos detalhes sobre os dois — mas o ganho narrativo é tão profundo, que deixamos passar esse desequilíbrio. Especialmente, também, porque os quatro nomes citados acima são personagens totalmente interessantes de acompanhar. Yamada, por exemplo, tem aquele jeitão de aluno “vereador” da classe, que conversa com todos e sai fazendo amizades por onde passa. E seu desafio é justamente lidar com Nishi, uma das personagens mais envergonhadas do mundo dos animês."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Mas ela também não é aquela pessoa tão retraída que se torna chata de acompanhar. Aos poucos, a trama mostra mais camadas de Nishi, seus motivos, e vai expandindo sua introversão com pequenas interações a mais aqui e ali. Nishi é, sim, tímida, mas isso não precisa definir tudo sobre ela.",
+          "runs": [
+            {
+              "text": "Mas ela também não é aquela pessoa tão retraída que se torna chata de acompanhar. Aos poucos, a trama mostra mais camadas de Nishi, seus motivos, e vai expandindo sua introversão com pequenas interações a mais aqui e ali. Nishi é, sim, tímida, mas isso não precisa definir tudo sobre ela."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Essa máxima também é aplicada ao casal Taira e Azuma. Ele, aliás, é o mais chatinho de todos e, por isso, tem o maior desenvolvimento. Reservado ao extremo e com uma pitada de cinismo que julga todos ao redor, Taira é uma das criações mais interessantes de Kocha Agasawa. Ele não dá um salto rápido de desenvolvimento, mas seus motivos são aos poucos explicados, e é quase impossível não se afeiçoar ao mau humor dele.",
+          "runs": [
+            {
+              "text": "Essa máxima também é aplicada ao casal Taira e Azuma. Ele, aliás, é o mais chatinho de todos e, por isso, tem o maior desenvolvimento. Reservado ao extremo e com uma pitada de cinismo que julga todos ao redor, "
+            },
+            {
+              "text": "Taira é uma das criações mais interessantes de Kocha Agasawa",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Ele não dá um salto rápido de desenvolvimento, mas seus motivos são aos poucos explicados, e é quase impossível não se afeiçoar ao mau humor dele."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/You-and-i-are-polar-opposites-03.webp",
+          "alt": "Imagem de You and I Are Polar Opposites"
+        },
+        {
+          "type": "paragraph",
+          "text": "Taira e Azuma são dois esquisitões, mas a beleza é que eles podem ser esquisitos juntos | Lapin Track/Divulgação",
+          "runs": [
+            {
+              "text": "Taira e Azuma são dois esquisitões, mas a beleza é que eles podem ser esquisitos juntos | Lapin Track/Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este, aliás, é um dos maiores pontos fortes da autora: explicar sentimentos, dos mais simples aos mais complexos, de formas instigantes e que fazem sentido. Não é raro ver algum flashback e soltar um sonoro “ah, tá, então é isso”. Somada essa característica a personagens cativantes e por quem torcemos a todo o momento, é impossível não sentir várias emoções ao acompanhar os episódios.",
+          "runs": [
+            {
+              "text": "Este, aliás, é um dos"
+            },
+            {
+              "text": " maiores pontos fortes da autora",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ": explicar sentimentos, dos mais simples aos mais complexos, de formas instigantes e que fazem sentido. Não é raro ver algum flashback e soltar um sonoro "
+            },
+            {
+              "text": "“ah, tá, então é isso”.",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " Somada essa característica a personagens cativantes e por quem torcemos a todo o momento, é impossível não sentir várias emoções ao acompanhar os episódios."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando chega a seu episódio final, que dá nome ao título da obra, You and I Are Polar Opposites entrega uma sequência sensível sobre os próximos passos dos personagens, que inclui o final do ensino médio, trabalho e faculdade. Há a sensação de que a história poderia ter contado ainda mais sobre cada um deles, mas a autora (e o animê) escolhem um momento que faz sentido, para que a narrativa não fique desgastada e cumpra o papel de ser um retrato de um momento de grande mudança na vida dos personagens.",
+          "runs": [
+            {
+              "text": "Quando chega a seu episódio final, que dá nome ao título da obra, "
+            },
+            {
+              "text": "You and I Are Polar Opposites",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " entrega uma sequência sensível sobre os próximos passos dos personagens, que inclui o final do ensino médio, trabalho e faculdade. Há a sensação de que a história poderia ter contado ainda mais sobre cada um deles, mas a autora (e o animê) escolhem um momento que faz sentido, para que a narrativa não fique desgastada e cumpra o papel de ser um retrato de um momento de grande mudança na vida dos personagens."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Do outro lado da tela, resta aos fãs completar mentalmente o que aconteceu com cada personagem nos anos seguintes, mas com a certeza de que aquela turma viveu momentos grandiosos e, ao mesmo tempo, singelos, na época da escola. E que gostoso foi acompanhar essa jornada.",
+          "runs": [
+            {
+              "text": "Do outro lado da tela, resta aos fãs completar mentalmente o que aconteceu com cada personagem nos anos seguintes, mas com a certeza de que aquela turma viveu momentos grandiosos e, ao mesmo tempo, singelos, na época da escola. "
+            },
+            {
+              "text": "E que gostoso foi acompanhar essa jornada.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=o9eLX4W-gys",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/o9eLX4W-gys"
+        },
+        {
+          "type": "paragraph",
+          "text": "As duas temporadas de You and I Are Polar Opposites (Seihantai na Kimi to Boku) foram exibidas por aqui via streaming pela Crunchyroll, com opções de dublagem e legendas.",
+          "runs": [
+            {
+              "text": "As duas temporadas de "
+            },
+            {
+              "text": "You and I Are Polar Opposites",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Seihantai na Kimi to Boku",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") foram exibidas por aqui via streaming pela"
+            },
+            {
+              "text": " Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com opções de dublagem e legendas."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
+          "runs": [
+            {
+              "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-10T17:46:32.000Z",
+      "updatedAt": "2026-10-10T17:46:59.000Z",
+      "expiresAt": "2026-10-17T17:46:32.000Z",
+      "category": "Animes",
+      "eventType": "SEASON",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/10/critica-you-and-i-are-polar-opposites-2a-temporada",
+          "publishedAt": "2026-10-10T17:46:32.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 5,
+      "wordCount": 963,
+      "qualityScore": 1,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 24,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 3,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "animenew-2bdd3672",
       "slug": "anime-the-guy-she-was-interested-in-ganha-data-de-lancamento-animenew-2bdd3672",
@@ -1336,13 +1836,13 @@
     },
     {
       "id": "jbox-9f788d35",
-      "slug": "netflix-anuncia-evento-de-jojo-s-bizarre-adventure-steel-ball-run-em-sp-jbox-9f788d35",
+      "slug": "netflix-anuncia-evento-de-jojo-s-bizarre-adventure-steel-ball-run-em-sp-at-jbox-9f788d35",
       "source": "JBox",
       "sourceType": "JBOX",
       "sourceLanguage": "pt-BR",
       "language": "pt-BR",
-      "title": "Netflix anuncia evento de ‘JoJo’s Bizarre Adventure: Steel Ball Run’ em SP",
-      "originalTitle": "Netflix anuncia evento de ‘JoJo’s Bizarre Adventure: Steel Ball Run’ em SP",
+      "title": "Netflix anuncia evento de ‘JoJo’s Bizarre Adventure: Steel Ball Run’ em SP (AT)",
+      "originalTitle": "Netflix anuncia evento de ‘JoJo’s Bizarre Adventure: Steel Ball Run’ em SP (AT)",
       "summary": "A Netflix anunciou (um tanto de surpresa) um evento inspirado em JoJo’s Bizarre Adventure: Steel Ball Run neste final de semana, no bairro da Liberdade, em São Paulo.",
       "author": "Cakes Sousa",
       "tags": [
@@ -1360,7 +1860,7 @@
       "url": "https://www.jbox.com.br/2026/10/09/netflix-anuncia-evento-de-jojos-bizarre-adventure-steel-ball-run-em-sp",
       "sourceUrl": "https://www.jbox.com.br/2026/10/09/netflix-anuncia-evento-de-jojos-bizarre-adventure-steel-ball-run-em-sp",
       "image": "https://www.jbox.com.br/wp/wp-content/uploads/2025/09/jojosteelballrunpv-destacada.jpg",
-      "mediaQuery": "Netflix anuncia evento de ‘JoJo’s Bizarre Adventure: Steel Ball Run’ em SP",
+      "mediaQuery": "Netflix anuncia evento de ‘JoJo’s Bizarre Adventure: Steel Ball Run’ em SP (AT)",
       "mediaType": "anime",
       "mediaGallery": [
         {
@@ -1457,6 +1957,38 @@
             },
             {
               "text": " de como os personagens serão representados na ativação, então fica a dúvida se os fãs vão encontrar estátuas, tótens ou até pessoas vestidas como Johnny e Gyro."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Atualização 10/10",
+          "runs": [
+            {
+              "text": "Atualização 10/10",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            }
+          ],
+          "level": 4
+        },
+        {
+          "type": "paragraph",
+          "text": "O perfil do Instagram Liberdade Sampa divulgou um vídeo com o começo da ativação. Nele, é possível ver que o cavalo Slow Dancer é uma estátua, enquanto os personagens Johnny e Gyro são tótens, tudo isso em um fundo com tema de faroeste, com os logos do animê e da Netflix:",
+          "runs": [
+            {
+              "text": "O perfil do "
+            },
+            {
+              "text": "Instagram Liberdade Sampa",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " divulgou um vídeo com o começo da ativação. Nele, é possível ver que o cavalo Slow Dancer é uma estátua, enquanto os personagens Johnny e Gyro são tótens, tudo isso em um fundo com tema de faroeste, com os logos do animê e da Netflix:"
             }
           ]
         },
@@ -1745,7 +2277,7 @@
       ],
       "contentMode": "full",
       "publishedAt": "2026-10-09T21:56:31.000Z",
-      "updatedAt": "2026-10-09T21:57:02.000Z",
+      "updatedAt": "2026-10-10T16:38:33.000Z",
       "expiresAt": "2026-10-16T21:56:31.000Z",
       "category": "Notícias",
       "eventType": "OTHER",
@@ -1761,13 +2293,13 @@
       ],
       "sourceCount": 1,
       "readingMinutes": 3,
-      "wordCount": 471,
-      "qualityScore": 0.999,
+      "wordCount": 524,
+      "qualityScore": 1,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
         "sections": 0,
-        "blocks": 13,
+        "blocks": 15,
         "sourceCount": 1,
         "ingestMode": "wp-rest",
         "contentMode": "full",
@@ -6507,7 +7039,7 @@
       "sourceCount": 1,
       "readingMinutes": 3,
       "wordCount": 484,
-      "qualityScore": 0.999,
+      "qualityScore": 0.939,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
