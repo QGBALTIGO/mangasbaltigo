@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:46:13.648Z",
+  "generatedAt": "2026-10-12T23:48:48.538Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,519 @@
   ],
   "stats": {
     "collected": 50,
-    "grouped": 25,
-    "published": 25,
-    "newStories": 25,
-    "fullArticles": 25,
+    "grouped": 24,
+    "published": 24,
+    "newStories": 24,
+    "fullArticles": 24,
     "previewArticles": 0,
-    "avgWords": 506,
-    "withHeroImage": 25,
-    "withOrderedMedia": 19,
+    "avgWords": 477,
+    "withHeroImage": 24,
+    "withOrderedMedia": 18,
     "skippedTranslation": 0,
-    "skippedQuality": 22,
-    "durationMs": 4413
+    "skippedQuality": 23,
+    "durationMs": 3519
   },
   "items": [
+    {
+      "id": "jbox-7b5d9710",
+      "slug": "anime-de-kagurabachi-tem-turne-confirmada-no-brasil-durante-a-ccxp-2026-jbox-7b5d9710",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Animê de ‘Kagurabachi’ tem turnê confirmada no Brasil durante a CCXP 2026",
+      "originalTitle": "Animê de ‘Kagurabachi’ tem turnê confirmada no Brasil durante a CCXP 2026",
+      "summary": "A CyberAgent confirmou que a turnê de lançamento do animê Kagurabachi vai passar pelo Brasil em dezembro deste ano, dentro da CCXP. A possibilidade já havia sido ventilada ao JBox durante entrevista com representantes da empresa na LicensingCon Latam 2026, e agora anunciada oficialmente.",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Eventos",
+        "animê de Kagurabachi",
+        "animê de Kagurabachi no Brasil",
+        "Chihiro Rokuhira",
+        "kagurabachi",
+        "Kagurabachi na CCXP",
+        "Kagurabachi na CCXP 2026",
+        "Kagurabachi na Crunchyroll",
+        "Turnê de Kagurabachi no Brasil"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/12/anime-de-kagurabachi-tem-turne-confirmada-no-brasil-durante-a-ccxp-2026",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/12/anime-de-kagurabachi-tem-turne-confirmada-no-brasil-durante-a-ccxp-2026",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/06/Kagurabachi-destacada.jpg",
+      "mediaQuery": "Animê de ‘Kagurabachi’ tem turnê confirmada no Brasil durante a CCXP 2026",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Kagurabachi.webp",
+          "alt": "Arte de Kagurabachi",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A CyberAgent confirmou que a turnê de lançamento do animê Kagurabachi vai passar pelo Brasil em dezembro deste ano, dentro da CCXP. A possibilidade já havia sido ventilada ao JBox durante entrevista com representantes da empresa na LicensingCon Latam 2026, e agora anunciada oficialmente.",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "CyberAgent",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " confirmou que a turnê de lançamento do animê "
+            },
+            {
+              "text": "Kagurabachi",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " vai passar pelo Brasil em dezembro deste ano, dentro da "
+            },
+            {
+              "text": "CCXP",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". A possibilidade "
+            },
+            {
+              "text": "já havia sido ventilada ao ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/18/licensingcon-latam-2026-mostra-interesse-das-marcas-em-animes-e-planos-de-longo-prazo/"
+            },
+            {
+              "text": "JBox",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/18/licensingcon-latam-2026-mostra-interesse-das-marcas-em-animes-e-planos-de-longo-prazo/"
+            },
+            {
+              "text": " durante entrevista com representantes da empresa na "
+            },
+            {
+              "text": "LicensingCon Latam 2026",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", e agora anunciada oficialmente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Segundo o Anitrendz, o comunicado oficial diz que a turnê passará por Singapura, Seul (na Coreia do Sul) e São Paulo, exibindo os primeiros 20 minutos da estreia do animê (o que corresponde a quase um episódio completo).",
+          "runs": [
+            {
+              "text": "Segundo o "
+            },
+            {
+              "text": "Anitrendz",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", o comunicado oficial diz que a turnê passará por Singapura, Seul (na Coreia do Sul) e São Paulo, exibindo os primeiros 20 minutos da estreia do animê (o que corresponde a quase um episódio completo)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O evento em Singapura acontece no dia 29 de novembro, e terá ainda as presenças de Taihi Kimura, voz original de Chihiro Rokuhira, e de Kan Mizoguchi, produtor de animação do projeto. Detalhes sobre o painel na CCXP não foram divulgados, mas uma das possibilidades é que ele aconteça no dia 6 de dezembro, último dia do evento nerd em São Paulo.",
+          "runs": [
+            {
+              "text": "O evento em Singapura acontece no dia 29 de novembro, e terá ainda as presenças de "
+            },
+            {
+              "text": "Taihi Kimura",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", voz original de Chihiro Rokuhira, e de "
+            },
+            {
+              "text": "Kan Mizoguchi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", produtor de animação do projeto. Detalhes sobre o painel na"
+            },
+            {
+              "text": " CCXP",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " não foram divulgados, mas uma das possibilidades é que ele aconteça no dia "
+            },
+            {
+              "text": "6 de dezembro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", último dia do evento nerd em São Paulo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O encerramento da turnê será em Tóquio, no dia 27 de março de 2027, com a exibição dos dois primeiros episódios do animê, que também passarão nos cinemas japoneses.",
+          "runs": [
+            {
+              "text": "O encerramento da turnê será em Tóquio, no dia 27 de março de 2027, com a exibição dos dois primeiros episódios do animê, que também passarão nos cinemas japoneses."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Outra novidade é que Tetsuya Takeuchi, diretor do animê, fez uma arte celebrando o terceiro aniversário da obra criada por Takeru Hokazono:",
+          "runs": [
+            {
+              "text": "Outra novidade é que "
+            },
+            {
+              "text": "Tetsuya Takeuchi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", diretor do animê, fez uma arte celebrando o terceiro aniversário da obra criada por "
+            },
+            {
+              "text": "Takeru Hokazono",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Kagurabachi.webp",
+          "alt": "Arte de Kagurabachi"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nova arte destaca o protagonista Chihiro | Divulgação",
+          "runs": [
+            {
+              "text": "Nova arte destaca o protagonista Chihiro | Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Na história de Kagurabachi, Chihiro é um garoto que sonhava em ser um ferreiro tão renomado quanto seu pai, responsável por forjar seis espadas encantadas. No entanto, sua vida feliz é interrompida por uma tragédia, o que faz com que o rapaz parta em uma jornada em busca de vingança com a ajuda do poder de uma sétima lâmina encantada, que até então era secreta.",
+          "runs": [
+            {
+              "text": "Na história de "
+            },
+            {
+              "text": "Kagurabachi",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", Chihiro é um garoto que sonhava em ser um ferreiro tão renomado quanto seu pai, responsável por forjar seis espadas encantadas. No entanto, sua vida feliz é interrompida por uma tragédia, o que faz com que o rapaz parta em uma jornada em busca de vingança com a ajuda do poder de uma sétima lâmina encantada, que até então era secreta."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Além de Takeuchi (From Bureaucrat to Villainess) na direção, o animê tem design de personagens de Keigo Sasaki (Blue Exorcist). A produção da animação é pelo estúdio CyPic, nova nomenclatura adotada pelo CygamesPictures (O Verão em que Hikaru Morreu).",
+          "runs": [
+            {
+              "text": "Além de Takeuchi ("
+            },
+            {
+              "text": "From Bureaucrat to Villainess",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") na direção, o animê tem design de personagens de "
+            },
+            {
+              "text": "Keigo Sasaki",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Blue Exorcist",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "). A produção da animação é pelo estúdio "
+            },
+            {
+              "text": "CyPic",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", nova nomenclatura adotada pelo "
+            },
+            {
+              "text": "CygamesPictures",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "O Verão em que Hikaru Morreu",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ")."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O mangá, que fez bastante sucesso no lançamento e gerou grandes expectativas para o animê, é escrito e ilustrado por Takeru Hokazono, e seriado na Shonen Jump desde setembro de 2023, com 10 volumes encadernados disponíveis no Japão até o momento. Capítulos recentes podem ser lidos gratuitamente na MANGA Plus, contando com tradução para português. A versão encadernada sai no Brasil pela Panini.",
+          "runs": [
+            {
+              "text": "O mangá, que fez bastante sucesso no lançamento e gerou grandes expectativas para o animê, é  escrito e ilustrado por "
+            },
+            {
+              "text": "Takeru Hokazono",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", e seriado na "
+            },
+            {
+              "text": "Shonen Jump",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " desde setembro de 2023, com 10 volumes encadernados disponíveis no Japão até o momento. Capítulos recentes podem ser lidos gratuitamente na "
+            },
+            {
+              "text": "MANGA Plus",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://mangaplus.shueisha.co.jp/titles/500007"
+            },
+            {
+              "text": ", contando com tradução para português. A versão encadernada sai no Brasil pela "
+            },
+            {
+              "text": "Panini",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Kagurabachi estreia em abril de 2027, com transmissão pela Crunchyroll. Já a CCXP 2026 acontece entre os dias 3 a 6 de dezembro de 2026 no São Paulo Expo, na capital paulista.",
+          "runs": [
+            {
+              "text": "Kagurabachi",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " estreia em abril de 2027, com transmissão pela "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Já a "
+            },
+            {
+              "text": "CCXP 2026",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " acontece entre os dias "
+            },
+            {
+              "text": "3 a 6 de dezembro de 2026",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " no "
+            },
+            {
+              "text": "São Paulo Expo",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", na capital paulista."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Anitrendz",
+          "runs": [
+            {
+              "text": "Fonte",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ": "
+            },
+            {
+              "text": "Anitrendz",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://anitrendz.net/news/2026/10/12/kagurabachi-anime-world-tour-coming-to-singapore-south-korea-brazil-before-japan-finish/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-12T19:54:50.000Z",
+      "updatedAt": "2026-10-12T19:55:20.000Z",
+      "expiresAt": "2026-10-19T19:54:50.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/12/anime-de-kagurabachi-tem-turne-confirmada-no-brasil-durante-a-ccxp-2026",
+          "publishedAt": "2026-10-12T19:54:50.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 3,
+      "wordCount": 421,
+      "qualityScore": 0.994,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 14,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-e886464c",
       "slug": "bug-ego-panini-deve-publicar-manga-do-autor-de-one-punch-man-jbox-e886464c",
@@ -3680,7 +4180,7 @@
       "sourceCount": 1,
       "readingMinutes": 3,
       "wordCount": 524,
-      "qualityScore": 1,
+      "qualityScore": 0.947,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -4236,7 +4736,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 383,
-      "qualityScore": 0.989,
+      "qualityScore": 0.929,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -4678,7 +5178,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 320,
-      "qualityScore": 0.981,
+      "qualityScore": 0.921,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -9163,1120 +9663,6 @@
         "contentMode": "full",
         "mediaCount": 1,
         "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-fb40b93f",
-      "slug": "crunchyroll-oficializa-transmissao-simultanea-de-dragon-ball-super-beerus-no-brasil-jbox-fb40b93f",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Crunchyroll oficializa transmissão simultânea de ‘Dragon Ball Super: Beerus’ no Brasil",
-      "originalTitle": "Crunchyroll oficializa transmissão simultânea de ‘Dragon Ball Super: Beerus’ no Brasil",
-      "summary": "Após alguns rumores aqui e ali, a Crunchyroll oficializou a transmissão de Dragon Ball Super: Beerus no Brasil.",
-      "author": "Cakes Sousa",
-      "tags": [
-        "Anime",
-        "Streaming",
-        "Crunchyroll",
-        "dragon ball super",
-        "Dragon Ball Super: Beerus",
-        "Dragon Ball Super: Beerus na Crunchyroll",
-        "Onde assistir Dragon Ball Super: Beerus no Brasil",
-        "remake de Dragon Ball Super",
-        "remake do Freeza dourado"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/05/crunchyroll-oficializa-transmissao-simultanea-de-dragon-ball-super-beerus-no-brasil",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/05/crunchyroll-oficializa-transmissao-simultanea-de-dragon-ball-super-beerus-no-brasil",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/Dragon-Ball-Super-Beerus-destacada.jpg",
-      "mediaQuery": "Crunchyroll oficializa transmissão simultânea de ‘Dragon Ball Super: Beerus’ no Brasil",
-      "mediaType": "anime",
-      "mediaGallery": [],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/4GYtota67go"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Após alguns rumores aqui e ali, a Crunchyroll oficializou a transmissão de Dragon Ball Super: Beerus no Brasil.",
-          "runs": [
-            {
-              "text": "Após alguns rumores aqui e ali, a "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " oficializou a transmissão de"
-            },
-            {
-              "text": " Dragon Ball Super: Beerus",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": " no Brasil."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Nas redes sociais, a plataforma divulgou um trailer legendado da produção, e cravou a data de estreia para 11 de outubro, mesmo dia do lançamento no Japão.",
-          "runs": [
-            {
-              "text": "Nas redes sociais, a plataforma divulgou um trailer legendado da produção, e cravou a data de estreia para "
-            },
-            {
-              "text": "11 de outubro",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", mesmo dia do lançamento no Japão."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=4GYtota67go",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/4GYtota67go"
-        },
-        {
-          "type": "paragraph",
-          "text": "Há alguns dias, a Netflix também já havia confirmado que exibirá o novo animê, mas com praticamente uma semana de diferença (como foi com Dragon Ball Daima). Vale destacar que os dois streamings divulgaram trailers legendados, o que indica que a dublagem em português, se houver, pode demorar um pouco para chegar (como também costuma acontecer com produções da Toei Animation).",
-          "runs": [
-            {
-              "text": "Há alguns dias, "
-            },
-            {
-              "text": "a Netflix também já havia confirmado que exibirá o novo animê",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/10/01/netflix-confirma-transmissao-de-dragon-ball-super-beerus-no-brasil/"
-            },
-            {
-              "text": ", mas com praticamente uma semana de diferença (como foi com "
-            },
-            {
-              "text": "Dragon Ball Daima",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "). Vale destacar que os dois streamings divulgaram trailers legendados, o que indica que a dublagem em português, se houver, pode demorar um pouco para chegar (como também costuma acontecer com produções da Toei Animation)."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Outro detalhe é que, como divulgado pelo o perfil Sugoi LITE no X, há um rumor de que o animê terá 19 episódios no total, e que cobriria 3 arcos da história: Beerus, Renascimento de Freeza e Universo 6. Esses detalhes, no entanto, ainda não foram oficializados por nenhuma das plataformas, tampouco por sua produtora.",
-          "runs": [
-            {
-              "text": "Outro detalhe é que, como divulgado pelo o perfil "
-            },
-            {
-              "text": "Sugoi LITE",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " no X, há um rumor de que o animê terá "
-            },
-            {
-              "text": "19 episódios no total",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", e que cobriria 3 arcos da história: "
-            },
-            {
-              "text": "Beerus",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Renascimento de Freeza",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Universo 6",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". Esses detalhes, no entanto, ainda não foram oficializados por nenhuma das plataformas, tampouco por sua produtora."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Dragon Ball Super: Beerus é o título da nova versão de TV do primeiro arco de Dragon Ball Super, que por si só já é uma versão adaptada do filme Dragon Ball Z: A Batalha dos Deuses. A produção conta não apenas com cenas refeitas, mas também com trechos inéditos e uma história reconstruída de forma que se aproxime mais da ideia original de Akira Toriyama para o arco. O elenco original de Dragon Ball também regravou suas vozes para o novo animê, que conta ainda com aprimoramentos gerais de áudio, incluindo novas trilhas e melhoria dos efeitos sonoros.",
-          "runs": [
-            {
-              "text": "Dragon Ball Super: Beerus",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " é o título da nova versão de TV do primeiro arco de "
-            },
-            {
-              "text": "Dragon Ball Super",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", que por si só já é uma versão adaptada do filme "
-            },
-            {
-              "text": "Dragon Ball Z: A Batalha dos Deuses",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". A produção conta não apenas com cenas refeitas, mas também com trechos inéditos e uma "
-            },
-            {
-              "text": "história reconstruída de forma que se aproxime mais da ideia original de Akira Toriyama para o arco",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". O elenco original de "
-            },
-            {
-              "text": "Dragon Ball",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " também regravou suas vozes para o novo animê, que conta ainda com aprimoramentos gerais de áudio, incluindo novas trilhas e melhoria dos efeitos sonoros."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Além do lançamento aprimorado, uma continuação também já está confirmada, adaptando a saga Prisioneiro da Patrulha Galáctica, o arco do Moro.",
-          "runs": [
-            {
-              "text": "Além do lançamento aprimorado, "
-            },
-            {
-              "text": "uma continuação também já está confirmada",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/01/24/toei-confirma-sequencia-de-dragon-ball-super/"
-            },
-            {
-              "text": ", adaptando a saga "
-            },
-            {
-              "text": "Prisioneiro da Patrulha Galáctica",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", o arco do Moro."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "No Brasil, os animês Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super, Dragon Ball Z Kai e Dragon Ball Daima estão no catálogo da Crunchyroll, que também conta com vários filmes da franquia. Já a HBO Max tem em seu catálogo a temporada única de Daima, além de Dragon Ball Z Kai e Dragon Ball Z Kai: The Final Chapters. A Netflix, por sua vez, conta com os episódios de Daima e o filme A Batalha dos Deuses, de 2013. Também há itens da franquia nos catálogos de Disney+ e Claro TV+.",
-          "runs": [
-            {
-              "text": "No Brasil, os animês "
-            },
-            {
-              "text": "Dragon Ball",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Dragon Ball Z",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Dragon Ball GT",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Dragon Ball Super",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Dragon Ball Z Kai",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Dragon Ball Daima",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " estão no catálogo da "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", que também conta com vários filmes da franquia. Já a "
-            },
-            {
-              "text": "HBO Max",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " tem em seu catálogo a temporada única de "
-            },
-            {
-              "text": "Daima",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", além de "
-            },
-            {
-              "text": "Dragon Ball Z Kai",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Dragon Ball Z Kai: The Final Chapters",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". A "
-            },
-            {
-              "text": "Netflix",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", por sua vez, conta com os episódios de "
-            },
-            {
-              "text": "Daima",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e o filme "
-            },
-            {
-              "text": "A Batalha dos Deuses",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", de 2013. Também há itens da franquia nos catálogos de "
-            },
-            {
-              "text": "Disney+",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Claro TV+",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Já o mangá da franquia está atualmente na fase Dragon Ball Super, que segue em hiato desde a morte do autor Akira Toriyama. O último capítulo da obra foi publicado na V-Jump em março de 2024, mês de falecimento do mangaká. Em fevereiro de 2025, a obra ganhou um one-shot. Desde então, ela segue parada.",
-          "runs": [
-            {
-              "text": "Já o mangá da franquia está atualmente na fase "
-            },
-            {
-              "text": "Dragon Ball Super",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", que segue em hiato desde a morte do autor Akira Toriyama. O último capítulo da obra foi publicado na "
-            },
-            {
-              "text": "V-Jump",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " em março de 2024, mês de falecimento do mangaká. Em fevereiro de 2025, a obra ganhou um "
-            },
-            {
-              "text": "one-shot",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". Desde então, ela segue parada."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Instagram Crunchyroll Brasil, X/Twitter Sugoi LITE",
-          "runs": [
-            {
-              "text": "Fonte",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ": "
-            },
-            {
-              "text": "Instagram Crunchyroll Brasil, ",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": "X/Twitter Sugoi LITE",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://x.com/SugoiLITE/status/2104473137668645264"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-05T20:31:40.000Z",
-      "updatedAt": "2026-10-05T20:32:13.000Z",
-      "expiresAt": "2026-10-12T20:31:40.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/05/crunchyroll-oficializa-transmissao-simultanea-de-dragon-ball-super-beerus-no-brasil",
-          "publishedAt": "2026-10-05T20:31:40.000Z",
-          "author": "Cakes Sousa"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 3,
-      "wordCount": 455,
-      "qualityScore": 0.756,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 12,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 0,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-1eac21f2",
-      "slug": "critica-the-world-is-dancing-jbox-1eac21f2",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Crítica | The World is Dancing",
-      "originalTitle": "Crítica | The World is Dancing",
-      "summary": "Um dos animês visualmente mais bonitos deste ano talvez passe despercebido pelo público brasileiro, já que não ganhou distribuição oficial em português em nenhuma plataforma daqui. Trata-se de The World Is Dancing, drama histórico cujo roteiro em si não é lá essas coisas, mas o esforço colocado na produção técnica, principalmente na parte visual, torna a obra obrigatória para fãs de animação.",
-      "author": "Igor Lunei",
-      "tags": [
-        "Anime",
-        "Resenha",
-        "crítica de the world is dancing",
-        "resenha de the world is dancing",
-        "review de the world is dancing",
-        "The World Is Dancing",
-        "the world is dancing é bom?"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/05/critica-the-world-is-dancing",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/05/critica-the-world-is-dancing",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/jbox-critica-destacada-theworlddancing.jpg",
-      "mediaQuery": "Crítica | The World is Dancing",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/the-world-is-dancing-1.jpg",
-          "alt": "Imagem do animê The World Is Dancing com o protagonista, um menino com as sobrancelhas raspadas e usando trajes do Japão Imperial, olhando de maneira chocada para cima",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/the-world-is-dancing-2.png",
-          "alt": "Imagem do animê The World Is Dancing com o protagonista, um menino com as sobrancelhas raspadas e usando trajes do Japão Imperial, olhando de maneira surpreendente para uma mão estendida para ele",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/Zu45LJG7Chs"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Um dos animês visualmente mais bonitos deste ano talvez passe despercebido pelo público brasileiro, já que não ganhou distribuição oficial em português em nenhuma plataforma daqui. Trata-se de The World Is Dancing, drama histórico cujo roteiro em si não é lá essas coisas, mas o esforço colocado na produção técnica, principalmente na parte visual, torna a obra obrigatória para fãs de animação.",
-          "runs": [
-            {
-              "text": "Um dos animês visualmente mais bonitos deste ano talvez passe despercebido pelo público brasileiro, já que não ganhou distribuição oficial em português em nenhuma plataforma daqui. Trata-se de "
-            },
-            {
-              "text": "The World Is Dancing",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", drama histórico cujo roteiro em si não é lá essas coisas, mas o esforço colocado na produção técnica, principalmente na parte visual, torna a obra obrigatória para fãs de animação."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A história se passa no Japão do período Nanboku-chou, no século XIV, quando a nação era dividida entre duas cortes imperiais rivais, uma no norte e outra no sul. A trama acompanha parte da infância e da adolescência de Oniyasha, ator e dançarino que mais tarde ficaria conhecido como Zeami Motokiyo, um dos maiores nomes, se não o maior, do teatro Noh.",
-          "runs": [
-            {
-              "text": "A história se passa no Japão do período "
-            },
-            {
-              "text": "Nanboku-chou",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", no século XIV, quando a nação era dividida entre duas cortes imperiais rivais, uma no norte e outra no sul. A trama acompanha parte da infância e da adolescência de "
-            },
-            {
-              "text": "Oniyasha",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", ator e dançarino que mais tarde ficaria conhecido como "
-            },
-            {
-              "text": "Zeami Motokiyo",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", um dos maiores nomes, se não o maior, do teatro "
-            },
-            {
-              "text": "Noh",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Oniyasha faz parte de uma trupe teatral liderada por seu pai. Por ser extremamente talentoso no Sarugaku, tipo de performance teatral que mais tarde daria origem ao Noh, o garoto chama a atenção do xogum da corte do norte, Ashikaga Takauji, fã das artes em geral, que o apadrinha, leva-o para viver em sua residência e possibilita que ele se apresente para grandes públicos e se torne famoso naquele lugar.",
-          "runs": [
-            {
-              "text": "Oniyasha faz parte de uma trupe teatral liderada por seu pai. Por ser extremamente talentoso no "
-            },
-            {
-              "text": "Sarugaku",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", tipo de performance teatral que mais tarde daria origem ao "
-            },
-            {
-              "text": "Noh",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", o garoto chama a atenção do xogum da corte do norte, "
-            },
-            {
-              "text": "Ashikaga Takauji",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", fã das artes em geral, que o apadrinha, leva-o para viver em sua residência e possibilita que ele se apresente para grandes públicos e se torne famoso naquele lugar."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Partindo dessa premissa biográfica, The World Is Dancing coloca em discussão algumas questões: o Japão nessa época estava bem ruim das pernas. Conflitos civis, doenças, fome, miséria e morte faziam parte do dia a dia da maior parte da população. Qual é a serventia da arte nesse contexto? Para além disso, é justo que apenas uma minoria abastada possa estudar e exercer seus ofícios artísticos enquanto todo o resto ao redor precisa se preocupar se vai comer e sobreviver até o fim do dia? São interrogações que rolam até hoje.",
-          "runs": [
-            {
-              "text": "Partindo dessa premissa biográfica, "
-            },
-            {
-              "text": "The World Is Dancing",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " coloca em discussão algumas questões: o Japão nessa época estava bem ruim das pernas. Conflitos civis, doenças, fome, miséria e morte faziam parte do dia a dia da maior parte da população. Qual é a serventia da arte nesse contexto? Para além disso, é justo que apenas uma minoria abastada possa estudar e exercer seus ofícios artísticos enquanto todo o resto ao redor precisa se preocupar se vai comer e sobreviver até o fim do dia? "
-            },
-            {
-              "text": "São interrogações que rolam até hoje.",
-              "marks": [
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O animê não chega a responder de verdade, mas ilustra essas contradições sociais em diferentes passagens. Mais para o começo da trama, os personagens, ainda crianças, se deparam com uma mulher que vive em uma cabana mais isolada. Ela está desnutrida, visivelmente debilitada e precisa se prostituir em troca de alimentos. Contudo, é talentosíssima dançando, de modo que Oniyasha, inclusive, pensa que ela é algum tipo de figura sobrenatural. A mulher ajuda o moleque a melhorar sua dança e o pai de Oniyasha, posteriormente, a paga por isso. Mas o menino, em um tipo de surto descolado da realidade, tem um ataque de fúria, pois acredita que a arte não deveria ser feita visando ao lucro.",
-          "runs": [
-            {
-              "text": "O animê não chega a responder de verdade, mas ilustra essas contradições sociais em diferentes passagens. Mais para o começo da trama, os personagens, ainda crianças, se deparam com uma mulher que vive em uma cabana mais isolada. Ela está desnutrida, visivelmente debilitada e precisa se prostituir em troca de alimentos. Contudo, é talentosíssima dançando, de modo que Oniyasha, inclusive, pensa que ela é algum tipo de figura sobrenatural. A mulher ajuda o moleque a melhorar sua dança e o pai de Oniyasha, posteriormente, a paga por isso. Mas o menino, em um tipo de surto descolado da realidade, tem um ataque de fúria, pois acredita que a arte não deveria ser feita visando ao lucro."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/the-world-is-dancing-1.jpg",
-          "alt": "Imagem do animê The World Is Dancing com o protagonista, um menino com as sobrancelhas raspadas e usando trajes do Japão Imperial, olhando de maneira chocada para cima"
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Estúdio Cynic/Reprodução",
-          "runs": [
-            {
-              "text": "Imagem: Estúdio Cynic/Reprodução"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Mais para frente na história, quando os personagens já estão na pré-adolescência e Oniyasha está sob as asas do xogum do norte, um amigo de infância dele ressurge, mas agora em situação periclitante, vivendo como mendigo ao lado de outras pessoas que não têm um lar. Parte dessas pessoas é vista como indigente, já que fazia parte do lado sul do conflito no Japão, sendo tratada como potencialmente criminosa aos olhos da corte do norte.",
-          "runs": [
-            {
-              "text": "Mais para frente na história",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", quando os personagens já estão na pré-adolescência e Oniyasha está sob as asas do xogum do norte, um amigo de infância dele ressurge, mas agora em situação periclitante, vivendo como mendigo ao lado de outras pessoas que não têm um lar. Parte dessas pessoas é vista como indigente, já que fazia parte do lado sul do conflito no Japão, sendo tratada como potencialmente criminosa aos olhos da corte do norte."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "No animê, um confronto de apresentações para o xogum, que termina com os dois lados se juntando para executar uma única performance, serve para Oniyasha mostrar à corte que é possível haver perdão e união em prol de um bem maior. Ainda assim, o resultado é catastrófico para alguns dos envolvidos.",
-          "runs": [
-            {
-              "text": "No animê, um confronto de apresentações para o xogum, que termina com os dois lados se juntando para executar uma única performance, serve para Oniyasha mostrar à corte que é possível haver perdão e união em prol de um bem maior. Ainda assim, "
-            },
-            {
-              "text": "o resultado é catastrófico para alguns dos envolvidos",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Posto isso, o grande triunfo de The World Is Dancing é o quão bonito esse animê é. Mesmo as cenas mais estáticas são de encher os olhos, com frames e mais frames lindíssimos, cores que emocionam, jogos de luz e sombra, foque e desfoque, uma fluidez fantástica nas cenas de dança, traços que passeiam por diferentes estilos e uma trilha sonora que pontua as sensações buscadas de maneira impecável. Lembra mais uma produção cinematográfica do que as séries habituais de TV. Independentemente da qualidade do roteiro, este é um desenho animado que merece ser visto pelo quão longe vai para nos impressionar visual e sonoramente.",
-          "runs": [
-            {
-              "text": "Posto isso, o grande triunfo de "
-            },
-            {
-              "text": "The World Is Dancing",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " é o quão bonito esse animê é. Mesmo as cenas mais estáticas são de encher os olhos, com frames e mais frames lindíssimos, cores que emocionam, jogos de luz e sombra, foque e desfoque, uma fluidez fantástica nas cenas de dança, traços que passeiam por diferentes estilos e uma trilha sonora que pontua as sensações buscadas de maneira impecável. "
-            },
-            {
-              "text": "Lembra mais uma produção cinematográfica",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " do que as séries habituais de TV. Independentemente da qualidade do roteiro, este é um desenho animado que merece ser visto pelo quão longe vai para nos impressionar visual e sonoramente."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Porque, em questão de história, história mesmo, fica bem chato de acompanhar. Particularmente, acho a maneira como o protagonista, Oniyasha, foi desenvolvido meio irritante de assistir. Ele parece ser, para nós, espectadores, o avatar do que há de errado com aquela sociedade. É um menino que não tem tantas dificuldades, que claramente nasceu com um dom e tem uma facilidade maior que a média para ser um artista. Figuras assim podem ser interessantíssimas quando bem desenvolvidas, pois escancaram as contradições de seus ambientes.",
-          "runs": [
-            {
-              "text": "Porque, em questão de história, "
-            },
-            {
-              "text": "história",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " mesmo, fica bem chato de acompanhar. Particularmente, acho a maneira como o protagonista, Oniyasha, foi desenvolvido meio irritante de assistir. Ele parece ser, para nós, espectadores, o avatar do que há de errado com aquela sociedade. É um menino que não tem tantas dificuldades, que claramente nasceu com um dom e tem uma facilidade maior que a média para ser um artista. Figuras assim podem ser interessantíssimas quando bem desenvolvidas, pois escancaram as contradições de seus ambientes."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Só que os conflitos colocados diante dele são quase bobos, de modo que passamos a maior parte da série na companhia de um artista hesitante, mas sem grandes motivações para essa hesitação, que é adorado e reverenciado por quase todos ao redor e tem êxito toda vez que se propõe de verdade a fazer alguma coisa. Depois de um tempo, isso fica meio desagradável de acompanhar e a simpatia pelo protagonista se perde.",
-          "runs": [
-            {
-              "text": "Só que os conflitos colocados diante dele são quase bobos, de modo que passamos a maior parte da série na companhia de um artista hesitante, mas sem grandes motivações para essa hesitação, que é adorado e reverenciado por quase todos ao redor e tem êxito toda vez que se propõe de verdade a fazer alguma coisa. Depois de um tempo, isso fica meio desagradável de acompanhar e a simpatia pelo protagonista se perde."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/09/the-world-is-dancing-2.png",
-          "alt": "Imagem do animê The World Is Dancing com o protagonista, um menino com as sobrancelhas raspadas e usando trajes do Japão Imperial, olhando de maneira surpreendente para uma mão estendida para ele"
-        },
-        {
-          "type": "paragraph",
-          "text": "Há uma menção a uma tensão entre ele e o pai, líder da trupe teatral, que nunca vai muito a fundo. Outra, entre ele e o amiguinho de infância que virou mendigo, poderia exigir que ele exercitasse músculos morais capazes de transformá-lo dali em diante, mas o arco termina, o tempo passa e ele segue basicamente o mesmo.",
-          "runs": [
-            {
-              "text": "Há uma menção a uma tensão entre ele e o pai, líder da trupe teatral, que"
-            },
-            {
-              "text": " nunca vai muito a fundo",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Outra, entre ele e o amiguinho de infância que virou mendigo, poderia exigir que ele exercitasse músculos morais capazes de transformá-lo dali em diante, mas o arco termina, o tempo passa e ele segue basicamente o mesmo."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Oniyasha tem ainda um fã ricaço mais maduro que o trata praticamente como um idol dos dias de hoje, enche-o de presentes e o venera, mas essa devoção quase sexual de um homem bem mais velho aparentemente não causa efeito nenhum no menino. Ele não parece se sentir desconfortável, traumatizado ou, indo para o lado oposto, disposto a se aproveitar dessa situação para alguma coisa.",
-          "runs": [
-            {
-              "text": "Oniyasha tem ainda um fã ricaço mais maduro que o trata praticamente como um "
-            },
-            {
-              "text": "idol",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " dos dias de hoje, enche-o de presentes e o venera, mas essa devoção quase sexual de um homem bem mais velho aparentemente não causa efeito nenhum no menino. Ele não parece se sentir desconfortável, traumatizado ou, indo para o lado oposto, disposto a se aproveitar dessa situação para alguma coisa."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "As coisas parecem acontecer porque têm que acontecer, como se fossem relatos cotidianos documentais, sem grandes desenvolvimentos de personagem. Para uma série de animê, falta substância, falta aquela faísca de apelo que faz com que a gente se importe com o que está assistindo na tela.",
-          "runs": [
-            {
-              "text": "As coisas parecem acontecer porque "
-            },
-            {
-              "text": "têm que acontecer",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", como se fossem relatos cotidianos documentais, sem grandes desenvolvimentos de personagem. Para uma série de animê, falta substância, falta aquela faísca de apelo que faz com que a gente se importe com o que está assistindo na tela."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fazendo uma comparação futebolística, é tipo assistir ao PSG no campeonato francês. O time é grande, é bom, e os outros da Ligue 1 são bem mais fracos em comparação. Sabemos que o elenco vai mandar bem em todas as aparições e, eventualmente, vencer a coisa toda. Mônaco, Marseille, Lyon e os outros não têm qualquer chance. The World Is Dancing tem uma animação extraordinária, que é como assistir ao PSG em campo, mas seu roteiro é fraco, com uma trama que traz tanta tensão ou surpresa quanto a Ligue 1 com os demais times nela.",
-          "runs": [
-            {
-              "text": "Fazendo uma comparação futebolística, é tipo assistir ao PSG no campeonato francês. O time é grande, é bom, e os outros da "
-            },
-            {
-              "text": "Ligue 1",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " são bem mais fracos em comparação. Sabemos que o elenco vai mandar bem em todas as aparições e, eventualmente, vencer a coisa toda. Mônaco, Marseille, Lyon e os outros não têm qualquer chance. "
-            },
-            {
-              "text": "The World Is Dancing",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " tem uma animação extraordinária, que é como assistir ao PSG em campo, mas seu roteiro é fraco, com uma trama que traz tanta tensão ou surpresa quanto a "
-            },
-            {
-              "text": "Ligue 1",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " com os demais times nela."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Eu gosto de assistir ao PSG.",
-          "runs": [
-            {
-              "text": "Eu gosto de assistir ao PSG."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=Zu45LJG7Chs",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/Zu45LJG7Chs"
-        },
-        {
-          "type": "paragraph",
-          "text": "The World Is Dancing é um animê de 13 episódios produzido pelo estúdio Cypic, com direção de Toshimasa Kuroyanagi e roteiro de Sawako Kawamitsu. Ele adapta o mangá homônimo escrito por Kazuto Mihara, publicado na revista Morning entre março de 2021 e outubro de 2022, com 6 volumes encadernados.",
-          "runs": [
-            {
-              "text": "The World Is Dancing",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "é um animê de 13 episódios produzido pelo estúdio "
-            },
-            {
-              "text": "Cypic",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com direção de "
-            },
-            {
-              "text": "Toshimasa Kuroyanagi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e roteiro de "
-            },
-            {
-              "text": "Sawako Kawamitsu",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Ele adapta o mangá homônimo escrito por "
-            },
-            {
-              "text": "Kazuto Mihara",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", publicado na revista "
-            },
-            {
-              "text": "Morning",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": " entre março de 2021 e outubro de 2022, com 6 volumes encadernados."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Aqui no Brasil, a série não foi lançada oficialmente em nenhuma plataforma, mas pode ser assistida através da HIDIVE com legendas em inglês.",
-          "runs": [
-            {
-              "text": "Aqui no Brasil, a série não foi lançada oficialmente em nenhuma plataforma, mas pode ser assistida através da HIDIVE com legendas em inglês."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
-          "runs": [
-            {
-              "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-05T19:35:02.000Z",
-      "updatedAt": "2026-10-06T00:22:43.000Z",
-      "expiresAt": "2026-10-12T19:35:02.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/05/critica-the-world-is-dancing",
-          "publishedAt": "2026-10-05T19:35:02.000Z",
-          "author": "Igor Lunei"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 6,
-      "wordCount": 1168,
-      "qualityScore": 0.97,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 24,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 2,
-        "embedCount": 1,
         "sourcePagesRead": 0
       }
     }
