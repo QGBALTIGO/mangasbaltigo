@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:52:58.335Z",
+  "generatedAt": "2026-10-15T04:25:57.067Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -60,14 +60,303 @@
     "newStories": 22,
     "fullArticles": 22,
     "previewArticles": 0,
-    "avgWords": 429,
+    "avgWords": 433,
     "withHeroImage": 22,
     "withOrderedMedia": 19,
     "skippedTranslation": 0,
     "skippedQuality": 21,
-    "durationMs": 3919
+    "durationMs": 3149
   },
   "items": [
+    {
+      "id": "animenew-81b3948e",
+      "slug": "zelda-ocarina-of-time-revela-novidades-no-switch-2-animenew-81b3948e",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Zelda: Ocarina of Time revela novidades no Switch 2",
+      "originalTitle": "Zelda: Ocarina of Time revela novidades no Switch 2",
+      "summary": "A Nintendo divulgou um novo trailer de visão geral do remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2. Assim o vídeo apresenta recursos inéditos, incluindo uma área para revisitar inimigos derrotados.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Games",
+        "Nintendo",
+        "Notícias",
+        "The Legend of Zelda: Ocarina of Time"
+      ],
+      "url": "https://animenew.com.br/zelda-ocarina-of-time-revela-novidades-no-switch-2",
+      "sourceUrl": "https://animenew.com.br/zelda-ocarina-of-time-revela-novidades-no-switch-2",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Zelda-Ocarina-of-Time-revela-novidades-no-Switch-2.webp",
+      "mediaQuery": "Zelda: Ocarina of Time revela novidades no Switch 2",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Hall-of-Fallen-Foes-Zelda.webp",
+          "alt": "Hall of Fallen Foes",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/funcao-Zelda-Notes.webp",
+          "alt": "função Zelda Notes",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/novos-amiibo-link-e-zelda.webp",
+          "alt": "novos amiibos link e zelda",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/8v8eDMh1o3g"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A Nintendo divulgou um novo trailer de visão geral do remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2. Assim o vídeo apresenta recursos inéditos, incluindo uma área para revisitar inimigos derrotados.",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "Nintendo",
+              "href": "https://animenew.com.br/tag/nintendo/"
+            },
+            {
+              "text": " divulgou um novo trailer de visão geral do remake de "
+            },
+            {
+              "text": "The Legend of Zelda: Ocarina of Time",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " para "
+            },
+            {
+              "text": "Nintendo Switch 2",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Assim o vídeo apresenta recursos inéditos, incluindo uma área para revisitar inimigos derrotados."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "The Last of Us terá dois novos jogos em desenvolvimento",
+              "runs": [
+                {
+                  "text": "The Last of Us terá dois novos jogos em desenvolvimento",
+                  "href": "https://animenew.com.br/the-last-of-us-dois-novos-jogos"
+                }
+              ]
+            },
+            {
+              "text": "Fatal Fury ganha trailer animado de Kim Kaphwan",
+              "runs": [
+                {
+                  "text": "Fatal Fury ganha trailer animado de Kim Kaphwan",
+                  "href": "https://animenew.com.br/fatal-fury-city-of-the-wolves-kim-kaphwan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=8v8eDMh1o3g",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/8v8eDMh1o3g"
+        },
+        {
+          "type": "paragraph",
+          "text": "O destaque é o Hall of Fallen Foes, local onde os jogadores poderão conferir estátuas dos adversários enfrentados durante a aventura e desafiar novamente os chefes. O lançamento do jogo está marcado para 5 de novembro de 2026.",
+          "runs": [
+            {
+              "text": "O destaque é o "
+            },
+            {
+              "text": "Hall of Fallen Foes",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", local onde os jogadores poderão conferir estátuas dos adversários enfrentados durante a aventura e desafiar novamente os chefes. O lançamento do jogo está marcado para 5 de novembro de 2026."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Hall-of-Fallen-Foes-Zelda.webp",
+          "alt": "Hall of Fallen Foes"
+        },
+        {
+          "type": "paragraph",
+          "text": "A nova versão também adiciona controles de câmera tradicionais, comandos por movimento, botão dedicado para pular e uma ação de rolamento acelerado. O menu Threads of Time ajudará a relembrar os acontecimentos da história e identificar o próximo objetivo.",
+          "runs": [
+            {
+              "text": "A nova versão também adiciona controles de câmera tradicionais, comandos por movimento, botão dedicado para pular e uma ação de rolamento acelerado. O menu "
+            },
+            {
+              "text": "Threads of Time",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ajudará a relembrar os acontecimentos da história e identificar o próximo objetivo."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Integração com aplicativo e novos amiibo",
+          "runs": [
+            {
+              "text": "Integração com aplicativo e novos amiibo"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/funcao-Zelda-Notes.webp",
+          "alt": "função Zelda Notes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Portanto o remake de Zelda terá compatibilidade com a função Zelda Notes, disponível no aplicativo oficial da Nintendo Switch. Entre os recursos estão um resumo do progresso, missões de coleta e um quiz com mais de 2 mil perguntas.",
+          "runs": [
+            {
+              "text": "Portanto o remake de Zelda terá compatibilidade com a função "
+            },
+            {
+              "text": "Zelda Notes",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", disponível no aplicativo oficial da Nintendo Switch. Entre os recursos estão um resumo do progresso, missões de coleta e um quiz com mais de 2 mil perguntas."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/novos-amiibo-link-e-zelda.webp",
+          "alt": "novos amiibos link e zelda"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Nintendo também lançará novos amiibo de Young Link e Young Zelda em 2027, no entanto cada figura desbloqueará uma máscara para o respectivo personagem. Já a edição especial de 40 anos de The Legend of Zelda para Switch 2, acompanhada de um controle Pro e estojo temático, chegará em 29 de outubro de 2026.",
+          "runs": [
+            {
+              "text": "A Nintendo também lançará novos amiibo de Young Link e Young Zelda em 2027, no entanto cada figura desbloqueará uma máscara para o respectivo personagem. Já a edição especial de 40 anos de The Legend of Zelda para Switch 2, acompanhada de um controle Pro e estojo temático, chegará em 29 de outubro de 2026."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Por fim o jogo original estreou em novembro de 1998 para Nintendo 64 e marcou a primeira aventura da franquia com gráficos tridimensionais.",
+          "runs": [
+            {
+              "text": "Por fim o jogo original estreou em novembro de 1998 para "
+            },
+            {
+              "text": "Nintendo 64",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e marcou a primeira aventura da franquia com gráficos tridimensionais."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Youtube Nintendo",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Youtube Nintendo",
+              "href": "https://www.youtube.com/watch?v=8v8eDMh1o3g"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Zelda: Ocarina of Time revela novidades no Switch 2.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Zelda: Ocarina of Time revela novidades no Switch 2",
+              "href": "https://animenew.com.br/zelda-ocarina-of-time-revela-novidades-no-switch-2/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-15T00:06:24.000Z",
+      "updatedAt": "2026-10-15T00:06:24.000Z",
+      "expiresAt": "2026-10-22T00:06:24.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/zelda-ocarina-of-time-revela-novidades-no-switch-2",
+          "publishedAt": "2026-10-15T00:06:24.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 278,
+      "qualityScore": 0.978,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 14,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 3,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-d3612efc",
       "slug": "critica-tenkaichi-a-batalha-dos-deuses-volume-1-editora-jbc-jbox-d3612efc",
@@ -706,7 +995,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Ao navegar pela programação, o animê já aparece a partir de 00h31 do dia 15, dentro do canal SBT Kids, que pode ser assistido dentro da plataforma. O episódio descrito é o 9º da versão de 2005, já exibido por aqui anos atrás. Além da transmissão em horários específicos, a expectativa é de que a série também possa ser conferida de forma independente dentro do catálogo do site, que é gratuito.",
+          "text": "Ao navegar pela programação, o animê já aparece a partir de 00h31 do dia 15, dentro do canal SBT Kids, que pode ser assistido dentro da plataforma. O episódio descrito é o 8º da versão de 2005, já exibido por aqui anos atrás. Além da transmissão em horários específicos, a expectativa é de que a série também possa ser conferida de forma independente dentro do catálogo do site, que é gratuito.",
           "runs": [
             {
               "text": "Ao navegar pela programação, o animê já aparece a partir de 00h31 do dia 15, dentro do canal "
@@ -718,7 +1007,7 @@
               ]
             },
             {
-              "text": ", que pode ser assistido dentro da plataforma. O episódio descrito é o 9º da versão de 2005, já exibido por aqui anos atrás. Além da transmissão em horários específicos, a expectativa é de que a série também possa ser conferida de forma independente dentro do catálogo do site, que é gratuito."
+              "text": ", que pode ser assistido dentro da plataforma. O episódio descrito é o 8º da versão de 2005, já exibido por aqui anos atrás. Além da transmissão em horários específicos, a expectativa é de que a série também possa ser conferida de forma independente dentro do catálogo do site, que é gratuito."
             }
           ]
         },
@@ -783,7 +1072,7 @@
         },
         {
           "type": "paragraph",
-          "text": "A série infantil começou a ser produzida no Japão em 1973, com base nas histórias em quadrinhos criadas pela dupla Fujiko Fujio. Ganhou um reboot em 1979, que teve alguns episódios exibidos no Brasil nos anos 1990 pela extinta Rede Manchete – e que durou até 2005 (com 1787 episódios!). No mesmo ano de 2005 estreou a série que está no ar até hoje na TV japonesa, passando a marca dos 500 episódios.",
+          "text": "A série infantil começou a ser produzida no Japão em 1973, com base nas histórias em quadrinhos criadas pela dupla Fujiko Fujio. Ganhou um reboot em 1979, que teve alguns episódios exibidos no Brasil nos anos 1990 pela extinta Rede Manchete – e que durou até 2005 (com 1787 episódios!). No mesmo ano de 2005 estreou a série que está no ar até hoje na TV japonesa, passando a marca dos 900 episódios.",
           "runs": [
             {
               "text": "A série infantil começou a ser produzida no Japão em 1973, com base nas histórias em quadrinhos criadas pela dupla "
@@ -804,7 +1093,7 @@
               ]
             },
             {
-              "text": " – e que durou até 2005 (com 1787 episódios!). No mesmo ano de 2005 estreou a série que está no ar até hoje na TV japonesa, passando a marca dos 500 episódios."
+              "text": " – e que durou até 2005 (com 1787 episódios!). No mesmo ano de 2005 estreou a série que está no ar até hoje na TV japonesa, passando a marca dos 900 episódios."
             }
           ]
         },
@@ -893,7 +1182,7 @@
       ],
       "contentMode": "full",
       "publishedAt": "2026-10-14T16:06:41.000Z",
-      "updatedAt": "2026-10-14T16:07:08.000Z",
+      "updatedAt": "2026-10-15T03:13:00.000Z",
       "expiresAt": "2026-10-21T16:06:41.000Z",
       "category": "Notícias",
       "eventType": "OTHER",
@@ -5605,273 +5894,6 @@
         "facts": 0,
         "sections": 0,
         "blocks": 13,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-b1070b8e",
-      "slug": "crunchyroll-adquire-filme-de-the-apothecary-diaries-animenew-b1070b8e",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Crunchyroll adquire filme de The Apothecary Diaries",
-      "originalTitle": "Crunchyroll adquire filme de The Apothecary Diaries",
-      "summary": "A Crunchyroll anunciou a aquisição dos direitos de distribuição do filme The Apothecary Diaries: The Late Lady’s Treasure (Kusuriya no Hitorigoto: Bо̄hi no Hihо̄) na América do Norte e em outros mercados internacionais, incluindo a Índia, com exceção da Ásia.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Cinema",
-        "Notícias",
-        "Kusuriya no Hitorigoto"
-      ],
-      "url": "https://animenew.com.br/filme-the-apothecary-diaries-crunchyroll",
-      "sourceUrl": "https://animenew.com.br/filme-the-apothecary-diaries-crunchyroll",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Crunchyroll-adquire-filme-de-The-Apothecary-Diaries.webp",
-      "mediaQuery": "Crunchyroll adquire filme de The Apothecary Diaries",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/The-Apothecary-Diaries-The-Late-Ladys-Treasure.webp",
-          "alt": "The Apothecary Diaries The Late Lady's Treasure",
-          "caption": "© 日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会"
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/HP5wg0kTh54"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A Crunchyroll anunciou a aquisição dos direitos de distribuição do filme The Apothecary Diaries: The Late Lady’s Treasure (Kusuriya no Hitorigoto: Bо̄hi no Hihо̄) na América do Norte e em outros mercados internacionais, incluindo a Índia, com exceção da Ásia.",
-          "runs": [
-            {
-              "text": "A "
-            },
-            {
-              "text": "Crunchyroll",
-              "href": "https://animenew.com.br/tag/crunchyroll/"
-            },
-            {
-              "text": " anunciou a aquisição dos direitos de distribuição do filme "
-            },
-            {
-              "text": "The Apothecary Diaries: The Late Lady’s Treasure",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Kusuriya no Hitorigoto: Bо̄hi no Hihо̄",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") na América do Norte e em outros mercados internacionais, incluindo a Índia, com exceção da Ásia."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Go with the Clouds ganha trailer com lançamento para 2027",
-              "runs": [
-                {
-                  "text": "Go with the Clouds ganha trailer com lançamento para 2027",
-                  "href": "https://animenew.com.br/go-with-the-clouds-anime-trailer-estreia-2027"
-                }
-              ]
-            },
-            {
-              "text": "The Vermilion Mask anuncia 2ª parte para abril de 2027",
-              "runs": [
-                {
-                  "text": "The Vermilion Mask anuncia 2ª parte para abril de 2027",
-                  "href": "https://animenew.com.br/the-vermilion-mask-segunda-parte-abril-2027"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=HP5wg0kTh54",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/HP5wg0kTh54"
-        },
-        {
-          "type": "paragraph",
-          "text": "A data de lançamento nos cinemas ainda será divulgada pela Crunchyroll e pela Sony Pictures Entertainment. No Japão, o longa-metragem estreia em 11 de dezembro de 2026 e contará com uma história inédita escrita por Hyuganatsu, autora da light novel original.",
-          "runs": [
-            {
-              "text": "A data de lançamento nos cinemas ainda será divulgada pela "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e pela "
-            },
-            {
-              "text": "Sony Pictures Entertainment",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". No Japão, o longa-metragem estreia em 11 de dezembro de 2026 e contará com uma história inédita escrita por "
-            },
-            {
-              "text": "Hyuganatsu",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", autora da "
-            },
-            {
-              "text": "light novel",
-              "href": "https://animenew.com.br/light-novel"
-            },
-            {
-              "text": " original."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/The-Apothecary-Diaries-The-Late-Ladys-Treasure.webp",
-          "alt": "The Apothecary Diaries The Late Lady's Treasure",
-          "caption": "© 日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会"
-        },
-        {
-          "type": "heading",
-          "text": "História do filme",
-          "runs": [
-            {
-              "text": "História do filme"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A trama acompanha Maomao e Jinshi em uma viagem à cidade natal de uma concubina que morreu cinco anos antes no harém imperial. A missão da dupla é devolver os restos mortais da mulher à sua terra natal.",
-          "runs": [
-            {
-              "text": "A trama acompanha Maomao e Jinshi em uma viagem à cidade natal de uma concubina que morreu cinco anos antes no harém imperial. A missão da dupla é devolver os restos mortais da mulher à sua terra natal.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A terceira temporada do anime estreou em 2 de outubro de 2026 no Japão. O primeiro cour está sendo exibido na programação Friday Anime Night, da NTV, enquanto a segunda parte tem estreia prevista para abril de 2027.",
-          "runs": [
-            {
-              "text": "A terceira temporada do "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " estreou em 2 de outubro de 2026 no Japão. O primeiro cour está sendo exibido na programação "
-            },
-            {
-              "text": "Friday Anime Night",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", da NTV, enquanto a segunda parte tem estreia prevista para abril de 2027."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: ANN",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "ANN",
-              "href": "https://www.animenewsnetwork.com/news/2026-10-08/crunchyroll-acquires-the-apothecary-diaries-anime-film/.242637"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Crunchyroll adquire filme de The Apothecary Diaries.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Crunchyroll adquire filme de The Apothecary Diaries",
-              "href": "https://animenew.com.br/filme-the-apothecary-diaries-crunchyroll/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-10T11:26:25.000Z",
-      "updatedAt": "2026-10-10T11:26:25.000Z",
-      "expiresAt": "2026-10-17T11:26:25.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/filme-the-apothecary-diaries-crunchyroll",
-          "publishedAt": "2026-10-10T11:26:25.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 1,
-      "wordCount": 203,
-      "qualityScore": 0.905,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 10,
         "sourceCount": 1,
         "ingestMode": "rss-full",
         "contentMode": "full",
