@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:59:20.027Z",
+  "generatedAt": "2026-10-21T22:16:39.474Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -65,7 +65,7 @@
     "withOrderedMedia": 13,
     "skippedTranslation": 0,
     "skippedQuality": 30,
-    "durationMs": 4171
+    "durationMs": 11905
   },
   "items": [
     {
@@ -1325,13 +1325,13 @@
     },
     {
       "id": "jbox-58334897",
-      "slug": "critica-xxxholic-volume-1-jbc-jbox-58334897",
+      "slug": "critica-xxxholic-volume-1-editora-jbc-jbox-58334897",
       "source": "JBox",
       "sourceType": "JBOX",
       "sourceLanguage": "pt-BR",
       "language": "pt-BR",
-      "title": "Crítica | xxxHOLiC – Volume 1 | JBC",
-      "originalTitle": "Crítica | xxxHOLiC – Volume 1 | JBC",
+      "title": "Crítica | xxxHOLiC – Volume 1 | Editora JBC",
+      "originalTitle": "Crítica | xxxHOLiC – Volume 1 | Editora JBC",
       "summary": "Como em toda a literatura, é comum que autores e autoras de mangás — conhecidos como mangakás — se tornem famosos por obras icônicas entre os fãs. Enquanto alguns preferem manter o anonimato, outros assinam obras em dupla (escrita e ilustração) e outros, ainda, se unem em coletivos, como é o caso do CLAMP.",
       "author": "Cakes Sousa",
       "tags": [
@@ -1349,7 +1349,7 @@
       "url": "https://www.jbox.com.br/2026/10/19/critica-xxxholic-volume-1-jbc",
       "sourceUrl": "https://www.jbox.com.br/2026/10/19/critica-xxxholic-volume-1-jbc",
       "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/jbox-critica-destacada-xxxholicvol1.jpg",
-      "mediaQuery": "Crítica | xxxHOLiC – Volume 1 | JBC",
+      "mediaQuery": "Crítica | xxxHOLiC – Volume 1 | Editora JBC",
       "mediaType": "manga",
       "mediaGallery": [
         {
@@ -1921,7 +1921,7 @@
       ],
       "contentMode": "full",
       "publishedAt": "2026-10-19T20:28:33.000Z",
-      "updatedAt": "2026-10-19T20:31:32.000Z",
+      "updatedAt": "2026-10-21T22:06:23.000Z",
       "expiresAt": "2026-10-26T20:28:33.000Z",
       "category": "Mangás & novels",
       "eventType": "MANGA",
