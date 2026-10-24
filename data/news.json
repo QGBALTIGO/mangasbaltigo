@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:31:31.711Z",
+  "generatedAt": "2026-10-24T14:49:38.225Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,820 @@
   ],
   "stats": {
     "collected": 42,
-    "grouped": 18,
-    "published": 18,
-    "newStories": 18,
-    "fullArticles": 18,
+    "grouped": 21,
+    "published": 21,
+    "newStories": 21,
+    "fullArticles": 21,
     "previewArticles": 0,
-    "avgWords": 363,
-    "withHeroImage": 18,
-    "withOrderedMedia": 17,
+    "avgWords": 348,
+    "withHeroImage": 21,
+    "withOrderedMedia": 20,
     "skippedTranslation": 0,
-    "skippedQuality": 23,
-    "durationMs": 8575
+    "skippedQuality": 20,
+    "durationMs": 4877
   },
   "items": [
+    {
+      "id": "animenew-4cd966dd",
+      "slug": "gyakusatsu-kigen-ganha-video-promocional-animado-animenew-4cd966dd",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Gyakusatsu Kigen ganha vídeo promocional animado",
+      "originalTitle": "Gyakusatsu Kigen ganha vídeo promocional animado",
+      "summary": "O mangá Gyakusatsu Kigen (Genocide Origin) ganhou um vídeo promocional animado para celebrar o lançamento de seu primeiro volume. A prévia conta com narração de Soma Saito e direção de storyboard de Takehiro Kubota.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Mangás",
+        "Notícias",
+        "Genocide Origin",
+        "Gyakusatsu Kigen"
+      ],
+      "url": "https://animenew.com.br/gyakusatsu-kigen-video-promocional-animado",
+      "sourceUrl": "https://animenew.com.br/gyakusatsu-kigen-video-promocional-animado",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Gyakusatsu-Kigen-ganha-video-promocional-animado.webp",
+      "mediaQuery": "Gyakusatsu Kigen ganha vídeo promocional animado",
+      "mediaType": "anime",
+      "mediaGallery": [],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/w6jfHtx0d6I"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "O mangá Gyakusatsu Kigen (Genocide Origin) ganhou um vídeo promocional animado para celebrar o lançamento de seu primeiro volume. A prévia conta com narração de Soma Saito e direção de storyboard de Takehiro Kubota.",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "mangá",
+              "href": "https://animenew.com.br/mangas"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Gyakusatsu Kigen",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Genocide Origin",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") ganhou um vídeo promocional animado para celebrar o lançamento de seu primeiro volume. A prévia conta com narração de "
+            },
+            {
+              "text": "Soma Saito",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e direção de storyboard de "
+            },
+            {
+              "text": "Takehiro Kubota",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Masashi Kishimoto anuncia novo mangá de Naruto",
+              "runs": [
+                {
+                  "text": "Masashi Kishimoto anuncia novo mangá de Naruto",
+                  "href": "https://animenew.com.br/naruto-shadow-rising-novo-manga-kishimoto"
+                }
+              ]
+            },
+            {
+              "text": "Criador de Hunter x Hunter limitará trabalhos devido à saúde",
+              "runs": [
+                {
+                  "text": "Criador de Hunter x Hunter limitará trabalhos devido à saúde",
+                  "href": "https://animenew.com.br/yoshihiro-togashi-hunter-x-hunter-limita-trabalhos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Portanto o vídeo ganhou publicação pelo canal oficial da revista Afternoon, da editora Kodansha. O primeiro volume compilado da obra chegou às lojas japonesas no dia seguinte.",
+          "runs": [
+            {
+              "text": "Portanto o vídeo ganhou publicação pelo canal oficial da revista Afternoon, da editora "
+            },
+            {
+              "text": "Kodansha",
+              "href": "https://animenew.com.br/tag/kodansha/"
+            },
+            {
+              "text": ". O primeiro volume compilado da obra chegou às lojas japonesas no dia seguinte."
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=w6jfHtx0d6I",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/w6jfHtx0d6I"
+        },
+        {
+          "type": "paragraph",
+          "text": "A produção do material contou com Atsushi Ikariya e Keita Shimizu na animação-chave. Masakazu Miyake e Taichi Maezuka ficaram responsáveis pelos cenários, enquanto Tetsuya Tatamitani trabalhou na edição e na composição fotográfica.",
+          "runs": [
+            {
+              "text": "A produção do material contou com Atsushi Ikariya e Keita Shimizu na animação-chave. Masakazu Miyake e Taichi Maezuka ficaram responsáveis pelos cenários, enquanto Tetsuya Tatamitani trabalhou na edição e na composição fotográfica."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "História de Gyakusatsu Kigen",
+          "runs": [
+            {
+              "text": "História de Gyakusatsu Kigen"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Escrito por Shiwasu Hoshikawa e Yuichiro Momose, o mangá se passa em um Japão marcado por notícias frequentes de crimes brutais.",
+          "runs": [
+            {
+              "text": "Escrito por Shiwasu Hoshikawa e Yuichiro Momose, o mangá se passa em um Japão marcado por notícias frequentes de crimes brutais."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A trama acompanha Rakki, um estudante do ensino médio que é salvo de uma briga com um colega por um delinquente conhecido como A. A situação muda quando dois assassinos, identificados apenas como K e D, aparecem diante deles. Em meio aos acontecimentos, Rakki descobre que seus colegas de classe foram assassinados.",
+          "runs": [
+            {
+              "text": "A trama acompanha Rakki, um estudante do ensino médio que é salvo de uma briga com um colega por um delinquente conhecido como A. A situação muda quando dois assassinos, identificados apenas como K e D, aparecem diante deles. Em meio aos acontecimentos, Rakki descobre que seus colegas de classe foram assassinados."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A obra estreou na revista Afternoon em 25 de maio de 2026. Ademais Hoshikawa também é conhecido pela adaptação em mangá de Bungo Stray Dogs STORM BRINGER, enquanto Momose atua como roteirista principal do projeto Hypnosis Mic.",
+          "runs": [
+            {
+              "text": "A obra estreou na revista Afternoon em 25 de maio de 2026. Ademais Hoshikawa também é conhecido pela adaptação em mangá de "
+            },
+            {
+              "text": "Bungo Stray Dogs STORM BRINGER",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", enquanto Momose atua como roteirista principal do projeto "
+            },
+            {
+              "text": "Hypnosis Mic",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Comic Natalie",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Comic Natalie",
+              "marks": [
+                "em"
+              ],
+              "href": "https://natalie.mu/comic/news/694617"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Gyakusatsu Kigen ganha vídeo promocional animado.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Gyakusatsu Kigen ganha vídeo promocional animado",
+              "href": "https://animenew.com.br/gyakusatsu-kigen-video-promocional-animado/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-24T14:28:53.000Z",
+      "updatedAt": "2026-10-24T14:28:53.000Z",
+      "expiresAt": "2026-10-31T14:28:53.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/gyakusatsu-kigen-video-promocional-animado",
+          "publishedAt": "2026-10-24T14:28:53.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 245,
+      "qualityScore": 0.971,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 11,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 0,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "animenew-4339e203",
+      "slug": "danmachi-anuncia-novo-jogo-para-pc-e-mobile-animenew-4339e203",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "DanMachi anuncia novo jogo para PC e mobile",
+      "originalTitle": "DanMachi anuncia novo jogo para PC e mobile",
+      "summary": "A franquia DanMachi ganhará um novo jogo em 2027. Intitulado Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth: Frontier Zero (Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka), o projeto terá lançamento para PC, iOS e Android, com distribuição prevista dentro e fora do Japão.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Games",
+        "Notícias",
+        "danmachi",
+        "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+      ],
+      "url": "https://animenew.com.br/danmachi-frontier-zero-jogo-2027",
+      "sourceUrl": "https://animenew.com.br/danmachi-frontier-zero-jogo-2027",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/10/DanMachi-anuncia-novo-jogo-para-PC-e-mobile.webp",
+      "mediaQuery": "DanMachi anuncia novo jogo para PC e mobile",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Dungeon-Familia-Myth-Frontier-Zero.webp",
+          "alt": "Dungeon? Familia Myth: Frontier Zero",
+          "caption": "大森藤ノ・SBクリエイティブ/ダンまち6製作委員会"
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A franquia DanMachi ganhará um novo jogo em 2027. Intitulado Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth: Frontier Zero (Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka), o projeto terá lançamento para PC, iOS e Android, com distribuição prevista dentro e fora do Japão.",
+          "runs": [
+            {
+              "text": "A franquia "
+            },
+            {
+              "text": "DanMachi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ganhará um novo "
+            },
+            {
+              "text": "jogo",
+              "href": "https://animenew.com.br/games"
+            },
+            {
+              "text": " em 2027. Intitulado "
+            },
+            {
+              "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth: Frontier Zero",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "), o projeto terá lançamento para PC, iOS e Android, com distribuição prevista dentro e fora do Japão."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Blox Fruits: como One Piece criou o maior fenômeno de anime dentro do Roblox",
+              "runs": [
+                {
+                  "text": "Blox Fruits: como One Piece criou o maior fenômeno de anime dentro do Roblox",
+                  "href": "https://animenew.com.br/blox-fruits-one-piece-fenomeno-de-anime-roblox"
+                }
+              ]
+            },
+            {
+              "text": "Zelda: Ocarina of Time revela novidades no Switch 2",
+              "runs": [
+                {
+                  "text": "Zelda: Ocarina of Time revela novidades no Switch 2",
+                  "href": "https://animenew.com.br/zelda-ocarina-of-time-revela-novidades-no-switch-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O anúncio aconteceu pela desenvolvedora enish em 22 de outubro. O jogo contará com uma história original desenvolvida em colaboração com Fujino Omori, autor das light novels que deram origem à franquia.",
+          "runs": [
+            {
+              "text": "O anúncio aconteceu pela desenvolvedora enish em 22 de outubro. O jogo contará com uma história original desenvolvida em colaboração com Fujino Omori, autor das light novels que deram origem à franquia."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Dungeon-Familia-Myth-Frontier-Zero.webp",
+          "alt": "Dungeon? Familia Myth: Frontier Zero",
+          "caption": "大森藤ノ・SBクリエイティブ/ダンまち6製作委員会"
+        },
+        {
+          "type": "heading",
+          "text": "Franquia ultrapassa 20 milhões de cópias",
+          "runs": [
+            {
+              "text": "Franquia ultrapassa 20 milhões de cópias"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "A série de light novels possui 21 volumes publicados, enquanto o spin-off Sword Oratoria conta com 16 volumes. Juntas, as obras ajudaram a consolidar a franquia, que ultrapassou 20 milhões de cópias em circulação.",
+          "runs": [
+            {
+              "text": "A série de light novels possui 21 volumes publicados, enquanto o spin-off "
+            },
+            {
+              "text": "Sword Oratoria",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " conta com 16 volumes. Juntas, as obras ajudaram a consolidar a franquia, que ultrapassou 20 milhões de cópias em circulação."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Na televisão, a quinta temporada do anime estreou em outubro de 2024. Assim a produção também já tem uma sexta temporada confirmada.",
+          "runs": [
+            {
+              "text": "Na televisão, a quinta temporada do anime estreou em outubro de 2024. Assim a produção também já tem uma sexta temporada confirmada."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Outros jogos da franquia",
+          "runs": [
+            {
+              "text": "Outros jogos da franquia"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "DanMachi já recebeu outros títulos, incluindo Battle Chronicle, lançado em 2023 para PC e dispositivos móveis, e Fulland of Water and Light, disponibilizado em março de 2025 para Nintendo Switch e PC.",
+          "runs": [
+            {
+              "text": "DanMachi já recebeu outros títulos, incluindo "
+            },
+            {
+              "text": "Battle Chronicle",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", lançado em 2023 para PC e dispositivos móveis, e "
+            },
+            {
+              "text": "Fulland of Water and Light",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", disponibilizado em março de 2025 para "
+            },
+            {
+              "text": "Nintendo Switch",
+              "href": "https://animenew.com.br/tag/nintendo-switch/"
+            },
+            {
+              "text": " e PC."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Por enquanto, a enish não divulgou uma data específica para o lançamento de Frontier Zero, nem detalhes sobre a jogabilidade. Por fim novas informações sobre o projeto devem esclarecer esses aspectos futuramente.",
+          "runs": [
+            {
+              "text": "Por enquanto, a enish não divulgou uma data específica para o lançamento de "
+            },
+            {
+              "text": "Frontier Zero",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", nem detalhes sobre a jogabilidade. Por fim novas informações sobre o projeto devem esclarecer esses aspectos futuramente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Site Oficial",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Site Oficial",
+              "href": "https://www.enish.jp/news/2026/30479"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em DanMachi anuncia novo jogo para PC e mobile.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "DanMachi anuncia novo jogo para PC e mobile",
+              "href": "https://animenew.com.br/danmachi-frontier-zero-jogo-2027/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-24T14:23:03.000Z",
+      "updatedAt": "2026-10-24T14:23:03.000Z",
+      "expiresAt": "2026-10-31T14:23:03.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/danmachi-frontier-zero-jogo-2027",
+          "publishedAt": "2026-10-24T14:23:03.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 262,
+      "qualityScore": 0.974,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 12,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "animenew-be7bc73f",
+      "slug": "demon-lord-2099-chega-ao-fim-no-sexto-volume-da-light-novel-animenew-be7bc73f",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Demon Lord 2099 chega ao fim no sexto volume da light novel",
+      "originalTitle": "Demon Lord 2099 chega ao fim no sexto volume da light novel",
+      "summary": "A light novel Demon Lord 2099, escrita por Daigo Murasaki e ilustrada por Kureta, chegará ao fim no sexto volume. O anúncio aconteceu através da editora Kadokawa.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Light Novel",
+        "Notícias",
+        "Demon Lord 2099"
+      ],
+      "url": "https://animenew.com.br/demon-lord-2099-light-novel-termina-no-sexto-volume",
+      "sourceUrl": "https://animenew.com.br/demon-lord-2099-light-novel-termina-no-sexto-volume",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Demon-Lord-2099-chega-ao-fim-no-sexto-volume-da-light-novel.webp",
+      "mediaQuery": "Demon Lord 2099 chega ao fim no sexto volume da light novel",
+      "mediaType": "manga",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Demon-Lord-2099-2048x1555.webp",
+          "alt": "Demon Lord 2099",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A light novel Demon Lord 2099, escrita por Daigo Murasaki e ilustrada por Kureta, chegará ao fim no sexto volume. O anúncio aconteceu através da editora Kadokawa.",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "light novel",
+              "href": "https://animenew.com.br/light-novel"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Demon Lord 2099",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", escrita por "
+            },
+            {
+              "text": "Daigo Murasaki",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e ilustrada por "
+            },
+            {
+              "text": "Kureta",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", chegará ao fim no sexto volume. O anúncio aconteceu através da editora "
+            },
+            {
+              "text": "Kadokawa",
+              "href": "https://animenew.com.br/tag/kadokawa/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Masashi Kishimoto anuncia novo mangá de Naruto",
+              "runs": [
+                {
+                  "text": "Masashi Kishimoto anuncia novo mangá de Naruto",
+                  "href": "https://animenew.com.br/naruto-shadow-rising-novo-manga-kishimoto"
+                }
+              ]
+            },
+            {
+              "text": "Criador de Hunter x Hunter limitará trabalhos devido à saúde",
+              "runs": [
+                {
+                  "text": "Criador de Hunter x Hunter limitará trabalhos devido à saúde",
+                  "href": "https://animenew.com.br/yoshihiro-togashi-hunter-x-hunter-limita-trabalhos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicada pelo selo Fantasia Bunko, a obra começou a ser lançada em janeiro de 2021. Sendo assim o quinto volume chegou às livrarias japonesas em novembro de 2025, preparando o caminho para a conclusão da história.",
+          "runs": [
+            {
+              "text": "Publicada pelo selo Fantasia Bunko, a obra começou a ser lançada em janeiro de 2021. Sendo assim o quinto volume chegou às livrarias japonesas em novembro de 2025, preparando o caminho para a conclusão da história."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Demon-Lord-2099-2048x1555.webp",
+          "alt": "Demon Lord 2099"
+        },
+        {
+          "type": "heading",
+          "text": "História de Demon Lord 2099",
+          "runs": [
+            {
+              "text": "História de Demon Lord 2099"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "A trama se passa em Shinjuku, no ano de 2099, em uma sociedade futurista marcada pelo avanço tecnológico. Assim nesse cenário, o lendário Lorde Demônio Veltol retorna ao mundo humano e precisa conquistar seu espaço em uma realidade muito diferente daquela que conhecia.",
+          "runs": [
+            {
+              "text": "A trama se passa em Shinjuku, no ano de 2099, em uma sociedade futurista marcada pelo avanço tecnológico. Assim nesse cenário, o lendário Lorde Demônio Veltol retorna ao mundo humano e precisa conquistar seu espaço em uma realidade muito diferente daquela que conhecia.",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A série também ganhou uma adaptação em anime, exibida originalmente em outubro de 2024. A produção estreou pelos canais japoneses Tokyo MX, Gunma TV, Tochigi TV e BS11. Contudo a plataforma Crunchyroll disponibiliza a animação em países da América Latina, Europa e regiões de língua inglesa.",
+          "runs": [
+            {
+              "text": "A série também ganhou uma adaptação em "
+            },
+            {
+              "text": "anime",
+              "href": "https://animenew.com.br/animes"
+            },
+            {
+              "text": ", exibida originalmente em outubro de 2024. A produção estreou pelos canais japoneses Tokyo MX, Gunma TV, Tochigi TV e BS11. Contudo a plataforma "
+            },
+            {
+              "text": "Crunchyroll",
+              "href": "https://animenew.com.br/tag/crunchyroll/"
+            },
+            {
+              "text": " disponibiliza a animação em países da América Latina, Europa e regiões de língua inglesa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Além do anime, a franquia recebeu adaptações em mangá. A editora Yen Press publica a light novel em inglês e também lançou a versão em mangá desenhada por Yutaka Sakurai. Por fim até o momento, o anúncio confirma que o sexto volume será o último da série literária, sem detalhar sua data de lançamento.",
+          "runs": [
+            {
+              "text": "Além do anime, a franquia recebeu adaptações em "
+            },
+            {
+              "text": "mangá",
+              "href": "https://animenew.com.br/mangas"
+            },
+            {
+              "text": ". A editora Yen Press publica a light novel em inglês e também lançou a versão em mangá desenhada por Yutaka Sakurai. Por fim até o momento, o anúncio confirma que o sexto volume será o último da série literária, sem detalhar sua data de lançamento."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: X Twitter",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "X",
+              "href": "https://x.com/fantasia_bunko/status/2112486869489561971"
+            },
+            {
+              "text": " Twitter"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Demon Lord 2099 chega ao fim no sexto volume da light novel.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Demon Lord 2099 chega ao fim no sexto volume da light novel",
+              "href": "https://animenew.com.br/demon-lord-2099-light-novel-termina-no-sexto-volume/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-24T14:02:10.000Z",
+      "updatedAt": "2026-10-24T14:02:10.000Z",
+      "expiresAt": "2026-10-31T14:02:10.000Z",
+      "category": "Mangás & novels",
+      "eventType": "MANGA",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/demon-lord-2099-light-novel-termina-no-sexto-volume",
+          "publishedAt": "2026-10-24T14:02:10.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 255,
+      "qualityScore": 0.971,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 10,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-cb00707d",
       "slug": "2-parte-de-though-i-am-an-inept-villainess-ganha-trailer-jbox-cb00707d",

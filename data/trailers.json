@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-24T11:31:31.711Z",
+  "generatedAt": "2026-10-24T14:49:38.225Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
-  "total": 2,
+  "total": 3,
   "items": [
+    {
+      "id": "w6jfHtx0d6I",
+      "videoId": "w6jfHtx0d6I",
+      "title": "Gyakusatsu Kigen ganha vídeo promocional animado",
+      "articleTitle": "Gyakusatsu Kigen ganha vídeo promocional animado",
+      "kind": "PV",
+      "publishedAt": "2026-10-24T14:28:53.000Z",
+      "source": "AnimeNew",
+      "articlePath": "/noticias/gyakusatsu-kigen-ganha-video-promocional-animado-animenew-4cd966dd",
+      "thumbnail": "https://i.ytimg.com/vi/w6jfHtx0d6I/maxresdefault.jpg",
+      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Gyakusatsu-Kigen-ganha-video-promocional-animado.webp"
+    },
     {
       "id": "jJKK3qoVlCI",
       "videoId": "jJKK3qoVlCI",
