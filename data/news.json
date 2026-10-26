@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:29:32.641Z",
+  "generatedAt": "2026-10-26T17:37:05.137Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,616 @@
   ],
   "stats": {
     "collected": 42,
-    "grouped": 23,
-    "published": 23,
-    "newStories": 23,
-    "fullArticles": 23,
+    "grouped": 25,
+    "published": 25,
+    "newStories": 25,
+    "fullArticles": 25,
     "previewArticles": 0,
-    "avgWords": 353,
-    "withHeroImage": 23,
-    "withOrderedMedia": 22,
+    "avgWords": 342,
+    "withHeroImage": 25,
+    "withOrderedMedia": 24,
     "skippedTranslation": 0,
-    "skippedQuality": 17,
-    "durationMs": 3270
+    "skippedQuality": 15,
+    "durationMs": 3248
   },
   "items": [
+    {
+      "id": "jbox-6ae6233b",
+      "slug": "cosmic-mimimi-autora-de-terra-das-gemas-anuncia-novo-manga-jbox-6ae6233b",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "COSMIC MIMIMI: Autora de ‘Terra das Gemas’ anuncia novo mangá",
+      "originalTitle": "COSMIC MIMIMI: Autora de ‘Terra das Gemas’ anuncia novo mangá",
+      "summary": "Foi anunciado na edição mais recente da revista Afternoon que a autora Haruko Ichikawa vai começar a publicar um novo mangá chamado COSMIC MIMIMI no próximo dia 25 de novembro.",
+      "author": "Teke",
+      "tags": [
+        "Mangá",
+        "COSMIC MIMIMI",
+        "Haruko Ichikawa"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/26/cosmic-mimimi-autora-de-terra-das-gemas-anuncia-novo-manga",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/26/cosmic-mimimi-autora-de-terra-das-gemas-anuncia-novo-manga",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/cosmic-mimimi-destacada.jpg",
+      "mediaQuery": "COSMIC MIMIMI: Autora de ‘Terra das Gemas’ anuncia novo mangá",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/cosmic-mimimi-personagens.jpg",
+          "alt": "imagem: ilustração para apresentação dos personagens e da cidade onde se passará o mangá 'Cosmic Mimimi'. Os personagens tem formas variadas, indo desde criaturas parecidas com humanos até algumas em forma de lagarta ou de uma mola.",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Foi anunciado na edição mais recente da revista Afternoon que a autora Haruko Ichikawa vai começar a publicar um novo mangá chamado COSMIC MIMIMI no próximo dia 25 de novembro.",
+          "runs": [
+            {
+              "text": "Foi anunciado na edição mais recente da revista "
+            },
+            {
+              "text": "Afternoon",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " que a autora "
+            },
+            {
+              "text": "Haruko Ichikawa",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " vai começar a publicar um novo mangá chamado "
+            },
+            {
+              "text": "COSMIC MIMIMI",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": " no próximo dia "
+            },
+            {
+              "text": "25 de novembro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "COSMIC MIMIMI é descrito como uma “ficção científica neo kawaii”. A história acompanha a protagonista titular Mimimi, que vive em uma cidade dos sonhos e tem como objetivo deixar todos felizes. No entanto, coisas estranhas também acontecem envolvendo essa criatura moldada na felicidade.",
+          "runs": [
+            {
+              "text": "COSMIC MIMIMI",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " é descrito como uma “ficção científica neo kawaii”. A história acompanha a protagonista titular Mimimi, que vive em uma cidade dos sonhos e tem como objetivo deixar todos felizes. No entanto, coisas estranhas também acontecem envolvendo essa criatura moldada na felicidade."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/cosmic-mimimi-personagens.jpg",
+          "alt": "imagem: ilustração para apresentação dos personagens e da cidade onde se passará o mangá 'Cosmic Mimimi'. Os personagens tem formas variadas, indo desde criaturas parecidas com humanos até algumas em forma de lagarta ou de uma mola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagem: Ilustração apresentando personagens de ‘Cosmic Mimimi’ | Divulgação/Kodansha",
+          "runs": [
+            {
+              "text": "Imagem: Ilustração apresentando personagens de ‘Cosmic Mimimi’ | Divulgação/Kodansha"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ichikawa começou sua carreira como mangaká em 2006, mantendo o foco na produção de one shots até 2012, quando começou sua primeira série, Terra das Gemas (Houseki no Kuni). A obra premiada ficou em publicação até 2024 na revista Afternoon, sendo encadernada em 13 volumes pela Kodansha — no Brasil, a editora NewPOP publicou o mangá. O título foi adaptado para animê em 2017 pelo estúdio Orange, série que não está mais disponível no Brasil devido ao streaming Hidive ter encerrado seus serviços por aqui.",
+          "runs": [
+            {
+              "text": "Ichikawa começou sua carreira como mangaká em 2006, mantendo o foco na produção de"
+            },
+            {
+              "text": " one shots",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " até 2012, quando começou sua primeira série, "
+            },
+            {
+              "text": "Terra das Gemas",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Houseki no Kuni",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "). A obra premiada ficou em publicação até 2024 na revista"
+            },
+            {
+              "text": " Afternoon",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", sendo encadernada em 13 volumes pela Kodansha — no Brasil, a editora "
+            },
+            {
+              "text": "NewPOP",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " publicou o mangá. O título foi adaptado para animê em 2017 pelo estúdio Orange, série que não está mais disponível no Brasil devido ao streaming Hidive ter encerrado seus serviços por aqui."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A artista é conhecida também por seu trabalho para a franquia Pokémon, tendo sido responsável por design tanto de monstrinhos quanto de personagens humanos de jogos da série desde a 7ª geração.",
+          "runs": [
+            {
+              "text": "A artista é conhecida também por seu trabalho para a franquia "
+            },
+            {
+              "text": "Pokémon",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", tendo sido responsável por design tanto de monstrinhos quanto de personagens humanos de jogos da série desde a 7ª geração."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Anime News Network",
+          "runs": [
+            {
+              "text": "Fonte",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ": "
+            },
+            {
+              "text": "Anime News Network",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://www.animenewsnetwork.com/news/2026-10-25/land-of-the-lustrous-haruko-ichikawa-launches-new-manga-cosmic-mimimi/.243167"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-26T17:25:02.000Z",
+      "updatedAt": "2026-10-26T17:25:40.000Z",
+      "expiresAt": "2026-11-02T17:25:02.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/26/cosmic-mimimi-autora-de-terra-das-gemas-anuncia-novo-manga",
+          "publishedAt": "2026-10-26T17:25:02.000Z",
+          "author": "Teke"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 220,
+      "qualityScore": 0.966,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 9,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "jbox-c256aff9",
+      "slug": "novo-filme-de-kaiju-no-8-ganha-primeiro-teaser-jbox-c256aff9",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Novo filme de ‘Kaiju No. 8’ ganha primeiro teaser",
+      "originalTitle": "Novo filme de ‘Kaiju No. 8’ ganha primeiro teaser",
+      "summary": "A TOHO animation anunciou neste sábado (24) que o arco final do animê de Kaiju No. 8 será adaptado para um filme com estreia prevista para 2027. Intitulado Kaiju No. 8: The Final Mission, o longa teve um vídeo de super teaser visual divulgado junto ao anúncio:",
+      "author": "Igor Lunei",
+      "tags": [
+        "Anime",
+        "Cinema",
+        "filme de kaiju no. 8",
+        "kaiju no 8",
+        "vídeo do filme de kaiju no 8"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/26/novo-filme-de-kaiju-no-8-ganha-primeiro-teaser",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/26/novo-filme-de-kaiju-no-8-ganha-primeiro-teaser",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/kaiju-no-8-filme-destacada.jpg",
+      "mediaQuery": "Novo filme de ‘Kaiju No. 8’ ganha primeiro teaser",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/kaiju-no-8-poster-scaled.jpg",
+          "alt": "Pôster do filme de 'Kaiju No. 8', mostrando um monstro gigante no meio da cidade.",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/mrAj1c2iAuE"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A TOHO animation anunciou neste sábado (24) que o arco final do animê de Kaiju No. 8 será adaptado para um filme com estreia prevista para 2027. Intitulado Kaiju No. 8: The Final Mission, o longa teve um vídeo de super teaser visual divulgado junto ao anúncio:",
+          "runs": [
+            {
+              "text": "A TOHO animation anunciou neste sábado (24) que o arco final do animê de "
+            },
+            {
+              "text": "Kaiju No. 8",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " será adaptado para um filme com estreia prevista para 2027. Intitulado "
+            },
+            {
+              "text": "Kaiju No. 8: The Final Mission",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", o longa teve um vídeo de "
+            },
+            {
+              "text": "super teaser visual",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " divulgado junto ao anúncio:"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=mrAj1c2iAuE",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/mrAj1c2iAuE"
+        },
+        {
+          "type": "paragraph",
+          "text": "O filme terá a direção de Shigeyuki Miya, que já atua como diretor da série animada. E ele será produzido pelo estúdio Production I.G.",
+          "runs": [
+            {
+              "text": "O filme terá a direção de "
+            },
+            {
+              "text": "Shigeyuki Miya",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", que já atua como diretor da série animada. E ele será produzido pelo estúdio "
+            },
+            {
+              "text": "Production I.G",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A confirmação dessa produção veio pela conta oficial da franquia em inglês na rede social X, antigo Twitter. A arte promocional traz a frase “The era of humans is over” (“A era dos humanos acabou”) e foi desenhada por Shinji Kimura, diretor de arte da produção:",
+          "runs": [
+            {
+              "text": "A confirmação dessa produção veio pela conta oficial da franquia em inglês na rede social X, antigo Twitter. A arte promocional traz a frase "
+            },
+            {
+              "text": "“The era of humans is over”",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " (“A era dos humanos acabou”) e foi desenhada por "
+            },
+            {
+              "text": "Shinji Kimura",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", diretor de arte da produção:"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/kaiju-no-8-poster-scaled.jpg",
+          "alt": "Pôster do filme de 'Kaiju No. 8', mostrando um monstro gigante no meio da cidade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagem: Site oficial de ‘Kaiju No. 8’/Reprodução",
+          "runs": [
+            {
+              "text": "Imagem: Site oficial de ‘Kaiju No. 8’/Reprodução"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Kaiju No. 8 é um mangá com autoria de Naoya Matsumoto, publicado no Japão entre 2020 e 2025 na plataforma gratuita Shonen Jump+, da editora Shueisha, sendo que os capítulos também ficam disponíveis em português pelo aplicativo MANGA Plus. A versão compilada reuniu 16 volumes. No Brasil, essa edição é publicada pela Panini.",
+          "runs": [
+            {
+              "text": "Kaiju No. 8",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " é um mangá com autoria de "
+            },
+            {
+              "text": "Naoya Matsumoto",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", publicado no Japão entre 2020 e 2025 na plataforma gratuita "
+            },
+            {
+              "text": "Shonen Jump+",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", da editora "
+            },
+            {
+              "text": "Shueisha",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", sendo que os capítulos também ficam disponíveis em português pelo aplicativo MANGA Plus. A versão compilada reuniu 16 volumes. No Brasil, essa edição é publicada pela "
+            },
+            {
+              "text": "Panini",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As duas temporadas do animê são exibidas pela Crunchyroll, disponíveis com dublagem em português e legendas.",
+          "runs": [
+            {
+              "text": "As duas temporadas do animê são exibidas pela Crunchyroll, disponíveis com dublagem em português e legendas."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Site oficial de Kaiju No. 8",
+          "runs": [
+            {
+              "text": "Fonte:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Site oficial de Kaiju No. 8",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://kaiju-no8.net/news/detail_261024_01.html"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-26T16:52:39.000Z",
+      "updatedAt": "2026-10-26T16:54:14.000Z",
+      "expiresAt": "2026-11-02T16:52:39.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/26/novo-filme-de-kaiju-no-8-ganha-primeiro-teaser",
+          "publishedAt": "2026-10-26T16:52:39.000Z",
+          "author": "Igor Lunei"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 217,
+      "qualityScore": 0.968,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 11,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-f5244b4e",
       "slug": "cardcaptor-sakura-ganha-photocards-oficiais-pela-super-fan-brasil-jbox-f5244b4e",
@@ -3447,7 +4044,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 414,
-      "qualityScore": 0.991,
+      "qualityScore": 0.931,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -3738,7 +4335,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 408,
-      "qualityScore": 0.99,
+      "qualityScore": 0.93,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -4024,7 +4621,7 @@
       "sourceCount": 1,
       "readingMinutes": 1,
       "wordCount": 172,
-      "qualityScore": 0.963,
+      "qualityScore": 0.903,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,

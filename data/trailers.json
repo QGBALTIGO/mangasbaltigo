@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-26T11:29:32.641Z",
+  "generatedAt": "2026-10-26T17:37:05.137Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
-  "total": 3,
+  "total": 4,
   "items": [
+    {
+      "id": "mrAj1c2iAuE",
+      "videoId": "mrAj1c2iAuE",
+      "title": "Novo filme de ‘Kaiju No. 8’",
+      "articleTitle": "Novo filme de ‘Kaiju No. 8’ ganha primeiro teaser",
+      "kind": "TEASER",
+      "publishedAt": "2026-10-26T16:52:39.000Z",
+      "source": "JBox",
+      "articlePath": "/noticias/novo-filme-de-kaiju-no-8-ganha-primeiro-teaser-jbox-c256aff9",
+      "thumbnail": "https://i.ytimg.com/vi/mrAj1c2iAuE/maxresdefault.jpg",
+      "fallbackImage": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/kaiju-no-8-filme-destacada.jpg"
+    },
     {
       "id": "mnoR-kTU25E",
       "videoId": "mnoR-kTU25E",
