@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T17:37:05.137Z",
+  "generatedAt": "2026-10-26T21:51:09.583Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,422 @@
   ],
   "stats": {
     "collected": 42,
-    "grouped": 25,
-    "published": 25,
-    "newStories": 25,
-    "fullArticles": 25,
+    "grouped": 23,
+    "published": 23,
+    "newStories": 23,
+    "fullArticles": 23,
     "previewArticles": 0,
-    "avgWords": 342,
-    "withHeroImage": 25,
-    "withOrderedMedia": 24,
+    "avgWords": 314,
+    "withHeroImage": 23,
+    "withOrderedMedia": 22,
     "skippedTranslation": 0,
-    "skippedQuality": 15,
-    "durationMs": 3248
+    "skippedQuality": 17,
+    "durationMs": 3907
   },
   "items": [
+    {
+      "id": "jbox-992679a0",
+      "slug": "2-temporada-de-akane-banashi-ganha-novo-teaser-poster-e-nomes-do-elenco-jbox-992679a0",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "2ª temporada de ‘Akane-banashi’ ganha novo teaser, pôster e nomes do elenco",
+      "originalTitle": "2ª temporada de ‘Akane-banashi’ ganha novo teaser, pôster e nomes do elenco",
+      "summary": "A TV Asahi divulgou novos detalhes sobre a 2ª temporada de Akane-banashi, animê inspirado no mangá de Yuki Suenaga (roteirista) e Takamasa Moue (desenhista).",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Akane-banashi",
+        "Akane-banashi terá continuação?",
+        "anime de akane banashi",
+        "JBC",
+        "Segunda temporada de Akane-banashi"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/26/2a-temporada-de-akane-banashi-ganha-novo-teaser-poster-e-nomes-do-elenco",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/26/2a-temporada-de-akane-banashi-ganha-novo-teaser-poster-e-nomes-do-elenco",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Akane-Banashi-segunda-temporada-destacada.jpg",
+      "mediaQuery": "2ª temporada de ‘Akane-banashi’ ganha novo teaser, pôster e nomes do elenco",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Akane-Banashi-01-scaled.jpg",
+          "alt": "Pôster da 2ª temporada de Akane-banashi",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Akane-Banashi-02.jpg",
+          "alt": "Imagem da 2ª temporada de Akane-banashi",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Akane-Banashi-03.jpg",
+          "alt": "Imagem da 2ª temporada de Akane-banashi",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/wqryPbcFEKo"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A TV Asahi divulgou novos detalhes sobre a 2ª temporada de Akane-banashi, animê inspirado no mangá de Yuki Suenaga (roteirista) e Takamasa Moue (desenhista).",
+          "runs": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "TV Asahi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " divulgou novos detalhes sobre a 2ª temporada de "
+            },
+            {
+              "text": "Akane-banashi",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", animê inspirado no mangá de "
+            },
+            {
+              "text": "Yuki Suenaga",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (roteirista) e "
+            },
+            {
+              "text": "Takamasa Moue",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (desenhista)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Para começar, os novos episódios ganharam um teaser e um pôster, que apresenta personagens inéditos e mostram que a protagonista terá desafios inéditos para enfrentar dentro do Rakugo.",
+          "runs": [
+            {
+              "text": "Para começar, os novos episódios ganharam um teaser e um pôster, que apresenta personagens inéditos e mostram que a protagonista terá desafios inéditos para enfrentar dentro do Rakugo."
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=wqryPbcFEKo",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/wqryPbcFEKo"
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Akane-Banashi-01-scaled.jpg",
+          "alt": "Pôster da 2ª temporada de Akane-banashi"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pôster da 2ª temporada de Akane-banashi | TV Asahi/Divulgação",
+          "runs": [
+            {
+              "text": "Pôster da 2ª temporada de Akane-banashi | TV Asahi/Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Além destes detalhes, também foram revelados novos nomes no elenco de voz original. Na nova temporada Taku Yashiro (Phoenix em Gintama) faz o papel de Asagao Konjakutei e Youji Ueda (Rago em Black Torch) interpreta Hassho Tsubakiya.",
+          "runs": [
+            {
+              "text": "Além destes detalhes, também foram revelados novos nomes no elenco de voz original. Na nova temporada "
+            },
+            {
+              "text": "Taku Yashiro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (Phoenix em "
+            },
+            {
+              "text": "Gintama",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") faz o papel de Asagao Konjakutei e "
+            },
+            {
+              "text": "Youji Ueda",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (Rago em "
+            },
+            {
+              "text": "Black Torch",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") interpreta Hassho Tsubakiya."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Akane-Banashi-02.jpg",
+          "alt": "Imagem da 2ª temporada de Akane-banashi"
+        },
+        {
+          "type": "paragraph",
+          "text": "Taku Yashiro é uma das novidades do elenco de voz | TV Asahi/Reprodução",
+          "runs": [
+            {
+              "text": "Taku Yashiro é uma das novidades do elenco de voz | TV Asahi/Reprodução"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Akane-Banashi-03.jpg",
+          "alt": "Imagem da 2ª temporada de Akane-banashi"
+        },
+        {
+          "type": "paragraph",
+          "text": "E outro destaque é o misterioso personagem Hassho Tsubakiya | TV Asahi/Reprodução",
+          "runs": [
+            {
+              "text": "E outro destaque é o misterioso personagem Hassho Tsubakiya | TV Asahi/Reprodução"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A trama original segue Akane Osaki (voz original de Anna Nagase), uma jovem que sempre admirou as performances de Rakugo feitas por seu pai, Shinta Arakawa (voz original de Jun Fukuyama). Porém, um incidente o tira da disputa para se tornar um mestre e, seis anos depois, Akane resolve vingar o pai e se tornar ela mesma uma mestra na arte de atuar e contar histórias cômicas e dramáticas.",
+          "runs": [
+            {
+              "text": "A trama original segue Akane Osaki (voz original de "
+            },
+            {
+              "text": "Anna Nagase",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "), uma jovem que sempre admirou as performances de Rakugo feitas por seu pai, Shinta Arakawa (voz original de "
+            },
+            {
+              "text": "Jun Fukuyama",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "). Porém, um incidente o tira da disputa para se tornar um mestre e, seis anos depois, Akane resolve vingar o pai e se tornar ela mesma uma mestra na arte de atuar e contar histórias cômicas e dramáticas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A primeira temporada do animê teve transmissão global oficial pelo YouTube, com legendas, e chegou ao Brasil também pela Netflix, com capítulos dublados. Já os novos episódios têm estreia prevista para janeiro de 2027, dentro da Temporada de Inverno dos animês. O mangá é publicado no país pela JBC.",
+          "runs": [
+            {
+              "text": "A primeira temporada do animê teve transmissão global oficial pelo"
+            },
+            {
+              "text": " YouTube",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com legendas, e chegou ao Brasil também pela "
+            },
+            {
+              "text": "Netflix",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com capítulos dublados. Já os novos episódios têm estreia prevista para"
+            },
+            {
+              "text": " janeiro de 2027",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", dentro da "
+            },
+            {
+              "text": "Temporada de Inverno",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " dos animês. O mangá é publicado no país pela "
+            },
+            {
+              "text": "JBC",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "▶️ Crítica | Akane-banashi | 1ª temporada",
+          "runs": [
+            {
+              "text": "▶️ ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Crítica | Akane-banashi | 1ª temporada",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/06/25/critica-akane-banashi-1a-temporada/"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Anime News Network",
+          "runs": [
+            {
+              "text": "Fonte: ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Anime News Network",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-26T19:14:52.000Z",
+      "updatedAt": "2026-10-26T19:16:47.000Z",
+      "expiresAt": "2026-11-02T19:14:52.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/26/2a-temporada-de-akane-banashi-ganha-novo-teaser-poster-e-nomes-do-elenco",
+          "publishedAt": "2026-10-26T19:14:52.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 269,
+      "qualityScore": 0.98,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 16,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 3,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-6ae6233b",
       "slug": "cosmic-mimimi-autora-de-terra-das-gemas-anuncia-novo-manga-jbox-6ae6233b",
@@ -3197,7 +3600,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 286,
-      "qualityScore": 0.977,
+      "qualityScore": 0.917,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -3563,7 +3966,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 246,
-      "qualityScore": 0.971,
+      "qualityScore": 0.911,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -4060,14 +4463,14 @@
     },
     {
       "id": "jbox-54e81f84",
-      "slug": "sessao-da-tarde-exibe-power-rangers-e-bunny-drop-na-proxima-semana-jbox-54e81f84",
+      "slug": "sessao-da-tarde-exibe-power-rangers-e-bunny-drop-na-proxima-semana-at-jbox-54e81f84",
       "source": "JBox",
       "sourceType": "JBOX",
       "sourceLanguage": "pt-BR",
       "language": "pt-BR",
-      "title": "Sessão da Tarde exibe ‘Power Rangers’ e ‘Bunny Drop’ na próxima semana",
-      "originalTitle": "Sessão da Tarde exibe ‘Power Rangers’ e ‘Bunny Drop’ na próxima semana",
-      "summary": "A TV Globo exibe na próxima segunda-feira (26), na Sessão da Tarde, o filme Power Rangers (2017). A transmissão acontecerá na esteira da recente exibição da TV Globinho especial no dia 10 de outubro, que relembrou clássicos da programação infantil da emissora, onde os heróis coloridos brilhavam nas manhãs durante os anos 2000.",
+      "title": "Sessão da Tarde exibe ‘Power Rangers’ e ‘Bunny Drop’ na próxima semana (AT)",
+      "originalTitle": "Sessão da Tarde exibe ‘Power Rangers’ e ‘Bunny Drop’ na próxima semana (AT)",
+      "summary": "A TV Globo reexibe na próxima quinta-feira (29), na Sessão da Tarde, o filme Power Rangers (2017). A transmissão acontecerá na esteira da recente exibição da TV Globinho especial no dia 10 de outubro, que relembrou clássicos da programação infantil da emissora, onde os heróis coloridos brilhavam nas manhãs durante os anos 2000.",
       "author": "Matheus Mossmann",
       "tags": [
         "Cinema",
@@ -4084,7 +4487,7 @@
       "url": "https://www.jbox.com.br/2026/10/23/sessao-da-tarde-exibe-power-rangers-e-bunny-drop-na-proxima-semana",
       "sourceUrl": "https://www.jbox.com.br/2026/10/23/sessao-da-tarde-exibe-power-rangers-e-bunny-drop-na-proxima-semana",
       "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/powerangersdrop.png",
-      "mediaQuery": "Sessão da Tarde exibe ‘Power Rangers’ e ‘Bunny Drop’ na próxima semana",
+      "mediaQuery": "Sessão da Tarde exibe ‘Power Rangers’ e ‘Bunny Drop’ na próxima semana (AT)",
       "mediaType": "anime",
       "mediaGallery": [],
       "mediaEmbeds": [
@@ -4099,11 +4502,53 @@
       ],
       "sourceContent": [
         {
-          "type": "paragraph",
-          "text": "A TV Globo exibe na próxima segunda-feira (26), na Sessão da Tarde, o filme Power Rangers (2017). A transmissão acontecerá na esteira da recente exibição da TV Globinho especial no dia 10 de outubro, que relembrou clássicos da programação infantil da emissora, onde os heróis coloridos brilhavam nas manhãs durante os anos 2000.",
+          "type": "heading",
+          "text": "Atualização (26/10): A programação anunciada na matéria original indicava Power Rangers no dia 26 e Bunny Drop no dia 29. Porém, a Globo alterou a grade posteriormente, invertendo as datas. A matéria abaixo foi alterada com as novas datas.",
           "runs": [
             {
-              "text": "A TV Globo exibe na próxima segunda-feira (26), na "
+              "text": "Atualização (26/10): A programação anunciada na matéria original indicava ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Power Rangers",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " no dia 26 e ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Bunny Drop",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " no dia 29. Porém, a Globo alterou a grade posteriormente, invertendo as datas. A matéria abaixo foi alterada com as novas datas.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ],
+          "level": 4
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "A TV Globo reexibe na próxima quinta-feira (29), na Sessão da Tarde, o filme Power Rangers (2017). A transmissão acontecerá na esteira da recente exibição da TV Globinho especial no dia 10 de outubro, que relembrou clássicos da programação infantil da emissora, onde os heróis coloridos brilhavam nas manhãs durante os anos 2000.",
+          "runs": [
+            {
+              "text": "A TV Globo reexibe na próxima quinta-feira (29), na "
             },
             {
               "text": "Sessão da Tarde",
@@ -4170,10 +4615,10 @@
         },
         {
           "type": "heading",
-          "text": "Filme japonês na quinta-Feira",
+          "text": "Filme japonês na segunda-feira",
           "runs": [
             {
-              "text": "Filme japonês na quinta-Feira",
+              "text": "Filme japonês na segunda-feira",
               "marks": [
                 "strong"
               ]
@@ -4183,7 +4628,7 @@
         },
         {
           "type": "paragraph",
-          "text": "A semana da Sessão da Tarde também reserva uma surpresa para os fãs de produções asiáticas. Na quinta-feira (29), às 15h30, a Globo exibirá o live-action japonês Bunny Drop: Surpresas da Vida. Distribuído no Brasil pela Sato Company, o longa conta com versão brasileira dublada em estúdios de Campinas.",
+          "text": "A semana da Sessão da Tarde também reserva uma surpresa para os fãs de produções asiáticas. Na segunda-feira (26), às 15h30, a Globo exibirá o live-action japonês Bunny Drop: Surpresas da Vida. Distribuído no Brasil pela Sato Company, o longa conta com versão brasileira dublada em estúdios de Campinas.",
           "runs": [
             {
               "text": "A semana da "
@@ -4195,7 +4640,7 @@
               ]
             },
             {
-              "text": " também reserva uma surpresa para os fãs de produções asiáticas. Na quinta-feira (29), às 15h30, a Globo exibirá o live-action japonês "
+              "text": " também reserva uma surpresa para os fãs de produções asiáticas. Na segunda-feira (26), às 15h30, a Globo exibirá o live-action japonês "
             },
             {
               "text": "Bunny Drop: Surpresas da Vida",
@@ -4241,9 +4686,6 @@
           "provider": "youtube",
           "url": "https://www.youtube.com/watch?v=99niv1tb8dY",
           "embedUrl": "https://www.youtube-nocookie.com/embed/99niv1tb8dY"
-        },
-        {
-          "type": "divider"
         },
         {
           "type": "paragraph",
@@ -4318,7 +4760,7 @@
       ],
       "contentMode": "full",
       "publishedAt": "2026-10-23T16:37:50.000Z",
-      "updatedAt": "2026-10-23T16:38:29.000Z",
+      "updatedAt": "2026-10-26T19:00:58.000Z",
       "expiresAt": "2026-10-30T16:37:50.000Z",
       "category": "Notícias",
       "eventType": "OTHER",
@@ -4333,14 +4775,14 @@
         }
       ],
       "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 408,
-      "qualityScore": 0.93,
+      "readingMinutes": 3,
+      "wordCount": 447,
+      "qualityScore": 0.936,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
         "sections": 0,
-        "blocks": 12,
+        "blocks": 13,
         "sourceCount": 1,
         "ingestMode": "wp-rest",
         "contentMode": "full",
@@ -8285,1392 +8727,6 @@
         "ingestMode": "rss-full",
         "contentMode": "full",
         "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-58334897",
-      "slug": "critica-xxxholic-volume-1-editora-jbc-jbox-58334897",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Crítica | xxxHOLiC – Volume 1 | Editora JBC",
-      "originalTitle": "Crítica | xxxHOLiC – Volume 1 | Editora JBC",
-      "summary": "Como em toda a literatura, é comum que autores e autoras de mangás — conhecidos como mangakás — se tornem famosos por obras icônicas entre os fãs. Enquanto alguns preferem manter o anonimato, outros assinam obras em dupla (escrita e ilustração) e outros, ainda, se unem em coletivos, como é o caso do CLAMP.",
-      "author": "Cakes Sousa",
-      "tags": [
-        "Mangá",
-        "Resenha",
-        "Editora JBC",
-        "JBC",
-        "Mangá de xxxHOLiC",
-        "Nova edição de xxxHOLiC",
-        "Republicação de xxxHOLiC",
-        "XXXHolic",
-        "xxxHOLiC JBC",
-        "xxxHOLiC Premium Collection"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/19/critica-xxxholic-volume-1-jbc",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/19/critica-xxxholic-volume-1-jbc",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/jbox-critica-destacada-xxxholicvol1.jpg",
-      "mediaQuery": "Crítica | xxxHOLiC – Volume 1 | Editora JBC",
-      "mediaType": "manga",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxHOLiC-01-scaled.jpg",
-          "alt": "Mangá de xxxHOLiC",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxHOLiC-02-scaled.jpg",
-          "alt": "Mangá de xxxHOLiC",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxHOLiC-04-scaled.jpg",
-          "alt": "Mangá de xxxHOLiC",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxholiccapa1.jpg",
-          "alt": "capa de xxxHolic 1",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxholiccapa2.jpg",
-          "alt": "capa de xxxHolic 2",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Como em toda a literatura, é comum que autores e autoras de mangás — conhecidos como mangakás — se tornem famosos por obras icônicas entre os fãs. Enquanto alguns preferem manter o anonimato, outros assinam obras em dupla (escrita e ilustração) e outros, ainda, se unem em coletivos, como é o caso do CLAMP.",
-          "runs": [
-            {
-              "text": "Como em toda a literatura, é comum que autores e autoras de mangás — conhecidos como mangakás — se tornem famosos por obras icônicas entre os fãs. Enquanto alguns preferem manter o anonimato, outros assinam obras em dupla (escrita e ilustração) e outros, ainda, se unem em coletivos, como é o caso do "
-            },
-            {
-              "text": "CLAMP",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fundado em meados dos anos 1980, o grupo é formado por quatro artistas de mangás, e assina obras badaladas, como Cardcaptor Sakura, Guerreiras Mágicas de Rayearth, Chobits e xxxHOLiC, que volta ao Brasil este ano pela JBC em uma republicação no formato Premium Collection*. E a jornada do primeiro volume é intensa na medida certa.",
-          "runs": [
-            {
-              "text": "Fundado em meados dos anos 1980, o grupo é formado por quatro artistas de mangás, e assina obras badaladas, como "
-            },
-            {
-              "text": "Cardcaptor Sakura",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Guerreiras Mágicas de Rayearth",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Chobits",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e"
-            },
-            {
-              "text": " xxxHOLiC",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", que volta ao Brasil este ano pela "
-            },
-            {
-              "text": "JBC",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " em uma republicação no formato "
-            },
-            {
-              "text": "Premium Collection*",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". E a jornada do primeiro volume é intensa na medida certa."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Já nas duas primeiras páginas do mangá conhecemos Kimihiro Watanuki, um jovem magricelo e com roupas escolares, que parece fugir de verdadeiras entidades que o perseguem. E já na página 14 conhecemos Yuko Ichihara, a misteriosa dona de “uma loja que realiza desejos”, que promete ajudar o garoto a se livrar das visões. Se tudo parece frenético e rápido demais, é porque é. Há pouco tempo para respirar ao ler a publicação, e essa sensação só dá vontade de passar as páginas com ainda mais rapidez.",
-          "runs": [
-            {
-              "text": "Já nas duas primeiras páginas do mangá conhecemos "
-            },
-            {
-              "text": "Kimihiro Watanuki",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", um jovem magricelo e com roupas escolares, que parece fugir de verdadeiras entidades que o perseguem. E já na página 14 conhecemos "
-            },
-            {
-              "text": "Yuko Ichihara",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", a misteriosa dona de "
-            },
-            {
-              "text": "“uma loja que realiza desejos”",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", que promete ajudar o garoto a se livrar das visões. Se tudo parece frenético e rápido demais, é porque é. Há pouco tempo para respirar ao ler a publicação, e essa sensação só dá vontade de passar as páginas com ainda mais rapidez."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "*Premium Collection* é uma espécie de selo usado pelo grupo CLAMP para o relançamento de suas obras em um novo acabamento, com novas ilustrações minimalistas nas capas, algumas páginas coloridas, mas mantendo o número original de volumes. xxxHOLiC foi o 1º título desse formato a sair no Japão em 2021. Outras obras desse selo que já estão no Brasil são Guerreiras Mágicas de Rayearth (JBC), Tokyo Babylon e X (Panini).",
-          "runs": [
-            {
-              "text": "*"
-            },
-            {
-              "text": "Premium Collection* ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "é uma espécie de selo usado pelo grupo CLAMP para o relançamento de suas obras em um novo acabamento, com novas ilustrações minimalistas nas capas, algumas páginas coloridas, mas mantendo o número original de volumes. "
-            },
-            {
-              "text": "xxxHOLiC",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " foi o 1º título desse formato a sair no Japão em 2021. Outras obras desse selo que já estão no Brasil são"
-            },
-            {
-              "text": " Guerreiras Mágicas de Rayearth",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " (JBC), "
-            },
-            {
-              "text": "Tokyo Babylon",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "X",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " (Panini)."
-            }
-          ],
-          "level": 4
-        },
-        {
-          "type": "heading",
-          "text": "Cuidado com o que deseja",
-          "runs": [
-            {
-              "text": "Cuidado com o que deseja"
-            }
-          ],
-          "level": 2
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxHOLiC-01-scaled.jpg",
-          "alt": "Mangá de xxxHOLiC"
-        },
-        {
-          "type": "paragraph",
-          "text": "Mangá já começa com algumas páginas coloridas. | Foto: Cakes Sousa/JBox",
-          "runs": [
-            {
-              "text": "Mangá já começa com algumas páginas coloridas. | Foto: Cakes Sousa/JBox"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Enquanto Watanuki conversa com Yuko, ela explica a ele como os desejos podem ser realizados, mas também possuem um preço. E como todos os seres humanos, de uma forma ou de outra, possuem uma certa agência sobre o que lhes acontece, de formas boas e ruins.",
-          "runs": [
-            {
-              "text": "Enquanto Watanuki conversa com Yuko, ela explica a ele como os desejos podem ser realizados, mas também possuem um preço. E como todos os seres humanos, de uma forma ou de outra, possuem uma certa agência sobre o que lhes acontece, de formas boas e ruins."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Ao longo do primeiro volume, isso é representado por personagens que cruzam o caminho de Yuko e, de alguma forma, pedem que ela lhes ajude a realizar algum desejo. A relação entre “vontades” e “consequências” é constante, e mostra como todo ser humano é suscetível a pequenas transgressões aqui e ali, que parecem inofensivas, mas podem fazer um grande mal, até mesmo contra quem as comete.",
-          "runs": [
-            {
-              "text": "Ao longo do primeiro volume, isso é representado por personagens que cruzam o caminho de Yuko e, de alguma forma, pedem que ela lhes ajude a realizar algum desejo. A relação entre “vontades” e “consequências” é constante, e mostra como todo ser humano é suscetível a pequenas transgressões aqui e ali, que parecem inofensivas, mas podem fazer um grande mal, até mesmo contra quem as comete."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "E tudo isso é acompanhado por um ar de mistério mostrado também na arte do mangá. Yuko, especialmente, é representada com traços finos e requintados, que combinam com a natureza da personagem. Ao mesmo tempo em que ela nos parece estranha em um primeiro momento, também é linda e nos faz querer ver mais sobre ela — despertando, assim, uma forte relação de desejo também no leitor.",
-          "runs": [
-            {
-              "text": "E tudo isso é acompanhado por um ar de mistério mostrado também na arte do mangá. Yuko, especialmente, é representada com traços finos e requintados, que combinam com a natureza da personagem. Ao mesmo tempo em que ela nos parece estranha em um primeiro momento, também é linda e nos faz querer ver mais sobre ela — despertando, assim, uma forte relação de desejo também no leitor."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Também é preciso elogiar o trabalho técnico da JBC com a edição. Trazer ao mercado nacional um mangá com a alcunha de “Premium Collection” precisa de um cuidado a mais, e a editora faz isso com uma edição lindíssima, com sobrecapa com aplicação brilhante e páginas coloridas no começo. Ao pegar o mangá, a sensação é realmente de que estamos segurando algo icônico, e a volta de xxxHOLiC merecia esse cuidado.",
-          "runs": [
-            {
-              "text": "Também é preciso elogiar o trabalho técnico da JBC com a edição. Trazer ao mercado nacional um mangá com a alcunha de "
-            },
-            {
-              "text": "“Premium Collection”",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " precisa de um cuidado a mais, e a editora faz isso com uma edição lindíssima, com sobrecapa com aplicação brilhante e páginas coloridas no começo. Ao pegar o mangá, a sensação é realmente de que estamos segurando algo icônico, e a volta de "
-            },
-            {
-              "text": "xxxHOLiC",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " merecia esse cuidado."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxHOLiC-02-scaled.jpg",
-          "alt": "Mangá de xxxHOLiC"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yuko é encantadora para Watanuki, mas também para o leitor. | Foto: Cakes Sousa/JBox",
-          "runs": [
-            {
-              "text": "Yuko é encantadora para Watanuki, mas também para o leitor. | Foto: Cakes Sousa/JBox"
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Universo compartilhado",
-          "runs": [
-            {
-              "text": "Universo compartilhado"
-            }
-          ],
-          "level": 2
-        },
-        {
-          "type": "paragraph",
-          "text": "E, como se tudo isso não fosse suficiente, a história de xxxHOLiC tem mais dois pontos extremamente cativantes logo no primeiro volume. O primeiro, um tanto inesperado, é o humor. Sim, estamos falando de uma história permeada de mistérios e até certa sensualidade, mas o humor também está ali, incluído de forma orgânica, especialmente em cenas que deixam o jovem Watanuki constrangido. É um tipo de humor bem específico, que talvez não funcione para todo mundo, mas parece adequado para essa história.",
-          "runs": [
-            {
-              "text": "E, como se tudo isso não fosse suficiente, a história de "
-            },
-            {
-              "text": "xxxHOLiC",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " tem mais "
-            },
-            {
-              "text": "dois pontos extremamente cativantes",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " logo no primeiro volume. O primeiro, um tanto inesperado, é o humor. Sim, estamos falando de uma história permeada de mistérios e até certa sensualidade, mas o humor também está ali, incluído de forma orgânica, especialmente em cenas que deixam o jovem Watanuki constrangido. É um tipo de humor bem específico, que talvez não funcione para todo mundo, mas parece adequado para essa história."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "E o segundo ponto é o fato de xxxHOLiC fazer referências a outras obras igualmente marcantes do universo CLAMP, e servir quase como uma “união” de universos. Mesmo quem já sabe que isso acontece na história toma um susto ao ver uma referência tão direta quando ela é apresentada. A partir dali, o peso da trama ganha outro rumo. Afinal, até então, estávamos acompanhando um mangá de mistérios sobrenaturais, e agora continuamos com essa premissa, mas com a clareza de que tudo o que está acontecendo ali faz parte de algo muito maior.",
-          "runs": [
-            {
-              "text": "E o segundo ponto é o fato de"
-            },
-            {
-              "text": " xxxHOLiC",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " fazer referências a outras obras igualmente marcantes do universo CLAMP, e servir quase como uma “união” de universos. Mesmo quem já sabe que isso acontece na história toma um susto ao ver uma referência tão direta quando ela é apresentada. A partir dali, o peso da trama ganha outro rumo. Afinal, até então, estávamos acompanhando um mangá de mistérios sobrenaturais, e agora continuamos com essa premissa, mas com a clareza de que tudo o que está acontecendo ali faz parte de algo muito maior."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxHOLiC-04-scaled.jpg",
-          "alt": "Mangá de xxxHOLiC"
-        },
-        {
-          "type": "paragraph",
-          "text": "Alguns momentos de humor também fazem parte da publicação. | Foto: Cakes Sousa/JBox",
-          "runs": [
-            {
-              "text": "Alguns momentos de humor também fazem parte da publicação. | Foto: Cakes Sousa/JBox"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Logo quando isso vai ser aprofundado, o volume acaba e, não ironicamente, pode deixar alguns leitores de boca aberta com as aparições da última página. É impossível ler apenas um volume de xxxHOLiC e não querer sair correndo para ler o resto.",
-          "runs": [
-            {
-              "text": "Logo quando isso vai ser aprofundado, o volume acaba e, não ironicamente, pode deixar alguns leitores de boca aberta com as aparições da última página. É impossível ler apenas um volume de"
-            },
-            {
-              "text": " xxxHOLiC",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e não querer sair correndo para ler o resto."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "E assim, este se torna um lançamento icônico para os fãs de CLAMP no Brasil, que têm em mãos uma edição de colecionador que faz jus a esse título, e também pode ser um ponto de partida instigante para quem conhece apenas os animês inspirados em obras do grupo e deseja se aprofundar. É tudo frenético, mas igualmente encantador de acompanhar.",
-          "runs": [
-            {
-              "text": "E assim, este se torna um lançamento icônico para os fãs de CLAMP no Brasil, que têm em mãos uma edição de colecionador que faz jus a esse título, e também pode ser um ponto de partida instigante para quem conhece apenas os animês inspirados em obras do grupo e deseja se aprofundar. É tudo frenético, mas igualmente encantador de acompanhar."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Galeria de fotos",
-          "runs": [
-            {
-              "text": "Galeria de fotos",
-              "marks": [
-                "strong"
-              ]
-            }
-          ],
-          "level": 2
-        },
-        {
-          "type": "paragraph",
-          "text": "Confira no álbum abaixo alguns registros da edição nacional do 1º volume de xxxHOLiC – CLAMP Premium Collection pela Editora JBC:",
-          "runs": [
-            {
-              "text": "Confira no álbum abaixo alguns registros da edição nacional do 1º volume de"
-            },
-            {
-              "text": " xxxHOLiC – CLAMP Premium Collection",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " pela Editora JBC:"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Se interessou? Compre pelos nossos links*:",
-          "runs": [
-            {
-              "text": "Se interessou? ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "Compre pelos nossos links*:",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxholiccapa1.jpg",
-          "alt": "capa de xxxHolic 1"
-        },
-        {
-          "type": "paragraph",
-          "text": "Volume 1",
-          "runs": [
-            {
-              "text": "Volume 1",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://link.amazon/B0iw1Qjhw"
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/xxxholiccapa2.jpg",
-          "alt": "capa de xxxHolic 2"
-        },
-        {
-          "type": "paragraph",
-          "text": "Volume 2",
-          "runs": [
-            {
-              "text": "Volume 2",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://link.amazon/B06UxVv7v"
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Essa resenha foi feita com base na edição cedida como material de divulgação para a imprensa pela editora JBC, que disponibilizou o 1º volume ao JBox.",
-          "runs": [
-            {
-              "text": "Essa resenha foi feita com base na edição cedida como material de divulgação para a imprensa pela editora JBC, que disponibilizou o 1º volume ao JBox.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
-          "runs": [
-            {
-              "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "*O JBox participa do programa de parceria da Amazon, podendo ganhar um valor em cima das compras realizadas a partir dos links do site. Contudo, o JBox não tem responsabilidade sobre possíveis erros presentes em recursos integrados ao site, mas produzidos por terceiros.",
-          "runs": [
-            {
-              "text": "*O JBox participa do programa de parceria da Amazon, podendo ganhar um valor em cima das compras realizadas a partir dos links do site. Contudo, o JBox não tem responsabilidade sobre possíveis erros presentes em recursos integrados ao site, mas produzidos por terceiros.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-19T20:28:33.000Z",
-      "updatedAt": "2026-10-21T22:06:23.000Z",
-      "expiresAt": "2026-10-26T20:28:33.000Z",
-      "category": "Mangás & novels",
-      "eventType": "MANGA",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/19/critica-xxxholic-volume-1-jbc",
-          "publishedAt": "2026-10-19T20:28:33.000Z",
-          "author": "Cakes Sousa"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 5,
-      "wordCount": 976,
-      "qualityScore": 0.97,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 32,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 5,
-        "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-8ff8d961",
-      "slug": "mika-kobayashi-conhecida-por-musicas-de-attack-on-titan-e-mais-animes-fara-dois-shows-no-brasil-em-2027-jbox-8ff8d961",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Mika Kobayashi, conhecida por músicas de ‘Attack on Titan’ e mais animês, fará dois shows no Brasil em 2027",
-      "originalTitle": "Mika Kobayashi, conhecida por músicas de ‘Attack on Titan’ e mais animês, fará dois shows no Brasil em 2027",
-      "summary": "A cantora Mika Kobayashi anunciou sua quarta passagem pelo Brasil, com dois shows marcados para 2027: um em São Paulo e outro em Curitiba.",
-      "author": "Cakes Sousa",
-      "tags": [
-        "Eventos",
-        "Música",
-        "Mika Kobayashi",
-        "Mika Kobayashi no Brasil 2027",
-        "Show de Mika Kobayashi em Curitiba",
-        "Show de Mika Kobayashi em São Paulo",
-        "Shows de Mika Kobayashi",
-        "Shows de Mika Kobayashi no Brasil"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/19/mika-kobayashi-conhecida-por-musicas-de-attack-on-titan-e-mais-animes-fara-dois-shows-no-brasil-em-2027",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/19/mika-kobayashi-conhecida-por-musicas-de-attack-on-titan-e-mais-animes-fara-dois-shows-no-brasil-em-2027",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/mika-kobayashi-destacada-01.jpg",
-      "mediaQuery": "Mika Kobayashi, conhecida por músicas de ‘Attack on Titan’ e mais animês, fará dois shows no Brasil em 2027",
-      "mediaType": "anime",
-      "mediaGallery": [],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/5bxkMmksvVw"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A cantora Mika Kobayashi anunciou sua quarta passagem pelo Brasil, com dois shows marcados para 2027: um em São Paulo e outro em Curitiba.",
-          "runs": [
-            {
-              "text": "A cantora "
-            },
-            {
-              "text": "Mika Kobayashi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " anunciou sua quarta passagem pelo Brasil, com dois shows marcados para 2027: um em São Paulo e outro em Curitiba."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A primeira vinda da artista ao país foi em 2019, no Anime Friends (SP), a segunda foi em 2024, no Anime Summit (DF) e a terceira foi este ano, novamente no Anime Summit, no mês de maio.",
-          "runs": [
-            {
-              "text": "A primeira vinda da artista ao país foi em 2019, no Anime Friends (SP), a segunda foi em 2024, no Anime Summit (DF) e a terceira foi este ano, novamente no Anime Summit, no mês de maio."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Em 2027, a apresentação em Curitiba será na casa de shows Stage Garden, no dia 11 de abril. Os ingressos já estão à venda pelo site Articket, com valores entre R$ 260 + taxas (pista meia solidária) e R$ 920 + taxas (mezanino inteira). Há ainda a opção de meet and greet por R$ 350 + taxas (sem incluir o valor do ingresso principal).",
-          "runs": [
-            {
-              "text": "Em 2027, "
-            },
-            {
-              "text": "a apresentação em Curitiba será na casa de shows Stage Garden, no dia 11 de abril",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Os ingressos já estão à venda pelo site "
-            },
-            {
-              "text": "Articket",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://articket.com.br/e/7061/mika-kobayashi"
-            },
-            {
-              "text": ", com valores entre R$ 260 + taxas (pista meia solidária) e R$ 920 + taxas (mezanino inteira). Há ainda a opção de "
-            },
-            {
-              "text": "meet and greet",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " por R$ 350 + taxas (sem incluir o valor do ingresso principal)."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Já em São Paulo, a apresentação será no dia 13 de abril, no Manifesto Bar. As entradas para este show estão disponíveis pelo Clube do Ingresso, com valores entre R$ 290 + taxas (pista meia-entrada) e R$ 960 + taxas (pista vip inteira). Na cidade, também há a opção de comprar o meet and greet, por R$ 360 + taxas (sem incluir o ingresso principal).",
-          "runs": [
-            {
-              "text": "Já "
-            },
-            {
-              "text": "em São Paulo, a apresentação será no dia 13 de abril, no Manifesto Bar",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". As entradas para este show estão disponíveis pelo "
-            },
-            {
-              "text": "Clube do Ingresso",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.clubedoingresso.com/evento/mikakobayashi"
-            },
-            {
-              "text": ", com valores entre R$ 290 + taxas (pista meia-entrada) e R$ 960 + taxas (pista vip inteira). Na cidade, também há a opção de comprar o meet and greet, por R$ 360 + taxas (sem incluir o ingresso principal)."
-            }
-          ]
-        },
-        {
-          "type": "blockquote",
-          "text": "View this post on Instagram",
-          "runs": [
-            {
-              "text": " View this post on Instagram ",
-              "href": "https://www.instagram.com/p/DdZ8tHBRmxd/?utm_source=ig_embed&utm_campaign=loading"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Cantora profissional desde 2005, quando lançou seu 1º álbum, Tsukio no Kakeochi, Kobayashi se destacou ao longo da carreira emprestando sua voz a vários temas de animês de sucesso, especialmente em parcerias com o compositor Hiroyuki Sawano.",
-          "runs": [
-            {
-              "text": "Cantora profissional desde 2005, quando lançou seu 1º álbum, "
-            },
-            {
-              "text": "Tsukio no Kakeochi",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", Kobayashi se destacou ao longo da carreira emprestando sua voz a vários temas de animês de sucesso, especialmente em parcerias com o compositor "
-            },
-            {
-              "text": "Hiroyuki Sawano.",
-              "marks": [
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Entre alguns exemplos, temos participações em Attack on Titan, Blue Exorcist, Kill la Kill e The Promised Neverland. Ainda participou da trilha de alguns jogos, como Final Fantasy XI e Xenoblade Chronicles X.",
-          "runs": [
-            {
-              "text": "Entre alguns exemplos, temos participações em "
-            },
-            {
-              "text": "Attack on Titan",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Blue Exorcist",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Kill la Kill",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "The Promised Neverland",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ". Ainda participou da trilha de alguns jogos, como "
-            },
-            {
-              "text": "Final Fantasy XI",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": " e"
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "Xenoblade Chronicles X.",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=5bxkMmksvVw",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/5bxkMmksvVw"
-        },
-        {
-          "type": "heading",
-          "text": "Serviço",
-          "runs": [
-            {
-              "text": "Serviço"
-            }
-          ],
-          "level": 2
-        },
-        {
-          "type": "paragraph",
-          "text": "Mika Kobayashi no Brasil 2027",
-          "runs": [
-            {
-              "text": "Mika Kobayashi no Brasil 2027",
-              "marks": [
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Curitiba, 11/04/2027 Local: Stage Garden, Av. Mal. Floriano Peixoto, 4142 – Prado Velho, Curitiba – PR Ingressos pela Articket",
-          "runs": [
-            {
-              "text": "Curitiba, 11/04/2027",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "  "
-            },
-            {
-              "text": "Local:",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " Stage Garden, Av. Mal. Floriano Peixoto, 4142 – Prado Velho, Curitiba – PR  "
-            },
-            {
-              "text": "Ingressos pela Articket",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://articket.com.br/e/7061/mika-kobayashi"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "São Paulo, 13/04/2027 Local: Manifesto Bar, Rua Ramos Batista, 207 – Vila Olímpia – São Paulo, SP Ingressos pelo Clube do Ingresso",
-          "runs": [
-            {
-              "text": "São Paulo, 13/04/2027",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "  "
-            },
-            {
-              "text": "Local:",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " Manifesto Bar, Rua Ramos Batista, 207 – Vila Olímpia – São Paulo, SP  "
-            },
-            {
-              "text": "Ingressos pelo Clube do Ingresso",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.clubedoingresso.com/evento/mikakobayashi"
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Instagram Mika Kobayashi",
-          "runs": [
-            {
-              "text": "Fonte:",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Instagram Mika Kobayashi",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.instagram.com/p/Dc4KS-PCLAs/?img_index=1"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-19T19:06:28.000Z",
-      "updatedAt": "2026-10-19T19:07:19.000Z",
-      "expiresAt": "2026-10-26T19:06:28.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/19/mika-kobayashi-conhecida-por-musicas-de-attack-on-titan-e-mais-animes-fara-dois-shows-no-brasil-em-2027",
-          "publishedAt": "2026-10-19T19:06:28.000Z",
-          "author": "Cakes Sousa"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 333,
-      "qualityScore": 0.926,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 15,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 0,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-2d2355d1",
-      "slug": "jun-maeda-escritor-e-compositor-descobre-cancer-na-faringe-jbox-2d2355d1",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Jun Maeda: Escritor e compositor descobre câncer na faringe",
-      "originalTitle": "Jun Maeda: Escritor e compositor descobre câncer na faringe",
-      "summary": "Foi anunciado pela Visual Arts que Jun Maeda, escritor e compositor da Key, descobriu um câncer na faringe. Depois de levar em consideração o estado de saúde e as possibilidades de tratamento, o artista decidiu manter um tratamento paliativo ao invés de um mais ativo contra a doença, para que assim, segundo o que foi divulgado, consiga continuar na produção criativa até o fim. Ele está atualmente hospitalizado.",
-      "author": "Teke",
-      "tags": [
-        "Anime",
-        "Cotidiano",
-        "Games",
-        "Música",
-        "AIR",
-        "Angel Bearts",
-        "Clannad",
-        "Heaven Burns Red",
-        "Jun Maeda",
-        "Kanon",
-        "key",
-        "Visual Arts"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/19/jun-maeda-escritor-e-compositor-descobre-cancer-na-faringe",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/19/jun-maeda-escritor-e-compositor-descobre-cancer-na-faringe",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/jun-maeda-destacada.jpg",
-      "mediaQuery": "Jun Maeda: Escritor e compositor descobre câncer na faringe",
-      "mediaType": "anime",
-      "mediaGallery": [],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/Gjg5g-POljY"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Foi anunciado pela Visual Arts que Jun Maeda, escritor e compositor da Key, descobriu um câncer na faringe. Depois de levar em consideração o estado de saúde e as possibilidades de tratamento, o artista decidiu manter um tratamento paliativo ao invés de um mais ativo contra a doença, para que assim, segundo o que foi divulgado, consiga continuar na produção criativa até o fim. Ele está atualmente hospitalizado.",
-          "runs": [
-            {
-              "text": "Foi anunciado pela Visual Arts que "
-            },
-            {
-              "text": "Jun Maeda",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", escritor e compositor da "
-            },
-            {
-              "text": "Key",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", descobriu um "
-            },
-            {
-              "text": "câncer na faringe",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Depois de levar em consideração o estado de saúde e as possibilidades de tratamento, o artista "
-            },
-            {
-              "text": "decidiu manter um tratamento paliativo",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ao invés de um mais ativo contra a doença, para que assim, segundo o que foi divulgado, consiga continuar na produção criativa até o fim. Ele está atualmente hospitalizado."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Jun Maeda vem sofrendo com a doença desde o primeiro semestre deste ano, tendo sentido as dores na garganta se aprofundando por volta do meio do ano e eventualmente descobrindo que se trata de um câncer. O criador está atualmente com 51 anos de idade.",
-          "runs": [
-            {
-              "text": "Jun Maeda vem sofrendo com a doença desde o primeiro semestre deste ano, tendo sentido as dores na garganta se aprofundando por volta do meio do ano e eventualmente descobrindo que se trata de um câncer. O criador está atualmente com 51 anos de idade."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=Gjg5g-POljY",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/Gjg5g-POljY"
-        },
-        {
-          "type": "paragraph",
-          "text": "O autor começou sua carreira nos anos 1990 trabalhando em visual novels da Nexton, saindo da desenvolvedora junto de outros criadores para fundar a Key. Ele é conhecido pelo trabalho para produções com Kanon, Clannad, Air, Angel Beats, Little Busters, entre outros, atuando tanto como escritor quanto compositor.",
-          "runs": [
-            {
-              "text": "O autor começou sua carreira nos anos 1990 trabalhando em"
-            },
-            {
-              "text": " visual novels",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " da Nexton, saindo da desenvolvedora junto de outros criadores para fundar a Key. Ele é conhecido pelo trabalho para produções com "
-            },
-            {
-              "text": "Kanon",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Clannad",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Air",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Angel Beats",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Little Busters",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", entre outros, atuando tanto como escritor quanto compositor."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Atualmente, o artista está responsável por parte da história de Heaven Burns Red, jogo para celulares lançado em 2022. No pronunciamento da Visual Arts, foi esclarecido que o Maeda completou seu trabalho para o jogo até o capítulo 6, incluindo trechos da história e composição de músicas. No entanto, foi reforçado que, dependendo da progressão da doença, fica incerto se ele vai poder continuar participando da produção.",
-          "runs": [
-            {
-              "text": "Atualmente, o artista está responsável por parte da história de "
-            },
-            {
-              "text": "Heaven Burns Red",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", jogo para celulares lançado em 2022. No pronunciamento da Visual Arts, foi esclarecido que o Maeda "
-            },
-            {
-              "text": "completou seu trabalho para o jogo até o capítulo 6",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", incluindo trechos da história e composição de músicas. No entanto, foi reforçado que, dependendo da progressão da doença, fica incerto se ele vai poder continuar participando da produção."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Maeda também tem um novo projeto musical em processo de criação. Ele planejava inicialmente criar várias composições antes de lançar o projeto, mas decidiu focar em terminar as músicas em que já estava trabalhando o mais rápido possível devido às complicações do câncer. Por pedido do criador, a Visual Arts vai lançar as composições sequencialmente no YouTube.",
-          "runs": [
-            {
-              "text": "Maeda também tem um "
-            },
-            {
-              "text": "novo projeto musical ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "em processo de criação. Ele planejava inicialmente criar várias composições antes de lançar o projeto, mas decidiu focar em terminar as músicas em que já estava trabalhando o mais rápido possível devido às complicações do câncer. Por pedido do criador, a Visual Arts vai lançar as composições sequencialmente no YouTube."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A Visual Arts está aceitando mensagens e cartas para Jun Maeda (e-mails podem ser enviados pelo maedajun_message@visual-arts.jp).",
-          "runs": [
-            {
-              "text": "A Visual Arts está aceitando mensagens e cartas para Jun Maeda (e-mails podem ser enviados pelo maedajun_message@visual-arts.jp)."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Visual Arts (X/Twitter)",
-          "runs": [
-            {
-              "text": "Fonte",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ": "
-            },
-            {
-              "text": "Visual Arts (X/Twitter)",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://x.com/VisualArtsUSA/status/2112076543250124825"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-19T18:08:20.000Z",
-      "updatedAt": "2026-10-19T18:09:06.000Z",
-      "expiresAt": "2026-10-26T18:08:20.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/19/jun-maeda-escritor-e-compositor-descobre-cancer-na-faringe",
-          "publishedAt": "2026-10-19T18:08:20.000Z",
-          "author": "Teke"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 323,
-      "qualityScore": 0.918,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 10,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 0,
         "embedCount": 1,
         "sourcePagesRead": 0
       }
