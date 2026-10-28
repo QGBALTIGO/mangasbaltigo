@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T19:49:29.043Z",
+  "generatedAt": "2026-10-28T23:42:07.027Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -19,7 +19,7 @@
       "name": "JBox",
       "ok": true,
       "enabled": true,
-      "count": 32,
+      "count": 31,
       "mode": "wp-rest",
       "errors": []
     },
@@ -54,20 +54,337 @@
     }
   ],
   "stats": {
-    "collected": 42,
-    "grouped": 27,
-    "published": 27,
-    "newStories": 27,
-    "fullArticles": 27,
+    "collected": 41,
+    "grouped": 26,
+    "published": 26,
+    "newStories": 26,
+    "fullArticles": 26,
     "previewArticles": 0,
-    "avgWords": 364,
-    "withHeroImage": 27,
+    "avgWords": 367,
+    "withHeroImage": 26,
     "withOrderedMedia": 26,
     "skippedTranslation": 0,
-    "skippedQuality": 12,
-    "durationMs": 9876
+    "skippedQuality": 11,
+    "durationMs": 7648
   },
   "items": [
+    {
+      "id": "jbox-480fb8c1",
+      "slug": "precure-tera-anime-spin-off-sombrio-com-heroinas-vilas-em-2027-jbox-480fb8c1",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "‘Precure’ terá animê spin-off sombrio com heroínas vilãs em 2027",
+      "originalTitle": "‘Precure’ terá animê spin-off sombrio com heroínas vilãs em 2027",
+      "summary": "A franquia Precure ganhará um novo spin-off em 2027. Intitulado Dual Shadow ~Precure Villain Heroines~, o animê terá personagens e história originais, prometendo apresentar uma atmosfera sombria que contrasta com a proposta colorida e vibrante tradicional da série.",
+      "author": "Igor Lunei",
+      "tags": [
+        "Anime",
+        "Dual Shadow ~Precure Villain Heroines~",
+        "novo precure",
+        "precure",
+        "precure 2027",
+        "Pretty Cure",
+        "spinoff de precure"
+      ],
+      "url": "https://www.jbox.com.br/2026/10/28/precure-tera-anime-spin-off-sombrio-com-heroinas-vilas-em-2027",
+      "sourceUrl": "https://www.jbox.com.br/2026/10/28/precure-tera-anime-spin-off-sombrio-com-heroinas-vilas-em-2027",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/dual-shadow-precure-villain-heroines-teaser-destacada.jpg",
+      "mediaQuery": "‘Precure’ terá animê spin-off sombrio com heroínas vilãs em 2027",
+      "mediaType": "anime",
+      "mediaGallery": [],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/4H3qrB9yaJA"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A franquia Precure ganhará um novo spin-off em 2027. Intitulado Dual Shadow ~Precure Villain Heroines~, o animê terá personagens e história originais, prometendo apresentar uma atmosfera sombria que contrasta com a proposta colorida e vibrante tradicional da série.",
+          "runs": [
+            {
+              "text": "A franquia "
+            },
+            {
+              "text": "Precure",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " ganhará um novo "
+            },
+            {
+              "text": "spin-off",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " em 2027. Intitulado "
+            },
+            {
+              "text": "Dual Shadow ~Precure Villain Heroines~",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", o animê terá personagens e história originais, prometendo apresentar uma atmosfera sombria que contrasta com a proposta colorida e vibrante tradicional da série."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Confira o teaser:",
+          "runs": [
+            {
+              "text": "Confira o "
+            },
+            {
+              "text": "teaser",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=4H3qrB9yaJA",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/4H3qrB9yaJA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Desde 2004, a franquia Precure acompanha personagens que enfrentam diferentes inimigos para proteger o cotidiano. O novo spin-off, porém, incorpora a palavra “Villain” (vilão, em inglês) ao título. Enquanto os spin-offs anteriores destacavam personagens já conhecidos da franquia, Dual Shadow ~Precure Villain Heroines~ apresentará uma nova história protagonizada por personagens inéditas.",
+          "runs": [
+            {
+              "text": "Desde 2004, a franquia "
+            },
+            {
+              "text": "Precure",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " acompanha personagens que enfrentam diferentes inimigos para proteger o cotidiano. O novo "
+            },
+            {
+              "text": "spin-off",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", porém, incorpora a palavra "
+            },
+            {
+              "text": "“Villain”",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " (vilão, em inglês) ao título. Enquanto os "
+            },
+            {
+              "text": "spin-offs",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " anteriores destacavam personagens já conhecidos da franquia, "
+            },
+            {
+              "text": "Dual Shadow ~Precure Villain Heroines~",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " apresentará uma nova história protagonizada por personagens inéditas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O vídeo promocional começa com uma atmosfera alegre, mostrando um campo repleto de flores. O clima muda em seguida, quando surge a frase “Porque nós não somos Precure”. Na sequência, uma única flor aparece sob um holofote, balançando ao vento de maneira inquietante, enquanto um olhar suspeito surge ao fundo. A prévia apresenta um universo carregado de tensão, em sentido oposto à atmosfera habitual de Precure.",
+          "runs": [
+            {
+              "text": "O vídeo promocional começa com uma atmosfera alegre, mostrando um campo repleto de flores. O clima muda em seguida, quando surge a frase"
+            },
+            {
+              "text": " “Porque nós não somos Precure”",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ". Na sequência, uma única flor aparece sob um holofote, balançando ao vento de maneira inquietante, enquanto um olhar suspeito surge ao fundo. A prévia apresenta um universo carregado de tensão, em sentido oposto à atmosfera habitual de "
+            },
+            {
+              "text": "Precure",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Atualmente, a série de Precure que está no ar é Star Detective Precure!, que aqui no Brasil tem os episódios inéditos lançados aos domingos, na Crunchyroll, com legenda em português.",
+          "runs": [
+            {
+              "text": "Atualmente, a série de "
+            },
+            {
+              "text": "Precure",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " que está no ar é "
+            },
+            {
+              "text": "Star Detective Precure!",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", que aqui no Brasil tem os episódios inéditos lançados aos domingos, na "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com legenda em português."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Comic Natalie",
+          "runs": [
+            {
+              "text": "Fonte: ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Comic Natalie",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://natalie.mu/comic/news/695318"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-10-28T19:49:37.000Z",
+      "updatedAt": "2026-10-28T19:50:06.000Z",
+      "expiresAt": "2026-11-04T19:49:37.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/10/28/precure-tera-anime-spin-off-sombrio-com-heroinas-vilas-em-2027",
+          "publishedAt": "2026-10-28T19:49:37.000Z",
+          "author": "Igor Lunei"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 1,
+      "wordCount": 208,
+      "qualityScore": 0.964,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 9,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 0,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-ba8bb70a",
       "slug": "pokemon-unite-servicos-do-jogo-chegam-ao-fim-em-marco-de-2027-jbox-ba8bb70a",
@@ -1153,277 +1470,6 @@
         "ingestMode": "rss-full",
         "contentMode": "full",
         "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-2bc604ea",
-      "slug": "precure-anuncia-anime-derivado-com-heroinas-vilas-animenew-2bc604ea",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Precure anuncia anime derivado com heroínas vilãs",
-      "originalTitle": "Precure anuncia anime derivado com heroínas vilãs",
-      "summary": "A franquia Precure ganhará um novo anime de TV intitulado Dual Shadow ~Precure Villain Heroines~, com estreia prevista para 2027. A produção terá história e personagens originais apresentados.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Notícias",
-        "Dual Shadow ~Precure Villain Heroines~",
-        "Precure"
-      ],
-      "url": "https://animenew.com.br/dual-shadow-precure-villain-heroines-anime",
-      "sourceUrl": "https://animenew.com.br/dual-shadow-precure-villain-heroines-anime",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Precure-anuncia-anime-derivado-com-heroinas-vilas.webp",
-      "mediaQuery": "Precure anuncia anime derivado com heroínas vilãs",
-      "mediaType": "anime",
-      "mediaGallery": [],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/4H3qrB9yaJA"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A franquia Precure ganhará um novo anime de TV intitulado Dual Shadow ~Precure Villain Heroines~, com estreia prevista para 2027. A produção terá história e personagens originais apresentados.",
-          "runs": [
-            {
-              "text": "A franquia "
-            },
-            {
-              "text": "Precure",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ganhará um "
-            },
-            {
-              "text": "novo anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " de TV intitulado "
-            },
-            {
-              "text": "Dual Shadow ~Precure Villain Heroines~",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com estreia prevista para 2027. A produção terá história e personagens originais apresentados."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Black Clover bate record com retorno da 2ª temporada",
-              "runs": [
-                {
-                  "text": "Black Clover bate record com retorno da 2ª temporada",
-                  "href": "https://animenew.com.br/black-clover-bate-record-com-retorno-da-2a-temporada"
-                }
-              ]
-            },
-            {
-              "text": "Dragon Ball Super: Beerus recebe críticas por mudanças no episódio 3",
-              "runs": [
-                {
-                  "text": "Dragon Ball Super: Beerus recebe críticas por mudanças no episódio 3",
-                  "href": "https://animenew.com.br/dragon-ball-super-beerus-mudancas-vegeta"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O anúncio aconteceu através da Toei Animation no dia 27 de outubro. Sendo assim diferentemente de outros projetos derivados da franquia, a nova série apresentará uma narrativa inédita, centrada em personagens ligadas ao lado das vilãs.",
-          "runs": [
-            {
-              "text": "O anúncio aconteceu através da "
-            },
-            {
-              "text": "Toei Animation",
-              "href": "https://animenew.com.br/studio/18/toei-animation"
-            },
-            {
-              "text": " no dia 27 de outubro. Sendo assim diferentemente de outros projetos derivados da franquia, a nova série apresentará uma narrativa inédita, centrada em personagens ligadas ao lado das vilãs."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=4H3qrB9yaJA",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/4H3qrB9yaJA"
-        },
-        {
-          "type": "paragraph",
-          "text": "A novidade também retoma uma característica conhecida da franquia: personagens que começam como antagonistas e acabam se tornando heroínas. Contudo um exemplo é Setsuna Higashi, que apareceu como Eas em Fresh Precure! (2009) antes de assumir a identidade de Cure Passion.",
-          "runs": [
-            {
-              "text": "A novidade também retoma uma característica conhecida da franquia: personagens que começam como antagonistas e acabam se tornando heroínas. Contudo um exemplo é "
-            },
-            {
-              "text": "Setsuna Higashi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", que apareceu como Eas em "
-            },
-            {
-              "text": "Fresh Precure! (2009)",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " antes de assumir a identidade de "
-            },
-            {
-              "text": "Cure Passion",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Outros projetos de Precure",
-          "runs": [
-            {
-              "text": "Outros projetos de Precure"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "Atualmente, a franquia conta com Star Detective Precure!, sua 23ª série principal de televisão, lançada em 1º de fevereiro de 2026. A produção também recebeu um filme, que estreou nos cinemas japoneses em 18 de setembro e vendeu 358 mil ingressos nos primeiros três dias.",
-          "runs": [
-            {
-              "text": "Atualmente, a franquia conta com "
-            },
-            {
-              "text": "Star Detective Precure!",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", sua 23ª série principal de televisão, lançada em 1º de fevereiro de 2026. A produção também recebeu um filme, que estreou nos cinemas japoneses em 18 de setembro e vendeu 358 mil ingressos nos primeiros três dias."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Nos últimos anos, a Toei Animation também investiu em projetos voltados ao público adulto para celebrar os 20 anos da franquia, incluindo Power of Hope: Precure Full Bloom, lançado em 2023, e Mahou Tsukai Precure!!: MIRAI DAYS, que estreou em janeiro de 2025.",
-          "runs": [
-            {
-              "text": "Nos últimos anos, a Toei Animation também investiu em projetos voltados ao público adulto para celebrar os 20 anos da franquia, incluindo Power of Hope: Precure Full Bloom, lançado em 2023, e "
-            },
-            {
-              "text": "Mahou Tsukai Precure!!: MIRAI DAYS",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", que estreou em janeiro de 2025."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Por fim mais detalhes sobre a equipe de produção, o elenco e a data exata de estreia de Dual Shadow ~Precure Villain Heroines~ ainda não foram divulgados.",
-          "runs": [
-            {
-              "text": "Por fim mais detalhes sobre a equipe de produção, o elenco e a data exata de estreia de Dual Shadow ~Precure Villain Heroines~ ainda não foram divulgados."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Site Oficial",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "Site Oficial",
-              "href": "https://www.toei-anim.co.jp/tv/dualshadow/"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Precure anuncia anime derivado com heroínas vilãs.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Precure anuncia anime derivado com heroínas vilãs",
-              "href": "https://animenew.com.br/dual-shadow-precure-villain-heroines-anime/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-27T22:29:03.000Z",
-      "updatedAt": "2026-10-27T22:29:03.000Z",
-      "expiresAt": "2026-11-03T22:29:03.000Z",
-      "category": "Animes",
-      "eventType": "SEASON",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/dual-shadow-precure-villain-heroines-anime",
-          "publishedAt": "2026-10-27T22:29:03.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 266,
-      "qualityScore": 0.973,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 11,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 0,
         "embedCount": 1,
         "sourcePagesRead": 0
       }
@@ -9797,369 +9843,6 @@
         "ingestMode": "wp-rest",
         "contentMode": "full",
         "mediaCount": 1,
-        "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-aedfe5d9",
-      "slug": "gundam-franquia-ganha-perfil-oficial-brasileiro-no-instagram-jbox-aedfe5d9",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Gundam: Franquia ganha perfil oficial brasileiro no Instagram",
-      "originalTitle": "Gundam: Franquia ganha perfil oficial brasileiro no Instagram",
-      "summary": "Ontem, dia 20, a Bandai Namco abriu no Instagram um perfil oficial brasileiro para a franquia Mobile Suit Gundam. Detalhes dessa expansão das atividades para o Brasil ainda não foram divulgados.",
-      "author": "Teke",
-      "tags": [
-        "Anime",
-        "Colecionáveis",
-        "Games",
-        "Mangá",
-        "Gundam",
-        "gundam brasil",
-        "Gundam Info Brasil",
-        "Mobile Suit Gundam",
-        "perfil oficial de gundam"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/21/gundam-franquia-ganha-perfil-oficial-brasileiro-no-instagram",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/21/gundam-franquia-ganha-perfil-oficial-brasileiro-no-instagram",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/mobile-suit-gundam-destacada.jpg",
-      "mediaQuery": "Gundam: Franquia ganha perfil oficial brasileiro no Instagram",
-      "mediaType": "anime",
-      "mediaGallery": [],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Ontem, dia 20, a Bandai Namco abriu no Instagram um perfil oficial brasileiro para a franquia Mobile Suit Gundam. Detalhes dessa expansão das atividades para o Brasil ainda não foram divulgados.",
-          "runs": [
-            {
-              "text": "Ontem, dia 20, a "
-            },
-            {
-              "text": "Bandai Namco",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " abriu no Instagram um perfil oficial brasileiro para a franquia "
-            },
-            {
-              "text": "Mobile Suit Gundam",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ". Detalhes dessa expansão das atividades para o Brasil ainda não foram divulgados."
-            }
-          ]
-        },
-        {
-          "type": "blockquote",
-          "text": "View this post on Instagram",
-          "runs": [
-            {
-              "text": " View this post on Instagram ",
-              "href": "https://www.instagram.com/reel/DeuJToixegV/?utm_source=ig_embed&utm_campaign=loading"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O Gundam Info é o portal responsável por cuidar da série fora do Japão, incluindo a divulgação de produções como animações, jogos e mangás, de produtos da franquia incluindo os famosos model kits e cartas colecionáveis, além de organização de eventos relacionados a Gundam — o Brasil já recebeu alguns eventos oficiais do jogo de cartas, que é distribuído por aqui pela Coqui Hobby Brasil, conhecida também como Cartinha.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "Gundam Info",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " é o portal responsável por cuidar da série fora do Japão, incluindo a divulgação de produções como animações, jogos e mangás, de produtos da franquia incluindo os famosos "
-            },
-            {
-              "text": "model kits",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e cartas colecionáveis, além de organização de eventos relacionados a "
-            },
-            {
-              "text": "Gundam ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "— o Brasil já recebeu alguns eventos oficiais do jogo de cartas, que é "
-            },
-            {
-              "text": "distribuído por aqui pela Coqui Hobby Brasil,",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://cartinha.com.br/card-games/gundam-card-game/"
-            },
-            {
-              "text": " conhecida também como Cartinha."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Alguns animês da franquia já estão disponíveis no YouTube com legendas em português no canal internacional do Gundam Info. As produções que contam com legendas em nosso idioma foram disponibilizadas na plataforma ao longo de 2026. Os títulos são:",
-          "runs": [
-            {
-              "text": "Alguns animês da franquia já estão disponíveis no YouTube com legendas em português no "
-            },
-            {
-              "text": "canal internacional do ",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.youtube.com/@GundamInfo/videos"
-            },
-            {
-              "text": "Gundam Info",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.youtube.com/@GundamInfo/videos"
-            },
-            {
-              "text": ". As produções que contam com legendas em nosso idioma foram disponibilizadas na plataforma ao longo de 2026. Os títulos são:"
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Mobile Suit Gundam (trilogia de filmes de compilação)",
-              "runs": [
-                {
-                  "text": "Mobile Suit Gundam (trilogia de filmes de compilação)",
-                  "marks": [
-                    "em",
-                    "strong"
-                  ],
-                  "href": "https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx_F2iiXzXxYpAZ_ZxFYy3mW"
-                }
-              ]
-            },
-            {
-              "text": "Mobile Suit Gundam: Char’s Counterattack",
-              "runs": [
-                {
-                  "text": "Mobile Suit Gundam: Char’s Counterattack",
-                  "marks": [
-                    "em",
-                    "strong"
-                  ],
-                  "href": "https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx_MCQBJ-qX_SFxKRckH54Ch"
-                }
-              ]
-            },
-            {
-              "text": "After War Gundam X",
-              "runs": [
-                {
-                  "text": "After War Gundam X",
-                  "marks": [
-                    "em",
-                    "strong"
-                  ],
-                  "href": "https://www.youtube.com/show/VLPLJV1h9xQ7Hx_RmW7By87bGVXlUSSd3Kgo?sbp=KgtUVG5tcDNfdkFYNEAB"
-                }
-              ]
-            },
-            {
-              "text": "Mobile Suit Gundam SEED",
-              "runs": [
-                {
-                  "text": "Mobile Suit Gundam SEED",
-                  "marks": [
-                    "em",
-                    "strong"
-                  ],
-                  "href": "https://www.youtube.com/show/VLPLGCy0ANGbKCM?sbp=KgtVMTBpRzY5YXhLY0AB"
-                }
-              ]
-            },
-            {
-              "text": "Mobile Suit Gundam SEED Destiny",
-              "runs": [
-                {
-                  "text": "Mobile Suit Gundam SEED Destiny",
-                  "marks": [
-                    "em",
-                    "strong"
-                  ],
-                  "href": "https://www.youtube.com/show/VLPLH28wqlpBLfA?sbp=KgthQ294S2VPd1o1b0AB"
-                }
-              ]
-            },
-            {
-              "text": "Mobile Suit Gundam Unicorn RE:0096",
-              "runs": [
-                {
-                  "text": "Mobile Suit Gundam Unicorn RE:0096",
-                  "marks": [
-                    "em",
-                    "strong"
-                  ],
-                  "href": "https://www.youtube.com/show/VLPLNnxffb3X1XE?sbp=KgtkRUhLZjlSTHlZd0AB"
-                }
-              ]
-            },
-            {
-              "text": "Mobile Suit Gundam the Witch from Mercury",
-              "runs": [
-                {
-                  "text": "Mobile Suit Gundam the Witch from Mercury",
-                  "marks": [
-                    "em",
-                    "strong"
-                  ],
-                  "href": "https://www.youtube.com/show/VLPLWjd5-5xOmvw?sbp=KgtDVlpOcTdyd0t0c0AB"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A adição mais recente ao canal foi a de Witch from Mercury, que teve todos os seus episódios disponibilizados no último dia 1º de outubro. Os lançamentos estão acontecendo desde janeiro deste ano.",
-          "runs": [
-            {
-              "text": "A adição mais recente ao canal foi a de "
-            },
-            {
-              "text": "Witch from Mercury",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", que teve todos os seus episódios disponibilizados no último dia 1º de outubro. Os lançamentos estão acontecendo desde janeiro deste ano."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Gundam Info Brasil (Instragram)",
-          "runs": [
-            {
-              "text": "Fonte:",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Gundam Info Brasil (Instragram)",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://www.instagram.com/p/DeuJs-dxbF1/"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-21T22:44:52.000Z",
-      "updatedAt": "2026-10-22T16:00:54.000Z",
-      "expiresAt": "2026-10-28T22:44:52.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/21/gundam-franquia-ganha-perfil-oficial-brasileiro-no-instagram",
-          "publishedAt": "2026-10-21T22:44:52.000Z",
-          "author": "Teke"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 237,
-      "qualityScore": 0.908,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 9,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 0,
         "embedCount": 0,
         "sourcePagesRead": 0
       }
