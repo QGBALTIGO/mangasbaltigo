@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:21:16.611Z",
+  "generatedAt": "2026-10-30T07:17:22.271Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -65,7 +65,7 @@
     "withOrderedMedia": 26,
     "skippedTranslation": 0,
     "skippedQuality": 14,
-    "durationMs": 4271
+    "durationMs": 3551
   },
   "items": [
     {
@@ -5087,7 +5087,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 307,
-      "qualityScore": 0.984,
+      "qualityScore": 0.924,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -5342,7 +5342,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 260,
-      "qualityScore": 0.975,
+      "qualityScore": 0.915,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -5622,7 +5622,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 273,
-      "qualityScore": 0.974,
+      "qualityScore": 0.914,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -5870,7 +5870,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 261,
-      "qualityScore": 0.975,
+      "qualityScore": 0.915,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -6107,7 +6107,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 267,
-      "qualityScore": 0.972,
+      "qualityScore": 0.912,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
