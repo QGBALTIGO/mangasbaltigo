@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-02T09:42:05.221Z",
+  "generatedAt": "2026-11-02T19:50:53.175Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
-  "total": 6,
+  "total": 5,
   "items": [
+    {
+      "id": "4pYw8hZRVCM",
+      "videoId": "4pYw8hZRVCM",
+      "title": "Bocchi the Rock! recebe adaptação para novo filme",
+      "articleTitle": "Bocchi the Rock! recebe adaptação para novo filme",
+      "kind": "TEASER",
+      "publishedAt": "2026-11-02T14:31:34.000Z",
+      "source": "AnimeNew",
+      "articlePath": "/noticias/bocchi-the-rock-recebe-adaptacao-para-novo-filme-animenew-33f7d516",
+      "thumbnail": "https://i.ytimg.com/vi/4pYw8hZRVCM/maxresdefault.jpg",
+      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Bocchi-the-Rock-recebe-adaptacao-para-novo-filme.webp"
+    },
     {
       "id": "A86REZ-veV8",
       "videoId": "A86REZ-veV8",
@@ -51,30 +63,6 @@
       "articlePath": "/noticias/jujutsu-kaisen-ganha-trailer-com-spoilers-da-4-temporada-animenew-4ca3a8fe",
       "thumbnail": "https://i.ytimg.com/vi/YbGIhA9A_3U/maxresdefault.jpg",
       "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/10/Jujutsu-Kaisen-ganha-trailer-com-spoilers-da-4a-temporada.webp"
-    },
-    {
-      "id": "wqryPbcFEKo",
-      "videoId": "wqryPbcFEKo",
-      "title": "2ª temporada de ‘Akane-banashi’",
-      "articleTitle": "2ª temporada de ‘Akane-banashi’ ganha novo teaser, pôster e nomes do elenco",
-      "kind": "TEASER",
-      "publishedAt": "2026-10-26T19:14:52.000Z",
-      "source": "JBox",
-      "articlePath": "/noticias/2-temporada-de-akane-banashi-ganha-novo-teaser-poster-e-nomes-do-elenco-jbox-992679a0",
-      "thumbnail": "https://i.ytimg.com/vi/wqryPbcFEKo/maxresdefault.jpg",
-      "fallbackImage": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/Akane-Banashi-segunda-temporada-destacada.jpg"
-    },
-    {
-      "id": "mrAj1c2iAuE",
-      "videoId": "mrAj1c2iAuE",
-      "title": "Novo filme de ‘Kaiju No. 8’",
-      "articleTitle": "Novo filme de ‘Kaiju No. 8’ ganha primeiro teaser",
-      "kind": "TEASER",
-      "publishedAt": "2026-10-26T16:52:39.000Z",
-      "source": "JBox",
-      "articlePath": "/noticias/novo-filme-de-kaiju-no-8-ganha-primeiro-teaser-jbox-c256aff9",
-      "thumbnail": "https://i.ytimg.com/vi/mrAj1c2iAuE/maxresdefault.jpg",
-      "fallbackImage": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/kaiju-no-8-filme-destacada.jpg"
     }
   ]
 }
