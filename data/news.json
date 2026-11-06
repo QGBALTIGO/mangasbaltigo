@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:42:06.553Z",
+  "generatedAt": "2026-11-06T23:37:32.924Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -60,14 +60,1063 @@
     "newStories": 25,
     "fullArticles": 25,
     "previewArticles": 0,
-    "avgWords": 402,
+    "avgWords": 351,
     "withHeroImage": 25,
     "withOrderedMedia": 23,
     "skippedTranslation": 0,
     "skippedQuality": 21,
-    "durationMs": 5376
+    "durationMs": 4734
   },
   "items": [
+    {
+      "id": "jbox-820f5813",
+      "slug": "yuru-camp-4-temporada-ganha-previsao-de-estreia-em-novo-trailer-jbox-820f5813",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Yuru Camp: 4ª temporada ganha previsão de estreia em novo trailer",
+      "originalTitle": "Yuru Camp: 4ª temporada ganha previsão de estreia em novo trailer",
+      "summary": "Foi divulgado nas redes oficiais de Yuru Camp (conhecido também como Laid-Back Camp) que o animê retorna com sua quarta temporada em abril de 2027. Um novo trailer foi divulgado junto com a data, vídeo que conta com prévias das músicas-tema da nova fase da animação. O vídeo destaca principalmente as novas integrantes do clube de atividades ao ar livre para a nova temporada.",
+      "author": "Teke",
+      "tags": [
+        "Anime",
+        "4ª temporada de yuru camp",
+        "Laid-Back Camp",
+        "Yuru Camp",
+        "YURU CAMP 4"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/06/yuru-camp-4a-temporada-ganha-previsao-de-estreia-em-novo-trailer",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/06/yuru-camp-4a-temporada-ganha-previsao-de-estreia-em-novo-trailer",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/yuru-camp-4a-temporada-destacada.jpg",
+      "mediaQuery": "Yuru Camp: 4ª temporada ganha previsão de estreia em novo trailer",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/yuru-camp-4a-temporada-poster.jpg",
+          "alt": "imagem: as integrantes do clube de atividades ao ar livre em pôster da 4ª temporada de 'Yuru Camp'. As novas integrantes do clube aparecem em destaque junto com as protagonistas Nadeshiko e Rin.",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/KIqV8aUPnr8"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Foi divulgado nas redes oficiais de Yuru Camp (conhecido também como Laid-Back Camp) que o animê retorna com sua quarta temporada em abril de 2027. Um novo trailer foi divulgado junto com a data, vídeo que conta com prévias das músicas-tema da nova fase da animação. O vídeo destaca principalmente as novas integrantes do clube de atividades ao ar livre para a nova temporada.",
+          "runs": [
+            {
+              "text": "Foi divulgado nas redes oficiais de "
+            },
+            {
+              "text": "Yuru Camp",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": " (conhecido também como "
+            },
+            {
+              "text": "Laid-Back Camp",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") que o animê retorna com sua quarta temporada em "
+            },
+            {
+              "text": "abril de 2027",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Um novo trailer foi divulgado junto com a data, vídeo que conta com prévias das músicas-tema da nova fase da animação. O vídeo destaca principalmente as novas integrantes do clube de atividades ao ar livre para a nova temporada."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Além da abertura e encerramento, um tema geral para ao animê também foi divulgado. A abertura é a música “Brand New.“, cantada por Asaka. O encerramento é “Happa no Tegami“, de Eri Sasaki. Por fim, o tema geral da temporada é a música “Tonari ni Ireba“, da banda Kiminone.",
+          "runs": [
+            {
+              "text": "Além da abertura e encerramento, um tema geral para ao animê também foi divulgado. A abertura é a música “"
+            },
+            {
+              "text": "Brand New.",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "“, cantada por "
+            },
+            {
+              "text": "Asaka",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". O encerramento é “"
+            },
+            {
+              "text": "Happa no Tegami",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "“, de "
+            },
+            {
+              "text": "Eri Sasaki",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Por fim, o tema geral da temporada é a música “"
+            },
+            {
+              "text": "Tonari ni Ireba",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "“, da banda "
+            },
+            {
+              "text": "Kiminone",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Confira o vídeo abaixo e também o novo pôster:",
+          "runs": [
+            {
+              "text": "Confira o vídeo abaixo e também o novo pôster:"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=KIqV8aUPnr8",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/KIqV8aUPnr8"
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/yuru-camp-4a-temporada-poster.jpg",
+          "alt": "imagem: as integrantes do clube de atividades ao ar livre em pôster da 4ª temporada de 'Yuru Camp'. As novas integrantes do clube aparecem em destaque junto com as protagonistas Nadeshiko e Rin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagem: Divulgação/Houbunsha/Comitê de produção do animê",
+          "runs": [
+            {
+              "text": "Imagem: Divulgação/Houbunsha/Comitê de produção do animê"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Shin Tosaka, que dirigiu a 3ª temporada do animê, retorna para os episódios da 4ª temporada; Pierre Sugiura assina os roteiros, Ryuuta Ura chega como o novo designer de personagens e Akiyuki Tateyama retorna para a trilha sonora. A série teve uma nova mudança de estúdio, com o FuRyu Pictures (Let’s go KAIKIGUMI) sendo o novo responsável no lugar do 8-bit, que já tinha substituído o C-Station na temporada anterior.",
+          "runs": [
+            {
+              "text": "Shin Tosaka",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", que dirigiu a 3ª temporada do animê, retorna para os episódios da 4ª temporada; "
+            },
+            {
+              "text": "Pierre Sugiura",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " assina os roteiros, "
+            },
+            {
+              "text": "Ryuuta Ura",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " chega como o novo designer de personagens e "
+            },
+            {
+              "text": "Akiyuki Tateyama",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " retorna para a trilha sonora. A série teve uma nova mudança de estúdio, com o "
+            },
+            {
+              "text": "FuRyu Pictures",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Let’s go KAIKIGUMI",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") sendo o novo responsável no lugar do 8-bit, que já tinha substituído o C-Station na temporada anterior."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Escrito e ilustrado desde 2015 por Afro, o mangá original de Yuru Camp acompanha a jovem colegial Nadeshiko, que decide visitar o Monte Fuji após se mudar para a cidade de Yamanashi. Porém, ela passa mal no caminho e é salva por Rin, uma garota que está acampando por perto. A partir deste encontro as duas se tornam amigas e formam um grupo de jovens apaixonadas pelo hobby de acampamento. O mangá conta até então com 19 volumes lançados pela Houbunsha e é inédito no Brasil.",
+          "runs": [
+            {
+              "text": "Escrito e ilustrado desde 2015 por "
+            },
+            {
+              "text": "Afro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", o mangá original de "
+            },
+            {
+              "text": "Yuru Camp",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " acompanha a jovem colegial Nadeshiko, que decide visitar o Monte Fuji após se mudar para a cidade de Yamanashi. Porém, ela passa mal no caminho e é salva por Rin, uma garota que está acampando por perto. A partir deste encontro as duas se tornam amigas e formam um grupo de jovens apaixonadas pelo hobby de acampamento. O mangá conta até então com 19 volumes lançados pela Houbunsha e é inédito no Brasil."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A adaptação para animê começou em 2018 e, desde então, já foram três temporadas, um filme, uma série spin-off chamada Heya Camp e vários OVAs e especiais. A Crunchyroll exibe o animê no Brasil com legendas e dublagem em português, contando com as três temporadas, alguns OVAs e também com Heya Camp.",
+          "runs": [
+            {
+              "text": "A adaptação para animê começou em 2018 e, desde então, já foram três temporadas, um filme, uma série spin-off chamada "
+            },
+            {
+              "text": "Heya Camp",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": " e vários OVAs e especiais. A "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.crunchyroll.com/pt-br/series/GRWEW95KR/laid-back-camp"
+            },
+            {
+              "text": " exibe o animê no Brasil com legendas e dublagem em português, contando com as três temporadas, alguns OVAs e também com "
+            },
+            {
+              "text": "Heya Camp",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Comic Natalie",
+          "runs": [
+            {
+              "text": "Fonte",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ": "
+            },
+            {
+              "text": "Comic Natalie",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://natalie.mu/comic/news/696907"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-06T22:30:32.000Z",
+      "updatedAt": "2026-11-06T22:54:52.000Z",
+      "expiresAt": "2026-11-13T22:30:32.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/06/yuru-camp-4a-temporada-ganha-previsao-de-estreia-em-novo-trailer",
+          "publishedAt": "2026-11-06T22:30:32.000Z",
+          "author": "Teke"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 356,
+      "qualityScore": 0.985,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 12,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "jbox-40df8716",
+      "slug": "hard-rock-cafe-do-japao-anuncia-colaboracao-com-neon-genesis-evangelion-jbox-40df8716",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Hard Rock Cafe do Japão anuncia colaboração com ‘Neon Genesis Evangelion’",
+      "originalTitle": "Hard Rock Cafe do Japão anuncia colaboração com ‘Neon Genesis Evangelion’",
+      "summary": "A rede de restaurantes Hard Rock Cafe anunciou uma colaboração com Neon Genesis Evangelion focada no mercado do Japão.",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Produtos",
+        "Colaboração Hard Rock Cafe e Evangelion",
+        "Evangelion",
+        "Hard Rock Cafe",
+        "Hard Rock Cafe Japan",
+        "Neon Genesis Evangelion"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/06/hard-rock-cafe-do-japao-anuncia-colaboracao-com-neon-genesis-evangelion",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/06/hard-rock-cafe-do-japao-anuncia-colaboracao-com-neon-genesis-evangelion",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Hard-Rock-Cafe-Evangelion-destacada.jpg",
+      "mediaQuery": "Hard Rock Cafe do Japão anuncia colaboração com ‘Neon Genesis Evangelion’",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Hard-Rock-Cafe-Evangelion-capa.webp",
+          "alt": "Arte da colaboração entre Hard Rock Cafe e Neon Genesis Evangelion",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A rede de restaurantes Hard Rock Cafe anunciou uma colaboração com Neon Genesis Evangelion focada no mercado do Japão.",
+          "runs": [
+            {
+              "text": "A rede de restaurantes "
+            },
+            {
+              "text": "Hard Rock Cafe",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " anunciou uma colaboração com "
+            },
+            {
+              "text": "Neon Genesis Evangelion",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " focada no mercado do Japão."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A parceria inclui itens inspirados no Eva Unidade 01, com camisetas, jaqueta, boné, ímã de geladeira, um modelo de copo de shot e pins. Os valores ficam na faixa de 1.980 ienes (cerca de R$ 68,65, valor do copo de shot) a 66.000 ienes (aproximadamente R$ 2.288,18, valor da jaqueta), e as compras também são acompanhadas de uma sacola especial da collab.",
+          "runs": [
+            {
+              "text": "A parceria inclui itens inspirados no "
+            },
+            {
+              "text": "Eva Unidade 01",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com camisetas, jaqueta, boné, ímã de geladeira, um modelo de copo de shot e pins. Os valores ficam na faixa de 1.980 ienes (cerca de R$ 68,65, valor do copo de shot) a 66.000 ienes (aproximadamente R$ 2.288,18, valor da jaqueta), e as compras também são acompanhadas de uma sacola especial da collab."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Além disso, a ação ganhou uma arte especial, que mostra Shinji, Rei e Asuka com itens do Hard Rock Cafe e próximos a uma unidade do restaurante, que estaria localizada em Tóquio-3, cenário da história. Os produtos já estão à venda exclusivamente no Japão, nas unidades de Tóquio, Ueno, Yokohama, Kyoto e Osaka.",
+          "runs": [
+            {
+              "text": "Além disso, a ação ganhou uma arte especial, que mostra "
+            },
+            {
+              "text": "Shinji, Rei e Asuka",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " com itens do Hard Rock Cafe e próximos a uma unidade do restaurante, que estaria localizada em Tóquio-3, cenário da história. Os produtos já estão à venda exclusivamente no Japão, nas unidades de Tóquio, Ueno, Yokohama, Kyoto e Osaka."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Hard-Rock-Cafe-Evangelion-capa.webp",
+          "alt": "Arte da colaboração entre Hard Rock Cafe e Neon Genesis Evangelion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arte da colaboração entre Hard Rock Cafe e Neon Genesis Evangelion | Divulgação",
+          "runs": [
+            {
+              "text": "Arte da colaboração entre Hard Rock Cafe e Neon Genesis Evangelion | Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A franquia Neon Genesis Evangelion foi iniciada como um animê original, ou seja, sem ser baseado em outra obra prévia. A direção foi de Hideaki Anno com produção do estúdio Gainax. A trama é situada em um futuro distópico, em que a sociedade se recuperar após eventos cataclísmicos chamados de Primeiro e Segundo Impactos. Nesse contexto, a Terra também é constantemente atacada por seres chamados de “Anjos”, e a humanidade cria os “Evangelions”, unidades de combate que misturam robôs gigantes com partes orgânicas, para se defender dos ataques. O protagonista da história é Shinji Ikari, jovem recrutado para entrar nos robôs gigantes e defender a humanidade.",
+          "runs": [
+            {
+              "text": "A franquia "
+            },
+            {
+              "text": "Neon Genesis Evangelion",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " foi iniciada como um animê original, ou seja, sem ser baseado em outra obra prévia. A direção foi de "
+            },
+            {
+              "text": "Hideaki Anno",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " com produção do estúdio "
+            },
+            {
+              "text": "Gainax",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". A trama é situada em um futuro distópico, em que a sociedade se recuperar após eventos cataclísmicos chamados de Primeiro e Segundo Impactos. Nesse contexto, a Terra também é constantemente atacada por seres chamados de “Anjos”, e a humanidade cria os “Evangelions”, unidades de combate que misturam robôs gigantes com partes orgânicas, para se defender dos ataques. O protagonista da história é Shinji Ikari, jovem recrutado para entrar nos robôs gigantes e defender a humanidade."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Junto à exibição original do animê, entre 1995 e 1996, começou a sair o mangá derivado (cujo primeiro capítulo saiu cerca de 8 meses antes da estreia da animação, a fim de promovê-la), finalizado apenas em 2019. Considerado um marco do animê em sua época, o sucesso de Evangelion rendeu outros mangás paralelos e filmes que recontam a história e seu final.",
+          "runs": [
+            {
+              "text": "Junto à exibição original do animê, entre 1995 e 1996, começou a sair o mangá derivado (cujo primeiro capítulo saiu cerca de 8 meses antes da estreia da animação, a fim de promovê-la), finalizado apenas em 2019. Considerado um marco do animê em sua época, o sucesso de "
+            },
+            {
+              "text": "Evangelion",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " rendeu outros mangás paralelos e filmes que recontam a história e seu final."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Vale lembrar que, recentemente, foi divulgado que a franquia terá um novo animê em breve, com roteiro de Yoko Taro (NieR) e direção conjunta de Kazuya Tsurumaki e Touko Yatabe.",
+          "runs": [
+            {
+              "text": "Vale lembrar que, recentemente, foi divulgado que a franquia"
+            },
+            {
+              "text": " ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "terá um novo animê em breve",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/02/23/evangelion-ganha-anime-escrito-por-yoko-taro-criador-de-nier/"
+            },
+            {
+              "text": ", com roteiro de "
+            },
+            {
+              "text": "Yoko Taro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "NieR",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") e direção conjunta de "
+            },
+            {
+              "text": "Kazuya Tsurumaki",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Touko Yatabe",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "No Brasil, o animê original de Evangelion está disponível no catálogo da Netflix. A editora JBC lançou recentemente no país a edição de colecionador do mangá, composta por sete volumes, todos disponíveis para compra.",
+          "runs": [
+            {
+              "text": "No Brasil, o animê original de"
+            },
+            {
+              "text": " Evangelion",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " está disponível no catálogo da "
+            },
+            {
+              "text": "Netflix",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". A editora "
+            },
+            {
+              "text": "JBC",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " lançou recentemente no país a edição de colecionador do mangá, composta por sete volumes, todos disponíveis para compra."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Hard Rock Cafe Japão",
+          "runs": [
+            {
+              "text": "Fonte: ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Hard Rock Cafe Japão",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://hardrockjapan.com/event/12540/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-06T22:17:32.000Z",
+      "updatedAt": "2026-11-06T22:18:17.000Z",
+      "expiresAt": "2026-11-13T22:17:32.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/06/hard-rock-cafe-do-japao-anuncia-colaboracao-com-neon-genesis-evangelion",
+          "publishedAt": "2026-11-06T22:17:32.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 401,
+      "qualityScore": 0.81,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 12,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "jbox-3426e3e6",
+      "slug": "norihiro-yagi-autor-de-claymore-comeca-a-publicar-novo-manga-jbox-3426e3e6",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Norihiro Yagi, autor de ‘Claymore’, começa a publicar novo mangá",
+      "originalTitle": "Norihiro Yagi, autor de ‘Claymore’, começa a publicar novo mangá",
+      "summary": "No último dia 1º, começou a ser publicado na Shonen Jump+ um novo mangá chamado Bartlet Fairy Basslet, obra com autoria de Norihiro Yagi, conhecido principalmente por Claymore. Por enquanto, só o primeiro capítulo foi lançado, disponível internacionalmente no MANGA Plus, apenas em inglês.",
+      "author": "Teke",
+      "tags": [
+        "Mangá",
+        "Bartlet Fairy Basslet",
+        "Claymore",
+        "Norihiro Yagi",
+        "novo mangá de norihiro yagi"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/06/norihiro-yagi-autor-de-claymore-comeca-a-publicar-novo-manga",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/06/norihiro-yagi-autor-de-claymore-comeca-a-publicar-novo-manga",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Bartlet-Fairy-Basslet-destacada.jpg",
+      "mediaQuery": "Norihiro Yagi, autor de ‘Claymore’, começa a publicar novo mangá",
+      "mediaType": "manga",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Bartlet-Fairy-Basslet.jpg",
+          "alt": "imagem: ilustração do mangá 'Bartlet Fairy Basslet' destacando a protagonista Brunhilde empunhando uma espada.",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "No último dia 1º, começou a ser publicado na Shonen Jump+ um novo mangá chamado Bartlet Fairy Basslet, obra com autoria de Norihiro Yagi, conhecido principalmente por Claymore. Por enquanto, só o primeiro capítulo foi lançado, disponível internacionalmente no MANGA Plus, apenas em inglês.",
+          "runs": [
+            {
+              "text": "No último dia 1º, começou a ser publicado na "
+            },
+            {
+              "text": "Shonen Jump+",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " um novo mangá chamado "
+            },
+            {
+              "text": "Bartlet Fairy Basslet",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": ", obra com autoria de "
+            },
+            {
+              "text": "Norihiro Yagi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", conhecido principalmente por "
+            },
+            {
+              "text": "Claymore",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ". Por enquanto, só o primeiro capítulo foi lançado, disponível internacionalmente no "
+            },
+            {
+              "text": "MANGA Plus",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://mangaplus.shueisha.co.jp/titles/100856"
+            },
+            {
+              "text": ", apenas em inglês."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A história é protagonizada por Brunhilde, uma princesa e capitã-cavaleira. Tudo começa com a personagem derrotando seu arqui-inimigo e, enquanto descansava após o confronto, vê um peixe brilhante passando como uma estrela cadente pelo céu, o que dá início a uma nova aventura em sua vida.",
+          "runs": [
+            {
+              "text": "A história é protagonizada por Brunhilde, uma princesa e capitã-cavaleira. Tudo começa com a personagem derrotando seu arqui-inimigo e, enquanto descansava após o confronto, vê um peixe brilhante passando como uma estrela cadente pelo céu, o que dá início a uma nova aventura em sua vida."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Bartlet-Fairy-Basslet.jpg",
+          "alt": "imagem: ilustração do mangá 'Bartlet Fairy Basslet' destacando a protagonista Brunhilde empunhando uma espada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagem: Divulgação/Shueisha",
+          "runs": [
+            {
+              "text": "Imagem: Divulgação/Shueisha"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Norihiro Yagi publicou Claymore entre 2001 e 2014 na revista Jump SQ, sendo, além de sua obra mais famosa, seu mangá de maior duração. O título está atualmente sendo publicado pela segunda vez no Brasil pela Panini, que lança a versão Remix da obra, que compila os 27 volumes originais em apenas 8 edições.",
+          "runs": [
+            {
+              "text": "Norihiro Yagi publicou "
+            },
+            {
+              "text": "Claymore",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " entre 2001 e 2014 na revista "
+            },
+            {
+              "text": "Jump SQ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", sendo, além de sua obra mais famosa, seu mangá de maior duração. O título está atualmente sendo publicado pela segunda vez no Brasil pela Panini, que lança a versão Remix da obra, que compila os 27 volumes originais em apenas 8 edições."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A série mais recente de Yagi foi Ariadne in the Blue Sky (Soukyuu no Ariadne), publicado entre 2017 e 2023. O autor começou a carreira como mangaká em 1990, com a publicação de Undeadman.",
+          "runs": [
+            {
+              "text": "A série mais recente de Yagi foi "
+            },
+            {
+              "text": "Ariadne in the Blue Sky",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Soukyuu no Ariadne",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "), publicado entre 2017 e 2023. O autor começou a carreira como mangaká em 1990, com a publicação de "
+            },
+            {
+              "text": "Undeadman",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: MANGA Plus",
+          "runs": [
+            {
+              "text": "Fonte",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ": "
+            },
+            {
+              "text": "MANGA Plus",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://mangaplus.shueisha.co.jp/titles/100856"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-06T19:18:33.000Z",
+      "updatedAt": "2026-11-06T19:19:33.000Z",
+      "expiresAt": "2026-11-13T19:18:33.000Z",
+      "category": "Mangás & novels",
+      "eventType": "MANGA",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/06/norihiro-yagi-autor-de-claymore-comeca-a-publicar-novo-manga",
+          "publishedAt": "2026-11-06T19:18:33.000Z",
+          "author": "Teke"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 1,
+      "wordCount": 200,
+      "qualityScore": 0.963,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 9,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-94f2ed78",
       "slug": "dublagem-de-dragon-ball-super-beerus-estreia-na-crunchyroll-este-mes-jbox-94f2ed78",
@@ -6684,7 +7733,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 382,
-      "qualityScore": 0.989,
+      "qualityScore": 0.929,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -8952,1592 +10001,6 @@
         "contentMode": "full",
         "mediaCount": 3,
         "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-f048fff2",
-      "slug": "critica-o-11-tripulante-editora-jbc-jbox-f048fff2",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Crítica | O 11º Tripulante | Editora JBC",
-      "originalTitle": "Crítica | O 11º Tripulante | Editora JBC",
-      "summary": "Publicado pela primeira vez em 1975, O 11º Tripulante! (Juuichinin Iru!) narra a história de 10 cadetes de diferentes espécies da galáxia que estão prestando sua prova final para se tornarem alunos da Universidade Espacial. O teste é ocupar uma nave espacial desativada e sobreviver o maior tempo possível com os recursos da própria nave. Contudo, quando as escotilhas se fecham, os 10 cadetes percebem que há um 11º tripulante.",
-      "author": "Andreza Silva",
-      "tags": [
-        "Mangá",
-        "Resenha",
-        "11º tripulante é bom?",
-        "Juuichinin Iru!",
-        "mangas jbc",
-        "moto hagio",
-        "O 11º Tripulante"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/30/critica-o-11o-tripulante-editora-jbc",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/30/critica-o-11o-tripulante-editora-jbc",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/jbox-critica-destacada-11tripulante.jpg",
-      "mediaQuery": "Crítica | O 11º Tripulante | Editora JBC",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/11tripulante-ilustracao.jpg",
-          "alt": "imagem: ilustração de 11º tripulante",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/11tripulante-cena1.jpg",
-          "alt": "imagem: cena do mangá o 11º tripulante",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/11tripulante-cena2.jpg",
-          "alt": "imagem: cena do mangá o 11º tripulante",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/11tripulante-cena3.jpg",
-          "alt": "imagem: cena do mangá o 11º tripulante",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/o11tripulantecapa.jpg",
-          "alt": "",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Publicado pela primeira vez em 1975, O 11º Tripulante! (Juuichinin Iru!) narra a história de 10 cadetes de diferentes espécies da galáxia que estão prestando sua prova final para se tornarem alunos da Universidade Espacial. O teste é ocupar uma nave espacial desativada e sobreviver o maior tempo possível com os recursos da própria nave. Contudo, quando as escotilhas se fecham, os 10 cadetes percebem que há um 11º tripulante. Daí em diante, eles precisam não apenas sobreviver na nave à deriva, mas também descobrir quem é o passageiro e quais seus planos para os demais tripulantes.",
-          "runs": [
-            {
-              "text": "Publicado pela primeira vez em 1975, "
-            },
-            {
-              "text": "O 11º Tripulante! ",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": "("
-            },
-            {
-              "text": "Juuichinin Iru!",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") narra a história de 10 cadetes de diferentes espécies da galáxia que estão prestando sua prova final para se tornarem alunos da Universidade Espacial. O teste é ocupar uma nave espacial desativada e sobreviver o maior tempo possível com os recursos da própria nave. Contudo, quando as escotilhas se fecham, os 10 cadetes percebem que há um 11º tripulante. Daí em diante, eles precisam não apenas sobreviver na nave à deriva, mas também descobrir quem é o passageiro e quais seus planos para os demais tripulantes."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Conhecido como um clássico da ficção científica, O 11º Tripulante! é uma obra de Moto Hagio, considerada uma pioneira dos mangás shoujo. No Brasil o quadrinho foi publicado pela JBC em um volume único contendo tanto a primeira história, “O 11º Tripulante”, quanto uma continuação intitulada “Horizonte do Leste, Eternidade do Oeste”. A edição brasileira conta com algumas páginas coloridas e também um minipôster. No que diz respeito aos aspectos editoriais, não podemos negar que se trata de uma bonita edição.",
-          "runs": [
-            {
-              "text": "Conhecido como um clássico da ficção científica, "
-            },
-            {
-              "text": "O 11º Tripulante!",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " é uma obra de "
-            },
-            {
-              "text": "Moto Hagio",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", considerada uma"
-            },
-            {
-              "text": " pioneira dos mangás ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "shoujo",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ". No Brasil o quadrinho foi publicado pela JBC em um volume único contendo tanto a primeira história,"
-            },
-            {
-              "text": " “O 11º Tripulante”",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", quanto uma continuação intitulada"
-            },
-            {
-              "text": " “Horizonte do Leste, Eternidade do Oeste”",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". A edição brasileira conta com algumas páginas coloridas e também um minipôster. No que diz respeito aos aspectos editoriais, não podemos negar que se trata de uma bonita edição."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/11tripulante-ilustracao.jpg",
-          "alt": "imagem: ilustração de 11º tripulante"
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Reprodução/Moto Hagio",
-          "runs": [
-            {
-              "text": "Imagem: Reprodução/Moto Hagio"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A trama espacial de Moto Hagio é recheada de suspense e mistério — afinal, existe uma pessoa extra dentro da nave espacial e há toda uma movimentação das personagens para descobrir quem é essa 11ª pessoa e por que ela se infiltrou na prova da Universidade Espacial —, mas talvez os aspectos mais interessantes do mangá sejam as discussões sobre gênero, classe e humanidade.",
-          "runs": [
-            {
-              "text": "A trama espacial de Moto Hagio é recheada de suspense e mistério — afinal, existe uma pessoa extra dentro da nave espacial e há toda uma movimentação das personagens para descobrir quem é essa 11ª pessoa e por que ela se infiltrou na prova da Universidade Espacial —, mas talvez os aspectos mais interessantes do mangá sejam as "
-            },
-            {
-              "text": "discussões sobre gênero, classe e humanidade",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Dentro do espaço da nave à deriva são apresentadas 11 personagens de diferentes planetas, por vezes situados em galáxias distintas, com histórias e culturas que diferem umas das outras. Existem planetas mais centrais e planetas mais periféricos, e fica nítido muito rapidamente que o olhar dos habitantes dos planetas centrais para os habitantes de planetas periféricos está carregado de pressupostos e até mesmo de preconceito.",
-          "runs": [
-            {
-              "text": "Dentro do espaço da nave à deriva são apresentadas 11 personagens de diferentes planetas, por vezes situados em galáxias distintas, com histórias e culturas que diferem umas das outras. Existem planetas mais centrais e planetas mais periféricos, e fica nítido muito rapidamente que o olhar dos habitantes dos planetas centrais para os habitantes de planetas periféricos está carregado de pressupostos e até mesmo de preconceito."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Enquanto as personagens tentam descobrir quem é a pessoa extra, ao mesmo tempo em que resolvem as questões que surgem dentro da nave, são formadas relações de maior ou menor proximidade, de amizade e de inimizade, que às vezes culminam em discussões sobre algum tema específico. Quando essas discussões são feitas, as personagens vão dizendo como certa questão é vista ou como lidam com ela em seu planeta e nessas horas são tratados o modo de organização social dessas sociedades, as questões econômicas, a equidade de gênero etc. Há uma tentativa notável de tratar de diversidade cultural nessa história, é um aspecto bastante interessante da construção de mundo feita pela Hagio.",
-          "runs": [
-            {
-              "text": "Enquanto as personagens tentam descobrir quem é a pessoa extra, ao mesmo tempo em que resolvem as questões que surgem dentro da nave, são formadas relações de maior ou menor proximidade, de amizade e de inimizade, que às vezes culminam em discussões sobre algum tema específico. Quando essas discussões são feitas, as personagens vão dizendo como certa questão é vista ou como lidam com ela em seu planeta e nessas horas são tratados o modo de organização social dessas sociedades, as questões econômicas, a equidade de gênero etc. Há uma tentativa notável de tratar de diversidade cultural nessa história, é um aspecto bastante interessante da construção de mundo feita pela Hagio."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/11tripulante-cena1.jpg",
-          "alt": "imagem: cena do mangá o 11º tripulante"
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Reprodução/Moto Hagio/JBC",
-          "runs": [
-            {
-              "text": "Imagem: Reprodução/Moto Hagio/JBC"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Entretanto, de todos os temas que perpassam O 11º Tripulante!, o que é debatido de forma mais potente é a questão de gênero. A princípio, talvez pareça que a Moto Hagio trata nessa história de papéis de gênero, mas, na verdade, ela dá um passo além.",
-          "runs": [
-            {
-              "text": "Entretanto, de todos os temas que perpassam "
-            },
-            {
-              "text": "O 11º Tripulante!",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", o que é debatido de forma mais potente é"
-            },
-            {
-              "text": " a questão de gênero",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". A princípio, talvez pareça que a Moto Hagio trata nessa história de papéis de gênero, mas, na verdade, ela dá um passo além."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Em O 11º Tripulante! há várias personagens interessantes, mas por hora vamos tratar de apenas duas: Frolbericheri Frol e Tadathos Lane. O primeiro, um exemplar de garoto feminino; o segundo, o protagonista do mangá. Frol e Tada desenvolvem uma relação bastante interessante ao longo da narrativa, mas antes de falar dela, o mais importante é investigar de que modo ela se constrói.",
-          "runs": [
-            {
-              "text": "Em "
-            },
-            {
-              "text": "O 11º Tripulante!",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " há várias personagens interessantes, mas por hora vamos tratar de apenas duas:"
-            },
-            {
-              "text": " Frolbericheri Frol",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e"
-            },
-            {
-              "text": " Tadathos Lane",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". O primeiro, um exemplar de garoto feminino; o segundo, o protagonista do mangá. Frol e Tada desenvolvem uma relação bastante interessante ao longo da narrativa, mas antes de falar dela, o mais importante é investigar de que modo ela se constrói."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Desde o primeiro momento em que aparece, Frol é comparado a uma mulher. Afirmam que ele é uma mulher, depois perguntam se ele é uma mulher, frequentemente dizem a ele que ele parece uma mulher. Frol responde a todos esses comentários com uma fúria imensa, afirmando categoricamente que ele é um homem. Independentemente de seu rosto delicado, seu corpo magro e esguio, sua pouca massa muscular e até seu aspecto “frágil”, ele continua se ofendendo cada vez que o comparam a uma garota.",
-          "runs": [
-            {
-              "text": "Desde o primeiro momento em que aparece, Frol é comparado a uma mulher. Afirmam que ele é uma mulher, depois perguntam se ele é uma mulher, frequentemente dizem a ele que ele parece uma mulher. Frol responde a todos esses comentários com uma fúria imensa, afirmando categoricamente que ele é um homem. Independentemente de seu rosto delicado, seu corpo magro e esguio, sua pouca massa muscular e até seu aspecto “frágil”, ele continua se ofendendo cada vez que o comparam a uma garota."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Em contrapartida, no início da história Frol faz vários comentários sobre o corpo de Tadathos em comparação ao dele: a altura, os músculos, como se tentasse entender por que o corpo de Tada é tão mais masculino do que o dele. Em meio a toda essa interação, as duas personagens criam uma amizade que vai se aprofundando lentamente.",
-          "runs": [
-            {
-              "text": "Em contrapartida, no início da história Frol faz vários comentários sobre o corpo de Tadathos em comparação ao dele: a altura, os músculos, como se tentasse entender por que o corpo de Tada é tão mais masculino do que o dele. Em meio a toda essa interação, as duas personagens criam uma amizade que vai se aprofundando lentamente."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/11tripulante-cena2.jpg",
-          "alt": "imagem: cena do mangá o 11º tripulante"
-        },
-        {
-          "type": "paragraph",
-          "text": "Em meio aos acontecimentos do enredo principal — a descoberta de um vírus que pode levar todos os tripulantes à morte, por exemplo — vêm à tona o fato de que Frol não é um homem, mas tampouco é uma mulher. Nesse momento, ele explica seu desejo de virar homem e dentre todas as coisas que ele diz sobre a dinâmica de homens e mulheres em seu planeta, uma delas soa como uma pedra arremessada contra vidro: “Mulheres são bonitas em aparência… mas é só isso.”",
-          "runs": [
-            {
-              "text": "Em meio aos acontecimentos do enredo principal — a descoberta de um vírus que pode levar todos os tripulantes à morte, por exemplo — vêm à tona o fato de que Frol não é um homem, mas tampouco é uma mulher. Nesse momento, ele explica seu desejo de virar homem e dentre todas as coisas que ele diz sobre a dinâmica de homens e mulheres em seu planeta, uma delas soa como uma pedra arremessada contra vidro: "
-            },
-            {
-              "text": "“Mulheres são bonitas em aparência… mas é só isso.”",
-              "marks": [
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "No planeta de Frol, mulheres são destinadas ao casamento, ao cuidado dos filhos e à beleza… e é só isso. O respeito, as bajulações, as tomadas de decisões são destinados apenas aos homens. Soa bastante familiar… E quando o mangá saiu, com certeza soava bem familiar para um Japão pós-guerra que no passado havia investido muito em propaganda para disseminar por todo país os papéis destinados a homens e mulheres na criação de uma grande nação.",
-          "runs": [
-            {
-              "text": "No planeta de Frol, mulheres são destinadas ao casamento, ao cuidado dos filhos e à beleza… e é só isso. O respeito, as bajulações, as tomadas de decisões são destinados apenas aos homens. Soa bastante familiar… E quando o mangá saiu, com certeza soava bem familiar para um Japão pós-guerra que no passado havia investido muito em propaganda para disseminar por todo país os papéis destinados a homens e mulheres na criação de uma grande nação."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Entretanto, o caso específico de Frol coloca outra camada na discussão. Frol não é uma mulher indignada com o lugar das mulheres em seu planeta, ele é uma existência que teme se tornar mulher, que rejeita sua possível transformação em mulher. Ele está numa posição de algo que antecede o próprio gênero, alguém que por um período de sua vida está livre da generificação e que sabendo que em algum momento essa generificação vai acontecer, opta pelo destino que lhe parece mais valoroso e admirável. Frol não é nem mesmo um intersexo, ele é a ausência física do próprio gênero, mas que almeja o masculino.",
-          "runs": [
-            {
-              "text": "Entretanto, o caso específico de Frol coloca outra camada na discussão. Frol não é uma mulher indignada com o lugar das mulheres em seu planeta, ele é uma existência que teme se tornar mulher, que rejeita sua possível transformação em mulher. Ele está numa posição de algo que antecede o próprio gênero, alguém que por um período de sua vida está livre da generificação e que sabendo que em algum momento essa generificação vai acontecer, opta pelo destino que lhe parece mais valoroso e admirável. Frol não é nem mesmo um intersexo, ele é a ausência física do próprio gênero, mas que almeja o masculino."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Ao se definir como homem, Frol acaba sendo tratado como homem, pelo menos em alguns momentos. E é nessa parte que a relação dele e de Tada se torna interessante. Os dois acabam desenvolvendo um relacionamento amoroso e, embora inicialmente o romance comece com Frol decidindo se tornar mulher, o envolvimento continua mesmo após ele mudar de ideia. O noivado dos dois não é o foco da narrativa, mas não se pode negar que Hagio fez uma escolha corajosa ao criar não apenas o relacionamento, mas toda própria existência de Frol.",
-          "runs": [
-            {
-              "text": "Ao se definir como homem, Frol acaba sendo tratado como homem, pelo menos em alguns momentos. E é nessa parte que a relação dele e de Tada se torna interessante. Os dois acabam desenvolvendo um relacionamento amoroso e, embora inicialmente o romance comece com Frol decidindo se tornar mulher, o envolvimento continua mesmo após ele mudar de ideia. O noivado dos dois não é o foco da narrativa, mas não se pode negar que Hagio fez uma escolha corajosa ao criar não apenas o relacionamento, mas toda própria existência de Frol."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/11tripulante-cena3.jpg",
-          "alt": "imagem: cena do mangá o 11º tripulante"
-        },
-        {
-          "type": "paragraph",
-          "text": "Por esse motivo, não é exagero dizer que O 11º Tripulante! se tornou um clássico não apenas pela trama central de ficção científica, mas também pelos temperos adicionados por Moto Hagio.",
-          "runs": [
-            {
-              "text": "Por esse motivo, não é exagero dizer que O 11º Tripulante! se tornou um clássico não apenas pela trama central de ficção científica, mas também pelos temperos adicionados por Moto Hagio."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Já a continuação do mangá, Horizonte do Leste, Eternidade do Oeste, trata-se de uma trama política envolvendo um conflito entre dois planetas irmãos. Com direito a golpe de estado, fake news, manipulação da opinião pública, conspiração e interferência de grandes corporações, o mangá desvela por meio de uma história de aventura a como os jogos de poder e a interferência de grandes potências econômicas podem fabricar narrativas, aumentando pequenos conflitos à máxima potência e desgraçando a vida de muita gente no processo.",
-          "runs": [
-            {
-              "text": "Já a continuação do mangá, "
-            },
-            {
-              "text": "Horizonte do Leste, Eternidade do Oeste",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", trata-se de uma trama política envolvendo um conflito entre dois planetas irmãos. Com direito a golpe de estado, "
-            },
-            {
-              "text": "fake news",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", manipulação da opinião pública, conspiração e interferência de grandes corporações, o mangá desvela por meio de uma história de aventura a como os jogos de poder e a interferência de grandes potências econômicas podem fabricar narrativas, aumentando pequenos conflitos à máxima potência e desgraçando a vida de muita gente no processo."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Assim, O 11º Tripulante! se mostra não só uma instigante trama de ficção científica e mistério, mas também um terreno fértil para se inserir discussões sobre diferentes aspectos sociais como classe, gênero, diferenças culturais etc. As narrativas contidas no volume único brasileiro entregam tramas que instigam o leitor, sem deixar de tocar em temas relevantes tanto no período em que o mangá foi publicado inicialmente quanto na contemporaneidade. Desse modo, percebe-se que Moto Hagio se tornou um importante nome do mangá não somente por “fazer algo primeiro”, mas pela ousadia e delicadeza de usar suas histórias para ir além do entretenimento e ter discussões que, mesmo hoje, nem todos os autores estão dispostos a tocar.",
-          "runs": [
-            {
-              "text": "Assim, "
-            },
-            {
-              "text": "O 11º Tripulante!",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " se mostra não só uma instigante trama de ficção científica e mistério, mas também um terreno fértil para se inserir discussões sobre diferentes aspectos sociais como classe, gênero, diferenças culturais etc. As narrativas contidas no volume único brasileiro entregam tramas que instigam o leitor, sem deixar de tocar em temas relevantes tanto no período em que o mangá foi publicado inicialmente quanto na contemporaneidade. Desse modo, percebe-se que Moto Hagio se tornou um importante nome do mangá não somente por “fazer algo primeiro”, mas pela ousadia e delicadeza de usar suas histórias para ir além do entretenimento e ter discussões que, mesmo hoje, nem todos os autores estão dispostos a tocar."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "text": "Galeria de fotos",
-          "runs": [
-            {
-              "text": "Galeria de fotos",
-              "marks": [
-                "strong"
-              ]
-            }
-          ],
-          "level": 2
-        },
-        {
-          "type": "paragraph",
-          "text": "Confira no álbum abaixo alguns registros da edição nacional de O 11º Tripulante! pela Editora JBC:",
-          "runs": [
-            {
-              "text": "Confira no álbum abaixo alguns registros da edição nacional de"
-            },
-            {
-              "text": " O 11º Tripulante!",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " pela Editora JBC:"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Se interessou? Compre pelos nossos links*:",
-          "runs": [
-            {
-              "text": "Se interessou? ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "Compre pelos nossos links*:",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/o11tripulantecapa.jpg"
-        },
-        {
-          "type": "paragraph",
-          "text": "Volume único",
-          "runs": [
-            {
-              "text": "Volume único",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://link.amazon/B0d9M8rNN"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Essa resenha foi feita com base na edição cedida como material de divulgação para a imprensa pela editora JBC, que disponibilizou o volume ao JBox.",
-          "runs": [
-            {
-              "text": "Essa resenha foi feita com base na edição cedida como material de divulgação para a imprensa pela editora JBC, que disponibilizou o volume ao JBox.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
-          "runs": [
-            {
-              "text": "O texto presente é de responsabilidade de seu autor e não reflete necessariamente a opinião do site JBox.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "*O JBox participa do programa de parceria da Amazon, podendo ganhar um valor em cima das compras realizadas a partir dos links do site. Contudo, o JBox não tem responsabilidade sobre possíveis erros presentes em recursos integrados ao site,",
-          "runs": [
-            {
-              "text": "*O JBox participa do programa de parceria da Amazon, podendo ganhar um valor em cima das compras realizadas a partir dos links do site. Contudo, o JBox não tem responsabilidade sobre possíveis erros presentes em recursos integrados ao site,",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-30T20:53:47.000Z",
-      "updatedAt": "2026-10-30T20:54:18.000Z",
-      "expiresAt": "2026-11-06T20:53:47.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/30/critica-o-11o-tripulante-editora-jbc",
-          "publishedAt": "2026-10-30T20:53:47.000Z",
-          "author": "Andreza Silva"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 7,
-      "wordCount": 1385,
-      "qualityScore": 0.97,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 32,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 5,
-        "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-57ff16ed",
-      "slug": "death-stranding-anime-ganha-primeiro-trailer-jbox-57ff16ed",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Death Stranding: Animê ganha primeiro trailer",
-      "originalTitle": "Death Stranding: Animê ganha primeiro trailer",
-      "summary": "Foi divulgado pela Kojima Productions um trailer de prévia de Death Stranding Isolations, animê inspirado na série de jogos do estúdio. Junto ao vídeo foram divulgadas também novas informações sobre a série. Isolations estreia em 2027, tendo exibição pelo Disney+.",
-      "author": "Teke",
-      "tags": [
-        "Anime",
-        "Games",
-        "death stranding",
-        "Death Stranding Isolations",
-        "Disney",
-        "hideo kojima",
-        "kojima productions"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/30/death-stranding-anime-ganha-primeiro-trailer",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/30/death-stranding-anime-ganha-primeiro-trailer",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/death-stranding-isolations-destacada.jpg",
-      "mediaQuery": "Death Stranding: Animê ganha primeiro trailer",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/death-stranding-isolations-poster.jpg",
-          "alt": "imagem: a protagonista de 'Death Stranding Isolations' ao lado de um robô em pôster do animê. Ao fundo é possível ver uma cratera. Uma fala do pôster se traduz como: \"minha mãe virou uma cratera\".",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/ruIT6Xez6tw"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Foi divulgado pela Kojima Productions um trailer de prévia de Death Stranding Isolations, animê inspirado na série de jogos do estúdio. Junto ao vídeo foram divulgadas também novas informações sobre a série. Isolations estreia em 2027, tendo exibição pelo Disney+.",
-          "runs": [
-            {
-              "text": "Foi divulgado pela "
-            },
-            {
-              "text": "Kojima Productions",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " um trailer de prévia de "
-            },
-            {
-              "text": "Death Stranding Isolations",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", animê inspirado na série de jogos do estúdio. Junto ao vídeo foram divulgadas também novas informações sobre a série. "
-            },
-            {
-              "text": "Isolations",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "estreia em 2027",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", tendo exibição pelo "
-            },
-            {
-              "text": "Disney+",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Confira o vídeo e também o pôster divulgado:",
-          "runs": [
-            {
-              "text": "Confira o vídeo e também o pôster divulgado:"
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=ruIT6Xez6tw",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/ruIT6Xez6tw"
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/death-stranding-isolations-poster.jpg",
-          "alt": "imagem: a protagonista de 'Death Stranding Isolations' ao lado de um robô em pôster do animê. Ao fundo é possível ver uma cratera. Uma fala do pôster se traduz como: \"minha mãe virou uma cratera\"."
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Divulgação/Kojima Productions",
-          "runs": [
-            {
-              "text": "Imagem: Divulgação/Kojima Productions"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Death Stranding Isolations tem direção de Takayuki Sano (direção de animação em episódios de Attack on Titan) e roteiros por Tow Ubukata (Psycho-Pass 2 e 3). O design original dos personagens é por Ilya Kuvshinov (Ghost in the Shell: SAC_2045), sendo adaptado para animação por Sayaka Koiso (Jujutsu Kaisen). O estúdio responsável é o E&H production. Hideo Kojima, responsável pelos jogos de Death Stranding, é o produtor executivo do animê.",
-          "runs": [
-            {
-              "text": "Death Stranding Isolations",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " tem direção de "
-            },
-            {
-              "text": "Takayuki Sano",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " (direção de animação em episódios de "
-            },
-            {
-              "text": "Attack on Titan",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") e roteiros por "
-            },
-            {
-              "text": "Tow Ubukata",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Psycho-Pass 2",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "3",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "). O design original dos personagens é por "
-            },
-            {
-              "text": "Ilya Kuvshinov",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Ghost in the Shell: SAC_2045",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "), sendo adaptado para animação por "
-            },
-            {
-              "text": "Sayaka Koiso ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "("
-            },
-            {
-              "text": "Jujutsu Kaisen",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "). O estúdio responsável é o "
-            },
-            {
-              "text": "E&H production",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Hideo Kojima, responsável pelos jogos de "
-            },
-            {
-              "text": "Death Stranding",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", é o produtor executivo do animê."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A história se passa imediatamente depois que Sam, protagonista do primeiro jogo, reconecta a América do Norte através da Rede Quiral. No entanto, as conexões começam a trazer consequências inesperadas. O roteiro acompanha personagens não conectados diretamente com Sam e a Bridges, sendo protagonizado por uma garota que decidiu cortar seus laços com o mundo lá fora, porém acaba sendo forçada a mergulhar de cabeça nesse local agora desconhecido.",
-          "runs": [
-            {
-              "text": "A história se passa imediatamente depois que Sam, protagonista do primeiro jogo, reconecta a América do Norte através da Rede Quiral. No entanto, as conexões começam a trazer consequências inesperadas. O roteiro acompanha personagens não conectados diretamente com Sam e a Bridges, sendo protagonizado por uma garota que decidiu cortar seus laços com o mundo lá fora, porém acaba sendo forçada a mergulhar de cabeça nesse local agora desconhecido."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Dirigido por Hideo Kojima (Metal Gear) em sua Kojima Productions, o jogo original de Death Stranding traz Sam Bridges em uma jornada para reconstruir um mundo destruído pelo tal “Death Stranding”. O enredo é inspirado em um conto do escritor japonês Kobo Abe para o desenvolvimento dos temas e jogabilidade do título. O primeiro Death Stranding saiu em 2019 para PS4, ganhando uma versão na Steam em 2020 (e posteriormente um Director’s Cut).",
-          "runs": [
-            {
-              "text": "Dirigido por"
-            },
-            {
-              "text": " Hideo Kojima",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Metal Gear",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") em sua Kojima Productions, o jogo original de "
-            },
-            {
-              "text": "Death Stranding",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " traz Sam Bridges em uma jornada para reconstruir um mundo destruído pelo tal “Death Stranding”. O enredo é inspirado em um conto do escritor japonês "
-            },
-            {
-              "text": "Kobo Abe",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " para o desenvolvimento dos temas e jogabilidade do título. O primeiro "
-            },
-            {
-              "text": "Death Stranding",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " saiu em 2019 "
-            },
-            {
-              "text": "para PS4",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2019/05/29/death-stranding-novo-jogo-de-hideo-kojima-ganha-data-de-lancamento/"
-            },
-            {
-              "text": ", ganhando uma versão na Steam em 2020 (e posteriormente um"
-            },
-            {
-              "text": " ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Director’s Cut",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.jbox.com.br/2022/01/06/death-stranding-directors-cut-chega-ao-pc-em-2022/"
-            },
-            {
-              "text": ")."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O segundo jogo, Death Stranding 2: On the Beach, foi lançado para o PS5 em junho do ano passado, com direito a uma turnê mundial que passou pelo Brasil. A editora Belas Letras lançou no Brasil artbooks dos dois jogos.",
-          "runs": [
-            {
-              "text": "O segundo jogo, "
-            },
-            {
-              "text": "Death Stranding 2: On the Beach",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", foi lançado para o PS5 em junho do ano passado, com direito a uma turnê mundial "
-            },
-            {
-              "text": "que passou pelo Brasil",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.kojimaproductions.jp/en/death-stranding-world-strand-tour-2"
-            },
-            {
-              "text": ". A editora "
-            },
-            {
-              "text": "Belas Letras",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2025/11/27/artbooks-oficiais-de-death-stranding-devem-ser-lancados-no-brasil/"
-            },
-            {
-              "text": " lançou no Brasil artbooks dos dois jogos."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Além de Isolations, os jogos tem outras duas adaptações relacionadas em desenvolvimento: um filme animado chamado Death Stranding MOSQUITO, pelo estúdio ABC Animation, e o um filme live-action em parceria com a A24.",
-          "runs": [
-            {
-              "text": "Além de "
-            },
-            {
-              "text": "Isolations",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", os jogos tem outras duas adaptações relacionadas em desenvolvimento: um filme animado chamado "
-            },
-            {
-              "text": "Death Stranding MOSQUITO",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", pelo estúdio ABC Animation, e o um "
-            },
-            {
-              "text": "filme live-action em parceria com a A24",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Kojima Productions (X/Twitter)",
-          "runs": [
-            {
-              "text": "Fonte",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ": "
-            },
-            {
-              "text": "Kojima Productions (X/Twitter)",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://x.com/KojiPro2015_EN/status/2115979499103780914"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-30T20:26:45.000Z",
-      "updatedAt": "2026-10-30T20:27:17.000Z",
-      "expiresAt": "2026-11-06T20:26:45.000Z",
-      "category": "Trailers",
-      "eventType": "TRAILER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/30/death-stranding-anime-ganha-primeiro-trailer",
-          "publishedAt": "2026-10-30T20:26:45.000Z",
-          "author": "Teke"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 357,
-      "qualityScore": 0.926,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 13,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-51104c02",
-      "slug": "akira-toriyama-antiga-casa-e-estudio-do-autor-entra-em-processo-de-demolicao-jbox-51104c02",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Akira Toriyama: Antiga casa e estúdio do autor entra em processo de demolição",
-      "originalTitle": "Akira Toriyama: Antiga casa e estúdio do autor entra em processo de demolição",
-      "summary": "Através de fotos divulgadas ontem, dia 29, foi descoberto que a casa de Akira Toriyama está em processo de demolição. O local é também onde fica o Bird Studio, responsável pela produção e administração das obras do autor.",
-      "author": "Teke",
-      "tags": [
-        "Cotidiano",
-        "Mangá",
-        "akira toriyama",
-        "Bird Studio",
-        "bird studio demolido",
-        "Dragon Ball",
-        "estúdio de akira toriyama"
-      ],
-      "url": "https://www.jbox.com.br/2026/10/30/akira-toriyama-antiga-casa-e-estudio-do-autor-entra-em-processo-de-demolicao",
-      "sourceUrl": "https://www.jbox.com.br/2026/10/30/akira-toriyama-antiga-casa-e-estudio-do-autor-entra-em-processo-de-demolicao",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/07/akiratoriyama-destacada.jpg",
-      "mediaQuery": "Akira Toriyama: Antiga casa e estúdio do autor entra em processo de demolição",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/comentariotorishima.jpg",
-          "alt": "imagem: comentário de Torishima no X",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/akira-toriyama-casa-bird-studio-demolicao.jpg",
-          "alt": "imagem: foto da estrutura da casa de Akira Toriyama sendo preparada para demolição.",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Através de fotos divulgadas ontem, dia 29, foi descoberto que a casa de Akira Toriyama está em processo de demolição. O local é também onde fica o Bird Studio, responsável pela produção e administração das obras do autor.",
-          "runs": [
-            {
-              "text": "Através de "
-            },
-            {
-              "text": "fotos divulgadas ontem",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.threads.com/@mr.gentleman1966/post/DfFHyPhGRXC"
-            },
-            {
-              "text": ", dia 29, foi descoberto que "
-            },
-            {
-              "text": "a casa de Akira Toriyama está em processo de demolição",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". O local é também onde fica o "
-            },
-            {
-              "text": "Bird Studio",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", responsável pela produção e administração das obras do autor."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Após as fotos circularem pelas redes, também começou a correr um comunicado extraoficial sobre a demolição. O comunicado pede para que os fãs não se aproximem do local pelo menos até a conclusão da demolição, para evitar perturbação da vizinhança e também para não causar estresse para a família de Toriyama. No X/Twitter, o comunicado chegou a ser repostado por Kazuhiko Torishima, editor que trabalhou ao lado de Toriyama em Dr. Slump e Dragon Ball, que lamentou a demolição.",
-          "runs": [
-            {
-              "text": "Após as fotos circularem pelas redes, também começou a correr um "
-            },
-            {
-              "text": "comunicado extraoficial sobre a demolição",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://x.com/pekindaq/status/2116092783144710343"
-            },
-            {
-              "text": ". O comunicado pede para que os fãs não se aproximem do local pelo menos até a conclusão da demolição, para evitar perturbação da vizinhança e também para não causar estresse para a família de Toriyama. No X/Twitter, o comunicado chegou a ser "
-            },
-            {
-              "text": "repostado por Kazuhiko Torishima",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://x.com/botsu250522/status/2116121805828342226"
-            },
-            {
-              "text": ", editor que trabalhou ao lado de Toriyama em "
-            },
-            {
-              "text": "Dr. Slump",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Dragon Ball",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", que lamentou a demolição."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/comentariotorishima.jpg",
-          "alt": "imagem: comentário de Torishima no X"
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Reprodução/X",
-          "runs": [
-            {
-              "text": "Imagem: Reprodução/X"
-            }
-          ]
-        },
-        {
-          "type": "blockquote",
-          "text": "“O lugar que eu frequentava uma vez por mês. O lugar onde tantos personagens e obras nasceram, vai desaparecer. Ele [Toriyama] realmente se foi, né?”",
-          "runs": [
-            {
-              "text": "“O lugar que eu frequentava uma vez por mês. O lugar onde tantos personagens e obras nasceram, vai desaparecer. Ele [Toriyama] realmente se foi, né?”"
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/10/akira-toriyama-casa-bird-studio-demolicao.jpg",
-          "alt": "imagem: foto da estrutura da casa de Akira Toriyama sendo preparada para demolição."
-        },
-        {
-          "type": "paragraph",
-          "text": "Foto: Kazuo Tagawa (@mr.gentleman1966) no Threads.",
-          "runs": [
-            {
-              "text": "Foto: Kazuo Tagawa (@mr.gentleman1966) no Threads."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Detalhes sobre os motivos da demolição não foram divulgados. Especula-se que a ação tenha relação com os impostos aplicados na herança, que precisariam ser pagos por todos os herdeiros envolvidos. Apontamentos também indicam que transformar o local em ponto turístico poderia causar comoção desnecessária na região, principalmente porque os locais próximos são residenciais, o que também pode ser considerado motivo para a demolição.",
-          "runs": [
-            {
-              "text": "Detalhes sobre os motivos da demolição não foram divulgados. Especula-se que a ação tenha relação com os "
-            },
-            {
-              "text": "impostos aplicados na herança",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", que precisariam ser pagos por todos os herdeiros envolvidos. Apontamentos também indicam que transformar o local em ponto turístico poderia causar comoção desnecessária na região, principalmente porque os locais próximos são residenciais, o que também pode ser considerado motivo para a demolição."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Segundo o Company Database, site usado para registrar informações de empresas japonesas, o Bird Studio já foi transferido para um novo local, o distrito de Minami-Aoyama, em Tóquio. O local original que está sendo demolido é em Kiyosu, na província de Aichi. Esse novo espaço continua em nome da esposa de Toriyama, com uma equipe de quatro diretores responsáveis pela empresa, incluindo Sasuke Toriyama, filho de Akira, e Akio Iyoku, produtor da franquia Dragon Ball como um todo e presidente da Capsule Corporation Tokyo, uma das empresas que administra as obras do autor.",
-          "runs": [
-            {
-              "text": "Segundo o "
-            },
-            {
-              "text": "Company Database",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://companydata.tsujigawa.com/company/2180001090327/#"
-            },
-            {
-              "text": ", site usado para registrar informações de empresas japonesas, o "
-            },
-            {
-              "text": "Bird Studio já foi transferido para um novo local",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", o distrito de Minami-Aoyama, em Tóquio. O local original que está sendo demolido é em Kiyosu, na província de Aichi. Esse novo espaço continua em nome da esposa de Toriyama, com uma equipe de quatro diretores responsáveis pela empresa, incluindo "
-            },
-            {
-              "text": "Sasuke Toriyama",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", filho de Akira, e "
-            },
-            {
-              "text": "Akio Iyoku",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", produtor da franquia "
-            },
-            {
-              "text": "Dragon Ball",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " como um todo e presidente da "
-            },
-            {
-              "text": "Capsule Corporation Tokyo",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", uma das empresas que administra as obras do autor."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O Bird Studio foi fundado em 1982 por Akira Toriyama e, além de ter sido o estúdio de produção de obras do mangaká, também se tornou uma das empresas que administra o trabalho do autor em mangás e também em produções como jogos da franquia Dragon Quest.",
-          "runs": [
-            {
-              "text": "O Bird Studio foi fundado em 1982 por Akira Toriyama e, além de ter sido o estúdio de produção de obras do mangaká, também se tornou uma das empresas que administra o trabalho do autor em mangás e também em produções como jogos da franquia "
-            },
-            {
-              "text": "Dragon Quest",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Akira Toriyama começou sua carreira em 1978, com a publicação do one-shot Wonder Island (compilado anos depois em Manga Theater junto a outras histórias curtas). Sua primeira série surgiu nas páginas da Shonen Jump em 1980, com a comédia Dr. Slump, sucesso no Japão. Mundialmente, tornou-se conhecido com o fenômeno Dragon Ball (1984-1995), adaptado em animê com diversas sequências e derivados. Antes de seu falecimento precoce, em 2024, aos 68 anos, ainda participava de produções da franquia, contribuindo com o animê Dragon Ball DAIMA e jogos.",
-          "runs": [
-            {
-              "text": "Akira Toriyama começou sua carreira em 1978, com a publicação do one-shot "
-            },
-            {
-              "text": "Wonder Island",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " (compilado anos depois em"
-            },
-            {
-              "text": " Manga Theater",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " junto a outras histórias curtas). Sua primeira série surgiu nas páginas da "
-            },
-            {
-              "text": "Shonen Jump",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " em 1980, com a comédia "
-            },
-            {
-              "text": "Dr. Slump",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", sucesso no Japão. Mundialmente, tornou-se conhecido com o fenômeno"
-            },
-            {
-              "text": " Dragon Ball",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " (1984-1995), adaptado em animê com diversas sequências e derivados. Antes de seu "
-            },
-            {
-              "text": "falecimento precoce",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2024/03/08/akira-toriyama-autor-de-dragon-ball-morre-aos-68-anos/"
-            },
-            {
-              "text": ", em 2024, aos 68 anos, ainda participava de produções da franquia, contribuindo com o animê "
-            },
-            {
-              "text": "Dragon Ball DAIMA ",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2025/03/07/critica-dragon-ball-daima-episodios-1-ao-20/"
-            },
-            {
-              "text": "e jogos."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Após sua morte, Toriyama foi incluído nos halls da fama do Harvey Awards e também do Eisner Awards.",
-          "runs": [
-            {
-              "text": "Após sua morte, Toriyama foi incluído nos halls da fama do "
-            },
-            {
-              "text": "Harvey Awards",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2024/10/15/akira-toriyama-entra-para-o-hall-da-fama-do-harvey-awards/"
-            },
-            {
-              "text": " e também do "
-            },
-            {
-              "text": "Eisner Awards",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/07/29/akira-toriyama-entra-para-o-hall-da-fama-do-premio-eisner/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Naz Chris (X/Twitter), Kazuo Tagawa (Threads)",
-          "runs": [
-            {
-              "text": "Fonte",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ": "
-            },
-            {
-              "text": "Naz Chris (X/Twitter)",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://x.com/NazChris_dj/status/2116092866292552027"
-            },
-            {
-              "text": ", ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Kazuo Tagawa (Threads)",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.threads.com/@mr.gentleman1966/post/DfFHyPhGRXC"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-10-30T18:58:31.000Z",
-      "updatedAt": "2026-10-30T19:31:49.000Z",
-      "expiresAt": "2026-11-06T18:58:31.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/10/30/akira-toriyama-antiga-casa-e-estudio-do-autor-entra-em-processo-de-demolicao",
-          "publishedAt": "2026-10-30T18:58:31.000Z",
-          "author": "Teke"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 3,
-      "wordCount": 481,
-      "qualityScore": 0.942,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 15,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 2,
-        "embedCount": 0,
         "sourcePagesRead": 0
       }
     }
