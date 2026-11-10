@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T19:14:17.507Z",
+  "generatedAt": "2026-11-10T02:16:23.905Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -19,7 +19,7 @@
       "name": "JBox",
       "ok": true,
       "enabled": true,
-      "count": 39,
+      "count": 38,
       "mode": "wp-rest",
       "errors": []
     },
@@ -54,20 +54,847 @@
     }
   ],
   "stats": {
-    "collected": 49,
-    "grouped": 28,
-    "published": 28,
-    "newStories": 28,
-    "fullArticles": 28,
+    "collected": 48,
+    "grouped": 29,
+    "published": 29,
+    "newStories": 29,
+    "fullArticles": 29,
     "previewArticles": 0,
-    "avgWords": 342,
-    "withHeroImage": 28,
-    "withOrderedMedia": 24,
+    "avgWords": 344,
+    "withHeroImage": 29,
+    "withOrderedMedia": 25,
     "skippedTranslation": 0,
-    "skippedQuality": 20,
-    "durationMs": 6075
+    "skippedQuality": 17,
+    "durationMs": 7887
   },
   "items": [
+    {
+      "id": "jbox-b58313d1",
+      "slug": "spy-x-family-novo-filme-e-4-temporada-serao-lancados-em-2027-jbox-b58313d1",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Spy x Family: Novo filme e 4ª temporada serão lançados em 2027",
+      "originalTitle": "Spy x Family: Novo filme e 4ª temporada serão lançados em 2027",
+      "summary": "Os fãs de Anya Forger e cia. podem comemorar: a Toho confirmou que a 4ª temporada de Spy x Family estreia em 2027, mesmo ano em que um novo filme da franquia será lançado.",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Cinema",
+        "4ª temporada de Spy x Family",
+        "Novo filme de Spy x Family",
+        "spy x family",
+        "Spy x Family 2027",
+        "TOHO Animation"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/09/spy-x-family-novo-filme-e-4a-temporada-serao-lancados-em-2027",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/09/spy-x-family-novo-filme-e-4a-temporada-serao-lancados-em-2027",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Spy-x-Family-destacada.jpg",
+      "mediaQuery": "Spy x Family: Novo filme e 4ª temporada serão lançados em 2027",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Spy-x-Family-poster-temporada-4.webp",
+          "alt": "Pôster da 4ª temporada de Spy x Family",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Os fãs de Anya Forger e cia. podem comemorar: a Toho confirmou que a 4ª temporada de Spy x Family estreia em 2027, mesmo ano em que um novo filme da franquia será lançado.",
+          "runs": [
+            {
+              "text": "Os fãs de Anya Forger e cia. podem comemorar: a "
+            },
+            {
+              "text": "Toho",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " confirmou que a 4ª temporada de "
+            },
+            {
+              "text": "Spy x Family",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " estreia em 2027, mesmo ano em que um novo filme da franquia será lançado."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As novidades foram acompanhadas de uma arte que mostra Anya, Loid, Yor e Bond junto a páginas de jornais, e serve de divulgação para os novos episódios da série.",
+          "runs": [
+            {
+              "text": "As novidades foram acompanhadas de uma arte que mostra Anya, Loid, Yor e Bond junto a páginas de jornais, e serve de divulgação para os novos episódios da série."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Spy-x-Family-poster-temporada-4.webp",
+          "alt": "Pôster da 4ª temporada de Spy x Family"
+        },
+        {
+          "type": "paragraph",
+          "text": "Será que os recortes de jornal dão alguma pista para os novos episódios? | Toho/Divulgação",
+          "runs": [
+            {
+              "text": "Será que os recortes de jornal dão alguma pista para os novos episódios? | Toho/Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Por enquanto não há detalhes se o filme vai adaptar alguma parte do mangá de Tatsuya Endo, ou se será uma história inédita, como foi o caso do filme Spy × Family Code: White, de 2023. Já o animê seriado já adaptou até aproximadamente o capítulo 87 com a 3ª temporada, então é esperado que o quarto ano siga a trama a partir daí.",
+          "runs": [
+            {
+              "text": "Por enquanto não há detalhes se o filme vai adaptar alguma parte do mangá de "
+            },
+            {
+              "text": "Tatsuya Endo",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", ou se será uma história inédita, como foi o caso do filme "
+            },
+            {
+              "text": "Spy × Family Code: White",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", de 2023. Já o animê seriado já adaptou até aproximadamente o capítulo 87 com a 3ª temporada, então é esperado que o quarto ano siga a trama a partir daí."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Em Spy x Family, o espião Twilight é instruído a construir uma família como parte de seu trabalho. Acontece que, sem saber, ele foi casar justamente com uma assassina e adotou uma filha com a habilidade de ler mentes. Acompanhamos, então, o desenrolar de como fica a vida doméstica dessa família escondendo tantos segredos.",
+          "runs": [
+            {
+              "text": "Em "
+            },
+            {
+              "text": "Spy x Family",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", o espião Twilight é instruído a construir uma família como parte de seu trabalho. Acontece que, sem saber, ele foi casar justamente com uma assassina e adotou uma filha com a habilidade de ler mentes. Acompanhamos, então, o desenrolar de como fica a vida doméstica dessa família escondendo tantos segredos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "No Brasil, todas as temporadas estão disponíveis com dublagem e legendas na Crunchyroll, e também há episódios disponíveis em plataformas como HBO Max (temporadas 1 e 2), Netflix (3 temporadas, mas sem dublagem em todos os episódios), Globoplay (temporadas 1 e 2) e Disney+ (também temporadas 1 e 2).",
+          "runs": [
+            {
+              "text": "No Brasil, todas as temporadas estão disponíveis com dublagem e legendas na "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", e também há episódios disponíveis em plataformas como "
+            },
+            {
+              "text": "HBO Max",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (temporadas 1 e 2), "
+            },
+            {
+              "text": "Netflix",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (3 temporadas, mas sem dublagem em todos os episódios), "
+            },
+            {
+              "text": "Globoplay",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (temporadas 1 e 2) e "
+            },
+            {
+              "text": "Disney+",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (também temporadas 1 e 2)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Já a publicação do mangá no país é feita pela Panini e atualmente está no volume 17.",
+          "runs": [
+            {
+              "text": "Já a publicação do mangá no país é feita pela "
+            },
+            {
+              "text": "Panini",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e atualmente está no volume 17."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Anime News Network",
+          "runs": [
+            {
+              "text": "Fonte: ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Anime News Network",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-09T21:14:27.000Z",
+      "updatedAt": "2026-11-09T21:14:58.000Z",
+      "expiresAt": "2026-11-16T21:14:27.000Z",
+      "category": "Animes",
+      "eventType": "SEASON",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/09/spy-x-family-novo-filme-e-4a-temporada-serao-lancados-em-2027",
+          "publishedAt": "2026-11-09T21:14:27.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 283,
+      "qualityScore": 0.975,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 11,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "jbox-5a597926",
+      "slug": "publico-brasileiro-de-animes-prefere-os-generos-de-comedia-e-drama-aponta-levantamento-jbox-5a597926",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Público brasileiro de animês prefere os gêneros de comédia e drama, aponta levantamento",
+      "originalTitle": "Público brasileiro de animês prefere os gêneros de comédia e drama, aponta levantamento",
+      "summary": "Que os brasileiros amam animês não é novidade, mas qual será o gênero preferido do público? De acordo com um levantamento feito pelo ANIQuim, plataforma brasileira dedicada aos fãs de animações japonesas, comédia e drama lideram a lista.",
+      "author": "Equipe JBox",
+      "tags": [
+        "Anime",
+        "ANIQuim",
+        "lista de animes no ANIQuim",
+        "My Anime List",
+        "site brasileiro ANIQuim"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/09/publico-brasileiro-de-animes-prefere-os-generos-de-comedia-e-drama-aponta-levantamento",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/09/publico-brasileiro-de-animes-prefere-os-generos-de-comedia-e-drama-aponta-levantamento",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Aniquim-humor-destacada.jpg",
+      "mediaQuery": "Público brasileiro de animês prefere os gêneros de comédia e drama, aponta levantamento",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2021/11/fmabrotherhood-destacada.jpg",
+          "alt": "Edward Elric e Alphonse Elric, personagens de Fullmetal Alchemist",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2021/03/demonslayer_dublado_funimation.jpg",
+          "alt": "Imagem: Tanjiro empunhando sua espada em um background verde.",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Que os brasileiros amam animês não é novidade, mas qual será o gênero preferido do público? De acordo com um levantamento feito pelo ANIQuim, plataforma brasileira dedicada aos fãs de animações japonesas, comédia e drama lideram a lista.",
+          "runs": [
+            {
+              "text": "Que os brasileiros amam animês não é novidade, mas qual será o gênero preferido do público? De acordo com um levantamento feito pelo "
+            },
+            {
+              "text": "ANIQuim",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.aniquim.com.br/"
+            },
+            {
+              "text": ", plataforma brasileira dedicada aos fãs de animações japonesas, "
+            },
+            {
+              "text": "comédia",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "drama",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " lideram a lista."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Segundo os números de consumo da comunidade do site, os dois gêneros são seguidos de perto por ação, fantasia e aventura. O ranking considera os animês que os usuários marcaram como “Assistindo”, “Terminei”, “Pausei” ou “Desisti” em suas listas pessoais, ou seja, que foram assistidos em algum momento.",
+          "runs": [
+            {
+              "text": "Segundo os números de consumo da comunidade do site, os dois gêneros são seguidos de perto por "
+            },
+            {
+              "text": "ação",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "fantasia",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "aventura.",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " O ranking considera os animês que os usuários marcaram como “Assistindo”, “Terminei”, “Pausei” ou “Desisti” em suas listas pessoais, ou seja, que foram assistidos em algum momento."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            {
+              "text": "Comédia – 97.032 registros",
+              "runs": [
+                {
+                  "text": "Comédia",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 97.032 registros"
+                }
+              ]
+            },
+            {
+              "text": "Drama – 96.366 registros",
+              "runs": [
+                {
+                  "text": "Drama",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 96.366 registros"
+                }
+              ]
+            },
+            {
+              "text": "Ação – 92.262 registros",
+              "runs": [
+                {
+                  "text": "Ação",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 92.262 registros"
+                }
+              ]
+            },
+            {
+              "text": "Fantasia – 80.584 registros",
+              "runs": [
+                {
+                  "text": "Fantasia",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 80.584 registros"
+                }
+              ]
+            },
+            {
+              "text": "Aventura – 55.570 registros",
+              "runs": [
+                {
+                  "text": "Aventura",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 55.570 registros"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Outro dado curioso é sobre o tempo assistido. Aqui, levando em consideração a longevidade das obras, a ação fica em primeiro lugar, com mais de 43 mil dias assistidos pelos usuários:",
+          "runs": [
+            {
+              "text": "Outro dado curioso é sobre o tempo assistido. Aqui, levando em consideração a longevidade das obras, a ação fica em primeiro lugar, com mais de 43 mil dias assistidos pelos usuários:"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            {
+              "text": "Ação – 43.904 dias",
+              "runs": [
+                {
+                  "text": "Ação",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 43.904 dias"
+                }
+              ]
+            },
+            {
+              "text": "Fantasia – 40.350 dias",
+              "runs": [
+                {
+                  "text": "Fantasia",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 40.350 dias"
+                }
+              ]
+            },
+            {
+              "text": "Drama – 38.966 dias",
+              "runs": [
+                {
+                  "text": "Drama",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 38.966 dias"
+                }
+              ]
+            },
+            {
+              "text": "Aventura – 36.369 dias",
+              "runs": [
+                {
+                  "text": "Aventura",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 36.369 dias"
+                }
+              ]
+            },
+            {
+              "text": "Comédia – 35.994 dias",
+              "runs": [
+                {
+                  "text": "Comédia",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " – 35.994 dias"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2021/11/fmabrotherhood-destacada.jpg",
+          "alt": "Edward Elric e Alphonse Elric, personagens de Fullmetal Alchemist"
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagem: Reprodução",
+          "runs": [
+            {
+              "text": "Imagem: Reprodução"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Além dos gêneros mais acompanhados, o levantamento também revelou quais produções de cada categoria se destacam entre os usuários do ANIQuim. Nas avaliações, Fullmetal Alchemist: Brotherhood conquistou a maior nota nos cinco gêneros analisados (comédia, drama, ação, fantasia e aventura), alcançando 9,39 pontos na plataforma.",
+          "runs": [
+            {
+              "text": "Além dos gêneros mais acompanhados, o levantamento também revelou quais produções de cada categoria se destacam entre os usuários do "
+            },
+            {
+              "text": "ANIQuim",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.aniquim.com.br/"
+            },
+            {
+              "text": ". Nas avaliações, "
+            },
+            {
+              "text": "Fullmetal Alchemist: Brotherhood",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " conquistou a maior nota nos cinco gêneros analisados (comédia, drama, ação, fantasia e aventura), alcançando "
+            },
+            {
+              "text": "9,39 pontos",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " na plataforma."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2021/03/demonslayer_dublado_funimation.jpg",
+          "alt": "Imagem: Tanjiro empunhando sua espada em um background verde."
+        },
+        {
+          "type": "paragraph",
+          "text": "Já entre os animês mais populares, ou seja, mais assistidos, o destaque fica para Jujutsu Kaisen, cuja primeira temporada lidera nas categorias comédia, drama e fantasia. Demon Slayer: Kimetsu no Yaiba, também com sua primeira temporada, ocupa a primeira posição em ação e aventura.",
+          "runs": [
+            {
+              "text": "Já entre os animês mais populares, ou seja, mais assistidos, o destaque fica para "
+            },
+            {
+              "text": "Jujutsu Kaisen",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", cuja primeira temporada lidera nas categorias comédia, drama e fantasia. "
+            },
+            {
+              "text": "Demon Slayer: Kimetsu no Yaiba",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", também com sua primeira temporada, ocupa a primeira posição em ação e aventura."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A análise considera registros de mais de 3,5 mil usuários cadastrados no ANIQuim, incluindo inclusões manuais feitas desde agosto de 2026, quando o site foi inaugurado, e também a importação de listas de outras plataformas, como o My Anime List, ampliando o escopo dos dados de gêneros mais consumidos pelos usuários.",
+          "runs": [
+            {
+              "text": "A análise considera registros de mais de "
+            },
+            {
+              "text": "3,5 mil",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " usuários cadastrados no "
+            },
+            {
+              "text": "ANIQuim",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.aniquim.com.br/"
+            },
+            {
+              "text": ", incluindo inclusões manuais feitas desde agosto de 2026, quando o site foi inaugurado, e também a importação de listas de outras plataformas, como o "
+            },
+            {
+              "text": "My Anime List",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", ampliando o escopo dos dados de gêneros mais consumidos pelos usuários."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O ANIQuim é uma plataforma brasileira e gratuita que reúne catálogo de animes, listas personalizadas, avaliações, rankings e informações sobre onde assistir oficialmente às produções.",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "ANIQuim",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.aniquim.com.br/"
+            },
+            {
+              "text": " é uma plataforma brasileira e gratuita que reúne catálogo de animes, listas personalizadas, avaliações, rankings e informações sobre onde assistir oficialmente às produções."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Comunicado de imprensa",
+          "runs": [
+            {
+              "text": "Fonte:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Comunicado de imprensa",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-09T19:29:06.000Z",
+      "updatedAt": "2026-11-09T19:34:40.000Z",
+      "expiresAt": "2026-11-16T19:29:06.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/09/publico-brasileiro-de-animes-prefere-os-generos-de-comedia-e-drama-aponta-levantamento",
+          "publishedAt": "2026-11-09T19:29:06.000Z",
+          "author": "Equipe JBox"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 345,
+      "qualityScore": 0.987,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 15,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 2,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-800c3c85",
       "slug": "hirayasumi-netflix-confirma-a-exibicao-do-anime-em-2027-jbox-800c3c85",
@@ -1433,247 +2260,6 @@
         "contentMode": "full",
         "mediaCount": 1,
         "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-2b678d64",
-      "slug": "spy-x-family-tera-4-temporada-e-novo-filme-em-2027-animenew-2b678d64",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Spy x Family terá 4ª temporada e novo filme em 2027",
-      "originalTitle": "Spy x Family terá 4ª temporada e novo filme em 2027",
-      "summary": "O anime Spy x Family teve sua quarta temporada oficialmente anunciada neste domingo (8). Além da continuação, a franquia também ganhará um novo filme para os cinemas japoneses em 2027.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Cinema",
-        "Notícias",
-        "Spy × Family"
-      ],
-      "url": "https://animenew.com.br/spy-x-family-4-temporada-filme-2027",
-      "sourceUrl": "https://animenew.com.br/spy-x-family-4-temporada-filme-2027",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Spy-x-Family-tera-4a-temporada-e-novo-filme-em-2027.webp",
-      "mediaQuery": "Spy x Family terá 4ª temporada e novo filme em 2027",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Spy-x-Family-quarta-temporada.webp",
-          "alt": "Spy x Family quarta temporada",
-          "caption": "© 遠藤達哉／集英社・SPY×FAMILY製作委員会"
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "O anime Spy x Family teve sua quarta temporada oficialmente anunciada neste domingo (8). Além da continuação, a franquia também ganhará um novo filme para os cinemas japoneses em 2027.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Spy x Family",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " teve sua quarta temporada oficialmente anunciada neste domingo (8). Além da continuação, a franquia também ganhará um novo filme para os cinemas japoneses em 2027."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Bride of the Barrier Master revela vídeos dos protagonistas",
-              "runs": [
-                {
-                  "text": "Bride of the Barrier Master revela vídeos dos protagonistas",
-                  "href": "https://animenew.com.br/bride-of-the-barrier-master-videos-protagonistas"
-                }
-              ]
-            },
-            {
-              "text": "Minami-ke: Korekara revela elenco e estreia em abril",
-              "runs": [
-                {
-                  "text": "Minami-ke: Korekara revela elenco e estreia em abril",
-                  "href": "https://animenew.com.br/minami-ke-korekara-anime-elenco-estreia"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O anúncio veio acompanhado da primeira imagem promocional da quarta temporada, divulgada pela equipe responsável pela produção. Por enquanto, não foram revelados detalhes sobre a história ou a data de estreia dos novos projetos.",
-          "runs": [
-            {
-              "text": "O anúncio veio acompanhado da primeira imagem promocional da quarta temporada, divulgada pela equipe responsável pela produção. Por enquanto, não foram revelados detalhes sobre a história ou a data de estreia dos novos projetos."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Spy-x-Family-quarta-temporada.webp",
-          "alt": "Spy x Family quarta temporada",
-          "caption": "© 遠藤達哉／集英社・SPY×FAMILY製作委員会"
-        },
-        {
-          "type": "paragraph",
-          "text": "Sendo assim a franquia já conta com três temporadas, contudo a mais recente exibida em outubro de 2025, com 13 episódios.",
-          "runs": [
-            {
-              "text": "Sendo assim a franquia já conta com três temporadas, contudo a mais recente exibida em outubro de 2025, com 13 episódios."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Novo filme de Spy x Family",
-          "runs": [
-            {
-              "text": "Novo filme de Spy x Family"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "O próximo longa será o segundo filme da franquia. O anterior, SPY×FAMILY Code: White, estreou no Japão em dezembro de 2023 e conquistou a primeira posição nas bilheterias durante seu fim de semana de lançamento.",
-          "runs": [
-            {
-              "text": "O próximo longa será o segundo filme da franquia. O anterior, "
-            },
-            {
-              "text": "SPY×FAMILY Code: White",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", estreou no Japão em dezembro de 2023 e conquistou a primeira posição nas bilheterias durante seu fim de semana de lançamento."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Sinopse",
-          "runs": [
-            {
-              "text": "Sinopse"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A história original acompanha Twilight, um espião que precisa formar uma família falsa para cumprir uma missão. Assim sem saber, ele acaba se envolvendo com uma assassina e uma garota telepata.",
-          "runs": [
-            {
-              "text": "A história original acompanha Twilight, um espião que precisa formar uma família falsa para cumprir uma missão. Assim sem saber, ele acaba se envolvendo com uma assassina e uma garota telepata.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O mangá de Tatsuya Endo iniciou sua publicação na plataforma Shonen Jump+ em março de 2019. Ademais a obra chegou ao seu 18º volume em 4 de novembro de 2026.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "mangá",
-              "href": "https://animenew.com.br/mangas"
-            },
-            {
-              "text": " de Tatsuya Endo iniciou sua publicação na plataforma Shonen Jump+ em março de 2019. Ademais a obra chegou ao seu 18º volume em 4 de novembro de 2026."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: ANN",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "ANN",
-              "href": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Spy x Family terá 4ª temporada e novo filme em 2027.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Spy x Family terá 4ª temporada e novo filme em 2027",
-              "href": "https://animenew.com.br/spy-x-family-4-temporada-filme-2027/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-08T23:59:03.000Z",
-      "updatedAt": "2026-11-08T23:59:03.000Z",
-      "expiresAt": "2026-11-15T23:59:03.000Z",
-      "category": "Animes",
-      "eventType": "SEASON",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/spy-x-family-4-temporada-filme-2027",
-          "publishedAt": "2026-11-08T23:59:03.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 232,
-      "qualityScore": 0.971,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 12,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 0,
         "sourcePagesRead": 0
       }
     },
@@ -3637,7 +4223,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 356,
-      "qualityScore": 0.985,
+      "qualityScore": 0.925,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -4005,7 +4591,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 401,
-      "qualityScore": 0.81,
+      "qualityScore": 0.75,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -4287,7 +4873,7 @@
       "sourceCount": 1,
       "readingMinutes": 1,
       "wordCount": 200,
-      "qualityScore": 0.963,
+      "qualityScore": 0.903,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
