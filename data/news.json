@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T22:34:12.003Z",
+  "generatedAt": "2026-11-11T02:12:47.919Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,629 @@
   ],
   "stats": {
     "collected": 48,
-    "grouped": 29,
-    "published": 29,
-    "newStories": 29,
-    "fullArticles": 29,
+    "grouped": 27,
+    "published": 27,
+    "newStories": 27,
+    "fullArticles": 27,
     "previewArticles": 0,
-    "avgWords": 343,
-    "withHeroImage": 29,
-    "withOrderedMedia": 25,
+    "avgWords": 346,
+    "withHeroImage": 27,
+    "withOrderedMedia": 23,
     "skippedTranslation": 0,
-    "skippedQuality": 17,
-    "durationMs": 6914
+    "skippedQuality": 18,
+    "durationMs": 5463
   },
   "items": [
+    {
+      "id": "animenew-92c087b9",
+      "slug": "steel-ball-run-destaca-os-stands-em-novo-video-animenew-92c087b9",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Steel Ball Run destaca os Stands em novo vídeo",
+      "originalTitle": "Steel Ball Run destaca os Stands em novo vídeo",
+      "summary": "O anime STEEL BALL RUN: JoJo’s Bizarre Adventure ganhou um novo vídeo especial que apresenta os Stands dos personagens. A Warner Bros. Japan revelou a prévia nesta terça-feira (10).",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Animes",
+        "Notícias",
+        "Jojo’s Bizarre Part 7: Steel Ball Run",
+        "Steel Ball Run"
+      ],
+      "url": "https://animenew.com.br/steel-ball-run-video-especial-stands",
+      "sourceUrl": "https://animenew.com.br/steel-ball-run-video-especial-stands",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Steel-Ball-Run-destaca-os-Stands-em-novo-video.webp",
+      "mediaQuery": "Steel Ball Run destaca os Stands em novo vídeo",
+      "mediaType": "anime",
+      "mediaGallery": [],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/66oQRrA9_HE"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "O anime STEEL BALL RUN: JoJo’s Bizarre Adventure ganhou um novo vídeo especial que apresenta os Stands dos personagens. A Warner Bros. Japan revelou a prévia nesta terça-feira (10).",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "anime",
+              "href": "https://animenew.com.br/animes"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "STEEL BALL RUN: JoJo’s Bizarre Adventure",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ganhou um novo vídeo especial que apresenta os Stands dos personagens. A Warner Bros. Japan revelou a prévia nesta terça-feira (10)."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Spy x Family terá 4ª temporada e novo filme em 2027",
+              "runs": [
+                {
+                  "text": "Spy x Family terá 4ª temporada e novo filme em 2027",
+                  "href": "https://animenew.com.br/spy-x-family-4-temporada-filme-2027"
+                }
+              ]
+            },
+            {
+              "text": "Bride of the Barrier Master revela vídeos dos protagonistas",
+              "runs": [
+                {
+                  "text": "Bride of the Barrier Master revela vídeos dos protagonistas",
+                  "href": "https://animenew.com.br/bride-of-the-barrier-master-videos-protagonistas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Sendo assim o material está disponível com áudio em japonês e inglês, destacando as habilidades especiais que se manifestam por meio dos Stands, um dos elementos centrais da franquia criada por Hirohiko Araki.",
+          "runs": [
+            {
+              "text": "Sendo assim o material está disponível com áudio em japonês e inglês, destacando as habilidades especiais que se manifestam por meio dos "
+            },
+            {
+              "text": "Stands",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", um dos elementos centrais da franquia criada por Hirohiko Araki."
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=66oQRrA9_HE",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/66oQRrA9_HE"
+        },
+        {
+          "type": "heading",
+          "text": "Novos episódios na Netflix",
+          "runs": [
+            {
+              "text": "Novos episódios na Netflix"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "A segunda e a terceira etapas do anime estrearam em 25 de setembro. Atualmente, os episódios são disponibilizados semanalmente às sextas-feiras pela Netflix. Juntas, essas etapas terão 11 episódios.",
+          "runs": [
+            {
+              "text": "A segunda e a terceira etapas do anime estrearam em 25 de setembro. Atualmente, os episódios são disponibilizados semanalmente às sextas-feiras pela "
+            },
+            {
+              "text": "Netflix",
+              "href": "https://animenew.com.br/tag/netflix/"
+            },
+            {
+              "text": ". Juntas, essas etapas terão 11 episódios."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Contudo a primeira etapa chegou à plataforma em 19 de março, com um episódio especial de 47 minutos. A adaptação é produzida pelo estúdio david production, com direção de Yasuhiro Kimura e Hideya Takahashi.",
+          "runs": [
+            {
+              "text": "Contudo a primeira etapa chegou à plataforma em 19 de março, com um episódio especial de 47 minutos. A adaptação é produzida pelo estúdio "
+            },
+            {
+              "text": "david production",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com direção de Yasuhiro Kimura e Hideya Takahashi."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Elenco de JoJo’s Bizarre Parte 7",
+          "runs": [
+            {
+              "text": "Elenco de "
+            },
+            {
+              "text": "JoJo’s Bizarre",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " Parte 7"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "O elenco principal conta com Shogo Sakata como Johnny Joestar, Yohei Azakami como Gyro Zeppeli e Kaito Ishikawa como Diego Brando.",
+          "runs": [
+            {
+              "text": "O elenco principal conta com Shogo Sakata como Johnny Joestar, Yohei Azakami como Gyro Zeppeli e Kaito Ishikawa como Diego Brando."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "História de Steel Ball Run",
+          "runs": [
+            {
+              "text": "História de Steel Ball Run"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Por fim a história acompanha Johnny, um ex-jóquei que perdeu os movimentos das pernas e decide participar de uma corrida pelo Velho Oeste americano ao lado de Gyro Zeppeli.",
+          "runs": [
+            {
+              "text": "Por fim a história acompanha Johnny, um ex-jóquei que perdeu os movimentos das pernas e decide participar de uma corrida pelo Velho Oeste americano ao lado de Gyro Zeppeli."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Comic Natalie",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Comic Natalie",
+              "href": "https://natalie.mu/comic/news/697334"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Steel Ball Run destaca os Stands em novo vídeo.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Steel Ball Run destaca os Stands em novo vídeo",
+              "href": "https://animenew.com.br/steel-ball-run-video-especial-stands/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-11T02:04:05.000Z",
+      "updatedAt": "2026-11-11T02:04:05.000Z",
+      "expiresAt": "2026-11-18T02:04:05.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/steel-ball-run-video-especial-stands",
+          "publishedAt": "2026-11-11T02:04:05.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 234,
+      "qualityScore": 0.972,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 13,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 0,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "animenew-7bab19d8",
+      "slug": "my-hero-ultra-rumble-ganhara-versao-mobile-animenew-7bab19d8",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "My Hero Ultra Rumble ganhará versão mobile",
+      "originalTitle": "My Hero Ultra Rumble ganhará versão mobile",
+      "summary": "O jogo My Hero Ultra Rumble (My Hero Academia Ultra Rumble in Japan), baseado no universo de My Hero Academia, ganhará uma versão para dispositivos móveis. Contudo a empresa Bandai Namco confirmou a novidade e divulgou dois vídeos promocionais.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Games",
+        "Notícias",
+        "My Hero Ultra Rumble"
+      ],
+      "url": "https://animenew.com.br/my-hero-ultra-rumble-versao-mobile",
+      "sourceUrl": "https://animenew.com.br/my-hero-ultra-rumble-versao-mobile",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/My-Hero-Ultra-Rumble-ganhara-versao-mobile.webp",
+      "mediaQuery": "My Hero Ultra Rumble ganhará versão mobile",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/My-Hero-Ultra-Rumble-Mobile-.webp",
+          "alt": "My Hero Ultra Rumble Mobile",
+          "caption": "© Bandai Namco Entertainment Inc."
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/_8tCyet7nWo"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "O jogo My Hero Ultra Rumble (My Hero Academia Ultra Rumble in Japan), baseado no universo de My Hero Academia, ganhará uma versão para dispositivos móveis. Contudo a empresa Bandai Namco confirmou a novidade e divulgou dois vídeos promocionais.",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "jogo",
+              "href": "https://animenew.com.br/games"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "My Hero Ultra Rumble",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "My Hero Academia Ultra Rumble in Japan",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "), baseado no universo de "
+            },
+            {
+              "text": "My Hero Academia",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", ganhará uma versão para dispositivos móveis. Contudo a empresa "
+            },
+            {
+              "text": "Bandai Namco",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " confirmou a novidade e divulgou dois vídeos promocionais."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Expelled from Paradise revela vídeo com novidades do game",
+              "runs": [
+                {
+                  "text": "Expelled from Paradise revela vídeo com novidades do game",
+                  "href": "https://animenew.com.br/expelled-from-paradise-the-stellar-angel-video"
+                }
+              ]
+            },
+            {
+              "text": "Bleach Mirrors High ganha trailer de abertura e música tema",
+              "runs": [
+                {
+                  "text": "Bleach Mirrors High ganha trailer de abertura e música tema",
+                  "href": "https://animenew.com.br/bleach-mirrors-high-trailer-lancamento"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A empresa apresentou os teasers em inglês e japonês na segunda-feira, 9 de novembro. No entanto, apesar do anúncio, a Bandai Namco ainda não revelou a data de lançamento nem as plataformas da versão mobile.",
+          "runs": [
+            {
+              "text": "A empresa apresentou os teasers em inglês e japonês na segunda-feira, 9 de novembro. No entanto, apesar do anúncio, a "
+            },
+            {
+              "text": "Bandai Namco",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ainda não revelou a data de lançamento nem as plataformas da versão mobile."
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=_8tCyet7nWo",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/_8tCyet7nWo"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sendo assim lançado originalmente em setembro de 2023, o título está disponível para PlayStation 4, Xbox One, Nintendo Switch e PC via Steam.",
+          "runs": [
+            {
+              "text": "Sendo assim lançado originalmente em setembro de 2023, o título está disponível para "
+            },
+            {
+              "text": "PlayStation 4",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Xbox One",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Nintendo Switch",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e PC via Steam."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/My-Hero-Ultra-Rumble-Mobile-.webp",
+          "alt": "My Hero Ultra Rumble Mobile",
+          "caption": "© Bandai Namco Entertainment Inc."
+        },
+        {
+          "type": "heading",
+          "text": "Como funciona o jogo?",
+          "runs": [
+            {
+              "text": "Como funciona o jogo?"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "My Hero Ultra Rumble é um jogo de ação no estilo battle royale. Cada partida reúne oito equipes com três jogadores, que disputam a vitória utilizando as individualidades, conhecidas como Quirks, dos personagens da franquia.",
+          "runs": [
+            {
+              "text": "My Hero Ultra Rumble",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " é um jogo de ação no estilo "
+            },
+            {
+              "text": "battle royale",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Cada partida reúne oito equipes com três jogadores, que disputam a vitória utilizando as individualidades, conhecidas como Quirks, dos personagens da franquia."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Outros jogos de My Hero Academia",
+          "runs": [
+            {
+              "text": "Outros jogos de My Hero Academia"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "A novidade amplia a presença dos jogos de My Hero Academia em diferentes plataformas. O título mais recente da série, My Hero Academia: All’s Justice, chegou ao mercado em 6 de fevereiro de 2026 para PlayStation 5, Xbox Series X|S e PC.",
+          "runs": [
+            {
+              "text": "A novidade amplia a presença dos jogos de My Hero Academia em diferentes plataformas. O título mais recente da série, "
+            },
+            {
+              "text": "My Hero Academia: All’s Justice",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", chegou ao mercado em 6 de fevereiro de 2026 para "
+            },
+            {
+              "text": "PlayStation 5",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Xbox Series X|S",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "PC",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ademais até o momento, a Bandai Namco não informou quando a versão mobile de Ultra Rumble será lançada.",
+          "runs": [
+            {
+              "text": "Ademais até o momento, a Bandai Namco não informou quando a versão mobile de Ultra Rumble será lançada."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Gematsu",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Gematsu",
+              "href": "https://www.gematsu.com/2026/11/my-hero-ultra-rumble-mobile-teaser-trailer"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em My Hero Ultra Rumble ganhará versão mobile.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "My Hero Ultra Rumble ganhará versão mobile",
+              "href": "https://animenew.com.br/my-hero-ultra-rumble-versao-mobile/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-11T01:56:11.000Z",
+      "updatedAt": "2026-11-11T01:56:11.000Z",
+      "expiresAt": "2026-11-18T01:56:11.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/my-hero-ultra-rumble-versao-mobile",
+          "publishedAt": "2026-11-11T01:56:11.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 247,
+      "qualityScore": 0.974,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 13,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-2d512d23",
       "slug": "madoka-magica-konnichiwa-promete-novidades-sobre-o-novo-filme-no-brasil-jbox-2d512d23",
@@ -6155,905 +6765,6 @@
       }
     },
     {
-      "id": "animenew-73bc9a36",
-      "slug": "naruto-shadow-rising-e-destaque-na-weekly-shonen-jump-animenew-73bc9a36",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Naruto: Shadow Rising é destaque na Weekly Shonen Jump",
-      "originalTitle": "Naruto: Shadow Rising é destaque na Weekly Shonen Jump",
-      "summary": "Um novo mangá de Naruto, intitulado Naruto: Shadow Rising, com autoria de Masashi Kishimoto, ganhou destaque na revista Weekly Shonen Jump. Mais informações serão reveladas em dezembro de 2026.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Mangás",
-        "Notícias",
-        "Naruto"
-      ],
-      "url": "https://animenew.com.br/naruto-shadow-rising-novo-manga-kishimoto-2",
-      "sourceUrl": "https://animenew.com.br/naruto-shadow-rising-novo-manga-kishimoto-2",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Naruto-Shadow-Rising-e-destaque-na-Weekly-Shonen-Jump.webp",
-      "mediaQuery": "Naruto: Shadow Rising é destaque na Weekly Shonen Jump",
-      "mediaType": "manga",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/HWWeseOWEAA-WAN.webp",
-          "alt": "",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/B5QJZFYQ2Qs"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Um novo mangá de Naruto, intitulado Naruto: Shadow Rising, com autoria de Masashi Kishimoto, ganhou destaque na revista Weekly Shonen Jump. Mais informações serão reveladas em dezembro de 2026.",
-          "runs": [
-            {
-              "text": "Um novo "
-            },
-            {
-              "text": "mangá",
-              "href": "https://animenew.com.br/mangas"
-            },
-            {
-              "text": " de "
-            },
-            {
-              "text": "Naruto",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", intitulado "
-            },
-            {
-              "text": "Naruto: Shadow Rising",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com autoria de Masashi Kishimoto, ganhou destaque na revista "
-            },
-            {
-              "text": "Weekly Shonen Jump",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". Mais informações serão reveladas em dezembro de 2026."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Masashi Kishimoto anuncia novo mangá de Naruto",
-              "runs": [
-                {
-                  "text": "Masashi Kishimoto anuncia novo mangá de Naruto",
-                  "href": "https://animenew.com.br/naruto-shadow-rising-novo-manga-kishimoto"
-                }
-              ]
-            },
-            {
-              "text": "Toyotarō mostra seu time para o futuro de Dragon Ball",
-              "runs": [
-                {
-                  "text": "Toyotarō mostra seu time para o futuro de Dragon Ball",
-                  "href": "https://animenew.com.br/toyotaro-define-seu-time-para-o-futuro-de-dragon-ball"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Segundo o vazamento, o material promocional apresenta Naruto e Sasuke em uma nova fase de suas vidas, com os antigos integrantes do Time 7 já adultos. Uma das chamadas destaca Naruto erguendo seu chapéu de Hokage, enquanto outra sugere um possível confronto intenso entre ele e Sasuke.",
-          "runs": [
-            {
-              "text": "Segundo o vazamento, o material promocional apresenta "
-            },
-            {
-              "text": "Naruto",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Sasuke",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " em uma nova fase de suas vidas, com os antigos integrantes do "
-            },
-            {
-              "text": "Time 7 já adultos",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Uma das chamadas destaca Naruto erguendo seu chapéu de Hokage, enquanto outra sugere um possível confronto intenso entre ele e Sasuke."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/HWWeseOWEAA-WAN.webp"
-        },
-        {
-          "type": "paragraph",
-          "text": "Além disso, as imagens mostram os dois personagens em diferentes momentos, levantando questionamentos sobre o rumo da história e o contexto desse novo projeto.",
-          "runs": [
-            {
-              "text": "Além disso, as imagens mostram os dois personagens em diferentes momentos, levantando questionamentos sobre o rumo da história e o contexto desse novo projeto."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Novidades na Jump Festa 2027",
-          "runs": [
-            {
-              "text": "Novidades na Jump Festa 2027"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=B5QJZFYQ2Qs",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/B5QJZFYQ2Qs"
-        },
-        {
-          "type": "paragraph",
-          "text": "A publicação também indica que o vídeo promocional apresenta os antigos membros do Time 7, agora crescidos, um após o outro. A próxima atualização está marcada para 19 de dezembro de 2026, durante a Jump Festa 2027, evento organizado pela editora Shueisha.",
-          "runs": [
-            {
-              "text": "A publicação também indica que o vídeo promocional apresenta os antigos membros do Time 7, agora crescidos, um após o outro. A próxima atualização está marcada para "
-            },
-            {
-              "text": "19 de dezembro de 2026",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", durante a "
-            },
-            {
-              "text": "Jump Festa 2027",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", evento organizado pela editora "
-            },
-            {
-              "text": "Shueisha",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Por enquanto, não foram apresentados detalhes sobre a quantidade de capítulos, formato de publicação ou previsão de lançamento de Naruto: Shadow Rising.",
-          "runs": [
-            {
-              "text": "Por enquanto, não foram apresentados detalhes sobre a quantidade de capítulos, formato de publicação ou previsão de lançamento de Naruto: Shadow Rising."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: X (MiraiTBV)",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "X",
-              "href": "https://x.com/MiraiTBV/status/2118171480454267267"
-            },
-            {
-              "text": " (MiraiTBV)"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Naruto: Shadow Rising é destaque na Weekly Shonen Jump.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Naruto: Shadow Rising é destaque na Weekly Shonen Jump",
-              "href": "https://animenew.com.br/naruto-shadow-rising-novo-manga-kishimoto-2/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-06T01:36:17.000Z",
-      "updatedAt": "2026-11-06T01:36:17.000Z",
-      "expiresAt": "2026-11-13T01:36:17.000Z",
-      "category": "Mangás & novels",
-      "eventType": "MANGA",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/naruto-shadow-rising-novo-manga-kishimoto-2",
-          "publishedAt": "2026-11-06T01:36:17.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 1,
-      "wordCount": 210,
-      "qualityScore": 0.907,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 11,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-30206635",
-      "slug": "the-dangers-in-my-heart-anuncia-3-temporada-para-abril-de-2027-animenew-30206635",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "The Dangers in My Heart anuncia 3ª temporada para abril de 2027",
-      "originalTitle": "The Dangers in My Heart anuncia 3ª temporada para abril de 2027",
-      "summary": "A franquia The Dangers in My Heart (Boku no Kokoro no Yabai Yatsu) divulgou um novo teaser, além de uma imagem promocional, confirmando a estreia da terceira temporada do anime para abril de 2027.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Notícias",
-        "Boku no Kokoro no Yabai Yatsu",
-        "The Dangers in My Heart"
-      ],
-      "url": "https://animenew.com.br/the-dangers-in-my-heart-3-temporada-2027-2",
-      "sourceUrl": "https://animenew.com.br/the-dangers-in-my-heart-3-temporada-2027-2",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/The-Dangers-in-My-Heart-anuncia-3a-temporada-para-abril-de-2027.webp",
-      "mediaQuery": "The Dangers in My Heart anuncia 3ª temporada para abril de 2027",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/The-Dangers-in-My-Heart-temporada-3.webp",
-          "alt": "The Dangers in My Heart temporada 3",
-          "caption": "© 桜井のりお（秋田書店）／僕ヤバ製作委員会"
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/_D0hm_akpFw"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A franquia The Dangers in My Heart (Boku no Kokoro no Yabai Yatsu) divulgou um novo teaser, além de uma imagem promocional, confirmando a estreia da terceira temporada do anime para abril de 2027.",
-          "runs": [
-            {
-              "text": "A franquia "
-            },
-            {
-              "text": "The Dangers in My Heart",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Boku no Kokoro no Yabai Yatsu",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") divulgou um novo teaser, além de uma imagem promocional, confirmando a estreia da terceira temporada do "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " para abril de 2027."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Fool Night revela músicas e novos dubladores em trailer",
-              "runs": [
-                {
-                  "text": "Fool Night revela músicas e novos dubladores em trailer",
-                  "href": "https://animenew.com.br/fool-night-anime-trailer-elenco-musicas"
-                }
-              ]
-            },
-            {
-              "text": "Spirit Circle: Mangá tem adaptação para anime anunciada",
-              "runs": [
-                {
-                  "text": "Spirit Circle: Mangá tem adaptação para anime anunciada",
-                  "href": "https://animenew.com.br/anime-spirit-circle-adaptacao-anunciada"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=_D0hm_akpFw",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/_D0hm_akpFw"
-        },
-        {
-          "type": "paragraph",
-          "text": "O anúncio aconteceu para o público nesta quinta-feira, 5 de novembro, no site oficial da adaptação baseada no mangá de Norio Sakurai. A prévia apresenta as primeiras cenas da nova fase, que dará continuidade à história de Kyotaro Ichikawa e Anna Yamada.",
-          "runs": [
-            {
-              "text": "O anúncio aconteceu para o público nesta quinta-feira, 5 de novembro, no site oficial da adaptação baseada no "
-            },
-            {
-              "text": "mangá",
-              "href": "https://animenew.com.br/mangas"
-            },
-            {
-              "text": " de "
-            },
-            {
-              "text": "Norio Sakurai",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". A prévia apresenta as primeiras cenas da nova fase, que dará continuidade à história de Kyotaro Ichikawa e Anna Yamada."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/The-Dangers-in-My-Heart-temporada-3.webp",
-          "alt": "The Dangers in My Heart temporada 3",
-          "caption": "© 桜井のりお（秋田書店）／僕ヤバ製作委員会"
-        },
-        {
-          "type": "paragraph",
-          "text": "As duas primeiras temporadas estrearam em abril de 2023 e janeiro de 2024, respectivamente. A série também ganhou um filme compilatório, lançado nos cinemas japoneses em 13 de fevereiro de 2026.",
-          "runs": [
-            {
-              "text": "As duas primeiras temporadas estrearam em abril de 2023 e janeiro de 2024, respectivamente. A série também ganhou um filme compilatório, lançado nos cinemas japoneses em 13 de fevereiro de 2026."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Mangá chega ao fim",
-          "runs": [
-            {
-              "text": "Mangá chega ao fim"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "Enquanto o anime se prepara para retornar, o mangá original também concluiu sua publicação em 15 de setembro. A Akita Shoten lançou o 14º e último volume na sexta-feira, 6 de novembro.",
-          "runs": [
-            {
-              "text": "Enquanto o anime se prepara para retornar, o mangá original também concluiu sua publicação em 15 de setembro. A Akita Shoten lançou o 14º e último volume na sexta-feira, 6 de novembro."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "História de The Dangers in My Heart",
-          "runs": [
-            {
-              "text": "História de "
-            },
-            {
-              "text": "The Dangers in My Heart",
-              "marks": [
-                "strong"
-              ]
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A obra acompanha Kyotaro, um estudante que alimenta pensamentos sombrios e fantasias psicológicas, mas acaba desenvolvendo uma relação inesperada com Anna, uma das garotas mais populares da escola.",
-          "runs": [
-            {
-              "text": "A obra acompanha Kyotaro, um estudante que alimenta pensamentos sombrios e fantasias psicológicas, mas acaba desenvolvendo uma relação inesperada com Anna, uma das garotas mais populares da escola.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Contudo a terceira temporada de The Dangers in My Heart estreia em abril de 2027. Ademais, outros detalhes sobre a produção ainda não foram divulgados.",
-          "runs": [
-            {
-              "text": "Contudo a terceira temporada de "
-            },
-            {
-              "text": "The Dangers in My Heart",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " estreia em abril de 2027. Ademais, outros detalhes sobre a produção ainda não foram divulgados."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Site Oficial",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "Site Oficial",
-              "href": "https://bokuyaba-anime.com/news/detail/?id=1137059"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em The Dangers in My Heart anuncia 3ª temporada para abril de 2027.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "The Dangers in My Heart anuncia 3ª temporada para abril de 2027",
-              "href": "https://animenew.com.br/the-dangers-in-my-heart-3-temporada-2027-2/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-06T01:25:33.000Z",
-      "updatedAt": "2026-11-06T01:25:33.000Z",
-      "expiresAt": "2026-11-13T01:25:33.000Z",
-      "category": "Trailers",
-      "eventType": "TRAILER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/the-dangers-in-my-heart-3-temporada-2027-2",
-          "publishedAt": "2026-11-06T01:25:33.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 249,
-      "qualityScore": 0.914,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 13,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-6dc598d6",
-      "slug": "fool-night-revela-musicas-e-novos-dubladores-em-trailer-animenew-6dc598d6",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Fool Night revela músicas e novos dubladores em trailer",
-      "originalTitle": "Fool Night revela músicas e novos dubladores em trailer",
-      "summary": "O anime Fool Night divulgou um novo trailer, imagem promocional e detalhes de seu elenco adicional nesta quinta-feira (5). A prévia também apresenta as músicas-tema da série, que estreia em 26 de novembro na Netflix.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Notícias",
-        "Fool Night",
-        "Netflix"
-      ],
-      "url": "https://animenew.com.br/fool-night-anime-trailer-elenco-musicas",
-      "sourceUrl": "https://animenew.com.br/fool-night-anime-trailer-elenco-musicas",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Fool-Night-revela-musicas-e-novos-dubladores-em-trailer.webp",
-      "mediaQuery": "Fool Night revela músicas e novos dubladores em trailer",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Fool-Night-anime.webp",
-          "alt": "Fool Night",
-          "caption": "© 安田佳澄／小学館／「フールナイト」製作委員会"
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/p15JWZsi3Ao"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "O anime Fool Night divulgou um novo trailer, imagem promocional e detalhes de seu elenco adicional nesta quinta-feira (5). A prévia também apresenta as músicas-tema da série, que estreia em 26 de novembro na Netflix.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Fool Night",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " divulgou um novo trailer, imagem promocional e detalhes de seu elenco adicional nesta quinta-feira (5). A prévia também apresenta as músicas-tema da série, que estreia em 26 de novembro na "
-            },
-            {
-              "text": "Netflix",
-              "href": "https://animenew.com.br/tag/netflix/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Dragon Ball Super: Beerus ganha dublagem em português no Brasil",
-              "runs": [
-                {
-                  "text": "Dragon Ball Super: Beerus ganha dublagem em português no Brasil",
-                  "href": "https://animenew.com.br/dragon-ball-super-beerus-dublado-portugues"
-                }
-              ]
-            },
-            {
-              "text": "Code Geass: Star Chaser Aspal revela elenco e equipe",
-              "runs": [
-                {
-                  "text": "Code Geass: Star Chaser Aspal revela elenco e equipe",
-                  "href": "https://animenew.com.br/code-geass-star-chaser-aspal-elenco"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A banda Tempalay será responsável pela abertura, intitulada “Shake! spit out”. Já a cantora Nowlu interpretará a música de encerramento, chamada “Iki” (Breath).",
-          "runs": [
-            {
-              "text": "A banda "
-            },
-            {
-              "text": "Tempalay",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " será responsável pela abertura, intitulada “Shake! spit out”. Já a cantora "
-            },
-            {
-              "text": "Nowlu",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " interpretará a música de encerramento, chamada “Iki” (Breath)."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=p15JWZsi3Ao",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/p15JWZsi3Ao"
-        },
-        {
-          "type": "paragraph",
-          "text": "Entre as novas vozes anunciadas estão Shion Wakayama como Sumi Matsuno, Hiroshi Tsuchida como Ken Hikasa, Nobuhiko Okamoto como Nishi, Sayaka Senbongi como Meg Okumura e Yumiko Kobayashi como Ivy.",
-          "runs": [
-            {
-              "text": "Entre as novas vozes anunciadas estão "
-            },
-            {
-              "text": "Shion Wakayama",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " como Sumi Matsuno, "
-            },
-            {
-              "text": "Hiroshi Tsuchida",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " como Ken Hikasa, "
-            },
-            {
-              "text": "Nobuhiko Okamoto",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " como Nishi, "
-            },
-            {
-              "text": "Sayaka Senbongi ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "como Meg Okumura e "
-            },
-            {
-              "text": "Yumiko Kobayashi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " como Ivy."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Fool-Night-anime.webp",
-          "alt": "Fool Night",
-          "caption": "© 安田佳澄／小学館／「フールナイト」製作委員会"
-        },
-        {
-          "type": "heading",
-          "text": "Produção do anime",
-          "runs": [
-            {
-              "text": "Produção do anime"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A direção está nas mãos de Atsuyuki Yukawa, com produção dos estúdios Sunrise e SHAFT. Jin Tanaka cuida dos roteiros, Robert Satō assina o design dos personagens e Tatsuya Katō compõe a trilha sonora.",
-          "runs": [
-            {
-              "text": "A direção está nas mãos de Atsuyuki Yukawa, com produção dos "
-            },
-            {
-              "text": "estúdios Sunrise",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "SHAFT",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Jin Tanaka cuida dos roteiros, Robert Satō assina o design dos personagens e Tatsuya Katō compõe a trilha sonora."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "História de Fool Night",
-          "runs": [
-            {
-              "text": "História de Fool Night"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "Baseado no mangá de Kasumi Yasuda, a história acompanha Toshiro Kamiya, um homem que enfrenta dificuldades financeiras enquanto tenta cuidar da mãe doente. Sem alternativas, ele considera passar pelo processo de transfloração, que transforma seres humanos em plantas em troca de dinheiro.",
-          "runs": [
-            {
-              "text": "Baseado no ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "mangá",
-              "marks": [
-                "em"
-              ],
-              "href": "https://animenew.com.br/mangas"
-            },
-            {
-              "text": " de Kasumi Yasuda, a história acompanha Toshiro Kamiya, um homem que enfrenta dificuldades financeiras enquanto tenta cuidar da mãe doente. Sem alternativas, ele considera passar pelo processo de transfloração, que transforma seres humanos em plantas em troca de dinheiro.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A Netflix disponibilizará todos os episódios em 26 de novembro.",
-          "runs": [
-            {
-              "text": "A Netflix disponibilizará todos os episódios em 26 de novembro."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Site Oficial",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "Site Oficial",
-              "href": "https://www.foolnight.com/"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Fool Night revela músicas e novos dubladores em trailer.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Fool Night revela músicas e novos dubladores em trailer",
-              "href": "https://animenew.com.br/fool-night-anime-trailer-elenco-musicas/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-06T01:15:47.000Z",
-      "updatedAt": "2026-11-06T01:15:47.000Z",
-      "expiresAt": "2026-11-13T01:15:47.000Z",
-      "category": "Trailers",
-      "eventType": "TRAILER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/fool-night-anime-trailer-elenco-musicas",
-          "publishedAt": "2026-11-06T01:15:47.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 226,
-      "qualityScore": 0.911,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 13,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
       "id": "jbox-00962a4b",
       "slug": "dragon-s-dogma-2-dark-arisen-ganha-colaboracao-com-dungeon-meshi-jbox-00962a4b",
       "source": "JBox",
@@ -10286,397 +9997,6 @@
         "ingestMode": "wp-rest",
         "contentMode": "full",
         "mediaCount": 0,
-        "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-017684db",
-      "slug": "gundam-0080-war-in-the-pocket-sera-exibido-no-rj-esta-semana-jbox-017684db",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "‘Gundam 0080: War in the Pocket’ será exibido no RJ esta semana",
-      "originalTitle": "‘Gundam 0080: War in the Pocket’ será exibido no RJ esta semana",
-      "summary": "Você é um fã carioca de Gundam que sempre sonhou passar a madrugada assistindo a robôs gigantes no cinema? Se sim, esta notícia é especialmente para você. O cinema Estação Claro Rio exibe na próxima sexta (6) Mobile Suit Gundam 0080: War in the Pocket. O “filme” será exibido como parte da sessão Filmes da Meia-Noite e começará às 23h59, seguindo madrugada adentro do sábado (7).",
-      "author": "Jean Clemente",
-      "tags": [
-        "Anime",
-        "Cinema",
-        "estação claro rio",
-        "Gundam",
-        "mecha",
-        "Mobile Suit Gundam",
-        "Rio de Janeiro",
-        "robo gigante",
-        "war in the pocket"
-      ],
-      "url": "https://www.jbox.com.br/2026/11/03/gundam-0080-war-in-the-pocket-sera-exibido-no-rj-esta-semana",
-      "sourceUrl": "https://www.jbox.com.br/2026/11/03/gundam-0080-war-in-the-pocket-sera-exibido-no-rj-esta-semana",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/gundam-WarinthePocket-destacada.jpg",
-      "mediaQuery": "‘Gundam 0080: War in the Pocket’ será exibido no RJ esta semana",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/sessaomeianoite-gundam.jpg",
-          "alt": "imagem: cartaz de divulgação de Gundam no Filmes da Meia-Noite",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Você é um fã carioca de Gundam que sempre sonhou passar a madrugada assistindo a robôs gigantes no cinema? Se sim, esta notícia é especialmente para você. O cinema Estação Claro Rio exibe na próxima sexta (6) Mobile Suit Gundam 0080: War in the Pocket. O “filme” será exibido como parte da sessão Filmes da Meia-Noite e começará às 23h59, seguindo madrugada adentro do sábado (7).",
-          "runs": [
-            {
-              "text": "Você é um fã carioca de "
-            },
-            {
-              "text": "Gundam",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " que sempre sonhou passar a madrugada assistindo a robôs gigantes no cinema? Se sim, esta notícia é especialmente para você. O cinema "
-            },
-            {
-              "text": "Estação Claro Rio",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " exibe na próxima sexta (6) "
-            },
-            {
-              "text": "Mobile Suit Gundam 0080: War in the Pocket",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ". O “filme” será exibido como parte da sessão "
-            },
-            {
-              "text": "Filmes da Meia-Noite",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e começará às "
-            },
-            {
-              "text": "23h59",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", seguindo madrugada adentro do sábado (7)."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Não foi informado se a exibição de três horas de duração contará com intermissão e nem se a projeção será na íntegra com aberturas e encerramentos, ou se haverá alguma edição em formato de longa-metragem.",
-          "runs": [
-            {
-              "text": "Não foi informado se a exibição de três horas de duração contará com intermissão e nem se a projeção será na íntegra com aberturas e encerramentos, ou se haverá alguma edição em formato de longa-metragem."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "War in the Pocket é uma minissérie lançada originalmente no Japão para o mercado de home vídeo (o famoso OVA) entre março e agosto de 1989, totalizando 6 episódios. A direção foi de Fumihiko Takayama, que trabalhou em alguns episódios do Macross original (Guerra das Galáxias, no Brasil) e Bubblegum Crisis, além de dirigir o esquecido animê Mágico de Oz (lançado por aqui em VHS, incluindo uma versão inusitada com a apresentadora Angélica).",
-          "runs": [
-            {
-              "text": "War in the Pocket",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " é uma minissérie lançada originalmente no Japão para o mercado de home vídeo (o famoso OVA) entre março e agosto de 1989, totalizando 6 episódios. A direção foi de "
-            },
-            {
-              "text": "Fumihiko Takayama",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", que trabalhou em alguns episódios do "
-            },
-            {
-              "text": "Macross",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " original ("
-            },
-            {
-              "text": "Guerra das Galáxias",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", no Brasil)"
-            },
-            {
-              "text": " e Bubblegum Crisis",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", além de dirigir o esquecido animê "
-            },
-            {
-              "text": "Mágico de Oz",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " (lançado por aqui em VHS, incluindo uma "
-            },
-            {
-              "text": "versão inusitada com a apresentadora Angélica",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2023/11/30/50-anos-de-angelica-a-loura-e-o-japao/"
-            },
-            {
-              "text": ")."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/sessaomeianoite-gundam.jpg",
-          "alt": "imagem: cartaz de divulgação de Gundam no Filmes da Meia-Noite"
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Reprodução/Instagram",
-          "runs": [
-            {
-              "text": "Imagem: Reprodução/Instagram"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Sinopse oficial pelo Estação Claro:",
-          "runs": [
-            {
-              "text": "Sinopse oficial pelo Estação Claro:",
-              "marks": [
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "blockquote",
-          "text": "Durante a Guerra de Um Ano, o jovem Al Izuruha vive em uma colônia espacial neutra e sonha em conhecer os mobile suits e participar de batalhas. Ao conhecer Bernie Wiseman, um soldado de Zeon envolvido em uma missão secreta, Al se aproxima dos conflitos entre Zeon e a Federação Terrestre e descobre as consequências humanas da guerra.",
-          "runs": [
-            {
-              "text": "Durante a Guerra de Um Ano, o jovem Al Izuruha vive em uma colônia espacial neutra e sonha em conhecer os mobile suits e participar de batalhas. Ao conhecer Bernie Wiseman, um soldado de Zeon envolvido em uma missão secreta, Al se aproxima dos conflitos entre Zeon e a Federação Terrestre e descobre as consequências humanas da guerra."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Dentro do universo Gundam e suas diversas linhas do tempo, War in the Pocket é uma história paralela que se situa no Universal Century, que é a cronologia principal, se passando logo após os eventos da série original.",
-          "runs": [
-            {
-              "text": "Dentro do universo "
-            },
-            {
-              "text": "Gundam",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e suas diversas linhas do tempo, "
-            },
-            {
-              "text": "War in the Pocket",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " é uma história paralela que se situa no Universal Century, que é a cronologia principal, se passando logo após os eventos da série original."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A animação ainda foi adaptada em dois mangás, ambos inéditos no Brasil. O primeiro, com autoria de Yutaro Mochizuki, foi publicado ainda em 1989 na revista Comic BomBom, da editora Kodansha. Os capítulos foram compilados em um único tomo.",
-          "runs": [
-            {
-              "text": "A animação ainda foi adaptada em dois mangás, ambos inéditos no Brasil. O primeiro, com autoria de "
-            },
-            {
-              "text": "Yutaro Mochizuki",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", foi publicado ainda em 1989 na revista "
-            },
-            {
-              "text": "Comic BomBom",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", da editora Kodansha. Os capítulos foram compilados em um único tomo."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O segundo, com autoria de Hiroyuki Takamoshi, começou a ser publicado em 2021 na revista Gundam Ace, da editora Kadokawa. Com 4 volumes até o momento, a obra passou por alguns hiatos entre 2022 e fevereiro deste ano, enquanto o autor seguia um tratamento de saúde.",
-          "runs": [
-            {
-              "text": "O segundo, com autoria de "
-            },
-            {
-              "text": "Hiroyuki Takamoshi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", começou a ser publicado em 2021 na revista "
-            },
-            {
-              "text": "Gundam Ace",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", da editora Kadokawa. Com 4 volumes até o momento, a obra passou por alguns hiatos entre 2022 e fevereiro deste ano, enquanto o autor seguia um tratamento de saúde."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Estação Claro",
-          "runs": [
-            {
-              "text": "Fonte: ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Estação Claro",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.instagram.com/p/DfLOXN7vHZG/?rpxt=MWR2c3I3MnF1MThvYw%3D%3D"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-03T23:29:25.000Z",
-      "updatedAt": "2026-11-03T23:30:48.000Z",
-      "expiresAt": "2026-11-10T23:29:25.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/11/03/gundam-0080-war-in-the-pocket-sera-exibido-no-rj-esta-semana",
-          "publishedAt": "2026-11-03T23:29:25.000Z",
-          "author": "Jean Clemente"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 382,
-      "qualityScore": 0.929,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 13,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
         "embedCount": 0,
         "sourcePagesRead": 0
       }
