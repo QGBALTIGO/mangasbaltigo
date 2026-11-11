@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-11T17:25:43.146Z",
+  "generatedAt": "2026-11-11T23:40:17.277Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
-  "total": 4,
+  "total": 5,
   "items": [
+    {
+      "id": "4cBRNisl5qA",
+      "videoId": "4cBRNisl5qA",
+      "title": "‘Mashle: Magia e Músculos’",
+      "articleTitle": "‘Mashle: Magia e Músculos’ divulga teaser, pôster e atores da 3ª temporada",
+      "kind": "TEASER",
+      "publishedAt": "2026-11-11T21:18:32.000Z",
+      "source": "JBox",
+      "articlePath": "/noticias/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3-temporada-jbox-5d668e86",
+      "thumbnail": "https://i.ytimg.com/vi/4cBRNisl5qA/maxresdefault.jpg",
+      "fallbackImage": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-magia-e-musculos-terceira-temporada-destacada.jpg"
+    },
     {
       "id": "66oQRrA9_HE",
       "videoId": "66oQRrA9_HE",

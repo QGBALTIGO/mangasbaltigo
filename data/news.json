@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:25:43.146Z",
+  "generatedAt": "2026-11-11T23:40:17.277Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -19,7 +19,7 @@
       "name": "JBox",
       "ok": true,
       "enabled": true,
-      "count": 38,
+      "count": 37,
       "mode": "wp-rest",
       "errors": []
     },
@@ -54,20 +54,910 @@
     }
   ],
   "stats": {
-    "collected": 48,
-    "grouped": 25,
-    "published": 25,
-    "newStories": 25,
-    "fullArticles": 25,
+    "collected": 47,
+    "grouped": 24,
+    "published": 24,
+    "newStories": 24,
+    "fullArticles": 24,
     "previewArticles": 0,
-    "avgWords": 344,
-    "withHeroImage": 25,
-    "withOrderedMedia": 23,
+    "avgWords": 340,
+    "withHeroImage": 24,
+    "withOrderedMedia": 21,
     "skippedTranslation": 0,
     "skippedQuality": 20,
-    "durationMs": 7619
+    "durationMs": 6636
   },
   "items": [
+    {
+      "id": "jbox-a1b23317",
+      "slug": "mcdonald-s-confirma-nova-colecao-de-pokemon-no-brasil-com-miniaturas-e-cards-jbox-a1b23317",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "McDonald’s confirma nova coleção de ‘Pokémon’ no Brasil com miniaturas e cards",
+      "originalTitle": "McDonald’s confirma nova coleção de ‘Pokémon’ no Brasil com miniaturas e cards",
+      "summary": "O McDonald’s segue com colaborações que agradam aos fãs de marcas japonesas, e a próxima novidade para este público é uma nova coleção de Pokémon, composta por miniaturas de caixinhas do McLanche Feliz e cards dos personagens.",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Produtos",
+        "TCG",
+        "Brinquedos de Pokémon no McDonald's",
+        "mcdonalds",
+        "Pokemon",
+        "Pokémon e McDonald's",
+        "Pokémon no McDonald's 2027"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/11/mcdonalds-confirma-nova-colecao-de-pokemon-no-brasil-com-miniaturas-e-cards",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/11/mcdonalds-confirma-nova-colecao-de-pokemon-no-brasil-com-miniaturas-e-cards",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Pokemon-McDonalds-2027-destacada.jpg",
+      "mediaQuery": "McDonald’s confirma nova coleção de ‘Pokémon’ no Brasil com miniaturas e cards",
+      "mediaType": "anime",
+      "mediaGallery": [],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "O McDonald’s segue com colaborações que agradam aos fãs de marcas japonesas, e a próxima novidade para este público é uma nova coleção de Pokémon, composta por miniaturas de caixinhas do McLanche Feliz e cards dos personagens.",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "McDonald’s",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " segue com colaborações que agradam aos fãs de marcas japonesas, e a próxima novidade para este público é uma nova coleção de "
+            },
+            {
+              "text": "Pokémon",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", composta por miniaturas de caixinhas do "
+            },
+            {
+              "text": "McLanche Feliz",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e cards dos personagens."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A novidade faz parte das celebrações de 30 anos da franquia, e chegará gradativamente aos territórios. Em novembro, países como Austrália, França e Estados Unidos já começarão a vender os brinquedos, enquanto o lançamento no Brasil está confirmado para janeiro de 2027, junto a outros locais na América Latina.",
+          "runs": [
+            {
+              "text": "A novidade faz parte das celebrações de 30 anos da franquia, e chegará gradativamente aos territórios. Em novembro, países como Austrália, França e Estados Unidos já começarão a vender os brinquedos, enquanto o lançamento no Brasil está confirmado para"
+            },
+            {
+              "text": " janeiro de 2027",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", junto a outros locais na América Latina."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O kit é composto por um chaveiro em miniatura, que imita uma caixa do McLanche Feliz temática dos monstrinhos de bolsos, e dois cards, entre 15 modelos disponíveis. Os valores oficiais do combo e da compra avulsa no Brasil ainda não foram divulgados, mas essa informação deve ser revelada mais perto do lançamento.",
+          "runs": [
+            {
+              "text": "O kit é composto por um chaveiro em miniatura, que imita uma caixa do McLanche Feliz temática dos monstrinhos de bolsos, e dois cards, entre 15 modelos disponíveis. Os valores oficiais do combo e da compra avulsa no Brasil ainda não foram divulgados, mas essa informação deve ser revelada mais perto do lançamento."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Vale lembrar que, em setembro de 2023, Pokémon foi tema de uma coleção no McDonald’s focada em cards de TGC da geração Scarlet & Violet. Já mais recentemente, a rede de fast food trouxe ao país uma colaboração inusitada entre One Piece e Bob Esponja.",
+          "runs": [
+            {
+              "text": "Vale lembrar que, em setembro de 2023, "
+            },
+            {
+              "text": "Pokémon",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2023/09/26/mcdonalds-lanca-nova-promocao-com-cards-pokemon/"
+            },
+            {
+              "text": " foi tema de uma coleção no McDonald’s",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2023/09/26/mcdonalds-lanca-nova-promocao-com-cards-pokemon/"
+            },
+            {
+              "text": " focada em cards de TGC da geração "
+            },
+            {
+              "text": "Scarlet & Violet",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ". Já mais recentemente, a rede de fast food "
+            },
+            {
+              "text": "trouxe ao país uma colaboração inusitada entre ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/14/colaboracao-entre-one-piece-e-bob-esponja-deve-chegar-ao-brasil-no-mcdonalds/"
+            },
+            {
+              "text": "One Piece",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/14/colaboracao-entre-one-piece-e-bob-esponja-deve-chegar-ao-brasil-no-mcdonalds/"
+            },
+            {
+              "text": " e ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/14/colaboracao-entre-one-piece-e-bob-esponja-deve-chegar-ao-brasil-no-mcdonalds/"
+            },
+            {
+              "text": "Bob Esponja",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/14/colaboracao-entre-one-piece-e-bob-esponja-deve-chegar-ao-brasil-no-mcdonalds/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Para quem já quer entrar no clima dos novos brinquedos, é possível assistir animês novos e clássicos de Pokémon no Brasil em vários streamings como Netflix, Globoplay, Prime Video, Samsung TV Plus e Pluto TV, e em brev no +SBT. Além disso, o próprio canal do YouTube da franquia possui episódios de temporadas como Ventos de Paldea e Evoluções. Há ainda o canal Pokémon TV, que quase diariamente adiciona episódios da série em ordem cronológica.",
+          "runs": [
+            {
+              "text": "Para quem já quer entrar no clima dos novos brinquedos, é possível assistir animês novos e clássicos de "
+            },
+            {
+              "text": "Pokémon",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " no Brasil em vários streamings como "
+            },
+            {
+              "text": "Netflix",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Globoplay",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Prime Video",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Samsung TV Plus",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Pluto TV",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", e em brev no"
+            },
+            {
+              "text": " +SBT",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Além disso, o próprio"
+            },
+            {
+              "text": " ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "canal do YouTube da franquia",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.youtube.com/playlist?list=PLx_bKsaA4ZQR_FDl-EA_u2RmN4cYl_IvE"
+            },
+            {
+              "text": " possui episódios de temporadas como"
+            },
+            {
+              "text": " Ventos de Paldea",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Evoluções",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ". Há ainda o canal "
+            },
+            {
+              "text": "Pokémon TV",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://www.youtube.com/@OfficialPoke%CC%81monTV"
+            },
+            {
+              "text": ", que quase diariamente adiciona episódios da série em ordem cronológica."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Site oficial de Pokémon",
+          "runs": [
+            {
+              "text": "Fonte: ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Site oficial de Pokémon",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.pokemon.com/us/news/pokemon-happy-meals-are-coming-to-mcdonalds-in-an-exciting-new-way-"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-11T23:25:20.000Z",
+      "updatedAt": "2026-11-11T23:27:41.000Z",
+      "expiresAt": "2026-11-18T23:25:20.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/11/mcdonalds-confirma-nova-colecao-de-pokemon-no-brasil-com-miniaturas-e-cards",
+          "publishedAt": "2026-11-11T23:25:20.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 281,
+      "qualityScore": 0.971,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 8,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 0,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "jbox-5d668e86",
+      "slug": "mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3-temporada-jbox-5d668e86",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "‘Mashle: Magia e Músculos’ divulga teaser, pôster e atores da 3ª temporada",
+      "originalTitle": "‘Mashle: Magia e Músculos’ divulga teaser, pôster e atores da 3ª temporada",
+      "summary": "A terceira temporada de Mashle: Magia e Músculos ganhou um novo teaser, um novo pôster promocional e anunciou a entrada dos atores Soma Saito (Tatsumi em Akame ga Kill!) e Ryota Suzuki (Heisuke Mashimo em Sakamoto Days) no elenco de vozes, interpretando os antagonistas Domina Blowelive e Levi Rosequartz. A estreia dos novos episódios está marcada para 9 de janeiro de 2027, com exibição confirmada por aqui pela Crunchyroll.",
+      "author": "Igor Lunei",
+      "tags": [
+        "Anime",
+        "3ª temporada de mashle",
+        "mashle",
+        "Mashle: Magia e Músculos"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/11/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3a-temporada",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/11/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3a-temporada",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-magia-e-musculos-terceira-temporada-destacada.jpg",
+      "mediaQuery": "‘Mashle: Magia e Músculos’ divulga teaser, pôster e atores da 3ª temporada",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-season-3-poster.jpg",
+          "alt": "Imagem: pôster da terceira temporada do animê 'Mashle: Magia e Músculos', incluindo vários personagens da série em poses diferentes.",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/4cBRNisl5qA"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A terceira temporada de Mashle: Magia e Músculos ganhou um novo teaser, um novo pôster promocional e anunciou a entrada dos atores Soma Saito (Tatsumi em Akame ga Kill!) e Ryota Suzuki (Heisuke Mashimo em Sakamoto Days) no elenco de vozes, interpretando os antagonistas Domina Blowelive e Levi Rosequartz. A estreia dos novos episódios está marcada para 9 de janeiro de 2027, com exibição confirmada por aqui pela Crunchyroll.",
+          "runs": [
+            {
+              "text": "A terceira temporada de "
+            },
+            {
+              "text": "Mashle: Magia e Músculos",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " ganhou um novo teaser, um novo pôster promocional e anunciou a entrada dos atores "
+            },
+            {
+              "text": "Soma Saito",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (Tatsumi em "
+            },
+            {
+              "text": "Akame ga Kill!",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") e "
+            },
+            {
+              "text": "Ryota Suzuki",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (Heisuke Mashimo em "
+            },
+            {
+              "text": "Sakamoto Days",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2025/05/19/critica-sakamoto-days-1a-temporada-parte-1/"
+            },
+            {
+              "text": ") no elenco de vozes, interpretando os antagonistas "
+            },
+            {
+              "text": "Domina Blowelive",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Levi Rosequartz",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". A estreia dos novos episódios está marcada para "
+            },
+            {
+              "text": "9 de janeiro de 2027",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com exibição confirmada por aqui pela "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O vídeo mostra Mash e seus companheiros após a aprovação na seleção de candidatos a Visionários Divinos. Agora, eles precisam enfrentar a etapa final do processo, chamada Tri-Magicathalon Divine Visionary Final Exam. A prévia também apresenta Domina e Levi, que aparecem como novos adversários do grupo e protagonizam cenas de combate contra os personagens principais. Já o pôster reúne os estudantes da Escola de Magia Easton, incluindo Mash, e seus novos rivais da Escola de Magia Valquês.",
+          "runs": [
+            {
+              "text": "O vídeo mostra Mash e seus companheiros após a aprovação na seleção de candidatos a Visionários Divinos. Agora, eles precisam enfrentar a etapa final do processo, chamada "
+            },
+            {
+              "text": "Tri-Magicathalon Divine Visionary Final Exam",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ". A prévia também apresenta Domina e Levi, que aparecem como novos adversários do grupo e protagonizam cenas de combate contra os personagens principais. Já o pôster reúne os estudantes da Escola de Magia Easton, incluindo Mash, e seus novos rivais da Escola de Magia Valquês."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Confira o PV e o pôster:",
+          "runs": [
+            {
+              "text": "Confira o PV e o pôster:"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=4cBRNisl5qA",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/4cBRNisl5qA"
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-season-3-poster.jpg",
+          "alt": "Imagem: pôster da terceira temporada do animê 'Mashle: Magia e Músculos', incluindo vários personagens da série em poses diferentes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagem: A-1 Pictures/Divulgação",
+          "runs": [
+            {
+              "text": "Imagem: A-1 Pictures/Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Em comentários divulgados junto ao anúncio, o ator Soma Saito afirma estar feliz por participar de Mashle como dublador de Domina, personagem que considera atraente. Ele diz que que cada episódio apresenta interações bastante estimulantes entre os personagens. Saito também promete dar o seu melhor para acompanhar a trajetória de Domina na série.",
+          "runs": [
+            {
+              "text": "Em comentários divulgados junto ao anúncio, o ator Soma Saito afirma estar feliz por participar de "
+            },
+            {
+              "text": "Mashle",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " como dublador de Domina, personagem que considera atraente. Ele diz que que cada episódio apresenta interações bastante estimulantes entre os personagens. Saito também promete dar o seu melhor para acompanhar a trajetória de Domina na série."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Já Ryota Suzuki, ator de voz do Levi, comenta que ficou surpreso com o ambiente acolhedor da equipe de gravação, a ponto de quase esquecer que seu personagem só aparece a partir da terceira temporada. Ele descreve Levi como alguém extremamente arrogante, mas que tem força para sustentar suas provocações. Suzuki também afirma que pretende se divertir interpretando o personagem e trabalhar para torná-lo um vilão querido pelo público.",
+          "runs": [
+            {
+              "text": "Já Ryota Suzuki, ator de voz do Levi, comenta que ficou surpreso com o ambiente acolhedor da equipe de gravação, a ponto de quase esquecer que seu personagem só aparece a partir da terceira temporada. Ele descreve Levi como alguém extremamente arrogante, mas que tem força para sustentar suas provocações. Suzuki também afirma que pretende se divertir interpretando o personagem e trabalhar para torná-lo um vilão querido pelo público."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Escrito por Hajime Komoto, o mangá Mashle: Magia e Músculos foi lançado na revista Weekly Shonen Jump, da editora Shueisha, no Japão, entre janeiro de 2020 e julho de 2023, com 18 volumes compilados. Por aqui, a obra saiu pela editora Panini.",
+          "runs": [
+            {
+              "text": "Escrito por "
+            },
+            {
+              "text": "Hajime Komoto",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", o mangá "
+            },
+            {
+              "text": "Mashle: Magia e Músculos",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " foi lançado na revista "
+            },
+            {
+              "text": "Weekly Shonen Jump",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", da editora Shueisha, no Japão, entre janeiro de 2020 e julho de 2023, com 18 volumes compilados. Por aqui, a obra saiu pela editora Panini."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Na trama, em um mundo onde a magia determina o lugar de cada pessoa na sociedade, Mash é um jovem fortão que vive isolado com seu pai adotivo e não possui nenhum poder mágico. Apaixonado por choux cream, um doce popular no Japão, ele acaba descoberto pelas autoridades e precisa entrar em uma renomada escola de magia para se tornar um Visionário, posição que lhe permitiria mudar as regras desse mundo e proteger aqueles que, como ele, nasceram sem magia. Para alcançar seu objetivo, Mash contará com sua força física absurda para enfrentar os desafios de um universo em que todos esperam que ele use magia.",
+          "runs": [
+            {
+              "text": "Na trama, em um mundo onde a magia determina o lugar de cada pessoa na sociedade, Mash é um jovem fortão que vive isolado com seu pai adotivo e não possui nenhum poder mágico. Apaixonado por "
+            },
+            {
+              "text": "choux cream",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", um doce popular no Japão, ele acaba descoberto pelas autoridades e precisa entrar em uma renomada escola de magia para se tornar um Visionário, posição que lhe permitiria mudar as regras desse mundo e proteger aqueles que, como ele, nasceram sem magia. Para alcançar seu objetivo, Mash contará com sua força física absurda para enfrentar os desafios de um universo em que todos esperam que ele use magia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A primeira temporada do animê estreou em abril de 2023 e teve 12 episódios. A segunda em janeiro de 2024, igualmente com 12 episódios. Ambas foram exibidas simultaneamente por aqui à época, de maneira legendada e com dublagem em português na Crunchyroll. Posteriormente, as duas temporadas entraram no catálogo da Netflix. A produção da terceira temporada segue no estúdio A-1 Pictures, com direção de Tomoya Tanaka, roteiro de Yosuke Kuroda, trilha sonora de Masaru Yokoyama e Chiaki Furuzumi estreando no design de personagens.",
+          "runs": [
+            {
+              "text": "A primeira temporada do animê estreou em abril de 2023 e teve 12 episódios. A segunda em janeiro de 2024, igualmente com 12 episódios. Ambas foram exibidas simultaneamente por aqui à época, de maneira legendada e com dublagem em português na Crunchyroll. Posteriormente, as duas temporadas entraram no catálogo da Netflix. A produção da terceira temporada segue no estúdio "
+            },
+            {
+              "text": "A-1 Pictures",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com direção de "
+            },
+            {
+              "text": "Tomoya Tanaka",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", roteiro de "
+            },
+            {
+              "text": "Yosuke Kuroda",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", trilha sonora de "
+            },
+            {
+              "text": "Masaru Yokoyama",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Chiaki Furuzumi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " estreando no design de personagens."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Recentemente, também foi anunciado um live-action de Mashle protagonizado pelo ator Mackenyu (Zoro em One Piece: A Série e o Seiya em Cavaleiros do Zodíaco – Saint Seiya: O Começo) com lançamento marcado para março de 2027 no Japão.",
+          "runs": [
+            {
+              "text": "Recentemente, também"
+            },
+            {
+              "text": " foi anunciado um",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
+            },
+            {
+              "text": " live-action",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
+            },
+            {
+              "text": " de ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
+            },
+            {
+              "text": "Mashle",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
+            },
+            {
+              "text": " ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
+            },
+            {
+              "text": "protagonizado pelo ator "
+            },
+            {
+              "text": "Mackenyu",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (Zoro em "
+            },
+            {
+              "text": "One Piece: A Série ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "e o Seiya em "
+            },
+            {
+              "text": "Cavaleiros do Zodíaco – Saint Seiya: O Começo",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2023/04/27/critica-cavaleiros-do-zodiaco-o-inicio-nao-leva-a-intensidade-da-serie-as-telonas/"
+            },
+            {
+              "text": ") com lançamento marcado para março de 2027 no Japão."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "▶️ Crítica | Mashle – Volume 1",
+          "runs": [
+            {
+              "text": "▶️ Crítica | Mashle – Volume 1",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2022/06/11/mashle-volume-um-panini/"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Comic Natalie.",
+          "runs": [
+            {
+              "text": "Fonte: ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "Comic Natalie",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://natalie.mu/comic/news/697639"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-11T21:18:32.000Z",
+      "updatedAt": "2026-11-11T21:20:10.000Z",
+      "expiresAt": "2026-11-18T21:18:32.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/11/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3a-temporada",
+          "publishedAt": "2026-11-11T21:18:32.000Z",
+          "author": "Igor Lunei"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 3,
+      "wordCount": 574,
+      "qualityScore": 1,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 16,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "animenew-78cbd938",
       "slug": "black-clover-confirma-asta-como-uma-entidade-divina-animenew-78cbd938",
@@ -8008,1179 +8898,6 @@
         "ingestMode": "wp-rest",
         "contentMode": "full",
         "mediaCount": 0,
-        "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-89b4c29a",
-      "slug": "seraph-of-the-end-chega-ao-fim-em-dezembro-jbox-89b4c29a",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "‘Seraph of the End’ chega ao fim em dezembro",
-      "originalTitle": "‘Seraph of the End’ chega ao fim em dezembro",
-      "summary": "Foi anunciado na edição mais recente da revista Jump SQ que o mangá Seraph of the End (Owari no Seraph) vai ser encerrado no próximo dia 4 de dezembro. A série entrou na reta final em 2022.",
-      "author": "Teke",
-      "tags": [
-        "Mangá",
-        "final de Seraph of the End",
-        "owari no seraph",
-        "Seraph of the End"
-      ],
-      "url": "https://www.jbox.com.br/2026/11/04/seraph-of-the-end-chega-ao-fim-em-dezembro",
-      "sourceUrl": "https://www.jbox.com.br/2026/11/04/seraph-of-the-end-chega-ao-fim-em-dezembro",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/seraph-of-the-end-manga-destacada.jpg",
-      "mediaQuery": "‘Seraph of the End’ chega ao fim em dezembro",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/seraph-of-the-end-volume-1.jpg",
-          "alt": "imagem: Hyakuya na capa do volume 1 de 'Seraph of the End'.",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Foi anunciado na edição mais recente da revista Jump SQ que o mangá Seraph of the End (Owari no Seraph) vai ser encerrado no próximo dia 4 de dezembro. A série entrou na reta final em 2022.",
-          "runs": [
-            {
-              "text": "Foi anunciado na edição mais recente da revista "
-            },
-            {
-              "text": "Jump SQ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " que o mangá "
-            },
-            {
-              "text": "Seraph of the End",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Owari no Seraph",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") vai ser encerrado no próximo dia "
-            },
-            {
-              "text": "4 de dezembro",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". "
-            },
-            {
-              "text": "A série entrou na reta final em 2022",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2022/02/05/owari-no-seraph-manga-caminha-para-o-climax/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/seraph-of-the-end-volume-1.jpg",
-          "alt": "imagem: Hyakuya na capa do volume 1 de 'Seraph of the End'."
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Divulgação/Panini",
-          "runs": [
-            {
-              "text": "Imagem: Divulgação/Panini"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Seraph of the End: Vampire Reign está em publicação desde desde 2012 na Jump SQ. Três autores são responsáveis pela obra: o roteiro é de Takaya Kagami, os desenhos são de Yamato Yamamoto e os storyboards são de Daisuke Furuya. O título conta até então com 36 volumes encadernados pela Shueisha, com 37 previstos ao todo. No Brasil, a Panini publica o mangá desde 2017.",
-          "runs": [
-            {
-              "text": "Seraph of the End: Vampire Reign",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " está em publicação desde desde 2012 na "
-            },
-            {
-              "text": "Jump SQ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". Três autores são responsáveis pela obra: o roteiro é de "
-            },
-            {
-              "text": "Takaya Kagami",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", os desenhos são de "
-            },
-            {
-              "text": "Yamato Yamamoto",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e os "
-            },
-            {
-              "text": "storyboards",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " são de "
-            },
-            {
-              "text": "Daisuke Furuya",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". O título conta até então com 36 volumes encadernados pela Shueisha, com 37 previstos ao todo. No Brasil, a "
-            },
-            {
-              "text": "Panini",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " publica o mangá desde 2017."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A trama se passa em um mundo assolado por um vírus “fabricado por humanos”, que curiosamente infecta pessoas apenas acima dos 13 anos. No meio dessa pandemia, surgem vampiros escravizando o que restou da humanidade. Um jovem chamado Yuuichirou Hyakuya se junta a um grupo de exterminadores de vampiros, sonhando em matar todos eles.",
-          "runs": [
-            {
-              "text": "A trama se passa em um mundo assolado por um vírus “fabricado por humanos”, que curiosamente infecta pessoas apenas acima dos 13 anos. No meio dessa pandemia, surgem vampiros escravizando o que restou da humanidade. Um jovem chamado Yuuichirou Hyakuya se junta a um grupo de exterminadores de vampiros, sonhando em matar todos eles."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A obra inspirou uma animação pelo estúdio WIT, dirigida por Daisuke Tokudo, que foi exibida entre 2015 e 2016, somando duas temporadas, OVA e episódios especiais. O animê chegou a ter passagem no Brasil pela Funimation, incluindo versão dublada, mas atualmente não está disponível em streaming.",
-          "runs": [
-            {
-              "text": "A obra inspirou uma animação pelo estúdio "
-            },
-            {
-              "text": "WIT",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", dirigida por "
-            },
-            {
-              "text": "Daisuke Tokudo",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", que foi exibida entre 2015 e 2016, somando duas temporadas, OVA e episódios especiais. O animê chegou a ter passagem no Brasil pela "
-            },
-            {
-              "text": "Funimation",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", incluindo versão dublada, mas atualmente não está disponível em streaming."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Anime News Network",
-          "runs": [
-            {
-              "text": "Fonte:",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Anime News Network",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://www.animenewsnetwork.com/news/2026-11-03/seraph-of-the-end-manga-ends-on-december-4/.243493"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-04T23:19:28.000Z",
-      "updatedAt": "2026-11-04T23:20:27.000Z",
-      "expiresAt": "2026-11-11T23:19:28.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/11/04/seraph-of-the-end-chega-ao-fim-em-dezembro",
-          "publishedAt": "2026-11-04T23:19:28.000Z",
-          "author": "Teke"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 225,
-      "qualityScore": 0.906,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 9,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-8e16acda",
-      "slug": "primeira-edicao-do-nippon-anime-awards-e-anunciada-jbox-8e16acda",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Primeira edição do Nippon Anime Awards é anunciada",
-      "originalTitle": "Primeira edição do Nippon Anime Awards é anunciada",
-      "summary": "A Associação de Animações Japonesas (AJA, na sigla em inglês) anunciou que a primeira edição do Nippon Anime Awards, nova premiação internacional dedicada à indústria de animês, será realizada em 21 de novembro de 2027, no SGC Hall Ariake, em Tóquio, no Japão. Os detalhes foram divulgados na última segunda-feira (2), durante o evento de encerramento do Tokyo Anime Next, programação de quatro dias realizada paralelamente ao Festival Internacional de Cinema de Tóquio e ao mercado TIFFCOM.",
-      "author": "Igor Lunei",
-      "tags": [
-        "Anime",
-        "Premiação",
-        "Associação de Animações Japonesas",
-        "Nippon Anime Awards",
-        "nova premiacao de animes"
-      ],
-      "url": "https://www.jbox.com.br/2026/11/04/primeira-edicao-do-nippon-anime-awards-e-anunciada",
-      "sourceUrl": "https://www.jbox.com.br/2026/11/04/primeira-edicao-do-nippon-anime-awards-e-anunciada",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/ao-ashi.jpg",
-      "mediaQuery": "Primeira edição do Nippon Anime Awards é anunciada",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Nippon-Anime-Awards-1.jpg",
-          "alt": "Banner oficial do Nippon Anime Awards, contendo data e local.",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A Associação de Animações Japonesas (AJA, na sigla em inglês) anunciou que a primeira edição do Nippon Anime Awards, nova premiação internacional dedicada à indústria de animês, será realizada em 21 de novembro de 2027, no SGC Hall Ariake, em Tóquio, no Japão. Os detalhes foram divulgados na última segunda-feira (2), durante o evento de encerramento do Tokyo Anime Next, programação de quatro dias realizada paralelamente ao Festival Internacional de Cinema de Tóquio e ao mercado TIFFCOM.",
-          "runs": [
-            {
-              "text": "A "
-            },
-            {
-              "text": "Associação de Animações Japonesas",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "AJA",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", na sigla em inglês) anunciou que a primeira edição do "
-            },
-            {
-              "text": "Nippon Anime Awards",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", nova premiação internacional dedicada à indústria de animês, será realizada em "
-            },
-            {
-              "text": "21 de novembro de 2027",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", no SGC Hall Ariake, em Tóquio, no Japão. Os detalhes foram divulgados na última segunda-feira (2), durante o evento de encerramento do "
-            },
-            {
-              "text": "Tokyo Anime Next",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", programação de quatro dias realizada paralelamente ao "
-            },
-            {
-              "text": "Festival Internacional de Cinema de Tóquio",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e ao mercado "
-            },
-            {
-              "text": "TIFFCOM",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A premiação foi criada para reconhecer produções de animê de destaque e os artistas envolvidos em sua realização, com o objetivo de alcançar tanto o público japonês quanto espectadores de outros países. Além da cerimônia, a AJA planeja colaborar com o Governo Metropolitano de Tóquio em iniciativas voltadas à criação de novas oportunidades de negócios e ao desenvolvimento de talentos emergentes.",
-          "runs": [
-            {
-              "text": "A premiação foi criada para reconhecer produções de animê de destaque e os artistas envolvidos em sua realização, com o objetivo de alcançar tanto o público japonês quanto espectadores de outros países. Além da cerimônia, a AJA planeja colaborar com o Governo Metropolitano de Tóquio em iniciativas voltadas à criação de novas oportunidades de negócios e ao desenvolvimento de talentos emergentes."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Em comunicado, a associação explicou que o nome Nippon Anime Awards representa seu compromisso em homenagear a história e a cultura da animação japonesa, levando sua popularidade duradoura para o futuro. A organização pretende reconhecer obras de destaque e celebrar as conquistas dos profissionais do setor, compartilhando o apelo dos animês com públicos do Japão e do restante do mundo. A meta é consolidar a premiação como uma das principais iniciativas japonesas do gênero, capaz de conquistar reconhecimento e carinho ao longo dos anos.",
-          "runs": [
-            {
-              "text": "Em comunicado, a associação explicou que o nome "
-            },
-            {
-              "text": "Nippon Anime Awards",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " representa seu compromisso em homenagear a história e a cultura da animação japonesa, levando sua popularidade duradoura para o futuro. A organização pretende reconhecer obras de destaque e celebrar as conquistas dos profissionais do setor, compartilhando o apelo dos animês com públicos do Japão e do restante do mundo. A meta é consolidar a premiação como uma das principais iniciativas japonesas do gênero, capaz de conquistar reconhecimento e carinho ao longo dos anos."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Kazuko Ishikawa, presidente da AJA, declarou durante o anúncio:",
-          "runs": [
-            {
-              "text": "Kazuko Ishikawa",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", presidente da AJA, declarou durante o anúncio:"
-            }
-          ]
-        },
-        {
-          "type": "blockquote",
-          "text": "Esperamos compartilhar o apelo e o potencial dos animês com um público ainda mais amplo ao redor do mundo e construir esse futuro junto com todos vocês.",
-          "runs": [
-            {
-              "text": "Esperamos compartilhar o apelo e o potencial dos animês com um público ainda mais amplo ao redor do mundo e construir esse futuro junto com todos vocês."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A governadora de Tóquio, Yuriko Koike, também manifestou apoio à iniciativa em uma mensagem divulgada no evento:",
-          "runs": [
-            {
-              "text": "A governadora de Tóquio, "
-            },
-            {
-              "text": "Yuriko Koike",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", também manifestou apoio à iniciativa em uma mensagem divulgada no evento:"
-            }
-          ]
-        },
-        {
-          "type": "blockquote",
-          "text": "O Governo Metropolitano de Tóquio continuará oferecendo forte apoio aos animês e a todos os envolvidos em dar vida a eles.",
-          "runs": [
-            {
-              "text": "O Governo Metropolitano de Tóquio continuará oferecendo forte apoio aos animês e a todos os envolvidos em dar vida a eles."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "As categorias da premiação, os critérios de elegibilidade e os detalhes sobre os processos de votação e seleção ainda não foram divulgados. A organização deverá apresentar mais informações antes da realização da edição inaugural, prevista para daqui a um ano.",
-          "runs": [
-            {
-              "text": "As categorias da premiação, os critérios de elegibilidade e os detalhes sobre os processos de votação e seleção ainda não foram divulgados. A organização deverá apresentar mais informações antes da realização da edição inaugural, prevista para daqui a um ano."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Nippon-Anime-Awards-1.jpg",
-          "alt": "Banner oficial do Nippon Anime Awards, contendo data e local."
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Banner oficial do Nippon Anime Awards/Divulgação",
-          "runs": [
-            {
-              "text": "Imagem: Banner oficial do Nippon Anime Awards/Divulgação"
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Cartoon Brew",
-          "runs": [
-            {
-              "text": "Fonte: ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Cartoon Brew",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://www.cartoonbrew.com/awards/nippon-anime-awards-association-of-japanese-animations-268909.html"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-04T20:37:10.000Z",
-      "updatedAt": "2026-11-04T20:46:19.000Z",
-      "expiresAt": "2026-11-11T20:37:10.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/11/04/primeira-edicao-do-nippon-anime-awards-e-anunciada",
-          "publishedAt": "2026-11-04T20:37:10.000Z",
-          "author": "Igor Lunei"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 363,
-      "qualityScore": 0.927,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 13,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-4cf2b083",
-      "slug": "naruto-filme-live-action-comeca-a-ser-produzido-em-2027-jbox-4cf2b083",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Naruto: Filme live-action começa a ser produzido em 2027",
-      "originalTitle": "Naruto: Filme live-action começa a ser produzido em 2027",
-      "summary": "Preparem suas bandanas! A adaptação em filme live-action de Naruto teve sua produção oficialmente aprovada pela Lionsgate e deve começar a ser filmada na primavera de 2027, (nosso outono, no 2º trimestre), segundo informações apuradas pelo The Hollywood Reporter. A Sony Pictures será parceira do projeto, participando do financiamento e assumindo a distribuição internacional do longa. A Lionsgate continuará responsável pelo desenvolvimento, pela produção e pela distribuição nos Estados Unidos.",
-      "author": "Igor Lunei",
-      "tags": [
-        "Cinema",
-        "Live Action",
-        "Mangá",
-        "filme do naruto",
-        "filme live-action de naruto",
-        "Lionsgate",
-        "Naruto",
-        "sony naruto"
-      ],
-      "url": "https://www.jbox.com.br/2026/11/04/naruto-filme-live-action-comeca-a-ser-produzido-em-2027",
-      "sourceUrl": "https://www.jbox.com.br/2026/11/04/naruto-filme-live-action-comeca-a-ser-produzido-em-2027",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/naruto-destacada.png",
-      "mediaQuery": "Naruto: Filme live-action começa a ser produzido em 2027",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/destin-daniel-cretton.jpg",
-          "alt": "Imagem: foto do diretor Destin Daniel Cretton no palco da San Diego Comic Con, usando uma camiseta preta e falando com um microfone.",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/07/Naruto-01.webp",
-          "alt": "Imagem do animê de Naruto",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Preparem suas bandanas! A adaptação em filme live-action de Naruto teve sua produção oficialmente aprovada pela Lionsgate e deve começar a ser filmada na primavera de 2027, (nosso outono, no 2º trimestre), segundo informações apuradas pelo The Hollywood Reporter. A Sony Pictures será parceira do projeto, participando do financiamento e assumindo a distribuição internacional do longa. A Lionsgate continuará responsável pelo desenvolvimento, pela produção e pela distribuição nos Estados Unidos.",
-          "runs": [
-            {
-              "text": "Preparem suas bandanas! A adaptação em filme live-action de "
-            },
-            {
-              "text": "Naruto",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": " teve sua produção oficialmente aprovada pela "
-            },
-            {
-              "text": "Lionsgate",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e deve começar a ser filmada na "
-            },
-            {
-              "text": "primavera de 2027",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", (nosso outono, no 2º trimestre), segundo informações apuradas pelo "
-            },
-            {
-              "text": "The Hollywood Reporter",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ". A "
-            },
-            {
-              "text": "Sony Pictures",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " será parceira do projeto, participando do financiamento e assumindo a distribuição internacional do longa. A Lionsgate continuará responsável pelo desenvolvimento, pela produção e pela distribuição nos Estados Unidos."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O longa será o próximo trabalho de Destin Daniel Cretton após o sucesso de Homem-Aranha: Um Novo Dia, que arrecadou US$ 2,5 bilhões. Ele escreverá o roteiro, dirigirá o filme e também atuará como produtor. O acordo entre Lionsgate e Sony foi firmado após uma disputa competitiva entre vários estúdios interessados no projeto.",
-          "runs": [
-            {
-              "text": "O longa será o próximo trabalho de "
-            },
-            {
-              "text": "Destin Daniel Cretton",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " após o sucesso de "
-            },
-            {
-              "text": "Homem-Aranha: Um Novo Dia",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", que arrecadou "
-            },
-            {
-              "text": "US$ 2,5 bilhões",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". Ele escreverá o roteiro, dirigirá o filme e também atuará como produtor. O acordo entre Lionsgate e Sony foi firmado após uma disputa competitiva entre vários estúdios interessados no projeto."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A parceria também se dá em meio à aproximação entre Cretton e a Sony Pictures. Em setembro, o cineasta assinou um contrato de três anos com o estúdio para desenvolver e produzir projetos com prioridade de negociação. A Sony, sediada no Japão, também é proprietária da Crunchyroll, que sabemos ser o maior serviço de streaming voltado a animês.",
-          "runs": [
-            {
-              "text": "A parceria também se dá em meio à aproximação entre Cretton e a Sony Pictures. Em setembro, o cineasta assinou um contrato de três anos com o estúdio para desenvolver e produzir projetos com prioridade de negociação. A Sony, sediada no Japão, também é proprietária da "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", que sabemos ser o maior serviço de streaming voltado a animês."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/destin-daniel-cretton.jpg",
-          "alt": "Imagem: foto do diretor Destin Daniel Cretton no palco da San Diego Comic Con, usando uma camiseta preta e falando com um microfone."
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Destin Daniel Cretton na San Diego Comic Con/Reprodução",
-          "runs": [
-            {
-              "text": "Imagem: Destin Daniel Cretton na San Diego Comic Con/Reprodução"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Em comunicado, Adam Fogelson, presidente do Lionsgate Motion Picture Group, afirmou que a experiência da Sony com mangás e animês, além de sua capacidade de distribuição global, faz dela uma parceira ideal para o filme. Ele também destacou a ambição compartilhada de transformar Naruto em um evento cinematográfico mundial, fiel ao que os fãs da obra já conhecem e capaz de conquistar novos públicos.",
-          "runs": [
-            {
-              "text": "Em comunicado, "
-            },
-            {
-              "text": "Adam Fogelson",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", presidente do "
-            },
-            {
-              "text": "Lionsgate Motion Picture Group",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", afirmou que a experiência da Sony com mangás e animês, além de sua capacidade de distribuição global, faz dela uma parceira ideal para o filme. Ele também destacou a ambição compartilhada de transformar "
-            },
-            {
-              "text": "Naruto",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " em um evento cinematográfico mundial, fiel ao que os fãs da obra já conhecem e capaz de conquistar novos públicos."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fogelson ainda elogiou Erin Westerman e James Myers pelo trabalho de desenvolvimento do projeto e por trazerem Cretton para a produção. Ele também agradeceu a Helen Lee-Kim por garantir a parceria internacional com a Sony, além de reconhecer o trabalho de Ari Arad, Tetsu Fujimura e da equipe de produção.",
-          "runs": [
-            {
-              "text": "Fogelson ainda elogiou Erin Westerman e James Myers pelo trabalho de desenvolvimento do projeto e por trazerem Cretton para a produção. Ele também agradeceu a Helen Lee-Kim por garantir a parceria internacional com a Sony, além de reconhecer o trabalho de Ari Arad, Tetsu Fujimura e da equipe de produção."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Tom Rothman, presidente e CEO do Sony Pictures Motion Picture Group, declarou que a Lionsgate realizou um trabalho exemplar na preparação da adaptação e que o estúdio se sente honrado por ter sido escolhido como parceiro. Rothman também destacou a satisfação de voltar a trabalhar com Cretton após o sucesso da colaboração anterior entre eles.",
-          "runs": [
-            {
-              "text": "Tom Rothman, presidente e CEO do Sony Pictures Motion Picture Group, declarou que a Lionsgate realizou um trabalho exemplar na preparação da adaptação e que o estúdio se sente honrado por ter sido escolhido como parceiro. Rothman também destacou a satisfação de voltar a trabalhar com Cretton após o sucesso da colaboração anterior entre eles."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Cretton afirmou ser fã de longa data de Naruto e destacou que, por trás das cenas de ação, a trama apresenta uma história marcada por emoção, humor e humanidade. Segundo o diretor, o mundo criado por Kishimoto mostra heróis improváveis realizando feitos extraordinários. Ele também declarou estar animado para voltar a trabalhar com a Sony e com a equipe da Lionsgate, com o objetivo de preservar os elementos que conquistaram os fãs e apresentar a franquia a uma nova geração.",
-          "runs": [
-            {
-              "text": "Cretton afirmou ser fã de longa data de "
-            },
-            {
-              "text": "Naruto",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e destacou que, por trás das cenas de ação, a trama apresenta uma história marcada por emoção, humor e humanidade. Segundo o diretor, o mundo criado por Kishimoto mostra heróis improváveis realizando feitos extraordinários. Ele também declarou estar animado para voltar a trabalhar com a Sony e com a equipe da Lionsgate, com o objetivo de preservar os elementos que conquistaram os fãs e apresentar a franquia a uma nova geração."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A produção ficará a cargo de Avi Arad, Ari Arad e Emmy Yu, pela Arad Productions. Cretton também produzirá o longa ao lado de Jeyun Munford, por meio de sua empresa, Hisako.",
-          "runs": [
-            {
-              "text": "A produção ficará a cargo de Avi Arad, Ari Arad e Emmy Yu, pela Arad Productions. Cretton também produzirá o longa ao lado de Jeyun Munford, por meio de sua empresa, Hisako."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Até o momento, Charles Melton, conhecido por Riverdale e Beef, é o único ator ligado ao projeto. Segundo o The Hollywood Reporter, ele está em negociações para interpretar o Kakashi-sensei. A busca pelo ator que interpretará o protagonista, assim como os da Sakura e do Sasuke, continua em andamento.",
-          "runs": [
-            {
-              "text": "Até o momento, "
-            },
-            {
-              "text": "Charles Melton, conhecido por",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/08/22/charles-melton-e-cotado-para-interpretar-kakashi-no-live-action-de-naruto/"
-            },
-            {
-              "text": " Riverdale",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.jbox.com.br/2026/08/22/charles-melton-e-cotado-para-interpretar-kakashi-no-live-action-de-naruto/"
-            },
-            {
-              "text": " e ",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/08/22/charles-melton-e-cotado-para-interpretar-kakashi-no-live-action-de-naruto/"
-            },
-            {
-              "text": "Beef",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.jbox.com.br/2026/08/22/charles-melton-e-cotado-para-interpretar-kakashi-no-live-action-de-naruto/"
-            },
-            {
-              "text": ", é o único ator ligado ao projeto. Segundo o "
-            },
-            {
-              "text": "The Hollywood Reporter",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", ele está em negociações para interpretar o Kakashi-sensei. A busca pelo ator que interpretará o protagonista, assim como os da Sakura e do Sasuke, continua em andamento."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/07/Naruto-01.webp",
-          "alt": "Imagem do animê de Naruto"
-        },
-        {
-          "type": "paragraph",
-          "text": "A história de Naruto foi escrita e ilustrada por Masashi Kishimoto em 72 volumes, lançados entre 1999 e 2014. A trama segue o protagonista Naruto Uzumaki, que sonha em se tornar um grande ninja e assumir a posição de Hokage, o líder de sua vila. Ao longo da narrativa, outros personagens e tramas são apresentadas, aprofundando o passado dos ninjas e revelando os destinos de Naruto, Sasuke e Sakura.",
-          "runs": [
-            {
-              "text": "A história de"
-            },
-            {
-              "text": " Naruto",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " foi escrita e ilustrada por "
-            },
-            {
-              "text": "Masashi Kishimoto",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " em 72 volumes, lançados entre 1999 e 2014. A trama segue o protagonista Naruto Uzumaki, que sonha em se tornar um grande ninja e assumir a posição de Hokage, o líder de sua vila. Ao longo da narrativa, outros personagens e tramas são apresentadas, aprofundando o passado dos ninjas e revelando os destinos de Naruto, Sasuke e Sakura."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Enquanto o primeiro animê, lançado entre 2002 e 2007, conta a começo da jornada dos personagens, Naruto Shippuden mostra a juventude e desenvolvimento dos poderes da nova geração de ninjas, com lançamento entre 2007 e 2017. Atualmente, Kishimoto assina a publicação de Boruto ao lado de Ukyou Kodachi, contando a história do filho de Naruto.",
-          "runs": [
-            {
-              "text": "Enquanto o primeiro animê, lançado entre 2002 e 2007, conta a começo da jornada dos personagens, "
-            },
-            {
-              "text": "Naruto Shippuden",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " mostra a juventude e desenvolvimento dos poderes da nova geração de ninjas, com lançamento entre 2007 e 2017. Atualmente, Kishimoto assina a publicação de "
-            },
-            {
-              "text": "Boruto",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": " ao lado de "
-            },
-            {
-              "text": "Ukyou Kodachi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", contando a história do filho de Naruto."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Para quem deseja retornar à Vila da Folha antes da chegada do live-action, os episódios de Naruto estão disponíveis em plataformas como Crunchyroll, Netflix, HBO Max, Disney+, Pluto TV e Mercado Play, além de ser exibido pelo canal Adult Swim. Já o mangá é publicado no Brasil pela Panini.",
-          "runs": [
-            {
-              "text": "Para quem deseja retornar à Vila da Folha antes da chegada do live-action, os episódios de "
-            },
-            {
-              "text": "Naruto",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " estão disponíveis em plataformas como "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Netflix",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "HBO Max, Disney+, Pluto TV",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Mercado Play",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", além de ser exibido pelo canal Adult Swim. Já o mangá é publicado no Brasil pela"
-            },
-            {
-              "text": " Panini",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: The Hollywood Reporter",
-          "runs": [
-            {
-              "text": "Fonte:",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "The Hollywood Reporter",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://www.hollywoodreporter.com/movies/movie-news/naruto-movie-lionsgate-sony-destin-daniel-cretton-1236746650/"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-04T18:08:04.000Z",
-      "updatedAt": "2026-11-04T18:10:04.000Z",
-      "expiresAt": "2026-11-11T18:08:04.000Z",
-      "category": "Animes",
-      "eventType": "SEASON",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/11/04/naruto-filme-live-action-comeca-a-ser-produzido-em-2027",
-          "publishedAt": "2026-11-04T18:08:04.000Z",
-          "author": "Igor Lunei"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 4,
-      "wordCount": 714,
-      "qualityScore": 0.97,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 18,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 2,
         "embedCount": 0,
         "sourcePagesRead": 0
       }
