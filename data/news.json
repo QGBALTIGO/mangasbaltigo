@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:40:17.277Z",
+  "generatedAt": "2026-11-12T04:23:11.878Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,927 @@
   ],
   "stats": {
     "collected": 47,
-    "grouped": 24,
-    "published": 24,
-    "newStories": 24,
-    "fullArticles": 24,
+    "grouped": 25,
+    "published": 25,
+    "newStories": 25,
+    "fullArticles": 25,
     "previewArticles": 0,
-    "avgWords": 340,
-    "withHeroImage": 24,
-    "withOrderedMedia": 21,
+    "avgWords": 337,
+    "withHeroImage": 25,
+    "withOrderedMedia": 22,
     "skippedTranslation": 0,
     "skippedQuality": 20,
-    "durationMs": 6636
+    "durationMs": 5283
   },
   "items": [
+    {
+      "id": "animenew-a4f4b5d6",
+      "slug": "gundam-seed-freedom-zero-ganhara-novel-em-janeiro-animenew-a4f4b5d6",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Gundam Seed Freedom Zero ganhará novel em janeiro",
+      "originalTitle": "Gundam Seed Freedom Zero ganhará novel em janeiro",
+      "summary": "A franquia Gundam Seed ganhará uma nova adaptação em formato de novel. Sendo assim a obra será baseada em Mobile Suit Gundam Seed FREEDOM ZERO, prelúdio do filme lançado em 2024.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Cinema",
+        "Notícias",
+        "Otaku",
+        "Gundam Seed"
+      ],
+      "url": "https://animenew.com.br/gundam-seed-freedom-zero-novel",
+      "sourceUrl": "https://animenew.com.br/gundam-seed-freedom-zero-novel",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Gundam-Seed-Freedom-Zero-ganhara-novel-em-janeiro.webp",
+      "mediaQuery": "Gundam Seed Freedom Zero ganhará novel em janeiro",
+      "mediaType": "manga",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/GSFZ_TSR_B1_ENG_RGB_small-scaled.webp",
+          "alt": "Mobile Suit Gundam Seed FREEDOM ZERO",
+          "caption": "© Sunrise"
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/FEeahlHaGyk"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A franquia Gundam Seed ganhará uma nova adaptação em formato de novel. Sendo assim a obra será baseada em Mobile Suit Gundam Seed FREEDOM ZERO, prelúdio do filme lançado em 2024.",
+          "runs": [
+            {
+              "text": "A franquia "
+            },
+            {
+              "text": "Gundam Seed",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ganhará uma nova adaptação em formato de novel. Sendo assim a obra será baseada em "
+            },
+            {
+              "text": "Mobile Suit Gundam Seed FREEDOM ZERO",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", prelúdio do filme lançado em 2024."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Berserk of Gluttony anuncia estreia da 2ª temporada",
+              "runs": [
+                {
+                  "text": "Berserk of Gluttony anuncia estreia da 2ª temporada",
+                  "href": "https://animenew.com.br/berserk-of-gluttony-2-temporada-estreia"
+                }
+              ]
+            },
+            {
+              "text": "Black Clover confirma Asta como uma entidade divina",
+              "runs": [
+                {
+                  "text": "Black Clover confirma Asta como uma entidade divina",
+                  "href": "https://animenew.com.br/asta-black-clover-entidade-divina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A editora Kadokawa confirmou o lançamento do livro para 19 de janeiro de 2027. Liu Goto, roteirista de Mobile Suit Gundam Seed FREEDOM, ficará responsável pela história. Ele também escreveu a a história nova do longa-metragem.",
+          "runs": [
+            {
+              "text": "A editora "
+            },
+            {
+              "text": "Kadokawa",
+              "href": "https://animenew.com.br/tag/kadokawa/"
+            },
+            {
+              "text": " confirmou o lançamento do livro para 19 de janeiro de 2027. Liu Goto, roteirista de "
+            },
+            {
+              "text": "Mobile Suit Gundam Seed FREEDOM",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", ficará responsável pela história. Ele também escreveu a a história nova do longa-metragem."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/GSFZ_TSR_B1_ENG_RGB_small-scaled.webp",
+          "alt": "Mobile Suit Gundam Seed FREEDOM ZERO",
+          "caption": "© Sunrise"
+        },
+        {
+          "type": "paragraph",
+          "text": "Portanto Tomofumi Ogasawara, conhecido pelas ilustrações das novels de Mobile Suit Gundam Seed, retornará para trabalhar nas artes da nova publicação.",
+          "runs": [
+            {
+              "text": "Portanto "
+            },
+            {
+              "text": "Tomofumi Ogasawara",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", conhecido pelas ilustrações das novels de Mobile Suit Gundam Seed, retornará para trabalhar nas artes da nova publicação."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Filme de Gundam Seed estreia em janeiro",
+          "runs": [
+            {
+              "text": "Filme de Gundam Seed estreia em janeiro"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=FEeahlHaGyk",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/FEeahlHaGyk"
+        },
+        {
+          "type": "paragraph",
+          "text": "A animação de Gundam Seed FREEDOM ZERO chegará aos cinemas japoneses em 15 de janeiro de 2027. Já a estreia na América do Norte está prevista para fevereiro do mesmo ano. O projeto funciona como prelúdio de Mobile Suit Gundam Seed FREEDOM.",
+          "runs": [
+            {
+              "text": "A animação de Gundam Seed FREEDOM ZERO chegará aos cinemas japoneses em 15 de janeiro de 2027.",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " Já a estreia na América do Norte está prevista para fevereiro do mesmo ano. O projeto funciona como prelúdio de Mobile Suit Gundam Seed FREEDOM."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Assim segundo o diretor Mitsuo Fukuda, a equipe concluiu o roteiro há aproximadamente 20 anos, quando planejava lançar a produção como um OVA.",
+          "runs": [
+            {
+              "text": "Assim segundo o diretor Mitsuo Fukuda, a equipe concluiu o roteiro há aproximadamente 20 anos, quando planejava lançar a produção como um OVA."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A equipe já concluiu quase metade dos storyboards e finalizou as gravações de voz. Por fim ainda não há confirmação sobre o formato final de lançamento da animação.",
+          "runs": [
+            {
+              "text": "A equipe já concluiu quase metade dos storyboards e finalizou as gravações de voz. Por fim ainda não há confirmação sobre o formato final de lançamento da animação."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Kadokawa",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Kadokawa",
+              "href": "https://www.kadokawa.co.jp/product/322609000810/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Gundam Seed Freedom Zero ganhará novel em janeiro.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Gundam Seed Freedom Zero ganhará novel em janeiro",
+              "href": "https://animenew.com.br/gundam-seed-freedom-zero-novel/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-12T02:50:40.000Z",
+      "updatedAt": "2026-11-12T02:50:40.000Z",
+      "expiresAt": "2026-11-19T02:50:40.000Z",
+      "category": "Mangás & novels",
+      "eventType": "MANGA",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/gundam-seed-freedom-zero-novel",
+          "publishedAt": "2026-11-12T02:50:40.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 228,
+      "qualityScore": 0.97,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 12,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "animenew-9f0803d7",
+      "slug": "zelda-ocarina-of-time-vende-5-2-milhoes-em-4-dias-animenew-9f0803d7",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Zelda: Ocarina of Time vende 5,2 milhões em 4 dias",
+      "originalTitle": "Zelda: Ocarina of Time vende 5,2 milhões em 4 dias",
+      "summary": "O remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 ultrapassou 5,2 milhões de unidades vendidas em apenas quatro dias, estabelecendo um novo recorde para a Nintendo.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Games",
+        "Nintendo",
+        "Notícias",
+        "Nintendo Switch 2",
+        "The Legend of Zelda: Ocarina of Time"
+      ],
+      "url": "https://animenew.com.br/zelda-ocarina-of-time-remake-vendas-switch-2",
+      "sourceUrl": "https://animenew.com.br/zelda-ocarina-of-time-remake-vendas-switch-2",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-vende-52-milhoes-em-4-dias.webp",
+      "mediaQuery": "Zelda: Ocarina of Time vende 5,2 milhões em 4 dias",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time.webp",
+          "alt": "",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/T4Eh0M-Sh_g"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "O remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 ultrapassou 5,2 milhões de unidades vendidas em apenas quatro dias, estabelecendo um novo recorde para a Nintendo.",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "remake",
+              "href": "https://animenew.com.br/zelda-ocarina-of-time-remake-switch-2"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "text": "The Legend of Zelda: Ocarina of Time",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " para "
+            },
+            {
+              "text": "Nintendo Switch 2",
+              "href": "https://animenew.com.br/tag/nintendo-switch-2/"
+            },
+            {
+              "text": " ultrapassou 5,2 milhões de unidades vendidas em apenas quatro dias, estabelecendo um novo recorde para a "
+            },
+            {
+              "text": "Nintendo",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "GTA 6 bate recorde de pré-vendas na PlayStation Store",
+              "runs": [
+                {
+                  "text": "GTA 6 bate recorde de pré-vendas na PlayStation Store",
+                  "href": "https://animenew.com.br/gta-6-recorde-pre-vendas-playstation-store"
+                }
+              ]
+            },
+            {
+              "text": "Dragon Quest RPG mobile será lançado em 2027",
+              "runs": [
+                {
+                  "text": "Dragon Quest RPG mobile será lançado em 2027",
+                  "href": "https://animenew.com.br/dragon-quest-rpg-mobile-lancamento-2027"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O anúncio aconteceu nesta quarta-feira (11) pela empresa Nintendo. Com o resultado, o jogo se tornou o título publicado pela empresa que vendeu mais rapidamente no Switch 2, tanto mundialmente quanto nos Estados Unidos, Canadá e América Latina.",
+          "runs": [
+            {
+              "text": "O anúncio aconteceu nesta quarta-feira (11) pela empresa Nintendo. Com o resultado, o jogo se tornou o título publicado pela empresa que vendeu mais rapidamente no Switch 2, tanto mundialmente quanto nos "
+            },
+            {
+              "text": "Estados Unidos",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Canadá",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "América Latina",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time.webp"
+        },
+        {
+          "type": "paragraph",
+          "text": "Contudo o desempenho também superou as vendas acumuladas de Donkey Kong Bananza, anteriormente o segundo jogo mais vendido do console, com 5,05 milhões de cópias até 30 de setembro. O remake chegou ao mercado em 5 de novembro de 2026 e apresenta diversas mudanças em relação à versão original.",
+          "runs": [
+            {
+              "text": "Contudo o desempenho também superou as vendas acumuladas de "
+            },
+            {
+              "text": "Donkey Kong Bananza",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", anteriormente o segundo jogo mais vendido do console, com "
+            },
+            {
+              "text": "5,05 milhões de cópias até 30 de setembro",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". O remake chegou ao mercado em 5 de novembro de 2026 e apresenta diversas mudanças em relação à versão original."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Novidades do remake de Zelda",
+          "runs": [
+            {
+              "text": "Novidades do remake de Zelda"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=T4Eh0M-Sh_g",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/T4Eh0M-Sh_g"
+        },
+        {
+          "type": "paragraph",
+          "text": "Entre as melhorias e novidades estão controles tradicionais de câmera, comandos por movimento, botão dedicado para pular e uma nova ação de esquiva. O jogo também ganhou o menu Threads of Time, que ajuda a relembrar acontecimentos da história e identificar o próximo objetivo.",
+          "runs": [
+            {
+              "text": "Entre as melhorias e novidades estão controles tradicionais de câmera, comandos por movimento, botão dedicado para pular e uma nova ação de esquiva. O "
+            },
+            {
+              "text": "jogo",
+              "href": "https://animenew.com.br/games"
+            },
+            {
+              "text": " também ganhou o menu "
+            },
+            {
+              "text": "Threads of Time",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", que ajuda a relembrar acontecimentos da história e identificar o próximo objetivo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Outra novidade permite tocar músicas utilizando o microfone do console ou uma ocarina real. Assim a versão também inclui novos diálogos e permite que os jogadores visitem a área Hall of Fallen Foes, onde podem rever os inimigos derrotados e enfrentá-los novamente.",
+          "runs": [
+            {
+              "text": "Outra novidade permite tocar músicas utilizando o microfone do console ou uma ocarina real. Assim a versão também inclui novos diálogos e permite que os jogadores visitem a área "
+            },
+            {
+              "text": "Hall of Fallen Foes",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", onde podem rever os inimigos derrotados e enfrentá-los novamente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Por fim originalmente lançado em novembro de 1998 para Nintendo 64, Ocarina of Time é um dos principais títulos da franquia The Legend of Zelda.",
+          "runs": [
+            {
+              "text": "Por fim originalmente lançado em novembro de 1998 para "
+            },
+            {
+              "text": "Nintendo 64",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", Ocarina of Time é um dos principais títulos da franquia The Legend of Zelda."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Zelda: Ocarina of Time vende 5,2 milhões em 4 dias.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Zelda: Ocarina of Time vende 5,2 milhões em 4 dias",
+              "href": "https://animenew.com.br/zelda-ocarina-of-time-remake-vendas-switch-2/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-12T00:57:33.000Z",
+      "updatedAt": "2026-11-12T00:57:33.000Z",
+      "expiresAt": "2026-11-19T00:57:33.000Z",
+      "category": "Em alta",
+      "eventType": "TRENDING",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/zelda-ocarina-of-time-remake-vendas-switch-2",
+          "publishedAt": "2026-11-12T00:57:33.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 273,
+      "qualityScore": 0.974,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 11,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "animenew-33bdc1e8",
+      "slug": "berserk-of-gluttony-anuncia-estreia-da-2-temporada-animenew-33bdc1e8",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Berserk of Gluttony anuncia estreia da 2ª temporada",
+      "originalTitle": "Berserk of Gluttony anuncia estreia da 2ª temporada",
+      "summary": "O anime Berserk of Gluttony (Bōshoku no Berserk: Ore Dake Level to Iu Gainen wo Toppa Suru) confirmou que sua segunda temporada estreará em abril de 2027. O anúncio também revelou uma nova imagem promocional e detalhes da equipe de produção.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Animes",
+        "Notícias",
+        "Berserk of Gluttony",
+        "Bōshoku no Berserk"
+      ],
+      "url": "https://animenew.com.br/berserk-of-gluttony-2-temporada-estreia",
+      "sourceUrl": "https://animenew.com.br/berserk-of-gluttony-2-temporada-estreia",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Berserk-of-Gluttony-anuncia-estreia-da-2a-temporada.webp",
+      "mediaQuery": "Berserk of Gluttony anuncia estreia da 2ª temporada",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Berserk-of-Gluttony-Anime.webp",
+          "alt": "Berserk of Gluttony",
+          "caption": "©一色一凛・fame/マイクロマガジン社/暴食のベルセルク 2 製作委員会"
+        }
+      ],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "O anime Berserk of Gluttony (Bōshoku no Berserk: Ore Dake Level to Iu Gainen wo Toppa Suru) confirmou que sua segunda temporada estreará em abril de 2027. O anúncio também revelou uma nova imagem promocional e detalhes da equipe de produção.",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "anime",
+              "href": "https://animenew.com.br/animes"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Berserk of Gluttony",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Bōshoku no Berserk: Ore Dake Level to Iu Gainen wo Toppa Suru",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") confirmou que sua segunda temporada estreará em abril de 2027. O anúncio também revelou uma nova imagem promocional e detalhes da equipe de produção."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Black Clover confirma Asta como uma entidade divina",
+              "runs": [
+                {
+                  "text": "Black Clover confirma Asta como uma entidade divina",
+                  "href": "https://animenew.com.br/asta-black-clover-entidade-divina"
+                }
+              ]
+            },
+            {
+              "text": "Steel Ball Run destaca os Stands em novo vídeo",
+              "runs": [
+                {
+                  "text": "Steel Ball Run destaca os Stands em novo vídeo",
+                  "href": "https://animenew.com.br/steel-ball-run-video-especial-stands"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A novidade foi divulgada em 11 de novembro, junto com a abertura do site oficial da continuação. A imagem promocional apresenta a frase “New stage Domain of E begins”, indicando o início de uma nova etapa da história.",
+          "runs": [
+            {
+              "text": "A novidade foi divulgada em 11 de novembro, junto com a abertura do site oficial da continuação. A imagem promocional apresenta a frase “"
+            },
+            {
+              "text": "New stage Domain of E begins",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "”, indicando o início de uma nova etapa da história."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Berserk-of-Gluttony-Anime.webp",
+          "alt": "Berserk of Gluttony",
+          "caption": "©一色一凛・fame/マイクロマガジン社/暴食のベルセルク 2 製作委員会"
+        },
+        {
+          "type": "heading",
+          "text": "Equipe e elenco retornam",
+          "runs": [
+            {
+              "text": "Equipe e elenco retornam"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Tetsuya Yanagisawa, diretor da primeira temporada, assume a direção geral do novo ano. Ken’ichi Ishikura ficará responsável pela direção no estúdio ACGT. Mariko Kunisawa retorna para cuidar dos roteiros, enquanto Takafumi Furusawa novamente assina o design de personagens.",
+          "runs": [
+            {
+              "text": "Tetsuya Yanagisawa",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", diretor da primeira temporada, assume a direção geral do novo ano. "
+            },
+            {
+              "text": "Ken’ichi Ishikura",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ficará responsável pela direção no "
+            },
+            {
+              "text": "estúdio ACGT",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". "
+            },
+            {
+              "text": "Mariko Kunisawa",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " retorna para cuidar dos roteiros, enquanto "
+            },
+            {
+              "text": "Takafumi Furusawa",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " novamente assina o design de personagens."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O elenco também contará com os retornos de Ryota Osaka como Fate Graphite, Tomokazu Seki como Greed, Hisako Tojo como Roxy Heart, Misato Matsuoka como Myne, Hitomi Sekine como Eris e Takehito Koyasu como Aaron.",
+          "runs": [
+            {
+              "text": "O elenco também contará com os retornos de "
+            },
+            {
+              "text": "Ryota Osaka",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " como Fate Graphite, "
+            },
+            {
+              "text": "Tomokazu Seki",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " como Greed, "
+            },
+            {
+              "text": "Hisako Tojo",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " como Roxy Heart, "
+            },
+            {
+              "text": "Misato Matsuoka",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " como Myne, "
+            },
+            {
+              "text": "Hitomi Sekine",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " como Eris e "
+            },
+            {
+              "text": "Takehito Koyasu",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " como Aaron."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "História de Berserk of Gluttony",
+          "runs": [
+            {
+              "text": "História de Berserk of Gluttony"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "A trama acompanha Fate Graphite, um jovem que possui a habilidade Gluttony, responsável por uma fome insaciável. Assim após matar um ladrão, ele absorve sua força e alma, despertando o verdadeiro potencial de seu poder.",
+          "runs": [
+            {
+              "text": "A trama acompanha Fate Graphite, um jovem que possui a habilidade Gluttony, responsável por uma fome insaciável. Assim após matar um ladrão, ele absorve sua força e alma, despertando o verdadeiro potencial de seu poder.",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Por fim a primeira temporada do anime estreou em outubro de 2023 e teve transmissão pela Crunchyroll.",
+          "runs": [
+            {
+              "text": "Por fim a primeira temporada do anime estreou em outubro de 2023 e teve transmissão pela "
+            },
+            {
+              "text": "Crunchyroll",
+              "href": "https://animenew.com.br/tag/crunchyroll/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Comunicado de Imprensa",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Comunicado de Imprensa",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Berserk of Gluttony anuncia estreia da 2ª temporada.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Berserk of Gluttony anuncia estreia da 2ª temporada",
+              "href": "https://animenew.com.br/berserk-of-gluttony-2-temporada-estreia/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-12T00:46:58.000Z",
+      "updatedAt": "2026-11-12T00:46:58.000Z",
+      "expiresAt": "2026-11-19T00:46:58.000Z",
+      "category": "Animes",
+      "eventType": "SEASON",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/berserk-of-gluttony-2-temporada-estreia",
+          "publishedAt": "2026-11-12T00:46:58.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 257,
+      "qualityScore": 0.974,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 12,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-a1b23317",
       "slug": "mcdonald-s-confirma-nova-colecao-de-pokemon-no-brasil-com-miniaturas-e-cards-jbox-a1b23317",
@@ -5416,579 +6324,6 @@
         "blocks": 13,
         "sourceCount": 1,
         "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-c3a1b0f1",
-      "slug": "bride-of-the-barrier-master-revela-videos-dos-protagonistas-animenew-c3a1b0f1",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Bride of the Barrier Master revela vídeos dos protagonistas",
-      "originalTitle": "Bride of the Barrier Master revela vídeos dos protagonistas",
-      "summary": "O anime Bride of the Barrier Master (Kekkaishi no Ichirinka) divulgou novos vídeos promocionais de Hana Ichise e Saku Ichinomiya. A série estreia em janeiro de 2027 e terá Akari Kitō e Kikunosuke Toya nos papéis principais.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Notícias",
-        "Bride of the Barrier Master",
-        "Kekkaishi no Ichirinka"
-      ],
-      "url": "https://animenew.com.br/bride-of-the-barrier-master-videos-protagonistas",
-      "sourceUrl": "https://animenew.com.br/bride-of-the-barrier-master-videos-protagonistas",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Bride-of-the-Barrier-Master-revela-videos-dos-protagonistas.webp",
-      "mediaQuery": "Bride of the Barrier Master revela vídeos dos protagonistas",
-      "mediaType": "anime",
-      "mediaGallery": [],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/35bT932RfoM"
-        },
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/-fyOLWcS3kQ"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "O anime Bride of the Barrier Master (Kekkaishi no Ichirinka) divulgou novos vídeos promocionais de Hana Ichise e Saku Ichinomiya. A série estreia em janeiro de 2027 e terá Akari Kitō e Kikunosuke Toya nos papéis principais.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Bride of the Barrier Master",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Kekkaishi no Ichirinka",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") divulgou novos vídeos promocionais de Hana Ichise e Saku Ichinomiya. A série estreia em janeiro de 2027 e terá Akari Kitō e Kikunosuke Toya nos papéis principais."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Minami-ke: Korekara revela elenco e estreia em abril",
-              "runs": [
-                {
-                  "text": "Minami-ke: Korekara revela elenco e estreia em abril",
-                  "href": "https://animenew.com.br/minami-ke-korekara-anime-elenco-estreia"
-                }
-              ]
-            },
-            {
-              "text": "One Punch Man 3 revela música de encerramento da parte 2",
-              "runs": [
-                {
-                  "text": "One Punch Man 3 revela música de encerramento da parte 2",
-                  "href": "https://animenew.com.br/one-punch-man-3-parte-2-musica-encerramento"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Os materiais foram publicados neste domingo, 8 de novembro, e apresentam os dois protagonistas da adaptação das light novels escritas por Kureha.",
-          "runs": [
-            {
-              "text": "Os materiais foram publicados neste domingo, 8 de novembro, e apresentam os dois protagonistas da adaptação das "
-            },
-            {
-              "text": "light novels",
-              "href": "https://animenew.com.br/light-novel"
-            },
-            {
-              "text": " escritas por "
-            },
-            {
-              "text": "Kureha",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=35bT932RfoM",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/35bT932RfoM"
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=-fyOLWcS3kQ",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/-fyOLWcS3kQ"
-        },
-        {
-          "type": "paragraph",
-          "text": "Akari Kitō interpreta Hana Ichise, enquanto Kikunosuke Toya dará voz a Saku Ichinomiya. O elenco também conta com Kanon Takao como Hazuki Ichise, Hiroto Shimizu como Nozomi Ichinomiya, Yuzuki Tamukai como Azuha, Taihi Kimura como Aoi e M.A.O como Miyabi.",
-          "runs": [
-            {
-              "text": "Akari Kitō interpreta Hana Ichise, enquanto Kikunosuke Toya dará voz a Saku Ichinomiya. O elenco também conta com Kanon Takao como Hazuki Ichise, Hiroto Shimizu como Nozomi Ichinomiya, Yuzuki Tamukai como Azuha, Taihi Kimura como Aoi e M.A.O como Miyabi."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "História de Bride of the Barrier Master",
-          "runs": [
-            {
-              "text": "História de Bride of the Barrier Master"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A trama acompanha Hana, uma jovem de 18 anos nascida em um dos cinco clãs responsáveis por proteger o Japão com magia de barreiras. Sempre ofuscada pela irmã gêmea, ela desperta um poder extraordinário, mas decide escondê-lo para viver tranquilamente. Seus planos mudam quando Saku assume a liderança do clã Ichinomiya e procura uma esposa capaz de acompanhá-lo.",
-          "runs": [
-            {
-              "text": "A trama acompanha Hana, uma jovem de 18 anos nascida em um dos cinco clãs responsáveis por proteger o Japão com magia de barreiras. Sempre ofuscada pela irmã gêmea, ela desperta um poder extraordinário, mas decide escondê-lo para viver tranquilamente.",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Seus planos mudam quando Saku assume a liderança do clã Ichinomiya e procura uma esposa capaz de acompanhá-lo.",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Produção e estreia",
-          "runs": [
-            {
-              "text": "Produção e estreia"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A animação é do estúdio TROYCA, com direção de Tōru Kitahata e roteiros de Yūko Kakihara. A trilha sonora ficará a cargo de Yukari Hashimoto, Ruka Kawada e R.O.N. Por fim a estreia acontece em janeiro de 2027, com transmissão pela Netflix e outras plataformas.",
-          "runs": [
-            {
-              "text": "A animação é do estúdio "
-            },
-            {
-              "text": "TROYCA",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com direção de Tōru Kitahata e roteiros de Yūko Kakihara. A trilha sonora ficará a cargo de Yukari Hashimoto, Ruka Kawada e R.O.N. Por fim a estreia acontece em janeiro de 2027, com transmissão pela "
-            },
-            {
-              "text": "Netflix",
-              "href": "https://animenew.com.br/tag/netflix/"
-            },
-            {
-              "text": " e outras plataformas."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Comic Natalie",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "Comic Natalie",
-              "href": "https://natalie.mu/comic/news/697116"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Bride of the Barrier Master revela vídeos dos protagonistas.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Bride of the Barrier Master revela vídeos dos protagonistas",
-              "href": "https://animenew.com.br/bride-of-the-barrier-master-videos-protagonistas/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-08T14:06:06.000Z",
-      "updatedAt": "2026-11-08T14:06:06.000Z",
-      "expiresAt": "2026-11-15T14:06:06.000Z",
-      "category": "Animes",
-      "eventType": "SEASON",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/bride-of-the-barrier-master-videos-protagonistas",
-          "publishedAt": "2026-11-08T14:06:06.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 255,
-      "qualityScore": 0.913,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 12,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 0,
-        "embedCount": 2,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "animenew-e231e24c",
-      "slug": "minami-ke-korekara-revela-elenco-e-estreia-em-abril-animenew-e231e24c",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Minami-ke: Korekara revela elenco e estreia em abril",
-      "originalTitle": "Minami-ke: Korekara revela elenco e estreia em abril",
-      "summary": "O anime Minami-ke: Korekara (Minami-ke: Going Forward), nova sequência da franquia Minami-ke, revelou seu primeiro trailer, visual promocional, elenco de voz e equipe de produção. A estreia está marcada para abril de 2027.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Animes",
-        "Notícias",
-        "Liden Films",
-        "Minami-ke"
-      ],
-      "url": "https://animenew.com.br/minami-ke-korekara-anime-elenco-estreia",
-      "sourceUrl": "https://animenew.com.br/minami-ke-korekara-anime-elenco-estreia",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Minami-ke-Korekara-revela-elenco-e-estreia-em-abril.webp",
-      "mediaQuery": "Minami-ke: Korekara revela elenco e estreia em abril",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Minami-ke-Korekara.webp",
-          "alt": "Minami-ke Korekara",
-          "caption": "© 桜場コハル・講談社／「みなみけ これから」製作委員会"
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/3x5HMpHPbqE"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "O anime Minami-ke: Korekara (Minami-ke: Going Forward), nova sequência da franquia Minami-ke, revelou seu primeiro trailer, visual promocional, elenco de voz e equipe de produção. A estreia está marcada para abril de 2027.",
-          "runs": [
-            {
-              "text": "O "
-            },
-            {
-              "text": "anime",
-              "href": "https://animenew.com.br/animes"
-            },
-            {
-              "text": " "
-            },
-            {
-              "text": "Minami-ke: Korekara",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Minami-ke: Going Forward",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "), nova sequência da franquia Minami-ke, revelou seu primeiro trailer, visual promocional, elenco de voz e equipe de produção. A estreia está marcada para abril de 2027."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "There Was a Cute Girl in the Hero’s Party terá 2ª temporada",
-              "runs": [
-                {
-                  "text": "There Was a Cute Girl in the Hero’s Party terá 2ª temporada",
-                  "href": "https://animenew.com.br/there-was-a-cute-girl-hero-party-2-temporada"
-                }
-              ]
-            },
-            {
-              "text": "Booty Royale ganhará anime em janeiro de 2027",
-              "runs": [
-                {
-                  "text": "Booty Royale ganhará anime em janeiro de 2027",
-                  "href": "https://animenew.com.br/booty-royale-anime-estreia-janeiro-2027"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O anúncio aconteceu durante o evento Minami-ke Special Event 2026, realizado neste domingo, 8 de novembro. Sendo assim a prévia também confirmou o retorno dos dubladores que participaram das temporadas anteriores, após um intervalo de 14 anos.",
-          "runs": [
-            {
-              "text": "O anúncio aconteceu durante o evento "
-            },
-            {
-              "text": "Minami-ke Special Event 2026",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", realizado neste domingo, 8 de novembro. Sendo assim a prévia também confirmou o retorno dos dubladores que participaram das temporadas anteriores, após um intervalo de 14 anos."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=3x5HMpHPbqE",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/3x5HMpHPbqE"
-        },
-        {
-          "type": "paragraph",
-          "text": "Entre os nomes confirmados estão Rina Satō como Haruka Minami, Marina Inoue como Kana Minami e Minori Chihara como Chiaki Minami. Nana Mizuki também retorna como Tōma Minami.",
-          "runs": [
-            {
-              "text": "Entre os nomes confirmados estão "
-            },
-            {
-              "text": "Rina Satō",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " como Haruka Minami, "
-            },
-            {
-              "text": "Marina Inoue",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " como Kana Minami e "
-            },
-            {
-              "text": "Minori Chihara",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " como Chiaki Minami. "
-            },
-            {
-              "text": "Nana Mizuki",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " também retorna como Tōma Minami."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Minami-ke-Korekara.webp",
-          "alt": "Minami-ke Korekara",
-          "caption": "© 桜場コハル・講談社／「みなみけ これから」製作委員会"
-        },
-        {
-          "type": "heading",
-          "text": "Equipe de produção",
-          "runs": [
-            {
-              "text": "Equipe de produção"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "A animação ficará sob responsabilidade do estúdio LIDEN FILMS, com direção de Jun’ichi Kitamura. Takamitsu Kōno retorna para supervisionar os roteiros, enquanto Nobuhiro Andō assume o design de personagens. Esta será a quinta série de TV da franquia.",
-          "runs": [
-            {
-              "text": "A animação ficará sob responsabilidade do estúdio "
-            },
-            {
-              "text": "LIDEN FILMS",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com direção de Jun’ichi Kitamura. Takamitsu Kōno retorna para supervisionar os roteiros, enquanto Nobuhiro Andō assume o design de personagens. Esta será a quinta série de TV da franquia."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Sobre Minami-ke",
-          "runs": [
-            {
-              "text": "Sobre Minami-ke"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "paragraph",
-          "text": "Criado por Coharu Sakuraba, o mangá acompanha as irmãs Haruka, Kana e Chiaki Minami, que vivem situações cotidianas enquanto contam umas com as outras. A obra teve início de suas publicações em 2004 na revista Weekly Young Magazine, da Kodansha.",
-          "runs": [
-            {
-              "text": "Criado por Coharu Sakuraba, o mangá acompanha as irmãs Haruka, Kana e Chiaki Minami, que vivem situações cotidianas enquanto contam umas com as outras. A obra teve início de suas publicações em 2004 na revista "
-            },
-            {
-              "text": "Weekly Young Magazine",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", da "
-            },
-            {
-              "text": "Kodansha",
-              "href": "https://animenew.com.br/tag/kodansha/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Por fim o 29º volume ganhou lançamento no dia 6 de novembro de 2026.",
-          "runs": [
-            {
-              "text": "Por fim o 29º volume ganhou lançamento no dia 6 de novembro de 2026."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Minami-ke: Korekara revela elenco e estreia em abril.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Minami-ke: Korekara revela elenco e estreia em abril",
-              "href": "https://animenew.com.br/minami-ke-korekara-anime-elenco-estreia/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-08T13:58:08.000Z",
-      "updatedAt": "2026-11-08T13:58:08.000Z",
-      "expiresAt": "2026-11-15T13:58:08.000Z",
-      "category": "Trailers",
-      "eventType": "TRAILER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/minami-ke-korekara-anime-elenco-estreia",
-          "publishedAt": "2026-11-08T13:58:08.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 238,
-      "qualityScore": 0.911,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 12,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
         "contentMode": "full",
         "mediaCount": 1,
         "embedCount": 1,

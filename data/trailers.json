@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-11T23:40:17.277Z",
+  "generatedAt": "2026-11-12T04:23:11.878Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
-  "total": 5,
+  "total": 4,
   "items": [
     {
       "id": "4cBRNisl5qA",
@@ -39,18 +39,6 @@
       "articlePath": "/noticias/my-crush-s-crush-primeiro-trailer-confirma-estreia-para-abril-de-2027-jbox-c8b4a71d",
       "thumbnail": "https://i.ytimg.com/vi/_iOewgdlvMM/maxresdefault.jpg",
       "fallbackImage": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/My-Crushs-Crush-anime-destacada.jpg"
-    },
-    {
-      "id": "3x5HMpHPbqE",
-      "videoId": "3x5HMpHPbqE",
-      "title": "Minami-ke: Korekara revela elenco e estreia em abril",
-      "articleTitle": "Minami-ke: Korekara revela elenco e estreia em abril",
-      "kind": "TRAILER",
-      "publishedAt": "2026-11-08T13:58:08.000Z",
-      "source": "AnimeNew",
-      "articlePath": "/noticias/minami-ke-korekara-revela-elenco-e-estreia-em-abril-animenew-e231e24c",
-      "thumbnail": "https://i.ytimg.com/vi/3x5HMpHPbqE/maxresdefault.jpg",
-      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Minami-ke-Korekara-revela-elenco-e-estreia-em-abril.webp"
     },
     {
       "id": "KIqV8aUPnr8",
