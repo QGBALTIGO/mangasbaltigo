@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T16:48:04.342Z",
+  "generatedAt": "2026-11-13T22:15:21.122Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
-  "total": 5,
+  "total": 4,
   "items": [
     {
       "id": "fmafMZNXeHw",
@@ -27,18 +27,6 @@
       "articlePath": "/noticias/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3-temporada-jbox-5d668e86",
       "thumbnail": "https://i.ytimg.com/vi/4cBRNisl5qA/maxresdefault.jpg",
       "fallbackImage": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-magia-e-musculos-terceira-temporada-destacada.jpg"
-    },
-    {
-      "id": "66oQRrA9_HE",
-      "videoId": "66oQRrA9_HE",
-      "title": "Steel Ball Run destaca os Stands em novo vídeo",
-      "articleTitle": "Steel Ball Run destaca os Stands em novo vídeo",
-      "kind": "TRAILER",
-      "publishedAt": "2026-11-11T02:04:05.000Z",
-      "source": "AnimeNew",
-      "articlePath": "/noticias/steel-ball-run-destaca-os-stands-em-novo-video-animenew-92c087b9",
-      "thumbnail": "https://i.ytimg.com/vi/66oQRrA9_HE/maxresdefault.jpg",
-      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Steel-Ball-Run-destaca-os-Stands-em-novo-video.webp"
     },
     {
       "id": "_iOewgdlvMM",
