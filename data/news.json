@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:46:44.017Z",
+  "generatedAt": "2026-11-13T08:49:10.954Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -65,7 +65,7 @@
     "withOrderedMedia": 23,
     "skippedTranslation": 0,
     "skippedQuality": 21,
-    "durationMs": 8914
+    "durationMs": 6374
   },
   "items": [
     {
