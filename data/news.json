@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:24:23.689Z",
+  "generatedAt": "2026-11-15T07:05:52.537Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -65,7 +65,7 @@
     "withOrderedMedia": 19,
     "skippedTranslation": 0,
     "skippedQuality": 23,
-    "durationMs": 4684
+    "durationMs": 4753
   },
   "items": [
     {
@@ -1680,7 +1680,7 @@
       "summary": "O anime Tsugumi Project (Tora Tsugumi) confirmou sua estreia para janeiro de 2027, contudo o anúncio também apresentou um novo visual da adaptação, baseada no mangá de ippatu.",
       "author": "Rafael Shinzo",
       "tags": [
-        "Mangás",
+        "Animes",
         "Notícias",
         "Tora Tsugumi",
         "Tsugumi Project"
@@ -1689,7 +1689,7 @@
       "sourceUrl": "https://animenew.com.br/anime-tsugumi-project-estreia-janeiro-2027",
       "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Tsugumi-Project-ganha-data-de-estreia-para-janeiro-de-2027.webp",
       "mediaQuery": "Tsugumi Project ganha data de estreia para janeiro de 2027",
-      "mediaType": "manga",
+      "mediaType": "anime",
       "mediaGallery": [
         {
           "type": "image",
@@ -1982,8 +1982,8 @@
       "publishedAt": "2026-11-13T00:08:12.000Z",
       "updatedAt": "2026-11-13T00:08:12.000Z",
       "expiresAt": "2026-11-20T00:08:12.000Z",
-      "category": "Mangás & novels",
-      "eventType": "MANGA",
+      "category": "Animes",
+      "eventType": "SEASON",
       "facts": [],
       "contentSections": [],
       "sources": [
@@ -3749,7 +3749,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 228,
-      "qualityScore": 0.97,
+      "qualityScore": 0.91,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -4053,7 +4053,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 273,
-      "qualityScore": 0.974,
+      "qualityScore": 0.914,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -4401,7 +4401,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 257,
-      "qualityScore": 0.974,
+      "qualityScore": 0.914,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
