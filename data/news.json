@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:11:05.657Z",
+  "generatedAt": "2026-11-16T16:04:04.170Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -60,14 +60,742 @@
     "newStories": 21,
     "fullArticles": 21,
     "previewArticles": 0,
-    "avgWords": 325,
+    "avgWords": 340,
     "withHeroImage": 21,
-    "withOrderedMedia": 19,
+    "withOrderedMedia": 18,
     "skippedTranslation": 0,
     "skippedQuality": 23,
-    "durationMs": 4977
+    "durationMs": 7169
   },
   "items": [
+    {
+      "id": "jbox-601194e2",
+      "slug": "madoka-magica-conheca-o-elenco-principal-de-dublagem-dos-filmes-no-brasil-jbox-601194e2",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Madoka Magica: Conheça o elenco principal de dublagem dos filmes no Brasil",
+      "originalTitle": "Madoka Magica: Conheça o elenco principal de dublagem dos filmes no Brasil",
+      "summary": "Os fãs brasileiros de Madoka Magica seguem ganhando algumas novidades, e uma delas é a dublagem dos filmes Beginnings, Eternal e Rebellion, que chegaram no último dia 15 ao catálogo da Crunchyroll.",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Anime",
+        "Cinema",
+        "Dublagem",
+        "Streaming",
+        "Elenco de dublagem de Madoka Magica",
+        "Filmes de Madoka Magica",
+        "Filmes de Madoka Magica dublados",
+        "Madoka Magica",
+        "Madoka Magica dublado"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/16/madoka-magica-conheca-o-elenco-principal-de-dublagem-dos-filmes-no-brasil",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/16/madoka-magica-conheca-o-elenco-principal-de-dublagem-dos-filmes-no-brasil",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/madoka-magica-beginnings-destacada.jpg",
+      "mediaQuery": "Madoka Magica: Conheça o elenco principal de dublagem dos filmes no Brasil",
+      "mediaType": "anime",
+      "mediaGallery": [],
+      "mediaEmbeds": [],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Os fãs brasileiros de Madoka Magica seguem ganhando algumas novidades, e uma delas é a dublagem dos filmes Beginnings, Eternal e Rebellion, que chegaram no último dia 15 ao catálogo da Crunchyroll.",
+          "runs": [
+            {
+              "text": "Os fãs brasileiros de "
+            },
+            {
+              "text": "Madoka Magica",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " seguem ganhando algumas novidades, e uma delas é a dublagem dos filmes "
+            },
+            {
+              "text": "Beginnings",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Eternal",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Rebellion",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", que chegaram no último dia 15 ao catálogo da "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Essa é a primeira vez que a história clássica de Madoka Magica é dublada no Brasil — anteriormente, somente a série derivada Magia Record havia ganhado as vozes em português, o que incluiu também trechos com aparições das personagens originais.",
+          "runs": [
+            {
+              "text": "Essa é a primeira vez que a história clássica de "
+            },
+            {
+              "text": "Madoka Magica",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " é dublada no Brasil — anteriormente, somente a série derivada "
+            },
+            {
+              "text": "Magia Record",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " havia ganhado as vozes em português, o que incluiu também trechos com aparições das personagens originais."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Segundo informações do WDN – World Dubbing News, em publicação feita em conjunto com parte das atrizes, o elenco de dublagem principal dos filmes é composto por:",
+          "runs": [
+            {
+              "text": "Segundo informações do "
+            },
+            {
+              "text": "WDN – World Dubbing News",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", em publicação feita em conjunto com parte das atrizes, o elenco de dublagem principal dos filmes é composto por:"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "Tatiane Keplmair (Sakura Haruno de Naruto) como Akemi Homura;",
+              "runs": [
+                {
+                  "text": "Tatiane Keplmair",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " (Sakura Haruno de"
+                },
+                {
+                  "text": " Naruto",
+                  "marks": [
+                    "em"
+                  ]
+                },
+                {
+                  "text": ") como Akemi Homura;"
+                }
+              ]
+            },
+            {
+              "text": "Flora Paulita (Caulifla em Dragon Ball Super) como Mami Tomoe;",
+              "runs": [
+                {
+                  "text": "Flora Paulita",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " (Caulifla em "
+                },
+                {
+                  "text": "Dragon Ball Super",
+                  "marks": [
+                    "em"
+                  ]
+                },
+                {
+                  "text": ") como Mami Tomoe;"
+                }
+              ]
+            },
+            {
+              "text": "Carol Ruis (Tohru Honda em Fruits Basket) como Madoka Kaname;",
+              "runs": [
+                {
+                  "text": "Carol Ruis",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " (Tohru Honda em "
+                },
+                {
+                  "text": "Fruits Basket",
+                  "marks": [
+                    "em"
+                  ]
+                },
+                {
+                  "text": ") como Madoka Kaname;"
+                }
+              ]
+            },
+            {
+              "text": "Larissa Cardoso (Eliza Shimizu em Bocchi the Rock!) como Kyoko Sakura;",
+              "runs": [
+                {
+                  "text": "Larissa Cardoso",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " (Eliza Shimizu em "
+                },
+                {
+                  "text": "Bocchi the Rock!",
+                  "marks": [
+                    "em"
+                  ]
+                },
+                {
+                  "text": ") como Kyoko Sakura;"
+                }
+              ]
+            },
+            {
+              "text": "Maitê Cunha (Annie Leonhart em Attack on Titan) como Sayaka Miki;",
+              "runs": [
+                {
+                  "text": "Maitê Cunha",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " (Annie Leonhart em "
+                },
+                {
+                  "text": "Attack on Titan",
+                  "marks": [
+                    "em"
+                  ]
+                },
+                {
+                  "text": ") como Sayaka Miki;"
+                }
+              ]
+            },
+            {
+              "text": "Sicília Vidal (Kiki em O Serviço de Entregas da Kiki, versão da Netflix) como Kyubey;",
+              "runs": [
+                {
+                  "text": "Sicília Vidal",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " (Kiki em "
+                },
+                {
+                  "text": "O Serviço de Entregas da Kiki",
+                  "marks": [
+                    "em"
+                  ]
+                },
+                {
+                  "text": ", versão da Netflix) como Kyubey;"
+                }
+              ]
+            },
+            {
+              "text": "Bianca Lua (Zelda no jogo The Legend of Zelda: Ocarina of Time) como Hitomi Shizuki.",
+              "runs": [
+                {
+                  "text": "Bianca Lua",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "text": " (Zelda no jogo "
+                },
+                {
+                  "text": "The Legend of Zelda: Ocarina of Time",
+                  "marks": [
+                    "em"
+                  ]
+                },
+                {
+                  "text": ") como Hitomi Shizuki."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "blockquote",
+          "text": "View this post on Instagram",
+          "runs": [
+            {
+              "text": " View this post on Instagram ",
+              "href": "https://www.instagram.com/p/DfxK_pZRrJt/?utm_source=ig_embed&utm_campaign=loading"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Em comparação com a dublagem de Magia Record, algumas vozes foram mantidas e outras foram trocadas. No derivado, por exemplo, Bianca Lua fez a voz de Kyubey. Já Carol Ruis foi mantida como Madoka, e o mesmo aconteceu com Maitê Cunha como Sayaka.",
+          "runs": [
+            {
+              "text": "Em comparação com a dublagem de "
+            },
+            {
+              "text": "Magia Record",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", algumas vozes foram mantidas e outras foram trocadas. No derivado, por exemplo, "
+            },
+            {
+              "text": "Bianca Lua",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " fez a voz de Kyubey. Já "
+            },
+            {
+              "text": "Carol Ruis",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " foi mantida como Madoka, e o mesmo aconteceu com "
+            },
+            {
+              "text": "Maitê Cunha",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " como Sayaka."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Já as vozes de Homura (anteriormente Samantha Rossetti), Mami (anteriormente Mariana Pozatto) e Kyoko (anteriormente Juliana Yamada) foram trocadas para a nova versão.",
+          "runs": [
+            {
+              "text": "Já as vozes de Homura (anteriormente "
+            },
+            {
+              "text": "Samantha Rossetti",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "), Mami (anteriormente "
+            },
+            {
+              "text": "Mariana Pozatto",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ") e Kyoko (anteriormente "
+            },
+            {
+              "text": "Juliana Yamada",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ") foram trocadas para a nova versão."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O JBox confirmou junto a Victor Olavo Rocca, responsável pela adaptação do texto da dublagem, que o Artworks Digital Studio é o responsável pela dublagem, com direção de Rodrigo Rossi. Até o fechamento desse texto, a Crunchyroll não incluiu os créditos de dublagem ao final dos filmes.",
+          "runs": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "JBox",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " confirmou junto a "
+            },
+            {
+              "text": "Victor Olavo Rocca",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", responsável pela adaptação do texto da dublagem, que o "
+            },
+            {
+              "text": "Artworks Digital Studio",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " é o responsável pela dublagem, com direção de "
+            },
+            {
+              "text": "Rodrigo Rossi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Até o fechamento desse texto, a Crunchyroll não incluiu os créditos de dublagem ao final dos filmes."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Outro detalhe que vale a pena pontuar: embora os filmes Beginnings e Eternal sejam compilados do animê seriado original, até o momento, os episódios não aparecem com a opção de dublagem na Crunchyroll — ainda que o conteúdo, em teoria, seja praticamente o mesmo. Vale ficar de olho se isso será atualizado futuramente.",
+          "runs": [
+            {
+              "text": "Outro detalhe que vale a pena pontuar: embora os filmes "
+            },
+            {
+              "text": "Beginnings ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "e "
+            },
+            {
+              "text": "Eternal",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " sejam compilados do animê seriado original, até o momento, os episódios não aparecem com a opção de dublagem na Crunchyroll — ainda que o conteúdo, em teoria, seja praticamente o mesmo. Vale ficar de olho se isso será atualizado futuramente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Lembrando que o lançamento da série original de Madoka Magica também está previsto para acontecer na Netflix. A produção, que já teve passagem por lá, está com página ativa e deve receber a trilogia de filmes de forma dublada no dia 2 de janeiro de 2027.",
+          "runs": [
+            {
+              "text": "Lembrando que o lançamento da série original de "
+            },
+            {
+              "text": "Madoka Magica",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " também está previsto para acontecer na Netflix",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". A produção, que já teve passagem por lá, está com "
+            },
+            {
+              "text": "página ativa",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.netflix.com/pt/title/70302572"
+            },
+            {
+              "text": " e deve receber a trilogia de filmes de forma dublada no dia "
+            },
+            {
+              "text": "2 de janeiro de 2027",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Enquanto isso, os fãs seguem aguardando também novidades sobre o lançamento no Brasil de Walpurgisnacht Rising, quarto longa da franquia já lançado no Japão e em outros territórios da América Latina. No último dia 9 de novembro, a empresa Konnichiwa prometeu novidades em breve sobre a estreia nos cinemas do nosso país.",
+          "runs": [
+            {
+              "text": "Enquanto isso, os fãs seguem aguardando também novidades sobre o lançamento no Brasil de "
+            },
+            {
+              "text": "Walpurgisnacht Rising",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": ", quarto longa da franquia já lançado no Japão e em outros territórios da América Latina. No último dia 9 de novembro, "
+            },
+            {
+              "text": "a empresa Konnichiwa prometeu novidades em breve",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/11/10/madoka-magica-konnichiwa-promete-novidades-sobre-o-novo-filme-no-brasil/"
+            },
+            {
+              "text": " sobre a estreia nos cinemas do nosso país."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A chegada do novo filme ao nosso território é esperada desde agosto, quando representantes da Aniplex divulgaram a informação do lançamento no Brasil para o JBox durante a LicensingCon Latam 2026. No entanto, o filme começou a chegar a outros países da América Latina em outubro, mas nada por aqui. A Sato Company chegou a divulgar que tinha interesse em trazer o longa para os cinemas brasileiros.",
+          "runs": [
+            {
+              "text": "A chegada do novo filme ao nosso território é esperada desde agosto, quando "
+            },
+            {
+              "text": "representantes da Aniplex divulgaram a informação do lançamento no Brasil para o ",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/12/exclusivo-novo-filme-de-madoka-magica-sera-lancado-no-brasil/"
+            },
+            {
+              "text": "JBox",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.jbox.com.br/2026/08/12/exclusivo-novo-filme-de-madoka-magica-sera-lancado-no-brasil/"
+            },
+            {
+              "text": " durante a LicensingCon Latam 2026. No entanto, o filme começou a chegar a outros países da América Latina em outubro, mas nada por aqui. A Sato Company chegou a divulgar que tinha "
+            },
+            {
+              "text": "interesse em trazer o longa para os cinemas brasileiros",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/09/14/sato-company-confirma-reunioes-para-trazer-novo-filme-de-madoka-magica-ao-brasil-mas-pede-cautela-aos-fas/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Walpurgisnacht: Rising estava originalmente previsto para 2024, passando por uma série de adiamentos até finalmente ser lançado no Japão no último dia 28 de agosto. Dando continuidade ao longa Rebellion (2013), esse novo filme é colocado como o “começo de um novo capítulo” – o que sugere que deve haver mais planos a caminho..",
+          "runs": [
+            {
+              "text": "Walpurgisnacht: Rising",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " estava originalmente previsto para 2024, passando por uma série de adiamentos até finalmente ser lançado no Japão no último dia "
+            },
+            {
+              "text": "28 de agosto",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Dando continuidade ao longa"
+            },
+            {
+              "text": " Rebellion",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " (2013), esse novo filme é colocado como o "
+            },
+            {
+              "text": "“começo de um novo capítulo”",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " – o que sugere que deve haver mais planos a caminho.."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fontes: WDN, Victor Olavo Rocca",
+          "runs": [
+            {
+              "text": "Fontes:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "WDN",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://www.instagram.com/wdn_br/?g=5"
+            },
+            {
+              "text": ", Victor Olavo Rocca",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-16T15:36:27.000Z",
+      "updatedAt": "2026-11-16T15:37:15.000Z",
+      "expiresAt": "2026-11-23T15:36:27.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/16/madoka-magica-conheca-o-elenco-principal-de-dublagem-dos-filmes-no-brasil",
+          "publishedAt": "2026-11-16T15:36:27.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 3,
+      "wordCount": 592,
+      "qualityScore": 1,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 16,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 0,
+        "embedCount": 0,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "animenew-e56d8bbb",
       "slug": "re-zero-e-renovado-para-sua-5-temporada-animenew-e56d8bbb",
@@ -7664,487 +8392,6 @@
         "ingestMode": "wp-rest",
         "contentMode": "full",
         "mediaCount": 0,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-c8b4a71d",
-      "slug": "my-crush-s-crush-primeiro-trailer-confirma-estreia-para-abril-de-2027-jbox-c8b4a71d",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "My Crush’s Crush: Primeiro trailer confirma estreia para abril de 2027",
-      "originalTitle": "My Crush’s Crush: Primeiro trailer confirma estreia para abril de 2027",
-      "summary": "Foram divulgados no site oficial de My Crush’s Crush (Boku no Suki na Hito ga Suki na Hito) os primeiros detalhes do animê. Junto a um trailer, foi confirmado que a adaptação estreia em abril de 2027 e também foram informados os nomes principais do elenco e da equipe de produção da série.",
-      "author": "Teke",
-      "tags": [
-        "Anime",
-        "Boku no Suki na Hito ga Suki na Hito",
-        "Bokusuki",
-        "My Crush's Crush"
-      ],
-      "url": "https://www.jbox.com.br/2026/11/09/my-crushs-crush-primeiro-trailer-confirma-estreia-para-abril-de-2027",
-      "sourceUrl": "https://www.jbox.com.br/2026/11/09/my-crushs-crush-primeiro-trailer-confirma-estreia-para-abril-de-2027",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/My-Crushs-Crush-anime-destacada.jpg",
-      "mediaQuery": "My Crush’s Crush: Primeiro trailer confirma estreia para abril de 2027",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/my-crushs-crush-poster.jpg",
-          "alt": "imagem: primeiro pôster do animê 'My Crush's Crush'. Os três protagonistas estão deitados juntos na ilustração, cada um para um lado.",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/_iOewgdlvMM"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "Foram divulgados no site oficial de My Crush’s Crush (Boku no Suki na Hito ga Suki na Hito) os primeiros detalhes do animê. Junto a um trailer, foi confirmado que a adaptação estreia em abril de 2027 e também foram informados os nomes principais do elenco e da equipe de produção da série.",
-          "runs": [
-            {
-              "text": "Foram divulgados no site oficial de "
-            },
-            {
-              "text": "My Crush’s Crush",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Boku no Suki na Hito ga Suki na Hito",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") os primeiros detalhes do animê. Junto a um trailer, foi confirmado que a adaptação "
-            },
-            {
-              "text": "estreia em abril de 2027",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e também foram informados os nomes principais do elenco e da equipe de produção da série."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Confira o trailer e também o pôster abaixo:",
-          "runs": [
-            {
-              "text": "Confira o trailer e também o pôster abaixo:"
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=_iOewgdlvMM",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/_iOewgdlvMM"
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/my-crushs-crush-poster.jpg",
-          "alt": "imagem: primeiro pôster do animê 'My Crush's Crush'. Os três protagonistas estão deitados juntos na ilustração, cada um para um lado."
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: Divulgação/Hakusensha/Comitê de produção do animê",
-          "runs": [
-            {
-              "text": "Imagem: Divulgação/Hakusensha/Comitê de produção do animê"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "My Crush’s Crush conta com direção de Kazuomi Koga (Namorada de Aluguel) e roteiros por Yoriko Tomita (My Dress-Up Darling). Takayuki Noguchi (Meu Anjo de Vizinha Me Mima Demais) ficou responsável pelo design de personagens e a trilha sonora é assinada por Rina Tayama (Yowayowa Sensei). O estúdio project No.9 cuida da produção da animação.",
-          "runs": [
-            {
-              "text": "My Crush’s Crush",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " conta com direção de "
-            },
-            {
-              "text": "Kazuomi Koga",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Namorada de Aluguel",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") e roteiros por "
-            },
-            {
-              "text": "Yoriko Tomita",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "My Dress-Up Darling",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "). "
-            },
-            {
-              "text": "Takayuki Noguchi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Meu Anjo de Vizinha Me Mima Demais",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") ficou responsável pelo design de personagens e a trilha sonora é assinada por "
-            },
-            {
-              "text": "Rina Tayama",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ("
-            },
-            {
-              "text": "Yowayowa Sensei",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "). O estúdio "
-            },
-            {
-              "text": "project No.9",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " cuida da produção da animação."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O elenco principal do animê é formado por:",
-          "runs": [
-            {
-              "text": "O elenco principal do animê é formado por:"
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Gakuto Kajiwara (Asta em Black Clover) como Sora Akizuki",
-              "runs": [
-                {
-                  "text": "Gakuto Kajiwara",
-                  "marks": [
-                    "strong"
-                  ]
-                },
-                {
-                  "text": " (Asta em "
-                },
-                {
-                  "text": "Black Clover",
-                  "marks": [
-                    "em"
-                  ]
-                },
-                {
-                  "text": ") como "
-                },
-                {
-                  "text": "Sora Akizuki",
-                  "marks": [
-                    "strong"
-                  ]
-                }
-              ]
-            },
-            {
-              "text": "Haruna Mikawa (Satsuki em mono) como Asahi Suzukaze",
-              "runs": [
-                {
-                  "text": "Haruna Mikawa",
-                  "marks": [
-                    "strong"
-                  ]
-                },
-                {
-                  "text": " (Satsuki em "
-                },
-                {
-                  "text": "mono",
-                  "marks": [
-                    "em"
-                  ]
-                },
-                {
-                  "text": ") como "
-                },
-                {
-                  "text": "Asahi Suzukaze",
-                  "marks": [
-                    "strong"
-                  ]
-                }
-              ]
-            },
-            {
-              "text": "Nene Hieda (Douki em Ganbare Douki-chan) como Miya Fuwa",
-              "runs": [
-                {
-                  "text": "Nene Hieda",
-                  "marks": [
-                    "strong"
-                  ]
-                },
-                {
-                  "text": " (Douki em "
-                },
-                {
-                  "text": "Ganbare Douki-chan",
-                  "marks": [
-                    "em"
-                  ]
-                },
-                {
-                  "text": ") como "
-                },
-                {
-                  "text": "Miya Fuwa",
-                  "marks": [
-                    "strong"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O mangá original é escrito por Sekina Aoi (Gamers!, Seitokai no Ichizon) e ilustrado por Ryou Tsuzura. A publicação da obra ocorre desde 2022 na Young Animal Zero, contando até então com 7 volumes encadernados pela Hakusensha.",
-          "runs": [
-            {
-              "text": "O mangá original é escrito por "
-            },
-            {
-              "text": "Sekina Aoi ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "("
-            },
-            {
-              "text": "Gamers!",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Seitokai no Ichizon)",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e ilustrado por "
-            },
-            {
-              "text": "Ryou Tsuzura",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". A publicação da obra ocorre desde 2022 na "
-            },
-            {
-              "text": "Young Animal Zero",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", contando até então com "
-            },
-            {
-              "text": "7 volumes encadernados pela Hakusensha",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A história acompanha Sora Akizuki, que se declara para Miya Fuwa e rapidamente é rejeitado. A garota gosta de Asahi Suzukaze, presidente do Clube de Experimentação, que tem como objetivo testar várias coisas (algumas delas bizarras) para os alunos da escola. Sora decide entrar para o clube para aprender mais sobre sua rival no amor, mas acaba descobrindo que ela também gosta de outra pessoa.",
-          "runs": [
-            {
-              "text": "A história acompanha Sora Akizuki, que se declara para Miya Fuwa e rapidamente é rejeitado. A garota gosta de Asahi Suzukaze, presidente do Clube de Experimentação, que tem como objetivo testar várias coisas (algumas delas bizarras) para os alunos da escola. Sora decide entrar para o clube para aprender mais sobre sua rival no amor, mas acaba descobrindo que ela também gosta de outra pessoa."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Site oficial de My Crush’s Crush",
-          "runs": [
-            {
-              "text": "Fonte",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ": "
-            },
-            {
-              "text": "Site oficial de My Crush’s Crush",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://bokusuki.com/"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-09T13:32:55.000Z",
-      "updatedAt": "2026-11-09T13:34:46.000Z",
-      "expiresAt": "2026-11-16T13:32:55.000Z",
-      "category": "Trailers",
-      "eventType": "TRAILER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/11/09/my-crushs-crush-primeiro-trailer-confirma-estreia-para-abril-de-2027",
-          "publishedAt": "2026-11-09T13:32:55.000Z",
-          "author": "Teke"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 282,
-      "qualityScore": 0.918,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 13,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
         "embedCount": 1,
         "sourcePagesRead": 0
       }
