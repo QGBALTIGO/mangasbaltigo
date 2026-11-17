@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:07:07.099Z",
+  "generatedAt": "2026-11-17T17:35:30.783Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,17 +55,17 @@
   ],
   "stats": {
     "collected": 44,
-    "grouped": 21,
-    "published": 21,
-    "newStories": 21,
-    "fullArticles": 21,
+    "grouped": 20,
+    "published": 20,
+    "newStories": 20,
+    "fullArticles": 20,
     "previewArticles": 0,
-    "avgWords": 334,
-    "withHeroImage": 21,
-    "withOrderedMedia": 18,
+    "avgWords": 340,
+    "withHeroImage": 20,
+    "withOrderedMedia": 17,
     "skippedTranslation": 0,
-    "skippedQuality": 23,
-    "durationMs": 8161
+    "skippedQuality": 24,
+    "durationMs": 5417
   },
   "items": [
     {
@@ -2502,7 +2502,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 232,
-      "qualityScore": 0.968,
+      "qualityScore": 0.908,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -2827,7 +2827,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 233,
-      "qualityScore": 0.971,
+      "qualityScore": 0.911,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -7985,316 +7985,6 @@
         "contentMode": "full",
         "mediaCount": 1,
         "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-ee9d9fee",
-      "slug": "personagem-kuromi-da-sanrio-vai-ganhar-primeiro-filme-em-2027-jbox-ee9d9fee",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Personagem Kuromi, da Sanrio, vai ganhar primeiro filme em 2027",
-      "originalTitle": "Personagem Kuromi, da Sanrio, vai ganhar primeiro filme em 2027",
-      "summary": "A personagem Kuromi, da Sanrio, terá seu primeiro filme lançado em 2027. A novidade foi divulgada no último dia 31 de outubro, que marca o Halloween e também o aniversário da personagem.",
-      "author": "Cakes Sousa",
-      "tags": [
-        "Anime",
-        "Cinema",
-        "filme da Kuromi",
-        "filme da Kuromi em 2027",
-        "Hello Kitty and Friends",
-        "Kuromi",
-        "My Melody e Kuromi",
-        "sanrio"
-      ],
-      "url": "https://www.jbox.com.br/2026/11/10/personagem-kuromi-da-sanrio-vai-ganhar-primeiro-filme-em-2027",
-      "sourceUrl": "https://www.jbox.com.br/2026/11/10/personagem-kuromi-da-sanrio-vai-ganhar-primeiro-filme-em-2027",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Filme-Kuromi-2027-destacada-02.jpg",
-      "mediaQuery": "Personagem Kuromi, da Sanrio, vai ganhar primeiro filme em 2027",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Filme-Kuromi-2027-01.jpg",
-          "alt": "Cartaz do filme da Kuromi",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/IrB1Uqx0Jzg"
-        },
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/bvSylR-NPLY"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A personagem Kuromi, da Sanrio, terá seu primeiro filme lançado em 2027. A novidade foi divulgada no último dia 31 de outubro, que marca o Halloween e também o aniversário da personagem.",
-          "runs": [
-            {
-              "text": "A personagem "
-            },
-            {
-              "text": "Kuromi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", da "
-            },
-            {
-              "text": "Sanrio",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", terá seu primeiro filme lançado em 2027. A novidade foi divulgada no último dia 31 de outubro, que marca o Halloween e também o aniversário da personagem."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Junto ao anúncio, foram lançados um vídeo e uma arte, que podem indicar qual será o visual e o traço utilizado no longa-metragem. Por enquanto a estreia do filme está marcada para o Japão, pela distribuidora GAGA, em data a ser confirmada. Detalhes sobre a possível estreia em outros territórios devem ser divulgados futuramente.",
-          "runs": [
-            {
-              "text": "Junto ao anúncio, foram lançados um vídeo e uma arte, que podem indicar qual será o visual e o traço utilizado no longa-metragem. Por enquanto a estreia do filme está marcada para o Japão, pela distribuidora GAGA, em data a ser confirmada. Detalhes sobre a possível estreia em outros territórios devem ser divulgados futuramente."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=IrB1Uqx0Jzg",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/IrB1Uqx0Jzg"
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Filme-Kuromi-2027-01.jpg",
-          "alt": "Cartaz do filme da Kuromi"
-        },
-        {
-          "type": "paragraph",
-          "text": "Cartaz do filme da Kuromi | Sanrio/Divulgação",
-          "runs": [
-            {
-              "text": "Cartaz do filme da Kuromi | Sanrio/Divulgação"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Ao lado de Hello Kitty, Cinnamoroll e Pompompurin, Kuromi faz parte do hall de personagens mais populares da Sanrio. Ela foi criada em 2005 como uma antagonista da animação Onegai My Melody, mas eventualmente fez sucesso por conta própria e passou a protagonizar produções e ter produtos próprios à venda nas lojas.",
-          "runs": [
-            {
-              "text": "Ao lado de "
-            },
-            {
-              "text": "Hello Kitty",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Cinnamoroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Pompompurin",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", Kuromi faz parte do hall de personagens mais populares da Sanrio. Ela foi criada em 2005 como uma antagonista da animação "
-            },
-            {
-              "text": "Onegai My Melody",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", mas eventualmente fez sucesso por conta própria e passou a protagonizar produções e ter produtos próprios à venda nas lojas."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Além de aparecer também em séries como Hello Kitty and Friends Supercute Adventures (2020), e a recente My Melody & Kuromi, feita em stop-motion e lançada em 2025 na Netflix, a personagem também ganhou uma animação própria em 2023, chamada de Kuromi’s Pretty Journey, e disponível no canal Hello Kitty & Amigos Brasil.",
-          "runs": [
-            {
-              "text": "Além de aparecer também em séries como "
-            },
-            {
-              "text": "Hello Kitty and Friends Supercute Adventures",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " (2020), e a recente "
-            },
-            {
-              "text": "My Melody & Kuromi",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", feita em stop-motion e lançada em 2025 na "
-            },
-            {
-              "text": "Netflix",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", a personagem também ganhou uma animação própria em 2023, chamada de "
-            },
-            {
-              "text": "Kuromi’s Pretty Journey",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", e disponível no canal "
-            },
-            {
-              "text": "Hello Kitty & Amigos Brasil",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=bvSylR-NPLY",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/bvSylR-NPLY"
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Anime News Network",
-          "runs": [
-            {
-              "text": "Fonte: ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Anime News Network",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.animenewsnetwork.com/news/2026-10-30/sanrio-kuromi-character-gets-1st-film-in-2027/.243372"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " ",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": "Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-10T15:38:24.000Z",
-      "updatedAt": "2026-11-10T15:44:55.000Z",
-      "expiresAt": "2026-11-17T15:38:24.000Z",
-      "category": "Notícias",
-      "eventType": "OTHER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/11/10/personagem-kuromi-da-sanrio-vai-ganhar-primeiro-filme-em-2027",
-          "publishedAt": "2026-11-10T15:38:24.000Z",
-          "author": "Cakes Sousa"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 219,
-      "qualityScore": 0.908,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 11,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 2,
         "sourcePagesRead": 0
       }
     }
