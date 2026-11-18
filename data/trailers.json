@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-18T16:33:18.028Z",
+  "generatedAt": "2026-11-18T23:04:48.073Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
   "total": 3,
   "items": [
+    {
+      "id": "SJdisi3kEhQ",
+      "videoId": "SJdisi3kEhQ",
+      "title": "Mistress Kanan",
+      "articleTitle": "Mistress Kanan ganha trailer e estreia em 2027",
+      "kind": "TRAILER",
+      "publishedAt": "2026-11-18T20:32:33.000Z",
+      "source": "AnimeNew",
+      "articlePath": "/noticias/mistress-kanan-ganha-trailer-e-estreia-em-2027-animenew-29d5f8b7",
+      "thumbnail": "https://i.ytimg.com/vi/SJdisi3kEhQ/maxresdefault.jpg",
+      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Mistress-Kanan-ganha-trailer-e-estreia-em-2027.webp"
+    },
     {
       "id": "Mu1bChJEm1c",
       "videoId": "Mu1bChJEm1c",
@@ -27,18 +39,6 @@
       "articlePath": "/noticias/nabe-ni-tama-wo-ukenagara-revela-elenco-e-estreia-em-janeiro-animenew-2cac4cc2",
       "thumbnail": "https://i.ytimg.com/vi/fmafMZNXeHw/maxresdefault.jpg",
       "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Nabe-ni-Tama-wo-Ukenagara-revela-elenco-e-estreia-em-janeiro.webp"
-    },
-    {
-      "id": "4cBRNisl5qA",
-      "videoId": "4cBRNisl5qA",
-      "title": "‘Mashle: Magia e Músculos’",
-      "articleTitle": "‘Mashle: Magia e Músculos’ divulga teaser, pôster e atores da 3ª temporada",
-      "kind": "TEASER",
-      "publishedAt": "2026-11-11T21:18:32.000Z",
-      "source": "JBox",
-      "articlePath": "/noticias/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3-temporada-jbox-5d668e86",
-      "thumbnail": "https://i.ytimg.com/vi/4cBRNisl5qA/maxresdefault.jpg",
-      "fallbackImage": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-magia-e-musculos-terceira-temporada-destacada.jpg"
     }
   ]
 }

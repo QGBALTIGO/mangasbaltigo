@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:33:18.028Z",
+  "generatedAt": "2026-11-18T23:04:48.073Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -60,14 +60,631 @@
     "newStories": 23,
     "fullArticles": 23,
     "previewArticles": 0,
-    "avgWords": 369,
+    "avgWords": 354,
     "withHeroImage": 23,
     "withOrderedMedia": 20,
     "skippedTranslation": 0,
     "skippedQuality": 22,
-    "durationMs": 11383
+    "durationMs": 4859
   },
   "items": [
+    {
+      "id": "jbox-0e5ccff9",
+      "slug": "spice-and-wolf-2-temporada-do-remake-estreia-em-janeiro-jbox-0e5ccff9",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Spice and Wolf: 2ª temporada do remake estreia em janeiro",
+      "originalTitle": "Spice and Wolf: 2ª temporada do remake estreia em janeiro",
+      "summary": "Foi anunciado no site oficial de Spice and Wolf que a segunda temporada da nova adaptação animada estreia em janeiro de 2027. Um pôster foi divulgado junto com a previsão de estreia:",
+      "author": "Teke",
+      "tags": [
+        "Anime",
+        "2ª temporada de Spice and Wolf",
+        "Ookami to Koushinryou",
+        "spice and wolf",
+        "Spice and Wolf remake",
+        "Spice and Wolf: MERCHANT MEETS THE WISE WOLF"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/18/spice-and-wolf-2a-temporada-do-remake-estreia-em-janeiro",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/18/spice-and-wolf-2a-temporada-do-remake-estreia-em-janeiro",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/spice-and-wolf-remake-2a-temporada-destacada.jpg",
+      "mediaQuery": "Spice and Wolf: 2ª temporada do remake estreia em janeiro",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/spice-and-wolf-remake-2a-temporada-poster.jpg",
+          "alt": "imagem: pôster da 2ª temporada do remake de 'Spice and Wolf'.",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/e8Heas5oYOw"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Foi anunciado no site oficial de Spice and Wolf que a segunda temporada da nova adaptação animada estreia em janeiro de 2027. Um pôster foi divulgado junto com a previsão de estreia:",
+          "runs": [
+            {
+              "text": "Foi anunciado no site oficial de "
+            },
+            {
+              "text": "Spice and Wolf",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": " que a segunda temporada da nova adaptação animada estreia em "
+            },
+            {
+              "text": "janeiro de 2027",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". Um pôster foi divulgado junto com a previsão de estreia:"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/spice-and-wolf-remake-2a-temporada-poster.jpg",
+          "alt": "imagem: pôster da 2ª temporada do remake de 'Spice and Wolf'."
+        },
+        {
+          "type": "paragraph",
+          "text": "A segunda temporada de Spice and Wolf: MERCHANT MEETS THE WISE WOLF conta com o retorno Taleo Takahashi para a chefia de direção, trabalho que ele faz junto de Hijiri Sanpei, diretor da primeira temporada. A direção da série em si agora é por conta de Nobuyoshi Nagayama (Smile Down the Runway) e Takahiro Majima (direção de episódios em Kengan Ashura). Outros retornos incluem Koji Haneda no design de personagens e Kevin Penkin na trilha sonora, além da produção da animação continuar nas mãos do estúdio Passione.",
+          "runs": [
+            {
+              "text": "A segunda temporada de "
+            },
+            {
+              "text": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " conta com o retorno "
+            },
+            {
+              "text": "Taleo Takahashi",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " para a chefia de direção, trabalho que ele faz junto de "
+            },
+            {
+              "text": "Hijiri Sanpei",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", diretor da primeira temporada. A direção da série em si agora é por conta de "
+            },
+            {
+              "text": "Nobuyoshi Nagayama",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Smile Down the Runway",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") e "
+            },
+            {
+              "text": "Takahiro Majima ",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "(direção de episódios em "
+            },
+            {
+              "text": "Kengan Ashura",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "). Outros retornos incluem "
+            },
+            {
+              "text": "Koji Haneda",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " no design de personagens e "
+            },
+            {
+              "text": "Kevin Penkin",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " na trilha sonora, além da produção da animação continuar nas mãos do estúdio "
+            },
+            {
+              "text": "Passione",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Já a primeira temporada do remake foi exibida em 2024, contando com 25 episódios ao todo. O animê está disponível com dublagem e legendas em português na Crunchyroll, tratamento que a adaptação original exibida entre 2008 e 2009 também recebeu na plataforma.",
+          "runs": [
+            {
+              "text": "Já a primeira temporada do remake foi exibida em 2024, contando com 25 episódios ao todo. O animê está disponível com dublagem e legendas em português na "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", tratamento que a adaptação original exibida entre 2008 e 2009 também recebeu na plataforma."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Spice and Wolf (Ookami to Koushinryou) conta sobre o mercador andarilho Lawrence e a deusa-loba Holo, capaz de se transformar em uma garota. Ofuscada pelos novos métodos de colheita, Holo quer sair em uma aventura e eventualmente voltar para sua terra natal, Yoitsu. Após convencer Lawrence, eles partem em uma jornada juntos.",
+          "runs": [
+            {
+              "text": "Spice and Wolf",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "(Ookami to Koushinryou) ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "conta sobre o mercador andarilho Lawrence e a deusa-loba Holo, capaz de se transformar em uma garota. Ofuscada pelos novos métodos de colheita, Holo quer sair em uma aventura e eventualmente voltar para sua terra natal, Yoitsu. Após convencer Lawrence, eles partem em uma jornada juntos."
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=e8Heas5oYOw",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/e8Heas5oYOw"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Spice and Wolf (site oficial)",
+          "runs": [
+            {
+              "text": "Fonte",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ": "
+            },
+            {
+              "text": "Spice and Wolf (site oficial)",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://spice-and-wolf.com/news/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-18T22:56:54.000Z",
+      "updatedAt": "2026-11-18T22:59:39.000Z",
+      "expiresAt": "2026-11-25T22:56:54.000Z",
+      "category": "Animes",
+      "eventType": "SEASON",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/18/spice-and-wolf-2a-temporada-do-remake-estreia-em-janeiro",
+          "publishedAt": "2026-11-18T22:56:54.000Z",
+          "author": "Teke"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 236,
+      "qualityScore": 0.967,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 9,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
+    {
+      "id": "animenew-29d5f8b7",
+      "slug": "mistress-kanan-ganha-trailer-e-estreia-em-2027-animenew-29d5f8b7",
+      "source": "AnimeNew",
+      "sourceType": "ANIMENEW",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Mistress Kanan ganha trailer e estreia em 2027",
+      "originalTitle": "Mistress Kanan ganha trailer e estreia em 2027",
+      "summary": "A segunda temporada de Mistress Kanan is Devilishly Easy (Kanan-sama wa Akumade Choroi) ganhou seu primeiro trailer completo, novo visual promocional e detalhes do elenco e da equipe de produção. A estreia está prevista para 2027.",
+      "author": "Rafael Shinzo",
+      "tags": [
+        "Animes",
+        "Notícias",
+        "Kanan-sama wa Akumade Choroi",
+        "Mistress Kanan is Devilishly Easy"
+      ],
+      "url": "https://animenew.com.br/mistress-kanan-temporada-2-trailer-2027",
+      "sourceUrl": "https://animenew.com.br/mistress-kanan-temporada-2-trailer-2027",
+      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Mistress-Kanan-ganha-trailer-e-estreia-em-2027.webp",
+      "mediaQuery": "Mistress Kanan ganha trailer e estreia em 2027",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Mistress-Kanan-is-Devilishly-Easy.webp",
+          "alt": "Mistress Kanan is Devilishly Easy",
+          "caption": "©nonco・講談社／カナン様はあくまでチョロい製作委員会"
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/SJdisi3kEhQ"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "A segunda temporada de Mistress Kanan is Devilishly Easy (Kanan-sama wa Akumade Choroi) ganhou seu primeiro trailer completo, novo visual promocional e detalhes do elenco e da equipe de produção. A estreia está prevista para 2027.",
+          "runs": [
+            {
+              "text": "A segunda temporada de "
+            },
+            {
+              "text": "Mistress Kanan is Devilishly Easy",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Kanan-sama wa Akumade Choroi",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") ganhou seu primeiro trailer completo, novo visual promocional e detalhes do elenco e da equipe de produção. A estreia está prevista para 2027."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "text": "The Days of Diamond terá adaptação para anime",
+              "runs": [
+                {
+                  "text": "The Days of Diamond terá adaptação para anime",
+                  "href": "https://animenew.com.br/the-days-of-diamond-anime"
+                }
+              ]
+            },
+            {
+              "text": "Re:ZERO ganha sua 5ª temporada",
+              "runs": [
+                {
+                  "text": "Re:ZERO ganha sua 5ª temporada",
+                  "href": "https://animenew.com.br/rezero-5-temporada-anunciada"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=SJdisi3kEhQ",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/SJdisi3kEhQ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Intitulada Kanan-sama wa Akumade Choroi 2 EASY, a continuação também confirmou quatro novas integrantes no elenco: Sendo assim, Misato Matsuoka como Tekka Shinryūji, Miku Itō como Hanako Ohanabatake, Miyu Tomita como Lily Kageno e Lynn como Koko Kyōgi.",
+          "runs": [
+            {
+              "text": "Intitulada "
+            },
+            {
+              "text": "Kanan-sama wa Akumade Choroi 2 EASY",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", a continuação também confirmou quatro novas integrantes no elenco: Sendo assim, Misato Matsuoka como Tekka Shinryūji, Miku Itō como Hanako Ohanabatake, Miyu Tomita como Lily Kageno e Lynn como Koko Kyōgi."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Mistress-Kanan-is-Devilishly-Easy.webp",
+          "alt": "Mistress Kanan is Devilishly Easy",
+          "caption": "©nonco・講談社／カナン様はあくまでチョロい製作委員会"
+        },
+        {
+          "type": "paragraph",
+          "text": "Entre os retornos estão Aoi Koga como Kanan Takakiyo e Seiichirō Yamashita como Yōji Kyōgi, além de Sayumi Suzushiro, Maki Kawase e Ayana Nanase.",
+          "runs": [
+            {
+              "text": "Entre os retornos estão Aoi Koga como Kanan Takakiyo e Seiichirō Yamashita como Yōji Kyōgi, além de Sayumi Suzushiro, Maki Kawase e Ayana Nanase."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Equipe de produção",
+          "runs": [
+            {
+              "text": "Equipe de produção",
+              "marks": [
+                "strong"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Yasushi Muroya retorna à direção no Studio KAI, com Hisashi Isogawa como assistente. Rintarō Ikeda novamente cuida dos roteiros, enquanto Akari Minagawa assume mais uma vez o design de personagens.",
+          "runs": [
+            {
+              "text": "Yasushi Muroya retorna à direção no "
+            },
+            {
+              "text": "Studio KAI",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com Hisashi Isogawa como assistente. Rintarō Ikeda novamente cuida dos roteiros, enquanto Akari Minagawa assume mais uma vez o design de personagens."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "História de Mistress Kanan",
+          "runs": [
+            {
+              "text": "História de Mistress Kanan"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "A história acompanha Kanan, uma demônio que se infiltra na sociedade humana como estudante do ensino médio para devorar almas. Entretanto, seus planos mudam quando ela acaba se tornando namorada de um garoto antes mesmo de conseguir atacá-lo.",
+          "runs": [
+            {
+              "text": "A história acompanha Kanan, uma demônio que se infiltra na sociedade humana como estudante do ensino médio para devorar almas. Entretanto, seus planos mudam quando ela acaba se tornando namorada de um garoto antes mesmo de conseguir atacá-lo.",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A primeira temporada estreou em 4 de abril de 2026, com transmissão pela Crunchyroll. O mangá de nonco começou a ser publicado na Weekly Shōnen Magazine, da Kodansha, em junho de 2022.",
+          "runs": [
+            {
+              "text": "A primeira temporada estreou em 4 de abril de 2026, com transmissão pela "
+            },
+            {
+              "text": "Crunchyroll",
+              "href": "https://animenew.com.br/tag/crunchyroll/"
+            },
+            {
+              "text": ". O "
+            },
+            {
+              "text": "mangá",
+              "href": "https://animenew.com.br/mangas"
+            },
+            {
+              "text": " de nonco começou a ser publicado na "
+            },
+            {
+              "text": "Weekly Shōnen Magazine",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", da "
+            },
+            {
+              "text": "Kodansha",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", em junho de 2022."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Site Oficial",
+          "runs": [
+            {
+              "text": "Fonte: "
+            },
+            {
+              "text": "Site Oficial",
+              "href": "https://kanachoro-anime.com/news/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Mistress Kanan ganha trailer e estreia em 2027.",
+          "runs": [
+            {
+              "text": "Este artigo foi publicado originalmente no "
+            },
+            {
+              "text": "AnimeNew",
+              "href": "https://animenew.com.br/"
+            },
+            {
+              "text": ".  Leia a versão completa em "
+            },
+            {
+              "text": "Mistress Kanan ganha trailer e estreia em 2027",
+              "href": "https://animenew.com.br/mistress-kanan-temporada-2-trailer-2027/"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-18T20:32:33.000Z",
+      "updatedAt": "2026-11-18T20:32:33.000Z",
+      "expiresAt": "2026-11-25T20:32:33.000Z",
+      "category": "Trailers",
+      "eventType": "TRAILER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "AnimeNew",
+          "url": "https://animenew.com.br/mistress-kanan-temporada-2-trailer-2027",
+          "publishedAt": "2026-11-18T20:32:33.000Z",
+          "author": "Rafael Shinzo"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 242,
+      "qualityScore": 0.973,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 13,
+        "sourceCount": 1,
+        "ingestMode": "rss-full",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-ec7d420e",
       "slug": "critica-fall-in-love-you-false-angels-volume-1-jbc-jbox-ec7d420e",
@@ -10083,262 +10700,6 @@
       }
     },
     {
-      "id": "animenew-a4f4b5d6",
-      "slug": "gundam-seed-freedom-zero-ganhara-novel-em-janeiro-animenew-a4f4b5d6",
-      "source": "AnimeNew",
-      "sourceType": "ANIMENEW",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Gundam Seed Freedom Zero ganhará novel em janeiro",
-      "originalTitle": "Gundam Seed Freedom Zero ganhará novel em janeiro",
-      "summary": "A franquia Gundam Seed ganhará uma nova adaptação em formato de novel. Sendo assim a obra será baseada em Mobile Suit Gundam Seed FREEDOM ZERO, prelúdio do filme lançado em 2024.",
-      "author": "Rafael Shinzo",
-      "tags": [
-        "Cinema",
-        "Notícias",
-        "Otaku",
-        "Gundam Seed"
-      ],
-      "url": "https://animenew.com.br/gundam-seed-freedom-zero-novel",
-      "sourceUrl": "https://animenew.com.br/gundam-seed-freedom-zero-novel",
-      "image": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Gundam-Seed-Freedom-Zero-ganhara-novel-em-janeiro.webp",
-      "mediaQuery": "Gundam Seed Freedom Zero ganhará novel em janeiro",
-      "mediaType": "manga",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/GSFZ_TSR_B1_ENG_RGB_small-scaled.webp",
-          "alt": "Mobile Suit Gundam Seed FREEDOM ZERO",
-          "caption": "© Sunrise"
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/FEeahlHaGyk"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A franquia Gundam Seed ganhará uma nova adaptação em formato de novel. Sendo assim a obra será baseada em Mobile Suit Gundam Seed FREEDOM ZERO, prelúdio do filme lançado em 2024.",
-          "runs": [
-            {
-              "text": "A franquia "
-            },
-            {
-              "text": "Gundam Seed",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " ganhará uma nova adaptação em formato de novel. Sendo assim a obra será baseada em "
-            },
-            {
-              "text": "Mobile Suit Gundam Seed FREEDOM ZERO",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", prelúdio do filme lançado em 2024."
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            {
-              "text": "Berserk of Gluttony anuncia estreia da 2ª temporada",
-              "runs": [
-                {
-                  "text": "Berserk of Gluttony anuncia estreia da 2ª temporada",
-                  "href": "https://animenew.com.br/berserk-of-gluttony-2-temporada-estreia"
-                }
-              ]
-            },
-            {
-              "text": "Black Clover confirma Asta como uma entidade divina",
-              "runs": [
-                {
-                  "text": "Black Clover confirma Asta como uma entidade divina",
-                  "href": "https://animenew.com.br/asta-black-clover-entidade-divina"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A editora Kadokawa confirmou o lançamento do livro para 19 de janeiro de 2027. Liu Goto, roteirista de Mobile Suit Gundam Seed FREEDOM, ficará responsável pela história. Ele também escreveu a a história nova do longa-metragem.",
-          "runs": [
-            {
-              "text": "A editora "
-            },
-            {
-              "text": "Kadokawa",
-              "href": "https://animenew.com.br/tag/kadokawa/"
-            },
-            {
-              "text": " confirmou o lançamento do livro para 19 de janeiro de 2027. Liu Goto, roteirista de "
-            },
-            {
-              "text": "Mobile Suit Gundam Seed FREEDOM",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", ficará responsável pela história. Ele também escreveu a a história nova do longa-metragem."
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "url": "https://wp.animenew.com.br/wp-content/uploads/2026/11/GSFZ_TSR_B1_ENG_RGB_small-scaled.webp",
-          "alt": "Mobile Suit Gundam Seed FREEDOM ZERO",
-          "caption": "© Sunrise"
-        },
-        {
-          "type": "paragraph",
-          "text": "Portanto Tomofumi Ogasawara, conhecido pelas ilustrações das novels de Mobile Suit Gundam Seed, retornará para trabalhar nas artes da nova publicação.",
-          "runs": [
-            {
-              "text": "Portanto "
-            },
-            {
-              "text": "Tomofumi Ogasawara",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", conhecido pelas ilustrações das novels de Mobile Suit Gundam Seed, retornará para trabalhar nas artes da nova publicação."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Filme de Gundam Seed estreia em janeiro",
-          "runs": [
-            {
-              "text": "Filme de Gundam Seed estreia em janeiro"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=FEeahlHaGyk",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/FEeahlHaGyk"
-        },
-        {
-          "type": "paragraph",
-          "text": "A animação de Gundam Seed FREEDOM ZERO chegará aos cinemas japoneses em 15 de janeiro de 2027. Já a estreia na América do Norte está prevista para fevereiro do mesmo ano. O projeto funciona como prelúdio de Mobile Suit Gundam Seed FREEDOM.",
-          "runs": [
-            {
-              "text": "A animação de Gundam Seed FREEDOM ZERO chegará aos cinemas japoneses em 15 de janeiro de 2027.",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " Já a estreia na América do Norte está prevista para fevereiro do mesmo ano. O projeto funciona como prelúdio de Mobile Suit Gundam Seed FREEDOM."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Assim segundo o diretor Mitsuo Fukuda, a equipe concluiu o roteiro há aproximadamente 20 anos, quando planejava lançar a produção como um OVA.",
-          "runs": [
-            {
-              "text": "Assim segundo o diretor Mitsuo Fukuda, a equipe concluiu o roteiro há aproximadamente 20 anos, quando planejava lançar a produção como um OVA."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A equipe já concluiu quase metade dos storyboards e finalizou as gravações de voz. Por fim ainda não há confirmação sobre o formato final de lançamento da animação.",
-          "runs": [
-            {
-              "text": "A equipe já concluiu quase metade dos storyboards e finalizou as gravações de voz. Por fim ainda não há confirmação sobre o formato final de lançamento da animação."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Kadokawa",
-          "runs": [
-            {
-              "text": "Fonte: "
-            },
-            {
-              "text": "Kadokawa",
-              "href": "https://www.kadokawa.co.jp/product/322609000810/"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Este artigo foi publicado originalmente no AnimeNew. Leia a versão completa em Gundam Seed Freedom Zero ganhará novel em janeiro.",
-          "runs": [
-            {
-              "text": "Este artigo foi publicado originalmente no "
-            },
-            {
-              "text": "AnimeNew",
-              "href": "https://animenew.com.br/"
-            },
-            {
-              "text": ".  Leia a versão completa em "
-            },
-            {
-              "text": "Gundam Seed Freedom Zero ganhará novel em janeiro",
-              "href": "https://animenew.com.br/gundam-seed-freedom-zero-novel/"
-            },
-            {
-              "text": "."
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-12T02:50:40.000Z",
-      "updatedAt": "2026-11-12T02:50:40.000Z",
-      "expiresAt": "2026-11-19T02:50:40.000Z",
-      "category": "Mangás & novels",
-      "eventType": "MANGA",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "AnimeNew",
-          "url": "https://animenew.com.br/gundam-seed-freedom-zero-novel",
-          "publishedAt": "2026-11-12T02:50:40.000Z",
-          "author": "Rafael Shinzo"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 2,
-      "wordCount": 228,
-      "qualityScore": 0.91,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 12,
-        "sourceCount": 1,
-        "ingestMode": "rss-full",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
       "id": "jbox-a1b23317",
       "slug": "mcdonald-s-confirma-nova-colecao-de-pokemon-no-brasil-com-miniaturas-e-cards-jbox-a1b23317",
       "source": "JBox",
@@ -10718,513 +11079,6 @@
         "contentMode": "full",
         "mediaCount": 0,
         "embedCount": 0,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-5d668e86",
-      "slug": "mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3-temporada-jbox-5d668e86",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "‘Mashle: Magia e Músculos’ divulga teaser, pôster e atores da 3ª temporada",
-      "originalTitle": "‘Mashle: Magia e Músculos’ divulga teaser, pôster e atores da 3ª temporada",
-      "summary": "A terceira temporada de Mashle: Magia e Músculos ganhou um novo teaser, um novo pôster promocional e anunciou a entrada dos atores Soma Saito (Tatsumi em Akame ga Kill!) e Ryota Suzuki (Heisuke Mashimo em Sakamoto Days) no elenco de vozes, interpretando os antagonistas Domina Blowelive e Levi Rosequartz. A estreia dos novos episódios está marcada para 9 de janeiro de 2027, com exibição confirmada por aqui pela Crunchyroll.",
-      "author": "Igor Lunei",
-      "tags": [
-        "Anime",
-        "3ª temporada de mashle",
-        "mashle",
-        "Mashle: Magia e Músculos"
-      ],
-      "url": "https://www.jbox.com.br/2026/11/11/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3a-temporada",
-      "sourceUrl": "https://www.jbox.com.br/2026/11/11/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3a-temporada",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-magia-e-musculos-terceira-temporada-destacada.jpg",
-      "mediaQuery": "‘Mashle: Magia e Músculos’ divulga teaser, pôster e atores da 3ª temporada",
-      "mediaType": "anime",
-      "mediaGallery": [
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-season-3-poster.jpg",
-          "alt": "Imagem: pôster da terceira temporada do animê 'Mashle: Magia e Músculos', incluindo vários personagens da série em poses diferentes.",
-          "caption": ""
-        }
-      ],
-      "mediaEmbeds": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube-nocookie.com/embed/4cBRNisl5qA"
-        }
-      ],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A terceira temporada de Mashle: Magia e Músculos ganhou um novo teaser, um novo pôster promocional e anunciou a entrada dos atores Soma Saito (Tatsumi em Akame ga Kill!) e Ryota Suzuki (Heisuke Mashimo em Sakamoto Days) no elenco de vozes, interpretando os antagonistas Domina Blowelive e Levi Rosequartz. A estreia dos novos episódios está marcada para 9 de janeiro de 2027, com exibição confirmada por aqui pela Crunchyroll.",
-          "runs": [
-            {
-              "text": "A terceira temporada de "
-            },
-            {
-              "text": "Mashle: Magia e Músculos",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": " ganhou um novo teaser, um novo pôster promocional e anunciou a entrada dos atores "
-            },
-            {
-              "text": "Soma Saito",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " (Tatsumi em "
-            },
-            {
-              "text": "Akame ga Kill!",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ") e "
-            },
-            {
-              "text": "Ryota Suzuki",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " (Heisuke Mashimo em "
-            },
-            {
-              "text": "Sakamoto Days",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.jbox.com.br/2025/05/19/critica-sakamoto-days-1a-temporada-parte-1/"
-            },
-            {
-              "text": ") no elenco de vozes, interpretando os antagonistas "
-            },
-            {
-              "text": "Domina Blowelive",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Levi Rosequartz",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ". A estreia dos novos episódios está marcada para "
-            },
-            {
-              "text": "9 de janeiro de 2027",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com exibição confirmada por aqui pela "
-            },
-            {
-              "text": "Crunchyroll",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O vídeo mostra Mash e seus companheiros após a aprovação na seleção de candidatos a Visionários Divinos. Agora, eles precisam enfrentar a etapa final do processo, chamada Tri-Magicathalon Divine Visionary Final Exam. A prévia também apresenta Domina e Levi, que aparecem como novos adversários do grupo e protagonizam cenas de combate contra os personagens principais. Já o pôster reúne os estudantes da Escola de Magia Easton, incluindo Mash, e seus novos rivais da Escola de Magia Valquês.",
-          "runs": [
-            {
-              "text": "O vídeo mostra Mash e seus companheiros após a aprovação na seleção de candidatos a Visionários Divinos. Agora, eles precisam enfrentar a etapa final do processo, chamada "
-            },
-            {
-              "text": "Tri-Magicathalon Divine Visionary Final Exam",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ". A prévia também apresenta Domina e Levi, que aparecem como novos adversários do grupo e protagonizam cenas de combate contra os personagens principais. Já o pôster reúne os estudantes da Escola de Magia Easton, incluindo Mash, e seus novos rivais da Escola de Magia Valquês."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Confira o PV e o pôster:",
-          "runs": [
-            {
-              "text": "Confira o PV e o pôster:"
-            }
-          ]
-        },
-        {
-          "type": "video",
-          "provider": "youtube",
-          "url": "https://www.youtube.com/watch?v=4cBRNisl5qA",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/4cBRNisl5qA"
-        },
-        {
-          "type": "image",
-          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/mashle-season-3-poster.jpg",
-          "alt": "Imagem: pôster da terceira temporada do animê 'Mashle: Magia e Músculos', incluindo vários personagens da série em poses diferentes."
-        },
-        {
-          "type": "paragraph",
-          "text": "Imagem: A-1 Pictures/Divulgação",
-          "runs": [
-            {
-              "text": "Imagem: A-1 Pictures/Divulgação"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Em comentários divulgados junto ao anúncio, o ator Soma Saito afirma estar feliz por participar de Mashle como dublador de Domina, personagem que considera atraente. Ele diz que que cada episódio apresenta interações bastante estimulantes entre os personagens. Saito também promete dar o seu melhor para acompanhar a trajetória de Domina na série.",
-          "runs": [
-            {
-              "text": "Em comentários divulgados junto ao anúncio, o ator Soma Saito afirma estar feliz por participar de "
-            },
-            {
-              "text": "Mashle",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " como dublador de Domina, personagem que considera atraente. Ele diz que que cada episódio apresenta interações bastante estimulantes entre os personagens. Saito também promete dar o seu melhor para acompanhar a trajetória de Domina na série."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Já Ryota Suzuki, ator de voz do Levi, comenta que ficou surpreso com o ambiente acolhedor da equipe de gravação, a ponto de quase esquecer que seu personagem só aparece a partir da terceira temporada. Ele descreve Levi como alguém extremamente arrogante, mas que tem força para sustentar suas provocações. Suzuki também afirma que pretende se divertir interpretando o personagem e trabalhar para torná-lo um vilão querido pelo público.",
-          "runs": [
-            {
-              "text": "Já Ryota Suzuki, ator de voz do Levi, comenta que ficou surpreso com o ambiente acolhedor da equipe de gravação, a ponto de quase esquecer que seu personagem só aparece a partir da terceira temporada. Ele descreve Levi como alguém extremamente arrogante, mas que tem força para sustentar suas provocações. Suzuki também afirma que pretende se divertir interpretando o personagem e trabalhar para torná-lo um vilão querido pelo público."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Escrito por Hajime Komoto, o mangá Mashle: Magia e Músculos foi lançado na revista Weekly Shonen Jump, da editora Shueisha, no Japão, entre janeiro de 2020 e julho de 2023, com 18 volumes compilados. Por aqui, a obra saiu pela editora Panini.",
-          "runs": [
-            {
-              "text": "Escrito por "
-            },
-            {
-              "text": "Hajime Komoto",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", o mangá "
-            },
-            {
-              "text": "Mashle: Magia e Músculos",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " foi lançado na revista "
-            },
-            {
-              "text": "Weekly Shonen Jump",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", da editora Shueisha, no Japão, entre janeiro de 2020 e julho de 2023, com 18 volumes compilados. Por aqui, a obra saiu pela editora Panini."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Na trama, em um mundo onde a magia determina o lugar de cada pessoa na sociedade, Mash é um jovem fortão que vive isolado com seu pai adotivo e não possui nenhum poder mágico. Apaixonado por choux cream, um doce popular no Japão, ele acaba descoberto pelas autoridades e precisa entrar em uma renomada escola de magia para se tornar um Visionário, posição que lhe permitiria mudar as regras desse mundo e proteger aqueles que, como ele, nasceram sem magia. Para alcançar seu objetivo, Mash contará com sua força física absurda para enfrentar os desafios de um universo em que todos esperam que ele use magia.",
-          "runs": [
-            {
-              "text": "Na trama, em um mundo onde a magia determina o lugar de cada pessoa na sociedade, Mash é um jovem fortão que vive isolado com seu pai adotivo e não possui nenhum poder mágico. Apaixonado por "
-            },
-            {
-              "text": "choux cream",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", um doce popular no Japão, ele acaba descoberto pelas autoridades e precisa entrar em uma renomada escola de magia para se tornar um Visionário, posição que lhe permitiria mudar as regras desse mundo e proteger aqueles que, como ele, nasceram sem magia. Para alcançar seu objetivo, Mash contará com sua força física absurda para enfrentar os desafios de um universo em que todos esperam que ele use magia."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A primeira temporada do animê estreou em abril de 2023 e teve 12 episódios. A segunda em janeiro de 2024, igualmente com 12 episódios. Ambas foram exibidas simultaneamente por aqui à época, de maneira legendada e com dublagem em português na Crunchyroll. Posteriormente, as duas temporadas entraram no catálogo da Netflix. A produção da terceira temporada segue no estúdio A-1 Pictures, com direção de Tomoya Tanaka, roteiro de Yosuke Kuroda, trilha sonora de Masaru Yokoyama e Chiaki Furuzumi estreando no design de personagens.",
-          "runs": [
-            {
-              "text": "A primeira temporada do animê estreou em abril de 2023 e teve 12 episódios. A segunda em janeiro de 2024, igualmente com 12 episódios. Ambas foram exibidas simultaneamente por aqui à época, de maneira legendada e com dublagem em português na Crunchyroll. Posteriormente, as duas temporadas entraram no catálogo da Netflix. A produção da terceira temporada segue no estúdio "
-            },
-            {
-              "text": "A-1 Pictures",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", com direção de "
-            },
-            {
-              "text": "Tomoya Tanaka",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", roteiro de "
-            },
-            {
-              "text": "Yosuke Kuroda",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", trilha sonora de "
-            },
-            {
-              "text": "Masaru Yokoyama",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Chiaki Furuzumi",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " estreando no design de personagens."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Recentemente, também foi anunciado um live-action de Mashle protagonizado pelo ator Mackenyu (Zoro em One Piece: A Série e o Seiya em Cavaleiros do Zodíaco – Saint Seiya: O Começo) com lançamento marcado para março de 2027 no Japão.",
-          "runs": [
-            {
-              "text": "Recentemente, também"
-            },
-            {
-              "text": " foi anunciado um",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
-            },
-            {
-              "text": " live-action",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
-            },
-            {
-              "text": " de ",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
-            },
-            {
-              "text": "Mashle",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
-            },
-            {
-              "text": " ",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2026/11/04/filme-live-action-de-mashle-magia-e-musculos-e-anunciado/"
-            },
-            {
-              "text": "protagonizado pelo ator "
-            },
-            {
-              "text": "Mackenyu",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " (Zoro em "
-            },
-            {
-              "text": "One Piece: A Série ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "e o Seiya em "
-            },
-            {
-              "text": "Cavaleiros do Zodíaco – Saint Seiya: O Começo",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.jbox.com.br/2023/04/27/critica-cavaleiros-do-zodiaco-o-inicio-nao-leva-a-intensidade-da-serie-as-telonas/"
-            },
-            {
-              "text": ") com lançamento marcado para março de 2027 no Japão."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "▶️ Crítica | Mashle – Volume 1",
-          "runs": [
-            {
-              "text": "▶️ Crítica | Mashle – Volume 1",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://www.jbox.com.br/2022/06/11/mashle-volume-um-panini/"
-            }
-          ],
-          "level": 3
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Comic Natalie.",
-          "runs": [
-            {
-              "text": "Fonte: ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Comic Natalie",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://natalie.mu/comic/news/697639"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "strong"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-11T21:18:32.000Z",
-      "updatedAt": "2026-11-11T21:20:10.000Z",
-      "expiresAt": "2026-11-18T21:18:32.000Z",
-      "category": "Trailers",
-      "eventType": "TRAILER",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/11/11/mashle-magia-e-musculos-divulga-teaser-poster-e-atores-da-3a-temporada",
-          "publishedAt": "2026-11-11T21:18:32.000Z",
-          "author": "Igor Lunei"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 3,
-      "wordCount": 574,
-      "qualityScore": 0.954,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 16,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 1,
-        "embedCount": 1,
         "sourcePagesRead": 0
       }
     }
