@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:55:50.754Z",
+  "generatedAt": "2026-11-19T21:23:52.666Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -60,14 +60,422 @@
     "newStories": 23,
     "fullArticles": 23,
     "previewArticles": 0,
-    "avgWords": 359,
+    "avgWords": 345,
     "withHeroImage": 23,
-    "withOrderedMedia": 21,
+    "withOrderedMedia": 22,
     "skippedTranslation": 0,
     "skippedQuality": 22,
-    "durationMs": 2633
+    "durationMs": 2775
   },
   "items": [
+    {
+      "id": "jbox-1ae9a25d",
+      "slug": "mahjong-soul-ganha-crossover-com-frieren-jbox-1ae9a25d",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "‘Mahjong Soul’ ganha crossover com ‘Frieren’",
+      "originalTitle": "‘Mahjong Soul’ ganha crossover com ‘Frieren’",
+      "summary": "Seguindo a linha do jogo de contar com crossover com várias franquias, foi lançada em Mahjong Soul uma colaboração com Frieren e a Jornada para o Além (Sousou no Frieren). O evento foi iniciado no último dia 17 e vai ficar no ar até o dia 9 de dezembro.",
+      "author": "Teke",
+      "tags": [
+        "Anime",
+        "Games",
+        "Frieren e a Jornada para o Além",
+        "Mahjong Soul",
+        "sousou no frieren"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/19/mahjong-soul-ganha-crossover-com-frieren",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/19/mahjong-soul-ganha-crossover-com-frieren",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/frieren-mahjong-soul-destacada.jpg",
+      "mediaQuery": "‘Mahjong Soul’ ganha crossover com ‘Frieren’",
+      "mediaType": "anime",
+      "mediaGallery": [],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/N01IQYW6YGU"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "Seguindo a linha do jogo de contar com crossover com várias franquias, foi lançada em Mahjong Soul uma colaboração com Frieren e a Jornada para o Além (Sousou no Frieren). O evento foi iniciado no último dia 17 e vai ficar no ar até o dia 9 de dezembro.",
+          "runs": [
+            {
+              "text": "Seguindo a linha do jogo de contar com "
+            },
+            {
+              "text": "crossover",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " com várias franquias, foi lançada em "
+            },
+            {
+              "text": "Mahjong Soul",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": " uma colaboração com "
+            },
+            {
+              "text": "Frieren e a Jornada para o Além",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "Sousou no Frieren",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "). O evento foi iniciado no último dia 17 e vai ficar no ar até o dia 9 de dezembro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Confira o vídeo divulgado para a colaboração:",
+          "runs": [
+            {
+              "text": "Confira o vídeo divulgado para a colaboração:"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=N01IQYW6YGU",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/N01IQYW6YGU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quatro personagens chegam através da parceria, Frieren, Fern, Stark e Übel, com cada um contando com dois visuais especiais para o jogo, sendo um deles limitado. Decorações para a mesa e peças de mahjong também chegam através do evento. Uma história com uma mecânica de síntese de ítens também está disponível como parte da colaboração.",
+          "runs": [
+            {
+              "text": "Quatro personagens chegam através da parceria, "
+            },
+            {
+              "text": "Frieren",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Fern",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Stark",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Übel",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com cada um contando com dois visuais especiais para o jogo, sendo um deles limitado. Decorações para a mesa e peças de mahjong também chegam através do evento. Uma história com uma mecânica de síntese de ítens também está disponível como parte da colaboração."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Mahjong Soul traz o clássico jogo de mesa com um toque do mundo dos animês, contando com os próprios personagens originais, mas também colaborações com franquias como Code Geass, Kakegurui, Akagi, Saki, entre outras. O título está disponível para celulares e PC, tanto através de navegadores quanto programas e aplicativos. Também inspirou um animê de duas temporadas (Mahjong Soul Pon☆ e Mahjong Soul KAN!!) — a Crunchyroll disponibiliza a primeira.",
+          "runs": [
+            {
+              "text": "Mahjong Soul",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " traz o clássico jogo de mesa com um toque do mundo dos animês, contando com os próprios personagens originais, mas também colaborações com franquias como "
+            },
+            {
+              "text": "Code Geass",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Kakegurui",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Akagi",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "Saki",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", entre outras. O título está disponível para celulares e PC, tanto através de navegadores quanto programas e aplicativos. Também inspirou um animê de duas temporadas ("
+            },
+            {
+              "text": "Mahjong Soul Pon☆",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "Mahjong Soul KAN!!",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": ") — a "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.crunchyroll.com/pt-br/series/G1XHJVE9P/mahjong-soul-pon"
+            },
+            {
+              "text": " disponibiliza a primeira."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Frieren e a Jorada para o Além é um mangá em publicação desde 2020, estando em hiato desde o ano passado — a publicação no Brasil é pela Panini. A obra começou a ser adaptada para animê em 2023 pelo estúdio Madhouse, já contando com duas temporadas e uma terceira anunciada para outubro de 2027. A Crunchyroll conta com as duas temporadas com dublagem, com a primeira fase estando disponível também na Netflix e HBO Max. A série ainda ganhou exibição na TV pelo Adult Swim.",
+          "runs": [
+            {
+              "text": "Frieren e a Jorada para o Além",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " é um mangá em publicação desde 2020, estando em hiato desde o ano passado — a publicação no Brasil é pela "
+            },
+            {
+              "text": "Panini",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". A obra começou a ser adaptada para animê em 2023 pelo estúdio "
+            },
+            {
+              "text": "Madhouse",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", já contando com duas temporadas e uma "
+            },
+            {
+              "text": "terceira anunciada para outubro de 2027",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/03/27/frieren-3a-temporada-e-anunciada-para-outubro-de-2027/"
+            },
+            {
+              "text": ". A "
+            },
+            {
+              "text": "Crunchyroll",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.crunchyroll.com/pt-br/series/GG5H5XQX4/frieren-beyond-journeys-end"
+            },
+            {
+              "text": " conta com as duas temporadas com dublagem, com a primeira fase estando disponível também na "
+            },
+            {
+              "text": "Netflix",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.netflix.com/br-en/title/81726714"
+            },
+            {
+              "text": " e "
+            },
+            {
+              "text": "HBO Max",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.hbomax.com/br/pt/show/e9ee4017-9572-447c-8f97-d97acaef6624"
+            },
+            {
+              "text": ". A série ainda ganhou exibição na TV pelo "
+            },
+            {
+              "text": "Adult Swim",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: Mahjong Soul (YouTube)",
+          "runs": [
+            {
+              "text": "Fonte",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ": "
+            },
+            {
+              "text": "Mahjong Soul (YouTube)",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://youtu.be/N01IQYW6YGU"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-19T20:55:18.000Z",
+      "updatedAt": "2026-11-19T20:56:07.000Z",
+      "expiresAt": "2026-11-26T20:55:18.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/19/mahjong-soul-ganha-crossover-com-frieren",
+          "publishedAt": "2026-11-19T20:55:18.000Z",
+          "author": "Teke"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 288,
+      "qualityScore": 0.973,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 9,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 0,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-edf2d979",
       "slug": "novo-trailer-de-sakamoto-days-revela-musica-de-abertura-e-confirma-data-de-estreia-da-2-temporada-jbox-edf2d979",
@@ -6922,7 +7330,7 @@
       "sourceCount": 1,
       "readingMinutes": 2,
       "wordCount": 217,
-      "qualityScore": 0.968,
+      "qualityScore": 0.908,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -7650,7 +8058,7 @@
       "sourceCount": 1,
       "readingMinutes": 3,
       "wordCount": 592,
-      "qualityScore": 1,
+      "qualityScore": 0.956,
       "contentVersion": 2,
       "coverage": {
         "facts": 0,
@@ -10488,618 +10896,6 @@
         "contentMode": "full",
         "mediaCount": 1,
         "embedCount": 1,
-        "sourcePagesRead": 0
-      }
-    },
-    {
-      "id": "jbox-43919745",
-      "slug": "kaqreal-editora-kodansha-lanca-selo-de-mangas-jornalisticos-jbox-43919745",
-      "source": "JBox",
-      "sourceType": "JBOX",
-      "sourceLanguage": "pt-BR",
-      "language": "pt-BR",
-      "title": "Kaqreal: Editora Kodansha lança selo de mangás jornalísticos",
-      "originalTitle": "Kaqreal: Editora Kodansha lança selo de mangás jornalísticos",
-      "summary": "A editora japonesa Kodansha lançou ontem (11) um novo selo de mangás voltado à adaptação de acontecimentos históricos, investigações e reportagens para histórias em quadrinhos ficcionais. Batizado de Kaqreal, o projeto busca atrair leitores adultos que têm se afastado dos livros tradicionais e gibis em favor de conteúdos consumidos por telas.",
-      "author": "Igor Lunei",
-      "tags": [
-        "Mangá",
-        "Kaqreal",
-        "kodansha"
-      ],
-      "url": "https://www.jbox.com.br/2026/11/12/kaqreal-editora-kodansha-lanca-selo-de-mangas-jornalisticos",
-      "sourceUrl": "https://www.jbox.com.br/2026/11/12/kaqreal-editora-kodansha-lanca-selo-de-mangas-jornalisticos",
-      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/kaqreal-destacada.jpg",
-      "mediaQuery": "Kaqreal: Editora Kodansha lança selo de mangás jornalísticos",
-      "mediaType": "manga",
-      "mediaGallery": [],
-      "mediaEmbeds": [],
-      "sourceContent": [
-        {
-          "type": "paragraph",
-          "text": "A editora japonesa Kodansha lançou ontem (11) um novo selo de mangás voltado à adaptação de acontecimentos históricos, investigações e reportagens para histórias em quadrinhos ficcionais. Batizado de Kaqreal, o projeto busca atrair leitores adultos que têm se afastado dos livros tradicionais e gibis em favor de conteúdos consumidos por telas.",
-          "runs": [
-            {
-              "text": "A editora japonesa "
-            },
-            {
-              "text": "Kodansha",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": " lançou ontem (11) um novo selo de mangás voltado à adaptação de acontecimentos históricos, investigações e reportagens para histórias em quadrinhos ficcionais. Batizado de"
-            },
-            {
-              "text": " Kaqreal",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", o projeto busca atrair leitores adultos que têm se afastado dos livros tradicionais e gibis em favor de conteúdos consumidos por telas."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A iniciativa pretende unir a experiência jornalística de publicações da empresa, como as revistas Weekly Gendai e Friday, à sua tradição no mercado de mangás, que inclui obras internacionalmente reconhecidas como Attack on Titan, Akira, Sailor Moon e Blue Lock.",
-          "runs": [
-            {
-              "text": "A iniciativa pretende unir a experiência jornalística de publicações da empresa, como as revistas "
-            },
-            {
-              "text": "Weekly Gendai",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Friday",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": ", à sua tradição no mercado de mangás, que inclui obras internacionalmente reconhecidas como "
-            },
-            {
-              "text": "Attack on Titan",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Akira",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Sailor Moon",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Blue Lock",
-              "marks": [
-                "strong",
-                "em"
-              ]
-            },
-            {
-              "text": "."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Toshihiro Tsuchiya, editor-chefe da Kaqreal, afirma que o selo pretende se conectar com novos leitores por meio das mensagens do jornalismo e da empatia que o mangá proporciona. Ele também comentou sobre o cenário atual e o impacto das novas tecnologias, afirmando que este será o ano das redes sociais e, a partir de 2027, o poder da inteligência artificial será ainda maior. E em meio a tudo isso, eles querem capturar a realidade da sociedade.",
-          "runs": [
-            {
-              "text": "Toshihiro Tsuchiya",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", editor-chefe da Kaqreal, afirma que o selo pretende se conectar com novos leitores por meio das mensagens do jornalismo e da empatia que o mangá proporciona. Ele também comentou sobre o cenário atual e o impacto das novas tecnologias, afirmando que este será o ano das redes sociais e, a partir de 2027, o poder da inteligência artificial será ainda maior. E em meio a tudo isso, eles querem capturar a realidade da sociedade."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O site da Kaqreal, acessível em japonês pelo portal online da Weekly Gendai, reúne títulos originais e mangás já publicados por outros selos da Kodansha. No caso dos títulos já publicados, o site de Kaqreal direciona os leitores às páginas originais das obras quando eles clicam em seus nomes.",
-          "runs": [
-            {
-              "text": "O site da Kaqreal, acessível em japonês pelo "
-            },
-            {
-              "text": "portal online da ",
-              "marks": [
-                "strong"
-              ],
-              "href": "https://gendai.media/kaqreal"
-            },
-            {
-              "text": "Weekly Gendai",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://gendai.media/kaqreal"
-            },
-            {
-              "text": ", reúne títulos originais e mangás já publicados por outros selos da Kodansha. No caso dos títulos já publicados, o site de Kaqreal direciona os leitores às páginas originais das obras quando eles clicam em seus nomes."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O catálogo de novembro já tem 13 obras programadas: Inoki Kyoudai, sobre Antonio Inoki, escrita a partir do livro de seu irmão, Keisuke Inoki; Tokyo Underground, de Itaru Mizuno e Tatsubi; Art no Kizashi, de Daisuke Nishijima; e Watashi no Toushijutsu: Shijou wa Dare ni Hohoemu ka, adaptação em mangá de um livro sobre investimentos de Tatsuro Kiyohara.",
-          "runs": [
-            {
-              "text": "O catálogo de novembro já tem 13 obras programadas: "
-            },
-            {
-              "text": "Inoki Kyoudai",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", sobre Antonio Inoki, escrita a partir do livro de seu irmão, Keisuke Inoki; "
-            },
-            {
-              "text": "Tokyo Underground",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", de Itaru Mizuno e Tatsubi; "
-            },
-            {
-              "text": "Art no Kizashi",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", de Daisuke Nishijima; e "
-            },
-            {
-              "text": "Watashi no Toushijutsu: Shijou wa Dare ni Hohoemu ka",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", adaptação em mangá de um livro sobre investimentos de Tatsuro Kiyohara."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A lista também inclui Tsuresari Fukushi Jigokuhen, que aborda os problemas do sistema de tutela de adultos no Japão, Uchuujin to Deau Mae ni Yomu Hon, sobre a exploração espacial, e Pikorin no Uchū to JAXA Tansa Memo, uma produção original do selo dedicada às atividades da agência espacial japonesa. Outros títulos previstos para o mês são Nankai Trough Kyodai Jishin, Hapusuburukuke no Kareinaru Junan, Hito wa Donoyōni Shinu no ka, Kachou no Yagi-san, Mataide Nanbo e o conto Uchuu Numa e Youkoso!, programado para chegar à plataforma ainda em novembro.",
-          "runs": [
-            {
-              "text": "A lista também inclui "
-            },
-            {
-              "text": "Tsuresari Fukushi Jigokuhen",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", que aborda os problemas do sistema de tutela de adultos no Japão, "
-            },
-            {
-              "text": "Uchuujin to Deau Mae ni Yomu Hon",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", sobre a exploração espacial, e "
-            },
-            {
-              "text": "Pikorin no Uchū to JAXA Tansa Memo",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", uma produção original do selo dedicada às atividades da agência espacial japonesa. Outros títulos previstos para o mês são"
-            },
-            {
-              "text": " Nankai Trough Kyodai Jishin",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Hapusuburukuke no Kareinaru Junan",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Hito wa Donoyōni Shinu no ka",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Kachou no Yagi-san",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Mataide Nanbo",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": " e o conto "
-            },
-            {
-              "text": "Uchuu Numa e Youkoso!",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", programado para chegar à plataforma ainda em novembro."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A Kodansha também confirmou outras cinco obras para o futuro catálogo . Entre elas estão Hazukashii Byouki dewa Arimasen, sobre doenças que não devem ser motivo de vergonha; Shireba Gochisou Shiraneba Michikusa, com histórias do caçador de alimentos silvestres Akira Takemoto; e Sherlock Holmes o Koroshitai, título provisório que apresenta uma história sobre o desejo de Arthur Conan Doyle de matar seu famoso detetive. A lista ainda inclui Shikeishuu no Riyougakari, adaptação de um livro sobre o barbeiro de presos condenados à morte, e Shingeki no Gachuuka, obra sobre a culinária chinesa autêntica no Japão.",
-          "runs": [
-            {
-              "text": "A Kodansha também confirmou outras cinco obras para o futuro catálogo . Entre elas estão "
-            },
-            {
-              "text": "Hazukashii Byouki dewa Arimasen",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", sobre doenças que não devem ser motivo de vergonha; "
-            },
-            {
-              "text": "Shireba Gochisou Shiraneba Michikusa",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", com histórias do caçador de alimentos silvestres Akira Takemoto; e "
-            },
-            {
-              "text": "Sherlock Holmes o Koroshitai",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", título provisório que apresenta uma história sobre o desejo de Arthur Conan Doyle de matar seu famoso detetive. A lista ainda inclui "
-            },
-            {
-              "text": "Shikeishuu no Riyougakari",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", adaptação de um livro sobre o barbeiro de presos condenados à morte, e "
-            },
-            {
-              "text": "Shingeki no Gachuuka",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", obra sobre a culinária chinesa autêntica no Japão."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "O lançamento faz parte dos esforços da Kodansha para expandir suas atividades para além da publicação tradicional e conquistar consumidores em um cenário no qual cada vez mais pessoas trocam o material impresso por conteúdos digitais. O laboratório de inovação da empresa, responsável pelo desenvolvimento do Kaqreal, foi criado para desenvolver projetos criativos envolvendo diferentes departamentos. No início deste ano, o setor também lançou o Thinkpod, uma plataforma de vídeos voltada ao mercado empresarial que reúne especialistas da própria Kodansha, de suas publicações e de outras áreas.",
-          "runs": [
-            {
-              "text": "O lançamento faz parte dos esforços da Kodansha para expandir suas atividades para além da publicação tradicional e conquistar consumidores em um cenário no qual cada vez mais pessoas trocam o material impresso por conteúdos digitais. O laboratório de inovação da empresa, responsável pelo desenvolvimento do Kaqreal, foi criado para desenvolver projetos criativos envolvendo diferentes departamentos. No início deste ano, o setor também lançou o "
-            },
-            {
-              "text": "Thinkpod",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": ", uma plataforma de vídeos voltada ao mercado empresarial que reúne especialistas da própria Kodansha, de suas publicações e de outras áreas."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A editora é responsável por revistas de sucesso com diferentes fatias de público, com as shounen Weekly Shonen Magazine, Montly Shonen Magazine, as seinen Weekly Morning, Good! Afternoon e Evening, as shoujo e josei Nakayoshi, Dessert, Bessatsu Friend, dentre outras.",
-          "runs": [
-            {
-              "text": "A editora é responsável por revistas de sucesso com diferentes fatias de público, com as "
-            },
-            {
-              "text": "shounen ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "Weekly Shonen Magazine",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Montly Shonen Magazine",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", as "
-            },
-            {
-              "text": "seinen ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "Weekly Morning",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Good! Afternoon",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "Evening",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", as "
-            },
-            {
-              "text": "shoujo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " e "
-            },
-            {
-              "text": "josei ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "Nakayoshi",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Dessert",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "Bessatsu Friend",
-              "marks": [
-                "em",
-                "strong"
-              ]
-            },
-            {
-              "text": ", dentre outras."
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonte: Japan Times e Comic Natalie",
-          "runs": [
-            {
-              "text": "Fonte: ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Japan Times",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://www.japantimes.co.jp/culture/2026/11/11/books/kodansha-manga-kaqreal/"
-            },
-            {
-              "text": " e ",
-              "marks": [
-                "strong"
-              ]
-            },
-            {
-              "text": "Comic Natalie",
-              "marks": [
-                "strong",
-                "em"
-              ],
-              "href": "https://natalie.mu/comic/news/697496"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
-          "runs": [
-            {
-              "text": "Siga e acompanhe as notícias do JBox também pelo",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": " Google News",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
-            },
-            {
-              "text": " e em nosso ",
-              "marks": [
-                "em"
-              ]
-            },
-            {
-              "text": "grupo no Telegram",
-              "marks": [
-                "em",
-                "strong"
-              ],
-              "href": "https://l.jbox.com.br/telegram"
-            },
-            {
-              "text": ".",
-              "marks": [
-                "em"
-              ]
-            }
-          ]
-        }
-      ],
-      "contentMode": "full",
-      "publishedAt": "2026-11-12T18:55:12.000Z",
-      "updatedAt": "2026-11-12T18:59:04.000Z",
-      "expiresAt": "2026-11-19T18:55:12.000Z",
-      "category": "Mangás & novels",
-      "eventType": "MANGA",
-      "facts": [],
-      "contentSections": [],
-      "sources": [
-        {
-          "name": "JBox",
-          "url": "https://www.jbox.com.br/2026/11/12/kaqreal-editora-kodansha-lanca-selo-de-mangas-jornalisticos",
-          "publishedAt": "2026-11-12T18:55:12.000Z",
-          "author": "Igor Lunei"
-        }
-      ],
-      "sourceCount": 1,
-      "readingMinutes": 3,
-      "wordCount": 610,
-      "qualityScore": 0.953,
-      "contentVersion": 2,
-      "coverage": {
-        "facts": 0,
-        "sections": 0,
-        "blocks": 12,
-        "sourceCount": 1,
-        "ingestMode": "wp-rest",
-        "contentMode": "full",
-        "mediaCount": 0,
-        "embedCount": 0,
         "sourcePagesRead": 0
       }
     }
