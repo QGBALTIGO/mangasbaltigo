@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:25:00.737Z",
+  "generatedAt": "2026-11-20T18:46:35.002Z",
   "retentionDays": 7,
   "staleGraceDays": 14,
   "language": "pt-BR",
@@ -55,19 +55,407 @@
   ],
   "stats": {
     "collected": 45,
-    "grouped": 20,
-    "published": 20,
-    "newStories": 20,
-    "fullArticles": 20,
+    "grouped": 21,
+    "published": 21,
+    "newStories": 21,
+    "fullArticles": 21,
     "previewArticles": 0,
-    "avgWords": 354,
-    "withHeroImage": 20,
-    "withOrderedMedia": 19,
+    "avgWords": 353,
+    "withHeroImage": 21,
+    "withOrderedMedia": 20,
     "skippedTranslation": 0,
-    "skippedQuality": 25,
-    "durationMs": 3027
+    "skippedQuality": 24,
+    "durationMs": 2804
   },
   "items": [
+    {
+      "id": "jbox-f6de4b23",
+      "slug": "filme-live-action-de-mashle-magia-e-musculos-ganha-poster-com-mash-comendo-um-choux-cream-jbox-f6de4b23",
+      "source": "JBox",
+      "sourceType": "JBOX",
+      "sourceLanguage": "pt-BR",
+      "language": "pt-BR",
+      "title": "Filme live-action de ‘Mashle: Magia e Músculos’ ganha pôster com Mash comendo um choux cream",
+      "originalTitle": "Filme live-action de ‘Mashle: Magia e Músculos’ ganha pôster com Mash comendo um choux cream",
+      "summary": "O filme live-action de Mashle: Magia e Músculos ganhou um novo pôster, que mostra o protagonista Mash Burnedead comendo o famoso choux cream (ou profiterole, na dublagem do animê, embora não seja exatamente o mesmo doce).",
+      "author": "Cakes Sousa",
+      "tags": [
+        "Cinema",
+        "Live Action",
+        "Mangá",
+        "filme de mashle",
+        "live-action de mashle",
+        "mackenyu",
+        "mashle",
+        "Mashle: Magia e Músculos"
+      ],
+      "url": "https://www.jbox.com.br/2026/11/20/filme-live-action-de-mashle-magia-e-musculos-ganha-poster-com-mash-comendo-um-choux-cream",
+      "sourceUrl": "https://www.jbox.com.br/2026/11/20/filme-live-action-de-mashle-magia-e-musculos-ganha-poster-com-mash-comendo-um-choux-cream",
+      "image": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Mashle-live-action-destacada.jpg",
+      "mediaQuery": "Filme live-action de ‘Mashle: Magia e Músculos’ ganha pôster com Mash comendo um choux cream",
+      "mediaType": "anime",
+      "mediaGallery": [
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Mashle-live-action-poster-scaled.jpeg",
+          "alt": "Pôster do live-action de Mashle: Magia e Músculos",
+          "caption": ""
+        }
+      ],
+      "mediaEmbeds": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube-nocookie.com/embed/lXbeeEDLruc"
+        }
+      ],
+      "sourceContent": [
+        {
+          "type": "paragraph",
+          "text": "O filme live-action de Mashle: Magia e Músculos ganhou um novo pôster, que mostra o protagonista Mash Burnedead comendo o famoso choux cream (ou profiterole, na dublagem do animê, embora não seja exatamente o mesmo doce).",
+          "runs": [
+            {
+              "text": "O filme live-action de "
+            },
+            {
+              "text": "Mashle: Magia e Músculos",
+              "marks": [
+                "strong",
+                "em"
+              ]
+            },
+            {
+              "text": " ganhou um novo pôster, que mostra o protagonista Mash Burnedead comendo o famoso "
+            },
+            {
+              "text": "choux cream",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " (ou profiterole, na dublagem do animê, embora não seja exatamente o mesmo doce)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Além de replicar o gosto culinário do protagonista da história, a imagem também mostra um pouco mais da caracterização de Mackenyu (Zoro em One Piece: A Série) como o personagem e detalhes do uniforme escolar do filme.",
+          "runs": [
+            {
+              "text": "Além de replicar o gosto culinário do protagonista da história, a imagem também mostra um pouco mais da caracterização de "
+            },
+            {
+              "text": "Mackenyu",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (Zoro em "
+            },
+            {
+              "text": "One Piece: A Série",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") como o personagem e detalhes do uniforme escolar do filme."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://www.jbox.com.br/wp/wp-content/uploads/2026/11/Mashle-live-action-poster-scaled.jpeg",
+          "alt": "Pôster do live-action de Mashle: Magia e Músculos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pôster do live-action de Mashle: Magia e Músculos | Divulgação",
+          "runs": [
+            {
+              "text": "Pôster do live-action de Mashle: Magia e Músculos | Divulgação"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Mashle: Magia e Músculos é um mangá de Hajime Komoto, lançado na revista Weekly Shonen Jump, da editora Shueisha, no Japão, entre janeiro de 2020 e julho de 2023, com 18 volumes compilados. Por aqui, a obra saiu pela editora Panini.",
+          "runs": [
+            {
+              "text": "Mashle: Magia e Músculos",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " é um mangá de "
+            },
+            {
+              "text": "Hajime Komoto",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", lançado na revista "
+            },
+            {
+              "text": "Weekly Shonen Jump",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ", da editora "
+            },
+            {
+              "text": "Shueisha",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", no Japão, entre janeiro de 2020 e julho de 2023, com 18 volumes compilados. Por aqui, a obra saiu pela editora "
+            },
+            {
+              "text": "Panini",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Na trama, em um mundo onde a magia determina o lugar de cada pessoa na sociedade, Mash é um jovem fortão que vive isolado com seu pai adotivo e não possui nenhum poder mágico. Apaixonado por choux cream, um doce popular no Japão, ele acaba descoberto pelas autoridades e precisa entrar em uma renomada escola de magia para se tornar um Visionário, posição que lhe permitiria mudar as regras desse mundo e proteger aqueles que, como ele, nasceram sem magia. Para alcançar seu objetivo, Mash contará com sua força física absurda para enfrentar os desafios de um universo em que todos esperam que ele use magia.",
+          "runs": [
+            {
+              "text": "Na trama, em um mundo onde a magia determina o lugar de cada pessoa na sociedade, Mash é um jovem fortão que vive isolado com seu pai adotivo e não possui nenhum poder mágico. Apaixonado por choux cream, um doce popular no Japão, ele acaba descoberto pelas autoridades e precisa entrar em uma renomada escola de magia para se tornar um Visionário, posição que lhe permitiria mudar as regras desse mundo e proteger aqueles que, como ele, nasceram sem magia. Para alcançar seu objetivo, Mash contará com sua força física absurda para enfrentar os desafios de um universo em que todos esperam que ele use magia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O filme live-action é produzido pela CREDEUS, com distribuição da TOHO, e supervisão da Warner Bros. e da Fuji TV. Yuichi Fukuda (do recente live-action de Sakamoto Days) assina roteiro e direção da produção, que estreia em 19 de março de 2027 no Japão — ainda sem data confirmada no Brasil.",
+          "runs": [
+            {
+              "text": "O filme live-action é produzido pela "
+            },
+            {
+              "text": "CREDEUS",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", com distribuição da "
+            },
+            {
+              "text": "TOHO",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ", e supervisão da"
+            },
+            {
+              "text": " Warner Bros.",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " e da "
+            },
+            {
+              "text": "Fuji TV",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": ". "
+            },
+            {
+              "text": "Yuichi Fukuda",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " (do recente live-action de "
+            },
+            {
+              "text": "Sakamoto Days",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": ") assina roteiro e direção da produção, que estreia em "
+            },
+            {
+              "text": "19 de março de 2027",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " no Japão — ainda sem data confirmada no Brasil."
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/watch?v=lXbeeEDLruc",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/lXbeeEDLruc"
+        },
+        {
+          "type": "paragraph",
+          "text": "Recentemente, foi também anunciada a terceira temporada da adaptação em animê, com estreia marcada para janeiro do ano que vem.",
+          "runs": [
+            {
+              "text": "Recentemente, foi também "
+            },
+            {
+              "text": "anunciada a terceira temporada da adaptação em animê",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2026/10/29/3a-temporada-de-mashle-magia-e-musculos-estreia-em-janeiro-de-2027/"
+            },
+            {
+              "text": ", com estreia marcada para janeiro do ano que vem."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "▶️ Crítica | Mashle – Volume 1",
+          "runs": [
+            {
+              "text": "▶️ Crítica | Mashle – Volume 1",
+              "marks": [
+                "strong"
+              ],
+              "href": "https://www.jbox.com.br/2022/06/11/mashle-volume-um-panini/"
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonte: X/Twitter do filme",
+          "runs": [
+            {
+              "text": "Fonte:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "X/Twitter do filme",
+              "marks": [
+                "strong",
+                "em"
+              ],
+              "href": "https://x.com/mashlemovie"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Siga e acompanhe as notícias do JBox também pelo Google News e em nosso grupo no Telegram.",
+          "runs": [
+            {
+              "text": "Siga e acompanhe as notícias do JBox também pelo",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": " ",
+              "marks": [
+                "em",
+                "strong"
+              ]
+            },
+            {
+              "text": "Google News",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://news.google.com/publications/CAAqBwgKMNi2oQsw8MC5Aw?ceid=BR:pt-419&oc=3"
+            },
+            {
+              "text": " e em nosso ",
+              "marks": [
+                "em"
+              ]
+            },
+            {
+              "text": "grupo no Telegram",
+              "marks": [
+                "em",
+                "strong"
+              ],
+              "href": "https://l.jbox.com.br/telegram"
+            },
+            {
+              "text": ".",
+              "marks": [
+                "em"
+              ]
+            }
+          ]
+        }
+      ],
+      "contentMode": "full",
+      "publishedAt": "2026-11-20T17:58:13.000Z",
+      "updatedAt": "2026-11-20T18:05:28.000Z",
+      "expiresAt": "2026-11-27T17:58:13.000Z",
+      "category": "Notícias",
+      "eventType": "OTHER",
+      "facts": [],
+      "contentSections": [],
+      "sources": [
+        {
+          "name": "JBox",
+          "url": "https://www.jbox.com.br/2026/11/20/filme-live-action-de-mashle-magia-e-musculos-ganha-poster-com-mash-comendo-um-choux-cream",
+          "publishedAt": "2026-11-20T17:58:13.000Z",
+          "author": "Cakes Sousa"
+        }
+      ],
+      "sourceCount": 1,
+      "readingMinutes": 2,
+      "wordCount": 329,
+      "qualityScore": 0.983,
+      "contentVersion": 2,
+      "coverage": {
+        "facts": 0,
+        "sections": 0,
+        "blocks": 13,
+        "sourceCount": 1,
+        "ingestMode": "wp-rest",
+        "contentMode": "full",
+        "mediaCount": 1,
+        "embedCount": 1,
+        "sourcePagesRead": 0
+      }
+    },
     {
       "id": "jbox-95c4c1d5",
       "slug": "gta-6-japones-remove-nudez-e-reduz-violencia-em-versao-censurada-jbox-95c4c1d5",
