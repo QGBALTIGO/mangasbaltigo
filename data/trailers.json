@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-11-22T21:58:47.142Z",
+  "generatedAt": "2026-11-23T02:32:52.178Z",
   "source": "AniNexus Noticias",
   "freshnessWindowDays": 21,
-  "total": 3,
+  "total": 6,
   "items": [
+    {
+      "id": "X6R__ZiTM2Y",
+      "videoId": "X6R__ZiTM2Y",
+      "title": "Bride of the Barrier Master estreia em janeiro com especial de 1 hora",
+      "articleTitle": "Bride of the Barrier Master estreia em janeiro com especial de 1 hora",
+      "kind": "TRAILER",
+      "publishedAt": "2026-11-23T01:40:38.000Z",
+      "source": "AnimeNew",
+      "articlePath": "/noticias/bride-of-the-barrier-master-estreia-em-janeiro-com-especial-de-1-hora-animenew-587612f1",
+      "thumbnail": "https://i.ytimg.com/vi/X6R__ZiTM2Y/maxresdefault.jpg",
+      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Bride-of-the-Barrier-Master-estreia-em-janeiro-com-especial-de-1-hora.webp"
+    },
+    {
+      "id": "pLuS4_5FziQ",
+      "videoId": "pLuS4_5FziQ",
+      "title": "Anime de Pen to Wappa ganha data para janeiro de 2027",
+      "articleTitle": "Anime de Pen to Wappa ganha data para janeiro de 2027",
+      "kind": "TRAILER",
+      "publishedAt": "2026-11-22T22:31:59.000Z",
+      "source": "AnimeNew",
+      "articlePath": "/noticias/anime-de-pen-to-wappa-ganha-data-para-janeiro-de-2027-animenew-960de13c",
+      "thumbnail": "https://i.ytimg.com/vi/pLuS4_5FziQ/maxresdefault.jpg",
+      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/11/Anime-de-Pen-to-Wappa-ganha-data-para-janeiro-de-2027.webp"
+    },
+    {
+      "id": "pNe2xybVZVQ",
+      "videoId": "pNe2xybVZVQ",
+      "title": "I Lost My Adventurer’s License estreia dia 7 de janeiro",
+      "articleTitle": "I Lost My Adventurer’s License estreia dia 7 de janeiro",
+      "kind": "PV",
+      "publishedAt": "2026-11-22T22:17:51.000Z",
+      "source": "AnimeNew",
+      "articlePath": "/noticias/i-lost-my-adventurer-s-license-estreia-dia-7-de-janeiro-animenew-7f79c8f3",
+      "thumbnail": "https://i.ytimg.com/vi/pNe2xybVZVQ/maxresdefault.jpg",
+      "fallbackImage": "https://wp.animenew.com.br/wp-content/uploads/2026/11/I-Lost-My-Adventurers-License-estreia-dia-7-de-janeiro.webp"
+    },
     {
       "id": "l0jhSyImrVs",
       "videoId": "l0jhSyImrVs",
